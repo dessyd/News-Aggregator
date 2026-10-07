@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-07",
+  "date_fr": "mercredi 7 octobre 2026",
+  "generated_at": "2026-10-07T15:38:49+00:00",
+  "chapeau": "",
+  "topics": [],
+  "breves": [],
+  "stats": {
+    "articles": 134,
+    "sujets": 0,
+    "sources": 6,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "claude-haiku-4-5",
+      "stage2": "claude-sonnet-4-5",
+      "stage3": "claude-sonnet-4-5",
+      "stage4": "claude-sonnet-4-5"
+    },
+    "prompts": "d40c9b52",
+    "usage": {}
+  },
+  "warnings": [
+    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KtSzUx38Evdk2vUZz])",
+    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KthNpHDKyJK5aKnj2])",
+    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KtxkUNat5spYbxNrd])",
+    "Étape 1 : un lot de 9 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KuDtDxqVNYcdqrNZG])",
+    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KuT2UvhxdQgY3y4v2])",
+    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8Kugv2jitRh9soxjiq])",
+    "Étape 1 : 134 article(s) sans résumé du modèle (repli sur l'extrait)",
+    "Étape 2 : regroupement impossible (Token exchange failed (HTTP 400): {'error': {'message': 'service_account_id is not a well-formed svac_ tagged ID', 'reason': '', 'type': 'invalid_request_error'}} [request_id=req_011Cfo8KuuohuTU6GFRWaQwL]) ; repli sur les articles d'importance ≥ 4"
+  ]
+}
