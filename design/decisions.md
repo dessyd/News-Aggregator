@@ -59,9 +59,9 @@ structurante, la plus récente en bas).
 - **Conséquences** : les workflows déclarent `id-token: write`, récupèrent le jeton (audience `https://api.anthropic.com`), l'écrivent
   dans un fichier (`ANTHROPIC_IDENTITY_TOKEN_FILE`) et lisent les identifiants dans des variables de dépôt `vars.ANTHROPIC_*`
   (ce ne sont pas des secrets). Aucun `ANTHROPIC_API_KEY` dans les workflows : il aurait priorité sur la fédération.
-  SDK `anthropic>=0.99` (fédération depuis 0.98, ciblage d'un workspace depuis 0.99). Le jeton OIDC est obtenu une seule fois
-  au début du job ; un job très long pourrait voir l'échange échouer si le SDK doit renouveler son jeton d'accès après
-  l'expiration du jeton GitHub (jobs actuels limités à 20 min). La règle de fédération (Console) ne doit pas
+  SDK `anthropic>=0.99` (fédération depuis 0.98, ciblage d'un workspace depuis 0.99). Le jeton OIDC de GitHub expire après 5 min (non réglable) alors
+  que le jeton d'accès Anthropic vit 10 min : `.github/scripts/jeton-oidc.sh` réécrit le fichier toutes les 4 min en arrière-plan
+  (le SDK relit le fichier à chaque échange). La règle de fédération (Console) ne doit pas
   imposer `event_name` : le cron produit `schedule`, les lancements manuels `workflow_dispatch` (rejet `match_claim_value_mismatch`
   sinon) ; le préfixe de sujet et `repository`/`ref` suffisent. Les variables `vars.*` ne doivent contenir ni retour chariot
   ni espace final. L'usage local reste possible avec une clé API.
