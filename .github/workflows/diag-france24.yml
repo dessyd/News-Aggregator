@@ -7,22 +7,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: pip install -q feedparser
-      - name: Lire le flux 8 fois
+      - name: Lire le flux comme le fait le projet (feedparser, 12 fois)
+        run: |
+          python3 - <<'PY'
+          import time, feedparser
+          UA = "revue-de-presse/1.0 (projet pedagogique)"
+          for i in range(1, 13):
+              f = feedparser.parse("https://www.france24.com/fr/rss", agent=UA)
+              h = getattr(f, "headers", {}) or {}
+              print(f"essai {i}: status={getattr(f,'status',None)} entries={len(f.entries)} bozo={f.bozo} "
+                    f"enc={h.get('content-encoding')} len={h.get('content-length')} type={h.get('content-type')} "
+                    f"exc={repr(getattr(f,'bozo_exception',None))[:100]}")
+              time.sleep(2)
+          PY
+      - name: Mêmes en-têtes que feedparser avec curl (A-IM, gzip), 8 fois
         run: |
           UA="revue-de-presse/1.0 (projet pedagogique)"
           for i in 1 2 3 4 5 6 7 8; do
-            curl -sS -A "$UA" -D h.$i -o b.$i https://www.france24.com/fr/rss || echo "curl a échoué"
-            echo "=== essai $i : $(head -1 h.$i | tr -d '\r') | $(wc -c < b.$i) octets | $(grep -i '^content-type' h.$i | tr -d '\r') | $(grep -i '^content-encoding\|^transfer-encoding' h.$i | tr -d '\r' | tr '\n' ' ')"
-            python3 - "$i" <<'PY'
-          import sys, feedparser
-          i = sys.argv[1]
-          f = feedparser.parse(f"b.{i}")
-          print("   entries:", len(f.entries), "| bozo:", f.bozo, "|", repr(getattr(f, "bozo_exception", None))[:120])
-          if not f.entries:
-              raw = open(f"b.{i}", "rb").read()
-              print("   début:", raw[:200])
-              l2 = raw.split(b"\n")[1] if raw.count(b"\n") > 0 else b""
-              print("   ligne 2, octets 400-440:", l2[400:440])
-          PY
-            sleep 3
+            curl -sS -A "$UA" -H "A-IM: feed" -H "Accept-Encoding: gzip, deflate" -D h.$i -o b.$i https://www.france24.com/fr/rss
+            echo "essai $i: $(head -1 h.$i | tr -d '\r') | $(wc -c < b.$i) octets | $(grep -i '^content-encoding\|^im:\|^x-cache' h.$i | tr -d '\r' | tr '\n' ' ')"
+            (gzip -dc < b.$i 2>/dev/null || cat b.$i) | python3 -c "
+          import sys, xml.dom.minidom
+          try: xml.dom.minidom.parseString(sys.stdin.buffer.read()); print('   xml ok')
+          except Exception as e: print('   XML KO:', e)"
+            sleep 2
           done
