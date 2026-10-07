@@ -1,13 +1,477 @@
 {
   "date": "2026-10-07",
   "date_fr": "mercredi 7 octobre 2026",
-  "generated_at": "2026-10-07T15:44:16+00:00",
-  "chapeau": "",
-  "topics": [],
-  "breves": [],
+  "generated_at": "2026-10-07T15:52:50+00:00",
+  "chapeau": "L'armée malienne a repris la ville de Kidal sans combat, moins de six mois après l'avoir perdue. En France, la mobilisation lycéenne se poursuit après qu'un adolescent de 15 ans a eu la main arrachée à Lens, poussant le gouvernement à suspendre l'usage des grenades assourdissantes. Le prix Nobel de chimie a été attribué au Français Henri Kagan et au Japonais Kenso Soai pour leurs travaux sur la synthèse organique asymétrique.",
+  "topics": [
+    {
+      "titre": "Mouvement lycéen en France : tensions persistantes après la mutilation d'un adolescent",
+      "texte": "La mobilisation lycéenne se poursuit en France avec des blocages maintenus malgré des reprises partielles des cours. La colère reste vive après qu'un adolescent de 15 ans a eu la main arrachée à Lens, selon franceinfo. En réponse, le ministre de l'Intérieur a annoncé la suspension des grenades assourdissantes lors des mobilisations lycéennes. Laurent Nuñez, auditionné mercredi par la commission des lois de l'Assemblée nationale, affirme qu'« il n'y a pas d'intervention des forces de l'ordre lorsqu'on manifeste de façon pacifique ». Toutefois, une voiture de police banalisée a foncé vers des lycéens en manifestation lundi à Bourgoin-Jallieu, sans sirène ni signal lumineux, rapporte franceinfo. Le mouvement s'étend : le campus de Sciences Po à Paris est bloqué par des étudiants solidaires. Plusieurs syndicats de l'Éducation nationale appellent à faire grève et manifester jeudi. Selon le ministère de l'Intérieur, 266 000 manifestants ont défilé mardi, contre 450 000 selon les organisateurs. Le Premier ministre Sébastien Lecornu doit s'exprimer mercredi soir dans ce contexte explosif.",
+      "rubrique": "Société",
+      "ids_sources": [
+        "afa927a70",
+        "a12a31d02",
+        "aaf5051cc",
+        "aa0879146",
+        "a48038bea",
+        "a2093d391",
+        "a191348df"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "Mouvement lycéen : entre reprise des cours et blocages",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mouvement-lyc%C3%A9en-entre-reprise-des-cours-et-blocages"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"Ils sont dans le bla-bla, plutôt que dans l'action\" : à Lens, la colère des lycéens ne retombe pas après que l'un d'eux a eu la main arrachée",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"Nous serons là en 2027 et nous irons voter\" : devant Sciences Po, des étudiants se joignent à la colère des lycéens",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-nous-serons-la-en-2027-et-nous-irons-voter-devant-sciences-po-des-etudiants-se-joignent-a-la-colere-des-lyceens_8226799.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"On n'a pas toutes les cartes en main\" : pourquoi le gouvernement peine à trouver la solution face à la mobilisation lycéenne",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "Mobilisation des lycéens : \"Il n'y a pas d'intervention des forces de l'ordre lorsqu'on manifeste de façon pacifique\", assure le ministre de l'Intérieur",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-blocages-doivent-reprendre-mercredi-matin-au-lendemain-de-la-grande-journee-de-manifestations_8226211.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "Une voiture de police banalisée a foncé vers des lycéens en train de manifester lundi à Bourgoin-Jallieu, en Isère",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-voiture-de-police-banalisee-fonce-vers-des-lyceens-en-train-de-manifester-a-bourgoin-jallieu-en-isere_8226889.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "En soutien aux lycéens, plusieurs syndicats de l'Education nationale appellent à faire grève et manifester jeudi",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/en-soutien-a-la-mobilisation-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-faire-greve-et-manifester-jeudi_8226832.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 44,
+      "nb_articles": 14
+    },
+    {
+      "titre": "Suspension des grenades assourdissantes après l'amputation d'un lycéen à Lens",
+      "texte": "L'usage des grenades assourdissantes a été suspendu « pour le mouvement lycéen », a annoncé mercredi le ministre Laurent Nuñez, après qu'un manifestant de 15 ans a eu la main arrachée à Lens. Selon franceinfo, cette décision répond à une demande d'Emmanuel Macron. Le directeur général de la Police nationale précise que la suspension durera « le temps que les circonstances de la blessure du jeune homme soient établies ». Une vidéo, qui n'est pas encore en possession de l'IGPN chargée des investigations, montre l'adolescent se pencher vers la grenade assourdissante avant sa blessure, d'après franceinfo.",
+      "rubrique": "Société",
+      "ids_sources": [
+        "a83cd890b",
+        "af9af9838",
+        "abe4a0069"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Adolescent amputé d'une main à Lens : une vidéo montre la victime se pencher vers la grenade assourdissante",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-adolescent-ampute-d-une-main-a-lens-une-video-montre-la-victime-se-pencher-vers-la-grenade-assourdissante_8227006.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez était une demande d'Emmanuel Macron",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "L'utilisation des grenades assourdissantes suspendue : quatre questions sur ces armes utilisées par les forces de l'ordre lors des manifestations",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-utilisation-des-grenades-assourdissantes-suspendue-quatre-questions-sur-ces-armes-utilisees-par-les-forces-de-l-ordre-lors-des-manifestations_8226766.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés à plus de 17 000 femmes",
+      "texte": "La justice a ordonné la fermeture d'une plateforme qui commercialisait des images intimes volées à plus de 17 000 femmes, dont des mineures. Deux frères âgés de 21 et 25 ans, soupçonnés d'en être les administrateurs, ont été arrêtés dans le nord de la France, selon Le Monde. Les enquêteurs ont saisi près de 700 000 euros en cryptomonnaies lors de l'opération. D'après le parquet cité par franceinfo, les utilisateurs du site étaient incités, contre récompense en monnaie virtuelle, à fournir des informations d'identification de chaque victime.",
+      "rubrique": "Société",
+      "ids_sources": [
+        "a2978ac11",
+        "aefe201e1"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Contenus intimes volés : la justice fait fermer une plateforme vendant les images de plus de 17 000 femmes, dont des mineures",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/07/contenus-intimes-voles-la-justice-fait-fermer-une-plateforme-vendant-les-images-de-plus-de-17-000-femmes-dont-des-mineures_6789617_3224.html"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "Deux personnes interpellées en France, soupçonnées d'administrer une plateforme vendant des contenus intimes volés à plus de 17 000 femmes",
+          "url": "https://www.franceinfo.fr/societe/justice/deux-personnes-interpellees-en-france-soupconnees-d-administrer-une-plateforme-vendant-des-contenus-intimes-voles-a-plus-de-17-000-femmes_8226976.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Écrits antisémites attribués à Jordan Bardella",
+      "texte": "Jordan Bardella, président du Rassemblement national, est dans la tourmente depuis la publication fin septembre par Mediapart de messages antisémites remontant à 2013, dont le site d'investigation assure avoir pu vérifier l'authenticité. Selon Le Monde, Jordan Bardella conteste l'enquête du site d'information, mais plusieurs de ses arguments se heurtent aux faits. Malgré la polémique, Marine Le Pen maintient sa confiance en Jordan Bardella, selon franceinfo.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "a426d86a5",
+        "a6366205b"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Marine Le Pen \"maintient à 1 000% sa confiance en Jordan Bardella\", après la divulgation par Mediapart d'écrits antisémites attribués au président du RN",
+          "url": "https://www.franceinfo.fr/politique/front-national/marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-apres-la-divulgation-par-mediapart-d-ecrits-antisemites-attribues-au-president-du-rn_8226883.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "Le Monde",
+          "titre": "Ecrits antisémites : les contre-vérités de Jordan Bardella pour se défendre contre l’enquête de « Mediapart »",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/07/ecrits-antisemites-les-contre-verites-de-jordan-bardella-pour-se-defendre-contre-l-enquete-de-mediapart_6789593_4355770.html"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Prix Nobel de chimie 2026 décerné à Henri Kagan et Kenso Soai",
+      "texte": "Le prix Nobel de chimie 2026 a été attribué au Français Henri Kagan et au Japonais Kenso Soai, a annoncé le comité Nobel réuni à Stockholm mercredi 7 octobre, selon RFI. Les deux scientifiques sont récompensés « pour la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique », d'après franceinfo. Selon la BBC, ces travaux ont permis de résoudre le mystère de l'asymétrie de la vie. Franceinfo précise que leurs recherches portent sur les réactions moléculaires utilisées notamment en pharmacologie.",
+      "rubrique": "Sciences & Tech",
+      "ids_sources": [
+        "a2b4add7b",
+        "a04e36af7",
+        "aeac1e25d"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "Le prix Nobel de chimie 2026 décerné au Français Henri Kagan et au Japonais Kenso Soai pour leurs travaux sur les réactions moléculaires utilisées notamment en pharmacologie",
+          "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-chimie-2026-decerne-au-francais-henri-kagan-et-au-japonais-kenso-soai-pour-leurs-travaux-sur-les-reactions-moleculaires-utilisees-notamment-en-pharmacologie_8226604.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RFI",
+          "titre": "Le prix Nobel de chimie décerné au Français Henri Kagan et au Japonais Kenso Soai",
+          "url": "https://www.rfi.fr/fr/science/20261007-le-prix-nobel-de-chimie-d%C3%A9cern%C3%A9-au-fran%C3%A7ais-henri-kagan-et-au-japonais-kenso-soai"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "L'armée malienne reprend Kidal sans combat, six mois après l'avoir perdue",
+      "texte": "L'armée malienne, appuyée par les forces russes d'Africa Corps, a repris le 6 octobre la ville stratégique de Kidal, dans le nord du pays, selon France 24 et RFI. Cette reconquête intervient moins de six mois après la perte de la ville en avril dernier, lorsque les rebelles touaregs du Front de libération de l'Azawad (FLA) en avaient pris le contrôle lors d'une offensive menée conjointement avec les jihadistes du Groupe de soutien à l'islam et aux musulmans (GSIM), lié à al-Qaïda, rapporte France 24. Les combattants du FLA ont confirmé s'être repliés avant l'arrivée des forces gouvernementales, qui sont entrées dans la ville sans combat mardi midi, précise RFI. Cette victoire de prestige consolide la position des autorités de transition au pouvoir, selon RFI, bien que Bakary Sambe, directeur du Timbuktu Institute, souligne que « l'armée a récupéré un territoire, elle n'a pas battu son adversaire », ce qui ne signifie pas la fin de la guerre.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a0d71c4aa",
+        "a269699a1",
+        "ae3f3fc99",
+        "a2a109b06"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "Mali : l'armée de retour à Kidal",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal"
+        },
+        {
+          "source": "France 24",
+          "titre": "Les dessous de la reprise de Kidal sans combats par l'armée malienne",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-les-secrets-de-la-reprise-de-kidal-sans-combats"
+        },
+        {
+          "source": "RFI",
+          "titre": "Au Mali, la reprise de Kidal «consolide» la Transition",
+          "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition"
+        },
+        {
+          "source": "RFI",
+          "titre": "Mali: à Kidal, «l'armée a récupéré un territoire, elle n'a pas battu son adversaire»",
+          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261007-mali-%C3%A0-kidal-l-arm%C3%A9e-a-r%C3%A9cup%C3%A9r%C3%A9-un-territoire-elle-n-a-pas-battu-son-adversaire"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Guerre à Gaza : frappes israéliennes malgré le cessez-le-feu",
+      "texte": "Les frappes israéliennes se poursuivent à Gaza malgré le cessez-le-feu annoncé en octobre 2025, rapporte France 24. En trois ans de conflit, plus de 73 000 Palestiniens ont été tués, selon les autorités sanitaires de Gaza. La population reste confrontée à une catastrophe humanitaire marquée par des déplacements répétés, des destructions massives et des difficultés d'accès à l'aide. Parallèlement, un humanitaire français a annoncé son retrait après six missions à Gaza en un an et demi, dénonçant selon franceinfo des réactions « tièdes » de la communauté internationale et une famine « qui n'aurait jamais dû arriver ».",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ae0d2a93c",
+        "ae880c78c"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "À Gaza, les frappes israéliennes se poursuivent malgré le cessez-le-feu annoncé",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-%C3%A0-gaza-les-frappes-isra%C3%A9liennes-se-poursuivent-malgr%C3%A9-le-cessez-le-feu-annonc%C3%A9"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"On n'en sort pas indemne\" : dégoûté par l'inaction internationale à Gaza, un humanitaire français jette l'éponge",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/temoignage-on-n-en-sort-pas-indemne-degoute-par-l-inaction-internationale-a-gaza-un-humanitaire-francais-jette-l-eponge_8226457.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 5,
+      "score": 52,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Israël commémore les attaques du 7-Octobre trois ans après les massacres du Hamas",
+      "texte": "Israël a observé mercredi plusieurs cérémonies de recueillement, trois ans jour pour jour après les attaques du Hamas en octobre 2023. Dès l'aube, des minutes de silence ont été respectées sur les sites pris d'assaut, notamment au festival Nova près de la frontière de Gaza, selon France 24. Le bilan humain diverge légèrement selon les sources : France 24 et franceinfo évoquent \"plus de 1 200\" ou \"environ 1 200\" morts, tandis que franceinfo précise dans un autre article un chiffre de 1 221 victimes, dont 51 Français. Selon France 24, 251 personnes avaient été prises en otage. Ces attaques constituent \"la journée la plus meurtrière dans l'histoire du pays\", rappelle France 24. Le chef de la diplomatie française a déclaré que la France \"continuera inlassablement à agir pour une paix juste et durable\", rapporte franceinfo. Le traumatisme demeure vif dans la société israélienne, note France 24, alors que le pays se prépare à des élections législatives prévues fin octobre.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "af88f6d43",
+        "ae5a51951",
+        "aeec8ad93",
+        "aa7409b1e",
+        "aeaa90cb0",
+        "a0a0437a2"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-isra%C3%ABl-comm%C3%A9more-les-attaques-du-7-octobre"
+        },
+        {
+          "source": "France 24",
+          "titre": "7-Octobre : au festival Nova, honorer les morts face au traumatisme",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-7-octobre-au-festival-nova-honorer-les-morts-face-au-traumatisme"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "Commémorations du 7-Octobre : \"Nous continuerons inlassablement à agir pour une paix juste et durable\", déclare le chef de la diplomatie française",
+          "url": "https://www.franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"Nos vies ont été dévastées à jamais\" : en Israël, une journée d'hommages aux victimes du 7-Octobre",
+          "url": "https://www.franceinfo.fr/monde/israel/nos-vies-ont-ete-devastees-a-jamais-en-israel-une-journee-d-hommages-aux-victimes-du-7-octobre_8226892.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "France 24",
+          "titre": "Trois ans après le 7-Octobre, Israël rend hommage aux 1 200 victimes",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-rend-hommage-aux-1-200-victimes"
+        },
+        {
+          "source": "France 24",
+          "titre": "7-Octobre, un traumatisme encore vif : Parlons-en avec Yshay Dan Jaoui et Claire Duhamel",
+          "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261007-7-octobre-un-traumatisme-encore-vif-parlons-en-avec-yshay-dan-jaoui-et-claire-duhamel"
+        }
+      ],
+      "importance": 4,
+      "score": 45,
+      "nb_articles": 17
+    },
+    {
+      "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
+      "texte": "Une frappe russe sur un immeuble d'habitation à Prylouky, dans le nord de l'Ukraine, a fait au moins 18 morts, dont quatre enfants, selon franceinfo. D'après le parquet ukrainien cité par franceinfo, deux cages d'escalier ont été détruites par un tir de missile. La BBC fait état d'un bilan plus élevé de 24 morts dans le cadre d'attaques russes à grande échelle condamnées par le président Zelensky. Les équipes de secours poursuivent les recherches de résidents, selon la BBC.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a14f086ff",
+        "a5d0d9e1c"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Au moins 18 morts, dont quatre enfants, dans une frappe russe sur un immeuble à Prylouky, dans le nord de l'Ukraine",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Soupçons de peste en Russie après la mort d'une laborantine en Sibérie",
+      "texte": "Une technicienne de laboratoire de 28 ans travaillant pour l'Institut de lutte contre la peste d'Irkoutsk, en Sibérie orientale, est décédée le 2 octobre d'une pneumonie d'origine indéterminée, selon plusieurs médias russes. L'Organisation mondiale de la santé, les États-Unis et l'Union européenne réclament davantage de transparence à Moscou sur les causes de ce décès, d'après France 24 et franceinfo. Des informations évoquent un possible deuxième cas suspect, rapporte France 24. La Russie dément tout risque épidémique : l'agence de santé publique russe assure qu'\"aucun trouble de santé lié à une pathologie infectieuse n'a été détecté\", tandis que le Kremlin estime que la \"grande majorité\" des informations diffusées sont \"fausses\", selon RFI. En réaction, la Mongolie a ordonné mercredi une surveillance à sa frontière avec la Russie, indique la RTBF.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a4f24bfe4",
+        "abcd3b8f8",
+        "a964605f2",
+        "a83218927",
+        "aaba1fc65"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Quatre questions sur les soupçons de peste en Russie, qui inquiètent la communauté internationale",
+          "url": "https://www.franceinfo.fr/monde/russie/quatre-questions-sur-les-soupcons-de-peste-en-russie-qui-inquietent-la-communaute-internationale_8226337.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "La Russie dément tout \"risque épidémique\" après des soupçons de peste en Sibérie",
+          "url": "https://www.rtbf.be/article/la-russie-dement-tout-risque-epidemique-apres-des-soupcons-de-peste-en-siberie-11796517"
+        },
+        {
+          "source": "France 24",
+          "titre": "Soupçon de peste en Russie : un possible deuxième cas suspect, Moscou appelé à plus de transparence",
+          "url": "https://www.france24.com/fr/europe/20261007-soup%C3%A7on-peste-russie-possible-deuxi%C3%A8me-cas-suspect-appel%C3%A9-transparence"
+        },
+        {
+          "source": "RFI",
+          "titre": "Soupçons de peste en Russie: le Kremlin déplore une multitude de «fausses informations»",
+          "url": "https://www.rfi.fr/fr/europe/20261007-soup%C3%A7ons-de-peste-en-russie-le-kremlin-d%C3%A9plore-une-multitude-de-fausses-informations"
+        },
+        {
+          "source": "Le Monde",
+          "titre": "Soupçon de peste en Russie : les Etats-Unis réclament « plus d’informations » à Moscou, à la suite de la mort d’une laborantine",
+          "url": "https://www.lemonde.fr/international/article/2026/10/07/soupcon-de-peste-en-russie-les-etats-unis-reclament-plus-d-informations-a-moscou-apres-la-mort-d-une-laborantine_6789566_3210.html"
+        }
+      ],
+      "importance": 4,
+      "score": 46,
+      "nb_articles": 8
+    },
+    {
+      "titre": "Premier cas d'Ebola au Kenya : dix personnes en quarantaine",
+      "texte": "Dix personnes ont été placées en quarantaine au Kenya dans le cadre du premier cas d'Ebola jamais détecté dans le pays, selon la BBC World. Le patient concerné avait auparavant circulé dans plusieurs villes de République démocratique du Congo, avant de se déplacer en Ouganda et de prendre l'avion vers le Kenya. Cette mise en quarantaine intervient alors que des préoccupations grandissent concernant les procédures de dépistage aux frontières, le patient ayant pu traverser plusieurs pays avant d'être identifié.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "afdc5d655"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "L'Union européenne sanctionne près de 1 600 entités liées à la guerre en Ukraine",
+      "texte": "L'Union européenne a sanctionné près de 1 600 individus et entités liés à la guerre russe contre l'Ukraine, selon Franceinfo. Cette décision porte à environ 4 500 le nombre total de personnes et entités sanctionnées par l'UE en raison de la guerre menée par le Kremlin en Russie.",
+      "rubrique": "Europe",
+      "ids_sources": [
+        "ae36706c7"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre russe contre l'Ukraine",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sanctionne-pres-de-1-600-individus-et-entites-lies-a-la-guerre-russe-contre-l-ukraine_8227030.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Poussée bolsonariste au Brésil lors des élections",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
+      "source": "RFI",
+      "importance": 4
+    },
+    {
+      "titre": "Irrégularité présumée de la FIFA sur l'éligibilité d'un joueur congolais au Mondial",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261007-rdc-la-fifa-aurait-ferm%C3%A9-les-yeux-sur-sur-la-qualification-des-l%C3%A9opards-au-mondial-malgr%C3%A9-l-in%C3%A9ligibilit%C3%A9-de-mpasi",
+      "source": "RFI",
+      "importance": 4
+    },
+    {
+      "titre": "Géants de la tech américains menacent les télécoms européens",
+      "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261007-comp%C3%A9tition-mondiale-dans-les-t%C3%A9l%C3%A9communications-l-europe-en-proie-aux-g%C3%A9ants-de-la-tech",
+      "source": "France 24",
+      "importance": 4
+    },
+    {
+      "titre": "Poutine poursuit sa guerre en Ukraine sans changement de cap",
+      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261007-vladimir-poutine-continue-sa-fuite-en-avant-et-appuie-sur-l-acc%C3%A9l%C3%A9rateur",
+      "source": "RFI",
+      "importance": 4
+    },
+    {
+      "titre": "Primoz Roglic champion d'Europe de cyclisme sur le contre-la-montre",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Sophie Adenot de retour sur Terre après 235 jours dans l'espace",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Virus du Nil occidental : propagation en Europe",
+      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Christa Pike survit à deux injections létales aux États-Unis",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Enquête après l'interpellation violente d'un mineur à La Réunion",
+      "url": "https://la1ere.franceinfo.fr/reunion/mobilisation-lyceenne-une-enquete-ouverte-apres-l-interpellation-violente-d-un-mineur-au-lycee-roland-garros-au-tampon-video-1745712.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Affaire de viol collectif présumé en Tunisie",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
+      "source": "France 24",
+      "importance": 3
+    },
+    {
+      "titre": "Manifestations étudiantes en Belgique avec tensions",
+      "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-tensions-a-liege-la-police-disperse-les-manifestants-11796189",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Déplacés au Yémen : plus de 200000 personnes",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après un meurtre",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
+      "source": "RFI",
+      "importance": 3
+    },
+    {
+      "titre": "Arrestation du journaliste Moussa Kaka au Niger",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-le-journaliste-moussa-kaka-en-vie-et-d%C3%A9tenu-au-niger-selon-rsf",
+      "source": "France 24",
+      "importance": 3
+    },
+    {
+      "titre": "Perquisitions chez les géants brassicoles japonais pour entente illicite",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    }
+  ],
   "stats": {
-    "articles": 134,
-    "sujets": 0,
+    "articles": 135,
+    "sujets": 12,
     "sources": 6,
     "flux_en_echec": 0
   },
@@ -19,16 +483,18 @@
       "stage4": "claude-sonnet-4-5"
     },
     "prompts": "d40c9b52",
-    "usage": {}
+    "usage": {
+      "claude-haiku-4-5": {
+        "calls": 6,
+        "input_tokens": 24583,
+        "output_tokens": 13139
+      },
+      "claude-sonnet-4-5": {
+        "calls": 14,
+        "input_tokens": 35131,
+        "output_tokens": 5695
+      }
+    }
   },
-  "warnings": [
-    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jwNn6Ay2S1aSnqZKq])",
-    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jx4hLX9Use5zkNGw9])",
-    "Étape 1 : un lot de 9 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jxchRbtLgqxytukkT])",
-    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jyDQZurLApNZrSvPe])",
-    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jyktwPYDxCufiNNxw])",
-    "Étape 1 : un lot de 25 articles a échoué (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jzSaPJemZpxwHc1BN])",
-    "Étape 1 : 134 article(s) sans résumé du modèle (repli sur l'extrait)",
-    "Étape 2 : regroupement impossible (Token exchange failed (HTTP 401): {'error': {'type': 'authentication_error', 'message': 'Authentication failed'}} Ensure your federation rule matches your identity token. View your authentication events in the Workload identity page of Claude Console for more details. [request_id=req_011Cfo8jzzozwJHDiPshdZbL]) ; repli sur les articles d'importance ≥ 4"
-  ]
+  "warnings": []
 }
