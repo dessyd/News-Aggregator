@@ -1,83 +1,75 @@
 {
   "sujets": [
     {
-      "titre": "Guerre à Gaza : frappes israéliennes malgré le cessez-le-feu",
+      "titre": "Soupçons de peste en Sibérie, la Russie dément tout risque épidémique",
       "ids": [
-        "ae0d2a93c",
-        "ae880c78c"
-      ],
-      "importance": 5,
-      "score": 52
-    },
-    {
-      "titre": "Soupçons de peste en Russie après la mort d'une laborantine en Sibérie",
-      "ids": [
+        "a39ea1e8a",
         "a4f24bfe4",
-        "a3fc7e198",
+        "a3f34a122",
         "a83218927",
-        "abcd3b8f8",
         "a964605f2",
-        "aaba1fc65",
+        "a48c600c0",
+        "a78cba0b4",
         "afe50533a",
         "a1f2120a5"
-      ],
-      "importance": 4,
-      "score": 46
-    },
-    {
-      "titre": "Commémorations du 7-Octobre en Israël trois ans après les attaques du Hamas",
-      "ids": [
-        "af88f6d43",
-        "ae5a51951",
-        "a34842ad5",
-        "a0a0437a2",
-        "af2fbb3a1",
-        "aeec8ad93",
-        "aa7409b1e",
-        "aeaa90cb0",
-        "a84c2f905",
-        "ab02c0e10",
-        "aabf4d2c3",
-        "a3878acd7",
-        "a9477e805",
-        "ab2672c3d",
-        "aa6842562",
-        "ad3e62108",
-        "ab88fad52"
-      ],
-      "importance": 4,
-      "score": 45
-    },
-    {
-      "titre": "Mouvement lycéen en France face aux violences policières",
-      "ids": [
-        "afa927a70",
-        "a12a31d02",
-        "aaf5051cc",
-        "abcf1afe9",
-        "a191348df",
-        "a48038bea",
-        "aa0879146",
-        "a2093d391",
-        "a5681324b",
-        "a251cac2f",
-        "a908b46d8",
-        "a23f4f20e",
-        "ab5c4e7a7",
-        "a3f39e729"
       ],
       "importance": 4,
       "score": 44
     },
     {
-      "titre": "Prix Nobel de chimie 2026 décerné à Henri Kagan et Kenso Soai",
+      "titre": "Manifestations d'étudiants et lycéens en Belgique et en France",
       "ids": [
-        "a2b4add7b",
+        "a54cc740a",
+        "a6be7b596",
+        "a53f08298",
+        "a12a31d02",
+        "aaf5051cc",
+        "a191348df",
+        "a48038bea",
+        "a2093d391",
+        "ab5c4e7a7",
+        "a23f4f20e",
+        "a3f39e729",
+        "aa0879146"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Commémorations du 7-Octobre en Israël trois ans après l'attaque du Hamas",
+      "ids": [
+        "aeec8ad93",
+        "ad3e62108",
+        "ab88fad52",
+        "a3878acd7",
+        "a9477e805",
+        "ab2672c3d",
+        "aa6842562",
+        "aabf4d2c3"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Henri Kagan et Kenso Soai reçoivent le prix Nobel de chimie 2026",
+      "ids": [
         "a04e36af7",
-        "aeac1e25d"
+        "aeac1e25d",
+        "a2b4add7b"
       ],
       "importance": 4,
       "score": 43
+    },
+    {
+      "titre": "France suspend l'usage des grenades assourdissantes après l'amputation d'un adolescent à Lens",
+      "ids": [
+        "a5681324b",
+        "abe4a0069",
+        "af9af9838",
+        "a83cd890b"
+      ],
+      "importance": 4,
+      "score": 42
     },
     {
       "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
@@ -89,7 +81,7 @@
       "score": 42
     },
     {
-      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés à plus de 17000 femmes",
+      "titre": "Plateforme de contenus intimes volés démantelée en France",
       "ids": [
         "a2978ac11",
         "aefe201e1"
@@ -98,18 +90,16 @@
       "score": 42
     },
     {
-      "titre": "Reprise de Kidal par l'armée malienne",
+      "titre": "Sophie Adenot de retour sur Terre après 235 jours dans l'espace",
       "ids": [
-        "a0d71c4aa",
-        "a269699a1",
-        "ae3f3fc99",
-        "a2a109b06"
+        "a4d3c1224",
+        "a94dde945"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Écrits antisémites attribués à Jordan Bardella",
+      "titre": "Marine Le Pen maintient sa confiance en Jordan Bardella après révélations sur des écrits antisémites",
       "ids": [
         "a426d86a5",
         "a6366205b"
@@ -118,7 +108,7 @@
       "score": 42
     },
     {
-      "titre": "L'Union européenne sanctionne près de 1600 entités liées à la guerre en Ukraine",
+      "titre": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre en Ukraine",
       "ids": [
         "ae36706c7"
       ],
@@ -126,19 +116,17 @@
       "score": 41
     },
     {
-      "titre": "Suspension des grenades assourdissantes après l'amputation d'un lycéen à Lens",
+      "titre": "Candidats à la présidentielle française de 2027 au Sommet de l'élevage",
       "ids": [
-        "abe4a0069",
-        "af9af9838",
-        "a83cd890b"
+        "adb31895f"
       ],
       "importance": 4,
       "score": 41
     },
     {
-      "titre": "Premier cas d'Ebola au Kenya : dix personnes en quarantaine",
+      "titre": "Féminicide présumé à Saint-Gilles en Belgique",
       "ids": [
-        "afdc5d655"
+        "a73af9b33"
       ],
       "importance": 4,
       "score": 41
@@ -146,46 +134,28 @@
   ],
   "breves": [
     {
-      "titre": "Poussée bolsonariste au Brésil lors des élections",
+      "titre": "Premier cas d'Ebola confirmé au Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Reprise de Kidal par l'armée malienne et ses alliés russes",
+      "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition",
+      "source": "RFI",
+      "importance": 4
+    },
+    {
+      "titre": "Député ukrainien exclu de son parti après appel à négocier avec Moscou",
+      "url": "https://www.lemonde.fr/international/article/2026/10/07/l-ukraine-est-en-train-de-perdre-la-guerre-le-plan-de-paix-d-un-depute-d-odessa-provoque-un-tolle-a-kiev_6789592_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Résultats électoraux du candidat bolsonariste au Brésil",
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
       "source": "RFI",
       "importance": 4
-    },
-    {
-      "titre": "Irrégularité présumée de la FIFA sur l'éligibilité d'un joueur congolais au Mondial",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261007-rdc-la-fifa-aurait-ferm%C3%A9-les-yeux-sur-sur-la-qualification-des-l%C3%A9opards-au-mondial-malgr%C3%A9-l-in%C3%A9ligibilit%C3%A9-de-mpasi",
-      "source": "RFI",
-      "importance": 4
-    },
-    {
-      "titre": "Géants de la tech américains menacent les télécoms européens",
-      "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261007-comp%C3%A9tition-mondiale-dans-les-t%C3%A9l%C3%A9communications-l-europe-en-proie-aux-g%C3%A9ants-de-la-tech",
-      "source": "France 24",
-      "importance": 4
-    },
-    {
-      "titre": "Poutine poursuit sa guerre en Ukraine sans changement de cap",
-      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261007-vladimir-poutine-continue-sa-fuite-en-avant-et-appuie-sur-l-acc%C3%A9l%C3%A9rateur",
-      "source": "RFI",
-      "importance": 4
-    },
-    {
-      "titre": "Primoz Roglic champion d'Europe de cyclisme sur le contre-la-montre",
-      "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
-    },
-    {
-      "titre": "Sophie Adenot de retour sur Terre après 235 jours dans l'espace",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html",
-      "source": "Le Monde",
-      "importance": 3
-    },
-    {
-      "titre": "Virus du Nil occidental : propagation en Europe",
-      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
     },
     {
       "titre": "Christa Pike survit à deux injections létales aux États-Unis",
@@ -194,43 +164,61 @@
       "importance": 3
     },
     {
-      "titre": "Enquête après l'interpellation violente d'un mineur à La Réunion",
+      "titre": "Virus du Nil occidental : records de cas en France",
+      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Adolescent blessé à la main à Strasbourg après manipulation d'un mortier",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/un-jeune-homme-grievement-blesse-a-la-main-apres-avoir-manipule-un-mortier-lors-d-une-mobilisation-lyceenne-3429465.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Enquête après interpellation violente d'un mineur à La Réunion",
       "url": "https://la1ere.franceinfo.fr/reunion/mobilisation-lyceenne-une-enquete-ouverte-apres-l-interpellation-violente-d-un-mineur-au-lycee-roland-garros-au-tampon-video-1745712.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Affaire de viol collectif présumé en Tunisie",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
-      "source": "France 24",
+      "titre": "Trois suspects en garde à vue après agression d'un policier à Belfort",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Manifestations étudiantes en Belgique avec tensions",
-      "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-tensions-a-liege-la-police-disperse-les-manifestants-11796189",
-      "source": "RTBF Info",
+      "titre": "Adolescents filmés chantant l'apologie du terrorisme dans une église en Vendée",
+      "url": "https://www.franceinfo.fr/faits-divers/vendee-une-dizaine-de-jeunes-filmes-dans-une-eglise-en-train-de-chanter-un-morceau-faisant-l-apologie-du-terrorisme_8226808.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Déplacés au Yémen : plus de 200000 personnes",
+      "titre": "Adolescent jugé en février après agression d'un enseignant aspergé d'essence à La Ciotat",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-juge-en-fevrier-apres-l-agression-d-un-enseignant-asperge-d-essence-a-la-ciotat-en-marge-d-une-manifestation-lyceenne_8226937.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Plus de 200 000 déplacés au Yémen selon l'OIM",
       "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après un meurtre",
+      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après le meurtre d'une femme",
       "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
       "source": "RFI",
       "importance": 3
     },
     {
-      "titre": "Arrestation du journaliste Moussa Kaka au Niger",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-le-journaliste-moussa-kaka-en-vie-et-d%C3%A9tenu-au-niger-selon-rsf",
-      "source": "France 24",
+      "titre": "Le maire d'Izmir rejoint le parti du président Erdogan en Turquie",
+      "url": "https://www.rfi.fr/fr/europe/20261007-turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du-pr%C3%A9sident-erdogan",
+      "source": "RFI",
       "importance": 3
     },
     {
-      "titre": "Perquisitions chez les géants brassicoles japonais pour entente illicite",
+      "titre": "Géants brassicoles japonais perquisitionnés pour soupçons de cartel",
       "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3

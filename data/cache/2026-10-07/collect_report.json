@@ -20,6 +20,15 @@
   {
     "name": "France 24",
     "url": "https://www.france24.com/fr/rss",
+    "ok": false,
+    "entries": 0,
+    "kept": 0,
+    "with_summary": 0,
+    "error": "<unknown>:2:422: not well-formed (invalid token)"
+  },
+  {
+    "name": "RFI",
+    "url": "https://www.rfi.fr/fr/rss",
     "ok": true,
     "entries": 24,
     "kept": 24,
@@ -27,21 +36,12 @@
     "error": null
   },
   {
-    "name": "RFI",
-    "url": "https://www.rfi.fr/fr/rss",
-    "ok": true,
-    "entries": 23,
-    "kept": 23,
-    "with_summary": 23,
-    "error": null
-  },
-  {
     "name": "franceinfo",
     "url": "https://www.francetvinfo.fr/titres.rss",
     "ok": true,
-    "entries": 34,
-    "kept": 34,
-    "with_summary": 34,
+    "entries": 36,
+    "kept": 36,
+    "with_summary": 36,
     "error": null
   },
   {

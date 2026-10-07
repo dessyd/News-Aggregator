@@ -1,12 +1,30 @@
 [
   {
-    "id": "af88f6d43",
-    "source": "France 24",
+    "id": "a5681324b",
+    "source": "BBC World",
+    "lang": "en",
+    "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "extrait": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+    "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "publie": "2026-10-07T15:57:51+00:00"
+  },
+  {
+    "id": "a54cc740a",
+    "source": "RTBF Info",
     "lang": "fr",
-    "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
-    "extrait": "#Israël : Ce mercredi, plusieurs cérémonies se sont organisées, trois ans après les attaques du 7-octobre. À l’aube, des personnes endeuillées ont observé une minute de silence sur des sites du pays pris d’assaut par le Hamas en 2023. Plus de 1 200 personnes ont été tuées et 251 personnes ont été prises en otage. C’était la journée la plus meurtrière dans l'histoire du pays.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-isra%C3%ABl-comm%C3%A9more-les-attaques-du-7-octobre",
-    "publie": "2026-10-07T15:43:31+00:00"
+    "titre": "Direct - Manifestation des élèves : la tension monte d'un cran dans le centre-ville, plusieurs centaines de jeunes rassemblés",
+    "extrait": "Des centaines d’étudiants manifestaient ce mercredi dans plusieurs villes wallonnes et à Bruxelles, annonçant une...",
+    "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-la-tension-monte-d-un-cran-dans-le-centre-ville-plusieurs-centaines-de-jeunes-rassembles-11796189",
+    "publie": "2026-10-07T15:51:21+00:00"
+  },
+  {
+    "id": "a39ea1e8a",
+    "source": "RFI",
+    "lang": "fr",
+    "titre": "Russie: épidémie de désinformation autour d'un cas suspect de peste",
+    "extrait": "Alors que l'agence sanitaire russe affirme qu'aucun risque épidémique n'existe dans la région d'Irkoutsk où un cas de peste pulmonaire est soupçonné suite au décès d'une jeune laborantine, les demandes d'explication se multiplient auprès de Moscou. Les États-Unis, l'Union européenne mais aussi l'OMS demandent de la transparence. Dans le même temps, sur les réseaux sociaux, le flou alimente la désinformation.",
+    "url": "https://www.rfi.fr/fr/monde/20261007-russie-%C3%A9pid%C3%A9mie-de-d%C3%A9sinformation-autour-d-un-cas-suspect-de-peste",
+    "publie": "2026-10-07T15:51:02+00:00"
   },
   {
     "id": "a4f24bfe4",
@@ -72,6 +90,15 @@
     "publie": "2026-10-07T15:28:54+00:00"
   },
   {
+    "id": "a697aadf7",
+    "source": "Le Monde",
+    "lang": "fr",
+    "titre": "Mondiaux de judo : la désillusion de Clarisse Agbégnénou, symbole d’une équipe de France jusque-là décevante",
+    "extrait": "La Française a été éliminée dès les quarts de finale des Mondiaux, mercredi à Bakou, malgré ses ambitions de titre. Depuis le début de la compétition, dimanche dernier, les Bleus affichent un niveau de performance en deçà de leurs attentes.",
+    "url": "https://www.lemonde.fr/sport/article/2026/10/07/mondiaux-de-judo-la-desillusion-de-clarisse-agbegnenou-symbole-d-une-equipe-de-france-jusque-la-decevante_6789621_3242.html",
+    "publie": "2026-10-07T15:23:40+00:00"
+  },
+  {
     "id": "abe4a0069",
     "source": "franceinfo",
     "lang": "fr",
@@ -117,24 +144,6 @@
     "publie": "2026-10-07T15:10:11+00:00"
   },
   {
-    "id": "a000f78a3",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Équipe de France : Aurélien Tchouaméni, la tête et les jambes",
-    "extrait": "Grand absent de la première liste de Zinedine Zidane avec les Bleus pour cause de blessure, le Madrilène Aurélien Tchouaméni était de passage à Paris pendant la trêve internationale pour l'Africa Day de Sciences Po. Au micro de France 24, le milieu de terrain a rappelé une fois de plus qu'il était un peu plus qu'un simple joueur de football.",
-    "url": "https://www.france24.com/fr/sports/20261007-equipe-france-aurelien-tchouameni-bleus",
-    "publie": "2026-10-07T15:06:34+00:00"
-  },
-  {
-    "id": "ae5a51951",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "7-Octobre : au festival Nova, honorer les morts face au traumatisme",
-    "extrait": "Sur le site du festival Nova, près de la frontière de Gaza, les commémorations du 7-Octobre offrent un espace de recueillement face à un traumatisme national toujours vif. Reportage de Stéphane Amar.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-7-octobre-au-festival-nova-honorer-les-morts-face-au-traumatisme",
-    "publie": "2026-10-07T15:05:51+00:00"
-  },
-  {
     "id": "af9af9838",
     "source": "franceinfo",
     "lang": "fr",
@@ -142,15 +151,6 @@
     "extrait": "Cette suspension doit durer \"le temps que les circonstances de la blessure du jeune homme, à Lens, soient établies\", a souligné de son côté le directeur général de la Police nationale auprès de franceinfo.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:04:56+00:00"
-  },
-  {
-    "id": "ac4436ca2",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Comores : une nouvelle loi menace les petites activités de la diaspora malgache",
-    "extrait": "🇰🇲🇲🇬 Aux Comores, une nouvelle loi réserve aux seuls Comoriens de naissance certaines activités du petit commerce. Votée mais pas encore appliquée, elle suscite l’inquiétude de la communauté malgache dans l’archipel.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-comores-une-nouvelle-loi-menace-les-petites-activit%C3%A9s-de-la-diaspora-malgache",
-    "publie": "2026-10-07T14:59:54+00:00"
   },
   {
     "id": "a2978ac11",
@@ -207,15 +207,6 @@
     "publie": "2026-10-07T14:51:23+00:00"
   },
   {
-    "id": "ae852ca34",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trump-Netanyahu : de \"très bons rapports\" malgré les tensions",
-    "extrait": "Après les turbulences, Washington met en avant ses \"très bons rapports\" avec Benjamin Netanyahu. Mais derrière l’affichage d’une entente retrouvée, les tensions entre les deux dirigeants interrogent la solidité de l’alliance américano-israélienne. Décryptage de notre correspondant Matthieu Mabin depuis Washington.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trump-netanyahu-de-tr%C3%A8s-bons-rapports-malgr%C3%A9-les-tensions",
-    "publie": "2026-10-07T14:50:52+00:00"
-  },
-  {
     "id": "a3f34a122",
     "source": "BBC World",
     "lang": "en",
@@ -225,15 +216,6 @@
     "publie": "2026-10-07T14:50:28+00:00"
   },
   {
-    "id": "a0d71c4aa",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mali : l'armée de retour à Kidal",
-    "extrait": "Sa perte en avril dernier avait constitué un revers magistral pour l'armée malienne. 7 mois après, les FAMa reprennent Kidal, ville stratégique du nord du Mali. Les Touaregs du FLA qui l'occupaient confirment s'être repliés. On fait le point avec Wassim Nasr.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal",
-    "publie": "2026-10-07T14:49:45+00:00"
-  },
-  {
     "id": "a0f5746bb",
     "source": "Le Monde",
     "lang": "fr",
@@ -241,15 +223,6 @@
     "extrait": "Les députés ont voté un amendement du gouvernement recentrant le texte autour de l’exploitation sexuelle en ligne. Dans sa version initiale, celui-ci visait à étendre le régime pénal du proxénétisme pour pouvoir sanctionner les plateformes numériques.",
     "url": "https://www.lemonde.fr/pixels/article/2026/10/07/loi-integrale-contre-les-violences-sexuelles-les-plateformes-comme-onlyfans-finalement-epargnees-par-l-article-25_6789615_4408996.html",
     "publie": "2026-10-07T14:49:15+00:00"
-  },
-  {
-    "id": "adf39b992",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Tunisie : une affaire de viol collectif présumé suscite l’émotion",
-    "extrait": "À Tunis, une adolescente aurait été séquestrée et victime d’un viol collectif dans le quartier de Mellassine. Hospitalisée dans un état préoccupant, l'affaire relance le débat sur les violences sexuelles et la protection des mineures. Plusieurs suspects ont été placés en détention, tandis que de nouvelles arrestations ont été annoncées le 5 octobre. Lilia Blaise, correspondante de France 24, revient sur les faits rapportés.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
-    "publie": "2026-10-07T14:46:49+00:00"
   },
   {
     "id": "adb31895f",
@@ -279,15 +252,6 @@
     "publie": "2026-10-07T14:38:49+00:00"
   },
   {
-    "id": "a269699a1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Les dessous de la reprise de Kidal sans combats par l'armée malienne",
-    "extrait": "L’armée malienne, appuyée par les forces russes d’Africa Corps, annonce avoir repris Kidal le 6 octobre, après le départ des combattants du Front de libération de l’Azawad (FLA). Bastion de la rébellion touareg dans le nord du Mali, cette ville stratégique était repassée sous contrôle rebelle le 25 avril, lors d’une offensive menée conjointement avec les jihadistes du Groupe de soutien à l’islam et aux musulmans (GSIM). Explications de Wassim Nasr, journaliste France 24.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-les-secrets-de-la-reprise-de-kidal-sans-combats",
-    "publie": "2026-10-07T14:37:57+00:00"
-  },
-  {
     "id": "a1d7602df",
     "source": "franceinfo",
     "lang": "fr",
@@ -306,40 +270,13 @@
     "publie": "2026-10-07T14:35:54+00:00"
   },
   {
-    "id": "aae2f0ae1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Le journaliste Moussa Kaka \"en vie et détenu\" au Niger, selon RSF",
-    "extrait": "Le journaliste Moussa Kaka aurait été arrêté par les autorités nigériennes. Reporters sans frontières affirme qu’il est \"en vie et détenu\". Notre invité, Sadibou Marong, directeur du bureau Afrique de l’Ouest de RSF, fait le point sur sa situation et les démarches engagées pour obtenir sa libération.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-le-journaliste-moussa-kaka-en-vie-et-d%C3%A9tenu-au-niger-selon-rsf",
-    "publie": "2026-10-07T14:35:30+00:00"
-  },
-  {
-    "id": "afa927a70",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mouvement lycéen : entre reprise des cours et blocages",
-    "extrait": "Entre deux journées de mobilisation, le gouvernement multiplie les signes d'apaisement à l'attention de jeunes qui, pour certains, ont repris le chemin des cours mais pour d'autres continuent les blocages.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mouvement-lyc%C3%A9en-entre-reprise-des-cours-et-blocages",
-    "publie": "2026-10-07T14:33:50+00:00"
-  },
-  {
-    "id": "ae0d2a93c",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "À Gaza, les frappes israéliennes se poursuivent malgré le cessez-le-feu annoncé",
-    "extrait": "Les frappes israéliennes se poursuivent à Gaza malgré le cessez-le-feu annoncé en octobre 2025. En trois ans, plus de 73 000 Palestiniens ont été tués, selon les autorités sanitaires de Gaza. La population reste confrontée à une catastrophe humanitaire, entre déplacements répétés, destructions et difficultés d’accès à l’aide. Récit de Marc Paupe.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-%C3%A0-gaza-les-frappes-isra%C3%A9liennes-se-poursuivent-malgr%C3%A9-le-cessez-le-feu-annonc%C3%A9",
-    "publie": "2026-10-07T14:31:17+00:00"
-  },
-  {
     "id": "ad7b35edc",
     "source": "Le Monde",
     "lang": "fr",
     "titre": "« On est encore au Moyen Age » : dans l’e-sport, les femmes en première ligne des violences sexistes et sexuelles",
     "extrait": "Un streameur et commentateur réputé de « League of Legends » a été mis en examen en juillet pour viol, selon les informations du « Monde ». Un cas révélateur des violences sexuelles qui n’épargnent pas l’e-sport, un secteur très masculin au sein duquel la parole des femmes peine à être écoutée.",
     "url": "https://www.lemonde.fr/pixels/article/2026/10/07/on-est-encore-au-moyen-age-dans-l-e-sport-les-femmes-en-premiere-ligne-des-violences-sexistes-et-sexuelles_6789614_4408996.html",
-    "publie": "2026-10-07T14:30:14+00:00"
+    "publie": "2026-10-07T14:30:03+00:00"
   },
   {
     "id": "a4c99edc0",
@@ -367,24 +304,6 @@
     "extrait": "Les adolescents dansent et montent sur l'autel, et se mettent en scène scandant un morceau du rappeur Boro 700 faisant référence à Mohamed Merah et Salah Abdeslam. Une enquête a été ouverte par le parquet des mineurs.",
     "url": "https://www.franceinfo.fr/faits-divers/vendee-une-dizaine-de-jeunes-filmes-dans-une-eglise-en-train-de-chanter-un-morceau-faisant-l-apologie-du-terrorisme_8226808.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:24:34+00:00"
-  },
-  {
-    "id": "a7219b606",
-    "source": "RTBF Info",
-    "lang": "fr",
-    "titre": "Direct - Manifestation des élèves : tensions à Liège, la police disperse les manifestants",
-    "extrait": "Des centaines d’étudiants manifestaient ce mercredi dans plusieurs villes wallonnes et à Bruxelles, annonçant une...",
-    "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-tensions-a-liege-la-police-disperse-les-manifestants-11796189",
-    "publie": "2026-10-07T14:23:13+00:00"
-  },
-  {
-    "id": "af2fbb3a1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Après le 7-Octobre, aider les survivants du massacre à se reconstruire",
-    "extrait": "Trois ans après les attaques du 7-Octobre, la douleur reste vive pour les survivants. Invité en plateau, David Barouch, fondateur de l’association Netzer 7.10, raconte son engagement pour les accompagner et les aider à retrouver des perspectives de vie malgré le traumatisme.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-apr%C3%A8s-le-7-octobre-aider-les-survivants-du-massacre-%C3%A0-se-reconstruire",
-    "publie": "2026-10-07T14:20:37+00:00"
   },
   {
     "id": "ada30f231",
@@ -423,15 +342,6 @@
     "publie": "2026-10-07T14:05:32+00:00"
   },
   {
-    "id": "afd32a5b5",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "\"Naza\" : le documentaire choc sur les frappes de l'armée israélienne à Gaza",
-    "extrait": "Dans ce numéro de \"À l'Affiche !\" consacré aux sorties cinéma de la semaine, Thomas Baurez et Natacha Vesnitch s'arrêtent sur le documentaire \"Naza\", des réalisateurs israéliens Rachel Szor et Yuval Abraham. Acclamé à la dernière Mostra de Venise, où il a remporté le Prix spécial du Jury, le documentaire dévoile la façon dont le gouvernement israélien organise la destruction de la bande de Gaza et de sa population palestinienne.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261007-naza-le-documentaire-choc-sur-les-frappes-de-l-arm%C3%A9e-isra%C3%A9lienne-%C3%A0-gaza",
-    "publie": "2026-10-07T14:03:51+00:00"
-  },
-  {
     "id": "aeec8ad93",
     "source": "franceinfo",
     "lang": "fr",
@@ -468,15 +378,6 @@
     "publie": "2026-10-07T14:00:13+00:00"
   },
   {
-    "id": "a07c47e4e",
-    "source": "Le Monde",
-    "lang": "fr",
-    "titre": "Action contre la faim en quête d’indépendance : « Chaque jour, on doit faire des choix dans les souffrances des gens »",
-    "extrait": "Même si les Etats-Unis ont rouvert le robinet d’aide à l’ONG française pour répondre à l’épidémie d’Ebola en République démocratique du Congo, l’association continue de subir la baisse globale des financements publics américains et européens. Une dépendance dont elle cherche à sortir en ciblant les dons provenant des particuliers et des grandes entreprises.",
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/07/action-contre-la-faim-en-quete-d-independance-chaque-jour-on-doit-faire-des-choix-dans-les-souffrances-des-gens_6789608_4500055.html",
-    "publie": "2026-10-07T14:00:03+00:00"
-  },
-  {
     "id": "abcf1afe9",
     "source": "franceinfo",
     "lang": "fr",
@@ -504,15 +405,6 @@
     "publie": "2026-10-07T13:45:06+00:00"
   },
   {
-    "id": "abcd3b8f8",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Soupçon de peste en Russie : un possible deuxième cas suspect, Moscou appelé à plus de transparence",
-    "extrait": "L'Organisation mondiale de la santé, les États-Unis et l'Union européenne ont appelé mercredi la Russie à faire preuve de davantage de transparence après la mort d'une laborantine travaillant dans un institut étudiant la peste, alors que des informations évoquent un possible deuxième cas suspect. \"Aucun trouble de santé lié à une pathologie infectieuse n'a été détecté\", assure de son côté l'agence de santé publique russe.",
-    "url": "https://www.france24.com/fr/europe/20261007-soup%C3%A7on-peste-russie-possible-deuxi%C3%A8me-cas-suspect-appel%C3%A9-transparence",
-    "publie": "2026-10-07T13:44:17+00:00"
-  },
-  {
     "id": "a94dde945",
     "source": "franceinfo",
     "lang": "fr",
@@ -531,15 +423,6 @@
     "publie": "2026-10-07T13:38:01+00:00"
   },
   {
-    "id": "a550e396a",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Obsèques en Chine : Pékin veut privilégier la crémation",
-    "extrait": "Cette année, la Chine a publié de nouvelles règles pour encadrer les obsèques. Le gouvernement y prône des services abordables et respectueux de l'environnement dans la continuité d'une politique qu'il mène depuis des décennies : imposer la crémation. Mais dans les campagnes – où l'on enterre ses morts sur ses terres depuis des siècles – beaucoup de familles résistent. Comment cette modernisation voulue par Pékin est-elle vécue ? Reportage de Yena Lee, avec Lou Kisiela.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/focus/20261007-obs%C3%A8ques-en-chine-p%C3%A9kin-veut-privil%C3%A9gier-la-cr%C3%A9mation",
-    "publie": "2026-10-07T13:37:36+00:00"
-  },
-  {
     "id": "adc010d93",
     "source": "franceinfo",
     "lang": "fr",
@@ -549,15 +432,6 @@
     "publie": "2026-10-07T13:31:26+00:00"
   },
   {
-    "id": "aa61e1de4",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Derrière l'image : les insectes seront-ils la nourriture du futur ?",
-    "extrait": "Dans \"Derrière l’image\", focus sur l’élevage d’insectes et ses perspectives en Europe. Gabrielle Maréchaux, journaliste environnement à The Conversation France, décrypte les promesses de cette filière et les obstacles à son développement. Quelle place les insectes pourraient-ils prendre dans notre alimentation ?",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-derri%C3%A8re-l-image-les-insectes-seront-ils-la-nourriture-du-futur",
-    "publie": "2026-10-07T13:26:20+00:00"
-  },
-  {
     "id": "a9a49a07d",
     "source": "Le Monde",
     "lang": "fr",
@@ -565,24 +439,6 @@
     "extrait": "« Le Monde » s’est rendu dans un territoire rural enclavé pour prendre le pouls des habitants éprouvés par de multiples crises. Le premier ministre s’exprimera mercredi soir sur le sujet, la situation financière et la mobilisation lycéenne.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/07/sur-la-route-de-la-crise-du-pouvoir-d-achat-dans-la-bresse-bourguignonne-ca-craque-de-tous-les-cotes-on-a-l-impression-de-perdre-prise_6789605_3224.html",
     "publie": "2026-10-07T13:26:02+00:00"
-  },
-  {
-    "id": "a84c2f905",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trois ans après le 7-Octobre, le poids du traumatisme dans la société israélienne",
-    "extrait": "Les attaques du 7-Octobre ont fait près de 1 200 morts. Trois ans plus tard, comment ce traumatisme marque-t-il encore la société israélienne ? Invité en plateau, Guy Poran, ancien officier et pilote d’hélicoptère de l’armée de l’air israélienne, analyse les répercussions de cette journée sur le pays et ses habitants.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-le-7-octobre-le-poids-du-traumatisme-dans-la-soci%C3%A9t%C3%A9-isra%C3%A9lienne",
-    "publie": "2026-10-07T13:24:13+00:00"
-  },
-  {
-    "id": "ab02c0e10",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Attaques du 7-Octobre : notre reporter raconte les premiers jours sur le terrain",
-    "extrait": "Notre reporter Pauline Godart a été parmi les premières journalistes à se rendre sur le site du festival Nova après les attaques du Hamas du 7-Octobre 2023. Trois ans plus tard, elle revient sur ce qu’elle a découvert sur place et raconte les premiers jours sur place.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-attaques-du-7-octobre-notre-reporter-raconte-les-premiers-jours-sur-le-terrain",
-    "publie": "2026-10-07T13:19:06+00:00"
   },
   {
     "id": "a426d86a5",
@@ -601,15 +457,6 @@
     "extrait": "Selon Frédéric Francis, professeur d’entomologie (Gembloux Agro-Bio Tech), les punaises qui tentent actuellement de se...",
     "url": "https://www.rtbf.be/article/a-la-recherche-d-un-abri-pour-l-hiver-les-punaises-marbrees-s-invitent-dans-les-maisons-11796299",
     "publie": "2026-10-07T13:14:16+00:00"
-  },
-  {
-    "id": "aa7409b1e",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trois ans après le 7-Octobre, Israël rend hommage aux 1 200 victimes",
-    "extrait": "Trois ans après les attaques du Hamas, Israël se recueille en mémoire des quelque 1 200 personnes tuées le 7-Octobre. Invité en plateau, Samy Cohen, directeur de recherche émérite à Sciences Po, revient sur ce traumatisme national et ses conséquences pour la société israélienne.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-rend-hommage-aux-1-200-victimes",
-    "publie": "2026-10-07T13:13:31+00:00"
   },
   {
     "id": "aa0879146",
@@ -675,24 +522,6 @@
     "publie": "2026-10-07T12:41:52+00:00"
   },
   {
-    "id": "a3bc6fdb0",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Compétition mondiale dans les télécommunications : l'Europe en proie aux géants de la tech ?",
-    "extrait": "Après les panneaux photovoltaïques et l'automobile, les télécommunications européennes pourraient sombrer dans la crise. À cause de quoi, ou plutôt, de qui ? De la concurrence des géants américains de la tech. On ne les appelle plus les \"Gafam\" mais les \"Mangos\" pour Meta, Anthropic, Nvidia, Google, OpenAI et SpaceX. Les \"Mangos\" pourraient transformer les Deutsch Telekom, Orange, Vodafone ou Telefónica en vulgaires prestataires.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261007-comp%C3%A9tition-mondiale-dans-les-t%C3%A9l%C3%A9communications-l-europe-en-proie-aux-g%C3%A9ants-de-la-tech",
-    "publie": "2026-10-07T12:40:15+00:00"
-  },
-  {
-    "id": "aeaa90cb0",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "7-Octobre, un traumatisme encore vif : Parlons-en avec Yshay Dan Jaoui et Claire Duhamel",
-    "extrait": "Journée de commémorations et de douleur en Israël, trois ans jour pour jour après les pires attaques terroristes qu'ait connu le pays. Ces massacres menés par des groupes armés dirigés par le Hamas ont coûté la vie à plus de 1 200 personnes. C'est une société traumatisée qui s'apprête à voter, à la fin du mois, pour des élections législatives.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261007-7-octobre-un-traumatisme-encore-vif-parlons-en-avec-yshay-dan-jaoui-et-claire-duhamel",
-    "publie": "2026-10-07T12:23:42+00:00"
-  },
-  {
     "id": "a964605f2",
     "source": "RFI",
     "lang": "fr",
@@ -702,15 +531,6 @@
     "publie": "2026-10-07T12:20:04+00:00"
   },
   {
-    "id": "a5681324b",
-    "source": "BBC World",
-    "lang": "en",
-    "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "extrait": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-    "publie": "2026-10-07T12:16:58+00:00"
-  },
-  {
     "id": "afee2951f",
     "source": "BBC World",
     "lang": "en",
@@ -718,15 +538,6 @@
     "extrait": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
     "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T12:09:59+00:00"
-  },
-  {
-    "id": "a6a7170ab",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Le Ballon d'Or \"doit évidemment revenir à un Français\", dit le footballeur Aurélien Tchouaméni",
-    "extrait": "Dans un entretien accordé à France 24, le milieu de terrain du Real Madrid, Aurélien Tchouaméni, estime que le Ballon d'Or doit \"revenir à un Français\". Il assume d'avoir joué diminué au Mondial et affirme que le club madrilène \"doit forcément gagner\" cette saison, après deux exercices sans titre.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261007-le-ballon-d-or-doit-%C3%A9videmment-revenir-%C3%A0-un-fran%C3%A7ais-dit-le-footballeur-aur%C3%A9lien-tchouam%C3%A9ni",
-    "publie": "2026-10-07T12:08:18+00:00"
   },
   {
     "id": "a6366205b",
@@ -783,6 +594,15 @@
     "publie": "2026-10-07T11:45:53+00:00"
   },
   {
+    "id": "a48c600c0",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"On nous a parlé d'une maladie pire que le Covid\" : pourquoi les doutes persistent sur un éventuel cas de peste en Russie ?",
+    "extrait": "Que s'est-il passé dans un institut spécialisé dans la peste, en Sibérie ? Une jeune laborantine est morte d'une pneumonie inexpliquée. Si la peste n'est pas confirmée, les informations partielles des autorités russes laissent des questions sans réponse. En Europe, la situation est surveillée de près, bien que l'Organisation mondiale de la santé juge le risque très faible.",
+    "url": "https://www.franceinfo.fr/monde/russie/on-nous-a-parle-d-une-maladie-pire-que-le-covid-pourquoi-les-doutes-persistent-sur-un-eventuel-cas-de-peste-en-russie_8225752.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T11:42:32+00:00"
+  },
+  {
     "id": "a90706123",
     "source": "Le Monde",
     "lang": "fr",
@@ -801,15 +621,6 @@
     "publie": "2026-10-07T11:37:26+00:00"
   },
   {
-    "id": "a908b46d8",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "France : la jeunesse au pied du mur de la dette",
-    "extrait": "Le gouvernement peine à trouver une issue à la crise qui secoue la jeunesse française. Faute de moyens budgétaires, comment venir à bout des blocages de lycées ? On va plus loin avec Richard Werly et Antoine Mariotti.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261007-france-la-jeunesse-au-pied-du-mur-de-la-dette",
-    "publie": "2026-10-07T11:32:45+00:00"
-  },
-  {
     "id": "a77af0ab4",
     "source": "RTBF Info",
     "lang": "fr",
@@ -826,15 +637,6 @@
     "extrait": "\"#IAmJaneDoe\". En dessous de post, en légende de photo ou encore scandés dans des vidéos : ces mots reviennent sur...",
     "url": "https://www.rtbf.be/article/iamjanedoe-mobilisation-d-internautes-pour-proteger-l-anonymat-de-la-victime-presumee-d-un-viol-a-l-universite-cornell-aux-etats-unis-11796240",
     "publie": "2026-10-07T11:21:28+00:00"
-  },
-  {
-    "id": "a251cac2f",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mouvement lycéen : le gouvernement dans l'impasse",
-    "extrait": "Mardi, \"l'acte III\" du mouvement lycéen a rassemblé plus de 260 000 personnes en France selon le ministère de l'Intérieur. Face à une mobilisation qui ne semble pas faiblir et face aux accusations de violences policières, le Premier ministre tente de reprendre la main. Il s'exprimera ce mercredi soir sur les lycées, la dette et les carburants. Quelle peut être la réponse du gouvernement alors que sa marge de manœuvre est extrêmement faible ?",
-    "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261007-mouvement-lyc%C3%A9en-le-gouvernement-dans-l-impasse",
-    "publie": "2026-10-07T11:15:04+00:00"
   },
   {
     "id": "a2d56f267",
@@ -972,15 +774,6 @@
     "publie": "2026-10-07T08:04:21+00:00"
   },
   {
-    "id": "aaba1fc65",
-    "source": "Le Monde",
-    "lang": "fr",
-    "titre": "Soupçon de peste en Russie : les Etats-Unis réclament « plus d’informations » à Moscou, à la suite de la mort d’une laborantine",
-    "extrait": "Une technicienne de laboratoire de 28 ans qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie orientale, est morte, ont rapporté plusieurs médias russes vendredi.",
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/soupcon-de-peste-en-russie-les-etats-unis-reclament-plus-d-informations-a-moscou-apres-la-mort-d-une-laborantine_6789566_3210.html",
-    "publie": "2026-10-07T07:58:48+00:00"
-  },
-  {
     "id": "a34914670",
     "source": "BBC World",
     "lang": "en",
@@ -1015,6 +808,15 @@
     "extrait": "La banque centrale indienne devrait relever ses taux d'intérêt ce mercredi, pour la première fois depuis près de quatre ans. Une décision qui intervient alors que l'inflation remonte, que le pétrole se négocie autour de 100 dollars le baril et que la roupie est proche de son plus bas niveau historique face au dollar. Dans le même temps, les investisseurs étrangers réduisent leur exposition aux actifs indiens.",
     "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261007-inde-investisseurs-etrangers-croissance-fuite-capitaux",
     "publie": "2026-10-07T07:28:35+00:00"
+  },
+  {
+    "id": "a97e665af",
+    "source": "Le Monde",
+    "lang": "fr",
+    "titre": "Quand des gourous s’emparent de soins de « bien-être » : « Des stages ruineux, découverts sur les réseaux sociaux, promettaient la guérison des traumas »",
+    "extrait": "Des dérives sectaires, visant à mettre sous leur emprise des personnes psychologiquement fragiles, peuvent se cacher derrière certaines pratiques complémentaires à la médecine. Témoignages de victimes qui s’en sont sorties.",
+    "url": "https://www.lemonde.fr/sante/article/2026/10/07/les-soins-de-bien-etre-antichambre-des-derives-sectaires_6789559_1651302.html",
+    "publie": "2026-10-07T07:27:51+00:00"
   },
   {
     "id": "a3878acd7",
@@ -1213,5 +1015,14 @@
     "extrait": "The US and Russia have each offered to help each other tackling infectious diseases.",
     "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T13:32:42+00:00"
+  },
+  {
+    "id": "a78cba0b4",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "En Russie, les autorités nient l'instauration de mesures sanitaires après un soupçon d'un cas de peste en Sibérie",
+    "extrait": "Plusieurs médias locaux ont pour leur part fait état de la mise en place d'une quarantaine de trois semaines, après la mort d'une laborantine à Irkoutsk.",
+    "url": "https://www.franceinfo.fr/monde/russie/les-autorites-russes-nient-l-instauration-de-mesures-sanitaires-apres-un-soupcon-de-cas-de-peste-en-siberie-l-oms-estime-un-risque-tres-faible-pour-l-europe_8225071.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-06T12:15:34+00:00"
   }
 ]

@@ -1,13 +1,37 @@
 [
   {
-    "id": "af88f6d43",
-    "source": "France 24",
+    "id": "a5681324b",
+    "source": "BBC World",
+    "lang": "en",
+    "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "extrait": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+    "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "publie": "2026-10-07T15:57:51+00:00",
+    "resume": "La France suspend l'utilisation des grenades assourdissantes après qu'un adolescent ait perdu sa main lors de manifestations d'étudiants, suite à des plaintes concernant l'usage disproportionné de la force contre les jeunes.",
+    "rubrique": "Europe",
+    "importance": 4
+  },
+  {
+    "id": "a54cc740a",
+    "source": "RTBF Info",
     "lang": "fr",
-    "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
-    "extrait": "#Israël : Ce mercredi, plusieurs cérémonies se sont organisées, trois ans après les attaques du 7-octobre. À l’aube, des personnes endeuillées ont observé une minute de silence sur des sites du pays pris d’assaut par le Hamas en 2023. Plus de 1 200 personnes ont été tuées et 251 personnes ont été prises en otage. C’était la journée la plus meurtrière dans l'histoire du pays.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-isra%C3%ABl-comm%C3%A9more-les-attaques-du-7-octobre",
-    "publie": "2026-10-07T15:43:31+00:00",
-    "resume": "Israël commémore les attaques du 7-Octobre trois ans après. Des cérémonies se sont organisées dans le pays avec une minute de silence sur les sites attaqués par le Hamas, qui avait fait plus de 1 200 morts et 251 otages en 2023.",
+    "titre": "Direct - Manifestation des élèves : la tension monte d'un cran dans le centre-ville, plusieurs centaines de jeunes rassemblés",
+    "extrait": "Des centaines d’étudiants manifestaient ce mercredi dans plusieurs villes wallonnes et à Bruxelles, annonçant une...",
+    "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-la-tension-monte-d-un-cran-dans-le-centre-ville-plusieurs-centaines-de-jeunes-rassembles-11796189",
+    "publie": "2026-10-07T15:51:21+00:00",
+    "resume": "Plusieurs centaines d'étudiants manifestent mercredi dans plusieurs villes wallonnes et à Bruxelles, avec une tension croissante observée dans le centre-ville.",
+    "rubrique": "Belgique",
+    "importance": 3
+  },
+  {
+    "id": "a39ea1e8a",
+    "source": "RFI",
+    "lang": "fr",
+    "titre": "Russie: épidémie de désinformation autour d'un cas suspect de peste",
+    "extrait": "Alors que l'agence sanitaire russe affirme qu'aucun risque épidémique n'existe dans la région d'Irkoutsk où un cas de peste pulmonaire est soupçonné suite au décès d'une jeune laborantine, les demandes d'explication se multiplient auprès de Moscou. Les États-Unis, l'Union européenne mais aussi l'OMS demandent de la transparence. Dans le même temps, sur les réseaux sociaux, le flou alimente la désinformation.",
+    "url": "https://www.rfi.fr/fr/monde/20261007-russie-%C3%A9pid%C3%A9mie-de-d%C3%A9sinformation-autour-d-un-cas-suspect-de-peste",
+    "publie": "2026-10-07T15:51:02+00:00",
+    "resume": "Un cas suspect de peste pulmonaire en Russie dans la région d'Irkoutsk alimente la désinformation sur les réseaux sociaux, tandis que les États-Unis, l'UE et l'OMS demandent plus de transparence.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -19,7 +43,7 @@
     "extrait": "Une jeune laborantine est morte le 2 octobre d'une pneumonie d'origine \"indéterminée\" dans une zone reculée de Sibérie. Si les autorités russes démentent tout \"risque épidémique\", l'OMS, l'Union européenne et les Etats-Unis réclament plus de transparence sur les causes de ce décès.",
     "url": "https://www.franceinfo.fr/monde/russie/quatre-questions-sur-les-soupcons-de-peste-en-russie-qui-inquietent-la-communaute-internationale_8226337.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:40:53+00:00",
-    "resume": "Une laborantine est décédée le 2 octobre d'une pneumonie d'origine indéterminée en Sibérie russe. L'OMS, l'Union européenne et les États-Unis réclament plus de transparence sur les causes du décès, tandis que les autorités russes démentent tout risque épidémique.",
+    "resume": "Une laborantine est décédée le 2 octobre d'une pneumonie d'origine indéterminée en Sibérie ; l'OMS, l'UE et les États-Unis réclament de la transparence aux autorités russes qui démentent tout risque épidémique.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -31,8 +55,8 @@
     "extrait": "La pluie fait son retour avec fracas sur la Côte d’Azur : les départements des Alpes-Maritimes et du Var sont placés en vigilance jaune et orange ce 7 octobre face au risque de fortes précipitations.",
     "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/vigilance-pluie-inondation-de-fortes-precipitations-ce-mercredi-matin-dans-le-var-et-les-alpes-maritimes-avec-des-perturbations-de-circulation-3429336.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:38:47+00:00",
-    "resume": "Le Var et les Alpes-Maritimes sont placés en vigilance jaune et orange ce 7 octobre face à des fortes précipitations.",
-    "rubrique": "Environnement",
+    "resume": "Les départements du Var et des Alpes-Maritimes sont placés en vigilance jaune et orange le 7 octobre face à des risques de fortes précipitations et d'inondations.",
+    "rubrique": "Europe",
     "importance": 2
   },
   {
@@ -43,7 +67,7 @@
     "extrait": "Depuis juillet, les hostilités ont repris entre le gouvernement yéménite, soutenu par l'Arabie saoudite, et les houthis pro-iraniens.",
     "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:37:39+00:00",
-    "resume": "Le nombre de déplacés au Yémen a franchi la barre des 200 000 personnes depuis la reprise des hostilités en juillet entre le gouvernement yéménite soutenu par l'Arabie saoudite et les houthis pro-iraniens.",
+    "resume": "Le nombre de déplacés au Yémen dépasse 200 000 personnes depuis la reprise des hostilités en juillet entre le gouvernement yéménite soutenu par l'Arabie saoudite et les houthis.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -55,9 +79,9 @@
     "extrait": "Les aides-ménagères veulent se faire entendre. Réunies à Namur ce mercredi, elles ont dénoncé les conséquences...",
     "url": "https://www.rtbf.be/article/titres-services-on-en-vient-a-payer-pour-aller-travailler-les-aides-menageres-interpellent-le-gouvernement-wallon-11796468",
     "publie": "2026-10-07T15:36:22+00:00",
-    "resume": "Les aides-ménagères du secteur des titres-services interpellent le gouvernement wallon réuni à Namur ce mercredi, dénonçant les conséquences de leur situation professionnelle.",
+    "resume": "Les aides-ménagères se rassemblent à Namur pour interpeller le gouvernement wallon sur les conséquences des conditions liées aux titres-services.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "aa62cc6cd",
@@ -67,9 +91,9 @@
     "extrait": "L'équipe de France décroche l'argent et le bronze chez les hommes mercredi, au lendemain du titre européen sur le relais mixte, et peu après le bronze de Juliette Berthet.",
     "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:33:11+00:00",
-    "resume": "Primoz Roglic remporte le titre de champion d'Europe de cyclisme sur le contre-la-montre. Bruno Armirail et Maxime Decomble obtiennent respectivement l'argent et le bronze pour la France.",
+    "resume": "Primoz Roglic remporte le titre de champion d'Europe de cyclisme sur le contre-la-montre, tandis que la France obtient l'argent et le bronze avec Bruno Armirail et Maxime Decomble.",
     "rubrique": "Sport",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a3fc7e198",
@@ -79,7 +103,7 @@
     "extrait": "Cette demande était une requête des quatre filières de fromages AOP de Franche-Comté, après une sécheresse inédite cet été. Ces assouplissements sont en vigueur jusqu'au 31 mai 2027.",
     "url": "https://www.franceinfo.fr/sante/alimentation/l-assouplissement-des-cahiers-des-charges-des-aop-comte-morbier-et-bleu-de-gex-publies-au-journal-officiel_8227108.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:30:31+00:00",
-    "resume": "Les cahiers des charges des AOP comté, morbier et bleu de Gex sont assouplis pour faire face à la sécheresse. Ces mesures sont en vigueur jusqu'au 31 mai 2027.",
+    "resume": "Les cahiers des charges des AOP comté, morbier et bleu de Gex sont assouplis pour faire face à la sécheresse, avec une validité jusqu'au 31 mai 2027.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -91,9 +115,21 @@
     "extrait": "Sur les 22,1 kilomètres du parcours tracé autour de Sencur, identique à celui de la course en ligne disputée sur...",
     "url": "https://www.rtbf.be/article/primoz-roglic-devient-champion-d-europe-du-contre-la-montre-a-domicile-ilan-van-wilder-finit-au-pied-du-podium-11796567",
     "publie": "2026-10-07T15:28:54+00:00",
-    "resume": "Primoz Roglic devient champion d'Europe du contre-la-montre en gagnant à domicile. Ilan Van Wilder finit au pied du podium.",
+    "resume": "Primoz Roglic remporte le titre de champion d'Europe du contre-la-montre en Slovénie ; Ilan Van Wilder termine juste en dehors du podium.",
     "rubrique": "Sport",
-    "importance": 3
+    "importance": 2
+  },
+  {
+    "id": "a697aadf7",
+    "source": "Le Monde",
+    "lang": "fr",
+    "titre": "Mondiaux de judo : la désillusion de Clarisse Agbégnénou, symbole d’une équipe de France jusque-là décevante",
+    "extrait": "La Française a été éliminée dès les quarts de finale des Mondiaux, mercredi à Bakou, malgré ses ambitions de titre. Depuis le début de la compétition, dimanche dernier, les Bleus affichent un niveau de performance en deçà de leurs attentes.",
+    "url": "https://www.lemonde.fr/sport/article/2026/10/07/mondiaux-de-judo-la-desillusion-de-clarisse-agbegnenou-symbole-d-une-equipe-de-france-jusque-la-decevante_6789621_3242.html",
+    "publie": "2026-10-07T15:23:40+00:00",
+    "resume": "Clarisse Agbégnénou est éliminée aux quarts de finale des Mondiaux de judo mercredi à Bakou ; l'équipe de France affiche un niveau en deçà de ses attentes depuis le début de la compétition.",
+    "rubrique": "Sport",
+    "importance": 2
   },
   {
     "id": "abe4a0069",
@@ -103,8 +139,8 @@
     "extrait": "D'après les informations de franceinfo, ces images ne sont pas encore en possession des enquêteurs de l'IGPN, la police des polices, chargée des investigations.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-adolescent-ampute-d-une-main-a-lens-une-video-montre-la-victime-se-pencher-vers-la-grenade-assourdissante_8227006.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:16:57+00:00",
-    "resume": "Une vidéo montre un adolescent amputé d'une main à Lens se penchant vers une grenade assourdissante. Ces images ne sont pas encore en possession de l'IGPN, chargée des investigations.",
-    "rubrique": "Société",
+    "resume": "Une vidéo montre un adolescent amputé d'une main à Lens se pencher vers une grenade assourdissante ; ces images ne sont pas encore en possession des enquêteurs de l'IGPN.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -115,7 +151,7 @@
     "extrait": "\"Deux cages d'escalier d'un immeuble d'habitation ont été détruites à la suite d'un tir de missile\", av rapporté le parquet ukrainien sur Telegram.",
     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:13:40+00:00",
-    "resume": "Au moins 18 personnes, dont quatre enfants, sont mortes dans une frappe russe sur un immeuble à Prylouky dans le nord de l'Ukraine. Deux cages d'escalier ont été détruites selon le parquet ukrainien.",
+    "resume": "Au moins 18 personnes, dont quatre enfants, sont tuées dans une frappe russe sur un immeuble à Prylouky dans le nord de l'Ukraine.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -127,9 +163,9 @@
     "extrait": "La sécheresse continue à avoir des conséquences importantes à Pontarlier (Doubs). Les ressources en eau de la commune s'amenuisent de jour en jour. Pour alerter la population, la mairie à décider de fermer la piscine le mercredi 7 octobre 2026, et ce jusqu'à nouvel ordre. Une grande campagne de sensibilisation a également été lancée.",
     "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/pontarlier/la-crise-est-grave-menacee-de-coupures-d-eau-par-une-secheresse-historique-la-ville-de-pontarlier-ferme-sa-piscine-pour-l-exemple-3429522.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:12:47+00:00",
-    "resume": "La ville de Pontarlier ferme sa piscine le 7 octobre 2026 face à une sécheresse historique qui menace les ressources en eau. Une campagne de sensibilisation a été lancée.",
-    "rubrique": "Environnement",
-    "importance": 3
+    "resume": "La ville de Pontarlier ferme sa piscine le 7 octobre en raison d'une sécheresse historique menaçant ses ressources en eau et l'approvisionnement en eau potable.",
+    "rubrique": "Europe",
+    "importance": 2
   },
   {
     "id": "ae36706c7",
@@ -139,7 +175,7 @@
     "extrait": "Cela va porter à près de 4 500 le nombre total de personnes et entités sanctionnées par l'UE en raison de la guerre menée par le Kremlin en Russie.",
     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sanctionne-pres-de-1-600-individus-et-entites-lies-a-la-guerre-russe-contre-l-ukraine_8227030.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:10:36+00:00",
-    "resume": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre russe contre l'Ukraine, portant le total à environ 4 500 personnes et entités sanctionnées.",
+    "resume": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre en Ukraine, portant le total à près de 4 500.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -151,33 +187,9 @@
     "extrait": "Christophe Barthès a refusé d’associer la gauche municipale à une cérémonie dont il a par ailleurs interdit l’accès à « L’Indépendant », seul quotidien du département. A l’écart de l’événement, un professeur d’histoire a longuement dénoncé ce qu’il tient pour « une imposture ».",
     "url": "https://www.lemonde.fr/politique/article/2026/10/07/7-octobre-le-maire-rn-de-carcassonne-inaugure-une-stele-en-hommage-aux-victimes-des-attentats-devant-louis-aliot-et-plusieurs-elus-d-extreme-droite_6789620_823448.html",
     "publie": "2026-10-07T15:10:11+00:00",
-    "resume": "Le maire RN de Carcassonne inaugure une stèle en hommage aux victimes des attentats du 7-Octobre sans associer la gauche municipale à la cérémonie.",
+    "resume": "Le maire RN de Carcassonne inaugure une stèle en hommage aux victimes des attentats du 7-Octobre en présence d'élus d'extrême droite, excluant la gauche municipale et interdisant l'accès à la presse.",
     "rubrique": "Politique",
     "importance": 2
-  },
-  {
-    "id": "a000f78a3",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Équipe de France : Aurélien Tchouaméni, la tête et les jambes",
-    "extrait": "Grand absent de la première liste de Zinedine Zidane avec les Bleus pour cause de blessure, le Madrilène Aurélien Tchouaméni était de passage à Paris pendant la trêve internationale pour l'Africa Day de Sciences Po. Au micro de France 24, le milieu de terrain a rappelé une fois de plus qu'il était un peu plus qu'un simple joueur de football.",
-    "url": "https://www.france24.com/fr/sports/20261007-equipe-france-aurelien-tchouameni-bleus",
-    "publie": "2026-10-07T15:06:34+00:00",
-    "resume": "Aurélien Tchouaméni, absent de la première liste de Zinedine Zidane pour cause de blessure, était de passage à Paris pour l'Africa Day de Sciences Po.",
-    "rubrique": "Sport",
-    "importance": 1
-  },
-  {
-    "id": "ae5a51951",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "7-Octobre : au festival Nova, honorer les morts face au traumatisme",
-    "extrait": "Sur le site du festival Nova, près de la frontière de Gaza, les commémorations du 7-Octobre offrent un espace de recueillement face à un traumatisme national toujours vif. Reportage de Stéphane Amar.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-7-octobre-au-festival-nova-honorer-les-morts-face-au-traumatisme",
-    "publie": "2026-10-07T15:05:51+00:00",
-    "resume": "Sur le site du festival Nova près de la frontière de Gaza, les commémorations du 7-Octobre offrent un espace de recueillement face au traumatisme national.",
-    "rubrique": "Monde",
-    "importance": 3
   },
   {
     "id": "af9af9838",
@@ -187,21 +199,9 @@
     "extrait": "Cette suspension doit durer \"le temps que les circonstances de la blessure du jeune homme, à Lens, soient établies\", a souligné de son côté le directeur général de la Police nationale auprès de franceinfo.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:04:56+00:00",
-    "resume": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez répond à une demande d'Emmanuel Macron. Cette suspension durera le temps que les circonstances de la blessure du jeune homme à Lens soient établies.",
-    "rubrique": "Politique",
+    "resume": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez était une demande d'Emmanuel Macron, le temps que les circonstances de la blessure du jeune homme à Lens soient établies.",
+    "rubrique": "Europe",
     "importance": 3
-  },
-  {
-    "id": "ac4436ca2",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Comores : une nouvelle loi menace les petites activités de la diaspora malgache",
-    "extrait": "🇰🇲🇲🇬 Aux Comores, une nouvelle loi réserve aux seuls Comoriens de naissance certaines activités du petit commerce. Votée mais pas encore appliquée, elle suscite l’inquiétude de la communauté malgache dans l’archipel.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-comores-une-nouvelle-loi-menace-les-petites-activit%C3%A9s-de-la-diaspora-malgache",
-    "publie": "2026-10-07T14:59:54+00:00",
-    "resume": "Aux Comores, une nouvelle loi réserve aux seuls Comoriens de naissance certaines activités du petit commerce, suscitant l'inquiétude de la communauté malgache dans l'archipel.",
-    "rubrique": "Monde",
-    "importance": 2
   },
   {
     "id": "a2978ac11",
@@ -211,7 +211,7 @@
     "extrait": "Soupçonnés d’en être les administrateurs, deux frères de 21 et 25 ans ont été arrêtés dans le nord de la France, où les enquêteurs ont saisi près de 700 000 euros en cryptomonnaies.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/07/contenus-intimes-voles-la-justice-fait-fermer-une-plateforme-vendant-les-images-de-plus-de-17-000-femmes-dont-des-mineures_6789617_3224.html",
     "publie": "2026-10-07T14:59:39+00:00",
-    "resume": "La justice ferme une plateforme vendant des images intimes de plus de 17 000 femmes, dont des mineures. Deux frères de 21 et 25 ans ont été arrêtés dans le nord de la France avec près de 700 000 euros en cryptomonnaies saisis.",
+    "resume": "La justice ferme une plateforme vendant les images intimes volées de plus de 17 000 femmes, dont des mineures ; deux frères sont arrêtés et 700 000 euros en cryptomonnaies saisis.",
     "rubrique": "Société",
     "importance": 4
   },
@@ -223,8 +223,8 @@
     "extrait": "Depuis l'aube, mercredi matin, les Israéliens se recueillent sur les sites attaqués par le Hamas en octobre 2023. Des minutes de silence ont été observées.",
     "url": "https://www.franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:56:48+00:00",
-    "resume": "Le chef de la diplomatie française déclare que la France continuera à agir pour une paix juste et durable lors des commémorations du 7-Octobre.",
-    "rubrique": "Politique",
+    "resume": "Le chef de la diplomatie française déclare que la France continuera à agir pour une paix juste et durable lors des commémorations du 7-Octobre en Israël.",
+    "rubrique": "Monde",
     "importance": 2
   },
   {
@@ -235,7 +235,7 @@
     "extrait": "Une vidéo devenue virale montre l'interpellation violente d'un jeune homme, maintenu au sol avec le genou d'un gendarme sur le cou. Une enquête pénale a été ouverte par le parquet de Saint-Pierre.",
     "url": "https://la1ere.franceinfo.fr/reunion/mobilisation-lyceenne-une-enquete-ouverte-apres-l-interpellation-violente-d-un-mineur-au-lycee-roland-garros-au-tampon-video-1745712.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:55:58+00:00",
-    "resume": "Une enquête pénale est ouverte après l'interpellation violente d'un mineur vendredi près d'un lycée au Tampon à La Réunion. Une vidéo virale montre le jeune homme maintenu au sol avec le genou d'un gendarme sur le cou.",
+    "resume": "Une enquête pénale est ouverte après l'interpellation violente d'un mineur vendredi près d'un lycée à La Réunion, une vidéo montrant un gendarme avec le genou sur le cou du jeune homme.",
     "rubrique": "Société",
     "importance": 3
   },
@@ -247,9 +247,9 @@
     "extrait": "La polémique porte notamment sur les abonnements Express pour les jeunes, dont le tarif annuel pourrait atteindre 384...",
     "url": "https://www.rtbf.be/article/hausse-des-prix-du-tec-le-modele-d-abonnement-a-douze-euros-n-a-pas-porte-ses-fruits-se-defend-son-porte-parole-11796506",
     "publie": "2026-10-07T14:55:32+00:00",
-    "resume": "Le TEC annonce une hausse de ses prix. Son porte-parole indique que le modèle d'abonnement à douze euros n'a pas porté ses fruits, notamment concernant les abonnements Express pour les jeunes.",
+    "resume": "Le porte-parole du TEC affirme que le modèle d'abonnement à douze euros n'a pas porté ses fruits, tandis que les tarifs augmentent notamment pour les abonnements Express jeunes.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a5d0d9e1c",
@@ -259,7 +259,7 @@
     "extrait": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
     "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T14:53:43+00:00",
-    "resume": "Zelensky condamne des attaques russes à grande échelle qui ont tué 24 personnes. Les équipes de secours poursuivent les recherches après la destruction d'un immeuble à Pryluky.",
+    "resume": "Zelensky condamne les attaques russes à grande échelle qui ont tué 24 personnes ; les sauveteurs continuent à chercher des résidents après la destruction d'un immeuble à Prylouky.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -271,19 +271,7 @@
     "extrait": "Le meurtre présumé samedi 3 octobre d’une habitante d’Okinawa par un Marine américain continue d'alimenter de vives tensions dans le sud du Japon. Malgré le couvre-feu d'un mois imposé par le commandement militaire américain aux troupes stationnées sur l'île, le gouverneur d'Okinawa a réaffirmé l'urgence d'alléger le fardeau que font peser ces bases sur l'archipel.",
     "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
     "publie": "2026-10-07T14:51:23+00:00",
-    "resume": "Un couvre-feu d'un mois est imposé aux soldats américains à Okinawa suite au meurtre présumé d'une habitante par un Marine le 3 octobre. Le gouverneur d'Okinawa réaffirme l'urgence de réduire le fardeau des bases américaines.",
-    "rubrique": "Monde",
-    "importance": 3
-  },
-  {
-    "id": "ae852ca34",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trump-Netanyahu : de \"très bons rapports\" malgré les tensions",
-    "extrait": "Après les turbulences, Washington met en avant ses \"très bons rapports\" avec Benjamin Netanyahu. Mais derrière l’affichage d’une entente retrouvée, les tensions entre les deux dirigeants interrogent la solidité de l’alliance américano-israélienne. Décryptage de notre correspondant Matthieu Mabin depuis Washington.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trump-netanyahu-de-tr%C3%A8s-bons-rapports-malgr%C3%A9-les-tensions",
-    "publie": "2026-10-07T14:50:52+00:00",
-    "resume": "Washington affirme entretenir de \"très bons rapports\" avec Benjamin Netanyahu malgré les tensions entre Trump et le Premier ministre israélien, interrogeant la solidité de l'alliance américano-israélienne.",
+    "resume": "Des soldats américains sont soumis à un couvre-feu d'un mois à Okinawa après le meurtre présumé d'une habitante par un Marine samedi 3 octobre ; le gouverneur réclame un allègement de la présence militaire.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -295,21 +283,9 @@
     "extrait": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
     "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T14:50:28+00:00",
-    "resume": "Trump doit s'entretenir avec Poutine concernant la mort d'une laborantine russe. Des craintes que le décès soit causé par la peste pneumonique ont suscité des appels à plus de transparence de la part de la Russie.",
+    "resume": "Donald Trump prévoit de s'entretenir avec Poutine au sujet du décès d'une laborantine russe, dont la mort pourrait être liée à la peste pneumonique.",
     "rubrique": "Monde",
     "importance": 3
-  },
-  {
-    "id": "a0d71c4aa",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mali : l'armée de retour à Kidal",
-    "extrait": "Sa perte en avril dernier avait constitué un revers magistral pour l'armée malienne. 7 mois après, les FAMa reprennent Kidal, ville stratégique du nord du Mali. Les Touaregs du FLA qui l'occupaient confirment s'être repliés. On fait le point avec Wassim Nasr.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal",
-    "publie": "2026-10-07T14:49:45+00:00",
-    "resume": "L'armée malienne reprend la ville stratégique de Kidal, perdue en avril dernier. Les combattants touaregs du FLA confirment s'être repliés après sept mois.",
-    "rubrique": "Monde",
-    "importance": 4
   },
   {
     "id": "a0f5746bb",
@@ -319,21 +295,9 @@
     "extrait": "Les députés ont voté un amendement du gouvernement recentrant le texte autour de l’exploitation sexuelle en ligne. Dans sa version initiale, celui-ci visait à étendre le régime pénal du proxénétisme pour pouvoir sanctionner les plateformes numériques.",
     "url": "https://www.lemonde.fr/pixels/article/2026/10/07/loi-integrale-contre-les-violences-sexuelles-les-plateformes-comme-onlyfans-finalement-epargnees-par-l-article-25_6789615_4408996.html",
     "publie": "2026-10-07T14:49:15+00:00",
-    "resume": "L'assemblée législative française vote un amendement gouvernemental recentrant une loi sur les violences sexuelles autour de l'exploitation en ligne, épargnant les plateformes comme OnlyFans du régime pénal du proxénétisme.",
+    "resume": "Les députés votent un amendement gouvernemental excluant les plateformes comme OnlyFans de la loi intégrale contre les violences sexuelles, recentrant le texte sur l'exploitation sexuelle en ligne.",
     "rubrique": "Politique",
-    "importance": 3
-  },
-  {
-    "id": "adf39b992",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Tunisie : une affaire de viol collectif présumé suscite l’émotion",
-    "extrait": "À Tunis, une adolescente aurait été séquestrée et victime d’un viol collectif dans le quartier de Mellassine. Hospitalisée dans un état préoccupant, l'affaire relance le débat sur les violences sexuelles et la protection des mineures. Plusieurs suspects ont été placés en détention, tandis que de nouvelles arrestations ont été annoncées le 5 octobre. Lilia Blaise, correspondante de France 24, revient sur les faits rapportés.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
-    "publie": "2026-10-07T14:46:49+00:00",
-    "resume": "En Tunisie, une adolescente aurait été séquestrée et victime d'un viol collectif à Tunis. Plusieurs suspects ont été placés en détention et de nouvelles arrestations ont été annoncées.",
-    "rubrique": "Monde",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "adb31895f",
@@ -343,9 +307,9 @@
     "extrait": "Mercredi 7 octobre, le défilé des politiques en campagne pour 2027 a eu lieu au Sommet de l'élevage de Cournon-d'Auvergne, près de Clermont-Ferrand. Marine Le Pen a ouvert le bal, suivie de François Ruffin, d'Éric Zemmour et de Nicolas Dupont-Aignan. Dans les travées, ils ont pu aller à la rencontre des agriculteurs et discuter avec un public venu nombreux.",
     "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/sommet-de-l-elevage-selfies-serrage-de-mains-le-pen-zemmour-ruffin-et-dupont-aignan-en-campagne-3429441.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:45:07+00:00",
-    "resume": "Plusieurs candidats à la présidentielle française 2027, dont Marine Le Pen, François Ruffin et Éric Zemmour, ont participé au Sommet de l'élevage près de Clermont-Ferrand pour rencontrer les agriculteurs.",
+    "resume": "Plusieurs candidats à la présidentielle de 2027 se sont déplacés au Sommet de l'élevage de Cournon-d'Auvergne le 7 octobre pour rencontrer des agriculteurs, notamment Marine Le Pen, François Ruffin, Éric Zemmour et Nicolas Dupont-Aignan.",
     "rubrique": "Politique",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a82cf59f8",
@@ -355,9 +319,9 @@
     "extrait": "Le point de vue défendu par le nouvel avocat du prévenu, maître Thomas Puccini, a été retenu par la Chambre des mises...",
     "url": "https://www.rtbf.be/article/il-n-est-pas-demontre-que-la-drogue-achetee-par-bryan-brigou-le-jour-de-sa-disparition-a-provoque-son-deces-11796535",
     "publie": "2026-10-07T14:43:00+00:00",
-    "resume": "La Chambre des mises en examen retient que la drogue achetée par Bryan Brigou le jour de sa disparition n'est pas démontrée comme cause de son décès.",
+    "resume": "Selon le nouvel avocat du prévenu dans l'affaire Bryan Brigou, il n'est pas démontré que la drogue achetée le jour de sa disparition a provoqué son décès, une position retenue par la Chambre des mises.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "ad3ce7406",
@@ -367,21 +331,9 @@
     "extrait": "Les syndicats socialiste FGTB et chrétien CSC manifesteront ce vendredi 9 octobre à Bruxelles pour émettre \"un premier...",
     "url": "https://www.rtbf.be/article/l-aeroport-de-charleroi-maintient-tous-ses-vols-lors-des-manifestations-ce-vendredi-9-et-ce-lundi-12-octobre-11796551",
     "publie": "2026-10-07T14:38:49+00:00",
-    "resume": "L'aéroport de Charleroi maintient tous ses vols lors des manifestations syndicales prévues vendredi 9 et lundi 12 octobre.",
+    "resume": "L'aéroport de Charleroi maintiendra tous ses vols lors des manifestations syndicales prévues les 9 et 12 octobre.",
     "rubrique": "Belgique",
     "importance": 2
-  },
-  {
-    "id": "a269699a1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Les dessous de la reprise de Kidal sans combats par l'armée malienne",
-    "extrait": "L’armée malienne, appuyée par les forces russes d’Africa Corps, annonce avoir repris Kidal le 6 octobre, après le départ des combattants du Front de libération de l’Azawad (FLA). Bastion de la rébellion touareg dans le nord du Mali, cette ville stratégique était repassée sous contrôle rebelle le 25 avril, lors d’une offensive menée conjointement avec les jihadistes du Groupe de soutien à l’islam et aux musulmans (GSIM). Explications de Wassim Nasr, journaliste France 24.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-les-secrets-de-la-reprise-de-kidal-sans-combats",
-    "publie": "2026-10-07T14:37:57+00:00",
-    "resume": "L'armée malienne, appuyée par les forces russes d'Africa Corps, annonce avoir repris Kidal le 6 octobre après le départ des combattants du Front de libération de l'Azawad.",
-    "rubrique": "Monde",
-    "importance": 4
   },
   {
     "id": "a1d7602df",
@@ -391,9 +343,9 @@
     "extrait": "Ces trois jeunes, âgés de 16 et 17 ans, \"sont suspectés d'avoir participé directement aux violences sur le commandant de police\" roué de coups vendredi, a précisé à l'AFP le procureur de Belfort.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:36:50+00:00",
-    "resume": "Trois suspects âgés de 16 et 17 ans sont en garde à vue pour leur participation aux violences contre un policier agressé à Belfort.",
+    "resume": "Trois jeunes âgés de 16 et 17 ans ont été placés en garde à vue après l'agression d'un policier à Belfort le vendredi précédent, soupçonnés d'avoir participé directement aux violences.",
     "rubrique": "Société",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a090d3125",
@@ -403,45 +355,9 @@
     "extrait": "Un adolescent de 16 ans s'est grièvement blessé à la main mercredi 7 octobre dans la matinée, devant l'établissement Couffignal à Strasbourg lors de tensions sporadiques avec les forces de l'ordre. Il a perdu plusieurs phalanges après avoir manipulé un mortier.",
     "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/un-jeune-homme-grievement-blesse-a-la-main-apres-avoir-manipule-un-mortier-lors-d-une-mobilisation-lyceenne-3429465.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:35:54+00:00",
-    "resume": "Un adolescent de 16 ans s'est grièvement blessé à la main en manipulant un mortier devant un lycée à Strasbourg, perdant plusieurs phalanges.",
-    "rubrique": "Société",
-    "importance": 2
-  },
-  {
-    "id": "aae2f0ae1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Le journaliste Moussa Kaka \"en vie et détenu\" au Niger, selon RSF",
-    "extrait": "Le journaliste Moussa Kaka aurait été arrêté par les autorités nigériennes. Reporters sans frontières affirme qu’il est \"en vie et détenu\". Notre invité, Sadibou Marong, directeur du bureau Afrique de l’Ouest de RSF, fait le point sur sa situation et les démarches engagées pour obtenir sa libération.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-le-journaliste-moussa-kaka-en-vie-et-d%C3%A9tenu-au-niger-selon-rsf",
-    "publie": "2026-10-07T14:35:30+00:00",
-    "resume": "Le journaliste Moussa Kaka a été arrêté par les autorités nigériennes et est détenu, selon Reporters sans frontières.",
-    "rubrique": "Monde",
-    "importance": 3
-  },
-  {
-    "id": "afa927a70",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mouvement lycéen : entre reprise des cours et blocages",
-    "extrait": "Entre deux journées de mobilisation, le gouvernement multiplie les signes d'apaisement à l'attention de jeunes qui, pour certains, ont repris le chemin des cours mais pour d'autres continuent les blocages.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mouvement-lyc%C3%A9en-entre-reprise-des-cours-et-blocages",
-    "publie": "2026-10-07T14:33:50+00:00",
-    "resume": "Un mouvement lycéen persiste en France avec des reprises partielles des cours et des blocages continus, tandis que le gouvernement multiplie les signes d'apaisement.",
+    "resume": "Un adolescent de 16 ans s'est grièvement blessé à la main le 7 octobre après avoir manipulé un mortier devant son lycée à Strasbourg, perdant plusieurs phalanges lors de tensions avec les forces de l'ordre.",
     "rubrique": "Société",
     "importance": 3
-  },
-  {
-    "id": "ae0d2a93c",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "À Gaza, les frappes israéliennes se poursuivent malgré le cessez-le-feu annoncé",
-    "extrait": "Les frappes israéliennes se poursuivent à Gaza malgré le cessez-le-feu annoncé en octobre 2025. En trois ans, plus de 73 000 Palestiniens ont été tués, selon les autorités sanitaires de Gaza. La population reste confrontée à une catastrophe humanitaire, entre déplacements répétés, destructions et difficultés d’accès à l’aide. Récit de Marc Paupe.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-%C3%A0-gaza-les-frappes-isra%C3%A9liennes-se-poursuivent-malgr%C3%A9-le-cessez-le-feu-annonc%C3%A9",
-    "publie": "2026-10-07T14:31:17+00:00",
-    "resume": "Les frappes israéliennes se poursuivent à Gaza malgré le cessez-le-feu annoncé en octobre 2025. Plus de 73 000 Palestiniens ont été tués en trois ans selon les autorités sanitaires de Gaza.",
-    "rubrique": "Monde",
-    "importance": 5
   },
   {
     "id": "ad7b35edc",
@@ -450,10 +366,10 @@
     "titre": "« On est encore au Moyen Age » : dans l’e-sport, les femmes en première ligne des violences sexistes et sexuelles",
     "extrait": "Un streameur et commentateur réputé de « League of Legends » a été mis en examen en juillet pour viol, selon les informations du « Monde ». Un cas révélateur des violences sexuelles qui n’épargnent pas l’e-sport, un secteur très masculin au sein duquel la parole des femmes peine à être écoutée.",
     "url": "https://www.lemonde.fr/pixels/article/2026/10/07/on-est-encore-au-moyen-age-dans-l-e-sport-les-femmes-en-premiere-ligne-des-violences-sexistes-et-sexuelles_6789614_4408996.html",
-    "publie": "2026-10-07T14:30:14+00:00",
-    "resume": "Un streameur réputé de jeux vidéo a été mis en examen en juillet pour viol. L'e-sport, secteur très masculin, est confronté à des problèmes de violences sexuelles et sexistes.",
+    "publie": "2026-10-07T14:30:03+00:00",
+    "resume": "Un streameur réputé de « League of Legends » a été mis en examen en juillet pour viol, révélant les violences sexuelles qui touchent le secteur très masculin de l'e-sport.",
     "rubrique": "Société",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a4c99edc0",
@@ -463,9 +379,9 @@
     "extrait": "Le code du bien-être animal (et la question de l’interdiction de l’abattage sans étourdissement ) constitue depuis...",
     "url": "https://www.rtbf.be/article/code-du-bien-etre-animal-a-bruxelles-la-n-va-accuse-le-mr-de-ceder-au-ps-11796488",
     "publie": "2026-10-07T14:28:20+00:00",
-    "resume": "En Belgique, la N-VA accuse le MR de céder au PS concernant le code du bien-être animal et l'interdiction de l'abattage sans étourdissement à Bruxelles.",
+    "resume": "La N-VA accuse le MR de céder au PS concernant le code du bien-être animal et la question de l'interdiction de l'abattage sans étourdissement à Bruxelles.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a4d3c1224",
@@ -475,9 +391,9 @@
     "extrait": "Après plus d’une journée de voyage, les astronautes traverseront l’atmosphère à une vitesse extrêmement élevée. Dans les dernières minutes de vol, leur vaisseau sera ralenti par de puissants parachutes pour amerrir dans l’océan Pacifique, au large de la Californie. Le « splashdown » est prévu par la Nasa à 17 h 34, heure de Paris, jeudi.",
     "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html",
     "publie": "2026-10-07T14:27:49+00:00",
-    "resume": "L'astronaute Sophie Adenot retourne vers la Terre après avoir passé 235 jours dans l'espace. Son amerrissage dans l'océan Pacifique est prévu jeudi.",
+    "resume": "L'astronaute française Sophie Adenot est en route vers la Terre après avoir passé 235 jours dans l'espace, avec un amerrissage prévu le 8 octobre dans l'océan Pacifique.",
     "rubrique": "Sciences & Tech",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a725eaff5",
@@ -487,33 +403,9 @@
     "extrait": "Les adolescents dansent et montent sur l'autel, et se mettent en scène scandant un morceau du rappeur Boro 700 faisant référence à Mohamed Merah et Salah Abdeslam. Une enquête a été ouverte par le parquet des mineurs.",
     "url": "https://www.franceinfo.fr/faits-divers/vendee-une-dizaine-de-jeunes-filmes-dans-une-eglise-en-train-de-chanter-un-morceau-faisant-l-apologie-du-terrorisme_8226808.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:24:34+00:00",
-    "resume": "Une dizaine de jeunes ont été filmés dans une église de Vendée en train de danser et chanter un morceau faisant l'apologie du terrorisme. Une enquête a été ouverte.",
+    "resume": "Une dizaine d'adolescents se sont filmés dans une église de Vendée en train de chanter un morceau faisant l'apologie du terrorisme, une enquête a été ouverte par le parquet des mineurs.",
     "rubrique": "Société",
-    "importance": 2
-  },
-  {
-    "id": "a7219b606",
-    "source": "RTBF Info",
-    "lang": "fr",
-    "titre": "Direct - Manifestation des élèves : tensions à Liège, la police disperse les manifestants",
-    "extrait": "Des centaines d’étudiants manifestaient ce mercredi dans plusieurs villes wallonnes et à Bruxelles, annonçant une...",
-    "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-tensions-a-liege-la-police-disperse-les-manifestants-11796189",
-    "publie": "2026-10-07T14:23:13+00:00",
-    "resume": "Des centaines d'étudiants manifestent mercredi à Liège et dans plusieurs villes wallonnes, avec des tensions et des dispersions de manifestants par la police.",
-    "rubrique": "Belgique",
     "importance": 3
-  },
-  {
-    "id": "af2fbb3a1",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Après le 7-Octobre, aider les survivants du massacre à se reconstruire",
-    "extrait": "Trois ans après les attaques du 7-Octobre, la douleur reste vive pour les survivants. Invité en plateau, David Barouch, fondateur de l’association Netzer 7.10, raconte son engagement pour les accompagner et les aider à retrouver des perspectives de vie malgré le traumatisme.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-apr%C3%A8s-le-7-octobre-aider-les-survivants-du-massacre-%C3%A0-se-reconstruire",
-    "publie": "2026-10-07T14:20:37+00:00",
-    "resume": "Trois ans après les attaques du 7-Octobre, l'association Netzer 7.10 accompagne les survivants pour les aider à se reconstruire et retrouver des perspectives de vie.",
-    "rubrique": "Monde",
-    "importance": 2
   },
   {
     "id": "ada30f231",
@@ -523,7 +415,7 @@
     "extrait": "L’enseigne de luxe financera à hauteur de 2 millions d’euros les travaux aux abords de son futur grand magasin, une démarche que le maire, Emmanuel Grégoire, « assume totalement » face aux critiques.",
     "url": "https://www.lemonde.fr/politique/article/2026/10/07/la-ville-de-paris-confie-a-louis-vuitton-le-reamenagement-de-deux-rues-pres-des-champs-elysees_6789610_823448.html",
     "publie": "2026-10-07T14:19:04+00:00",
-    "resume": "La Ville de Paris confie à Louis Vuitton le réaménagement de deux rues près des Champs-Élysées. L'enseigne de luxe finance les travaux à hauteur de 2 millions d'euros.",
+    "resume": "La Ville de Paris confie à Louis Vuitton le réaménagement de deux rues près des Champs-Élysées, l'enseigne finançant les travaux à hauteur de 2 millions d'euros.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -535,9 +427,9 @@
     "extrait": "Le ministre de l'Intérieur vient d'annoncer la suspension des grenades assourdissantes lors des mobilisations lycéennes, deux jours après qu'un adolescent de 15 ans a eu la main arrachée. Mais la colère reste vive chez les lycéens que franceinfo a rencontrés à Lens.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:15:12+00:00",
-    "resume": "À Lens, la colère des lycéens persiste après qu'un adolescent de 15 ans ait eu la main arrachée. Le ministre de l'Intérieur annonce la suspension des grenades assourdissantes lors des mobilisations.",
+    "resume": "Après qu'un adolescent de 15 ans ait eu la main arrachée lors de tensions lycéennes, le ministre de l'Intérieur a annoncé la suspension des grenades assourdissantes, mais la colère des lycéens reste vive.",
     "rubrique": "Société",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "aefe201e1",
@@ -547,9 +439,9 @@
     "extrait": "Des mineures comptent parmi les victimes. Selon le parquet, \"les utilisateurs du site étaient incités, contre récompense en monnaie virtuelle, à fournir des informations d’identification de chaque victime\".",
     "url": "https://www.franceinfo.fr/societe/justice/deux-personnes-interpellees-en-france-soupconnees-d-administrer-une-plateforme-vendant-des-contenus-intimes-voles-a-plus-de-17-000-femmes_8226976.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:13:58+00:00",
-    "resume": "Deux personnes ont été interpellées en France pour administrer une plateforme vendant des contenus intimes volés à plus de 17 000 femmes, dont des mineures.",
+    "resume": "Deux personnes ont été interpellées en France pour administrer une plateforme vendant des contenus intimes volés à plus de 17 000 femmes, des mineures figurant parmi les victimes.",
     "rubrique": "Société",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "aaf5051cc",
@@ -559,21 +451,9 @@
     "extrait": "Le campus de Sciences Po est bloqué par des étudiants mercredi à Paris. Ils s'insèrent ainsi dans le mouvement qui a rassemblé plusieurs centaines de milliers de personnes dans la rue mardi.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-nous-serons-la-en-2027-et-nous-irons-voter-devant-sciences-po-des-etudiants-se-joignent-a-la-colere-des-lyceens_8226799.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:05:32+00:00",
-    "resume": "Le campus de Sciences Po est bloqué par des étudiants qui se joignent au mouvement lycéen en France.",
+    "resume": "Le campus de Sciences Po à Paris est bloqué par des étudiants le 7 octobre, s'associant au mouvement de mobilisation lycéenne qui a rassemblé plusieurs centaines de milliers de personnes.",
     "rubrique": "Société",
-    "importance": 2
-  },
-  {
-    "id": "afd32a5b5",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "\"Naza\" : le documentaire choc sur les frappes de l'armée israélienne à Gaza",
-    "extrait": "Dans ce numéro de \"À l'Affiche !\" consacré aux sorties cinéma de la semaine, Thomas Baurez et Natacha Vesnitch s'arrêtent sur le documentaire \"Naza\", des réalisateurs israéliens Rachel Szor et Yuval Abraham. Acclamé à la dernière Mostra de Venise, où il a remporté le Prix spécial du Jury, le documentaire dévoile la façon dont le gouvernement israélien organise la destruction de la bande de Gaza et de sa population palestinienne.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261007-naza-le-documentaire-choc-sur-les-frappes-de-l-arm%C3%A9e-isra%C3%A9lienne-%C3%A0-gaza",
-    "publie": "2026-10-07T14:03:51+00:00",
-    "resume": "Le documentaire « Naza » des réalisateurs israéliens Rachel Szor et Yuval Abraham, lauréat du Prix spécial du Jury à Venise, expose les frappes de l'armée israélienne à Gaza.",
-    "rubrique": "Culture",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "aeec8ad93",
@@ -583,9 +463,9 @@
     "extrait": "L'émotion est très forte ce mercredi 7 octobre en Israel, où l'on commémore les attaques terroristes de 2023 menées par le Hamas, qui ont fait 1 221 mort dont 51 Français. Des cérémonies se tiennent sur les différents lieux où se sont déroulés les massacres.",
     "url": "https://www.franceinfo.fr/monde/israel/nos-vies-ont-ete-devastees-a-jamais-en-israel-une-journee-d-hommages-aux-victimes-du-7-octobre_8226892.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T14:02:41+00:00",
-    "resume": "Israël commémore mercredi les attaques terroristes du 7-Octobre 2023 menées par le Hamas, qui ont tué 1 221 personnes dont 51 Français.",
+    "resume": "Israël commémore le 7 octobre les attaques terroristes du Hamas de 2023 qui ont fait 1 221 morts dont 51 Français, avec des cérémonies sur les lieux des massacres.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a57889149",
@@ -595,8 +475,8 @@
     "extrait": "Les magistrats financiers insistent, dans un rapport publié mercredi 7 octobre, sur la nécessité de maintenir les efforts en faveur de la décarbonation et de l’adaptation au changement climatique. Un objectif qui « n’est pas contraire aux intérêts économiques de la France ».",
     "url": "https://www.lemonde.fr/planete/article/2026/10/07/la-cour-des-comptes-appelle-a-fortement-augmenter-les-depenses-en-faveur-de-la-transition-ecologique_6789609_3244.html",
     "publie": "2026-10-07T14:02:24+00:00",
-    "resume": "La Cour des comptes française appelle à fortement augmenter les dépenses en faveur de la transition écologique et de la décarbonation.",
-    "rubrique": "Environnement",
+    "resume": "La Cour des comptes appelle à « fortement augmenter » les dépenses en faveur de la transition écologique et de l'adaptation au changement climatique, dans un rapport publié le 7 octobre.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -607,9 +487,9 @@
     "extrait": "Il y a d'abord bien sûr les vaccins contre la grippe et le Covid. Ils sont à refaire chaque année et sont adaptés aux...",
     "url": "https://www.rtbf.be/article/nouvelle-campagne-de-vaccination-contre-la-grippe-qui-doit-le-faire-combien-ca-coute-11796508",
     "publie": "2026-10-07T14:01:48+00:00",
-    "resume": "La Belgique lance une nouvelle campagne de vaccination contre la grippe et le Covid, vaccines qui doivent être renouvelés chaque année.",
+    "resume": "Une nouvelle campagne de vaccination contre la grippe est lancée, présentant les vaccins à refaire chaque année adaptés aux variants circulants.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a83218927",
@@ -619,20 +499,8 @@
     "extrait": "La Mongolie a elle ordonné mercredi une \"surveillance\" à sa frontière. La mort de cette technicienne de laboratoire, qui...",
     "url": "https://www.rtbf.be/article/la-russie-dement-tout-risque-epidemique-apres-des-soupcons-de-peste-en-siberie-11796517",
     "publie": "2026-10-07T14:00:13+00:00",
-    "resume": "La Russie dément tout risque épidémique après des soupçons de peste en Sibérie ; la Mongolie ordonne une surveillance à sa frontière.",
+    "resume": "La Russie dément tout « risque épidémique » après des soupçons de peste en Sibérie, tandis que la Mongolie ordonne une « surveillance » à sa frontière.",
     "rubrique": "Monde",
-    "importance": 4
-  },
-  {
-    "id": "a07c47e4e",
-    "source": "Le Monde",
-    "lang": "fr",
-    "titre": "Action contre la faim en quête d’indépendance : « Chaque jour, on doit faire des choix dans les souffrances des gens »",
-    "extrait": "Même si les Etats-Unis ont rouvert le robinet d’aide à l’ONG française pour répondre à l’épidémie d’Ebola en République démocratique du Congo, l’association continue de subir la baisse globale des financements publics américains et européens. Une dépendance dont elle cherche à sortir en ciblant les dons provenant des particuliers et des grandes entreprises.",
-    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/07/action-contre-la-faim-en-quete-d-independance-chaque-jour-on-doit-faire-des-choix-dans-les-souffrances-des-gens_6789608_4500055.html",
-    "publie": "2026-10-07T14:00:03+00:00",
-    "resume": "Action contre la faim cherche à réduire sa dépendance aux financements publics américains et européens en ciblant les dons de particuliers et grandes entreprises, malgré la réouverture de l'aide américaine pour l'épidémie d'Ebola en RDC.",
-    "rubrique": "Société",
     "importance": 2
   },
   {
@@ -643,8 +511,8 @@
     "extrait": "Deux autres lycéens, placés en garde à vue pour les incidents, seront également jugés, notamment pour dégradations, vol d'un bouclier anti-émeute et participation à un groupement formé en vue de la préparation de violences.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-juge-en-fevrier-apres-l-agression-d-un-enseignant-asperge-d-essence-a-la-ciotat-en-marge-d-une-manifestation-lyceenne_8226937.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:52:39+00:00",
-    "resume": "Un adolescent sera jugé en février pour l'agression d'un enseignant aspergé d'essence lors d'une manifestation lycéenne à La Ciotat ; deux autres lycéens seront également jugés pour dégradations et vol.",
-    "rubrique": "Politique",
+    "resume": "Un adolescent sera jugé en février après l'agression d'un enseignant aspergé d'essence lors d'une manifestation lycéenne à La Ciotat, deux autres lycéens devant également être jugés.",
+    "rubrique": "Société",
     "importance": 3
   },
   {
@@ -655,7 +523,7 @@
     "extrait": "Le Premier ministre, Sébastien Lecornu, doit s'exprimer mercredi soir depuis Matignon, notamment sur la crise des lycéens. Une prise de parole attendue dans un contexte explosif.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:50:26+00:00",
-    "resume": "Le Premier ministre Sébastien Lecornu doit s'exprimer mercredi soir sur la crise de la mobilisation lycéenne, dans un contexte qu'il décrit comme explosif.",
+    "resume": "Le Premier ministre Sébastien Lecornu doit s'exprimer le 7 octobre soir depuis Matignon notamment sur la crise des lycéens, dans un contexte décrit comme explosif.",
     "rubrique": "Politique",
     "importance": 4
   },
@@ -667,21 +535,9 @@
     "extrait": "Laurent Nuñez a été auditionné mercredi par la commission des lois de l'Assemblée nationale au sujet de la gestion de l'ordre public lors des mobilisations lycéennes.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-blocages-doivent-reprendre-mercredi-matin-au-lendemain-de-la-grande-journee-de-manifestations_8226211.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:45:06+00:00",
-    "resume": "Le ministre français de l'Intérieur Laurent Nuñez affirme qu'il n'y a pas d'intervention des forces de l'ordre lors de manifestations pacifiques, lors de son audition à la commission des lois.",
+    "resume": "Le ministre de l'Intérieur Laurent Nuñez affirme lors d'une audition qu'il n'y a pas d'intervention des forces de l'ordre lors de manifestations pacifiques.",
     "rubrique": "Politique",
     "importance": 3
-  },
-  {
-    "id": "abcd3b8f8",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Soupçon de peste en Russie : un possible deuxième cas suspect, Moscou appelé à plus de transparence",
-    "extrait": "L'Organisation mondiale de la santé, les États-Unis et l'Union européenne ont appelé mercredi la Russie à faire preuve de davantage de transparence après la mort d'une laborantine travaillant dans un institut étudiant la peste, alors que des informations évoquent un possible deuxième cas suspect. \"Aucun trouble de santé lié à une pathologie infectieuse n'a été détecté\", assure de son côté l'agence de santé publique russe.",
-    "url": "https://www.france24.com/fr/europe/20261007-soup%C3%A7on-peste-russie-possible-deuxi%C3%A8me-cas-suspect-appel%C3%A9-transparence",
-    "publie": "2026-10-07T13:44:17+00:00",
-    "resume": "L'OMS, les États-Unis et l'UE demandent à la Russie plus de transparence après la mort d'une laborantine dans un institut d'études sur la peste, avec rapports d'un possible deuxième cas suspect.",
-    "rubrique": "Monde",
-    "importance": 4
   },
   {
     "id": "a94dde945",
@@ -691,7 +547,7 @@
     "extrait": "L'astronaute française et ses coéquipiers du Crew-12 ont embarqué, mercredi, à bord d'une capsule Crew Dragon. Elle s'est détachée de l'ISS à 14h05.",
     "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/video-sophie-adenot-a-quitte-la-station-spatiale-internationale-et-doit-arriver-sur-terre-jeudi-apres-midi_8226928.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:42:53+00:00",
-    "resume": "L'astronaute française Sophie Adenot et ses coéquipiers du Crew-12 ont quitté la Station spatiale internationale mercredi et doivent arriver sur Terre jeudi après-midi.",
+    "resume": "L'astronaute française Sophie Adenot et ses coéquipiers ont quitté la Station spatiale internationale le 7 octobre à bord d'une capsule Crew Dragon, arrivée prévue jeudi après-midi.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -703,19 +559,7 @@
     "extrait": "Après six missions humanitaires à Gaza en un an et demi, ce Français dénonce notamment des réactions \"tièdes\" de la communauté internationale et une famine \"qui n'aurait jamais dû arriver\".",
     "url": "https://www.franceinfo.fr/monde/palestine/gaza/temoignage-on-n-en-sort-pas-indemne-degoute-par-l-inaction-internationale-a-gaza-un-humanitaire-francais-jette-l-eponge_8226457.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:38:01+00:00",
-    "resume": "Un humanitaire français quitte le secteur après six missions à Gaza en un an et demi, dénonçant l'inaction internationale et une famine qu'il estime aurait pu être évitée.",
-    "rubrique": "Monde",
-    "importance": 3
-  },
-  {
-    "id": "a550e396a",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Obsèques en Chine : Pékin veut privilégier la crémation",
-    "extrait": "Cette année, la Chine a publié de nouvelles règles pour encadrer les obsèques. Le gouvernement y prône des services abordables et respectueux de l'environnement dans la continuité d'une politique qu'il mène depuis des décennies : imposer la crémation. Mais dans les campagnes – où l'on enterre ses morts sur ses terres depuis des siècles – beaucoup de familles résistent. Comment cette modernisation voulue par Pékin est-elle vécue ? Reportage de Yena Lee, avec Lou Kisiela.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/focus/20261007-obs%C3%A8ques-en-chine-p%C3%A9kin-veut-privil%C3%A9gier-la-cr%C3%A9mation",
-    "publie": "2026-10-07T13:37:36+00:00",
-    "resume": "La Chine publie de nouvelles règles pour encadrer les obsèques, promouvant la crémation et des services respectueux de l'environnement, mais rencontre une résistance dans les zones rurales où l'inhumation reste traditionnelle.",
+    "resume": "Un humanitaire français renonce après six missions à Gaza en un an et demi, dénonçant l'inaction internationale et une famine qui « n'aurait jamais dû arriver ».",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -727,20 +571,8 @@
     "extrait": "La précision des détails, notamment dans les plis des étoffes, les visages ou les bijoux, est l'une des caractéristiques du peintre.",
     "url": "https://www.franceinfo.fr/culture/arts-expos/meilleures-expos/les-clairs-obscurs-du-maitre-espagnol-zurbaran-l-un-des-plus-importants-peintres-espagnols-du-xviie-siecle-exposes-en-majeste-au-louvre_8226829.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:31:26+00:00",
-    "resume": "Une exposition au Louvre présente les œuvres du maître espagnol Zurbaran, figure majeure de la peinture du XVIIe siècle, caractérisée par la précision des détails.",
+    "resume": "Une exposition au Louvre présente les œuvres du maître espagnol Zurbaran du XVIIe siècle, mettant en avant la précision de ses détails dans les étoffes, visages et bijoux.",
     "rubrique": "Culture",
-    "importance": 2
-  },
-  {
-    "id": "aa61e1de4",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Derrière l'image : les insectes seront-ils la nourriture du futur ?",
-    "extrait": "Dans \"Derrière l’image\", focus sur l’élevage d’insectes et ses perspectives en Europe. Gabrielle Maréchaux, journaliste environnement à The Conversation France, décrypte les promesses de cette filière et les obstacles à son développement. Quelle place les insectes pourraient-ils prendre dans notre alimentation ?",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-derri%C3%A8re-l-image-les-insectes-seront-ils-la-nourriture-du-futur",
-    "publie": "2026-10-07T13:26:20+00:00",
-    "resume": "Un focus médiatique s'interroge sur le potentiel des insectes comme source de nourriture future en Europe et les obstacles à son développement.",
-    "rubrique": "Environnement",
     "importance": 2
   },
   {
@@ -751,33 +583,9 @@
     "extrait": "« Le Monde » s’est rendu dans un territoire rural enclavé pour prendre le pouls des habitants éprouvés par de multiples crises. Le premier ministre s’exprimera mercredi soir sur le sujet, la situation financière et la mobilisation lycéenne.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/07/sur-la-route-de-la-crise-du-pouvoir-d-achat-dans-la-bresse-bourguignonne-ca-craque-de-tous-les-cotes-on-a-l-impression-de-perdre-prise_6789605_3224.html",
     "publie": "2026-10-07T13:26:02+00:00",
-    "resume": "Un reportage expose la crise du pouvoir d'achat dans un territoire rural enclavé de Bourgogne, où les habitants témoignent de difficultés multiples.",
+    "resume": "Une enquête dans la Bresse bourguignonne montre le malaise financier des habitants face aux crises multiples, alors que le Premier ministre doit s'exprimer sur le pouvoir d'achat.",
     "rubrique": "Économie",
     "importance": 3
-  },
-  {
-    "id": "a84c2f905",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trois ans après le 7-Octobre, le poids du traumatisme dans la société israélienne",
-    "extrait": "Les attaques du 7-Octobre ont fait près de 1 200 morts. Trois ans plus tard, comment ce traumatisme marque-t-il encore la société israélienne ? Invité en plateau, Guy Poran, ancien officier et pilote d’hélicoptère de l’armée de l’air israélienne, analyse les répercussions de cette journée sur le pays et ses habitants.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-le-7-octobre-le-poids-du-traumatisme-dans-la-soci%C3%A9t%C3%A9-isra%C3%A9lienne",
-    "publie": "2026-10-07T13:24:13+00:00",
-    "resume": "Trois ans après les attaques du 7-Octobre qui ont tué environ 1 200 personnes, le traumatisme continue de marquer profondément la société israélienne.",
-    "rubrique": "Monde",
-    "importance": 3
-  },
-  {
-    "id": "ab02c0e10",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Attaques du 7-Octobre : notre reporter raconte les premiers jours sur le terrain",
-    "extrait": "Notre reporter Pauline Godart a été parmi les premières journalistes à se rendre sur le site du festival Nova après les attaques du Hamas du 7-Octobre 2023. Trois ans plus tard, elle revient sur ce qu’elle a découvert sur place et raconte les premiers jours sur place.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-attaques-du-7-octobre-notre-reporter-raconte-les-premiers-jours-sur-le-terrain",
-    "publie": "2026-10-07T13:19:06+00:00",
-    "resume": "Une journaliste revient sur son reportage des premiers jours après les attaques du Hamas du 7-Octobre 2023, trois ans après.",
-    "rubrique": "Monde",
-    "importance": 2
   },
   {
     "id": "a426d86a5",
@@ -787,7 +595,7 @@
     "extrait": "Le chef du Rassemblement national est dans la tourmente depuis la publication, fin septembre, de messages antisémites remontant à 2013, dont le site d'investigation assure avoir pu vérifier l'authenticité.",
     "url": "https://www.franceinfo.fr/politique/front-national/marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-apres-la-divulgation-par-mediapart-d-ecrits-antisemites-attribues-au-president-du-rn_8226883.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:18:46+00:00",
-    "resume": "Marine Le Pen maintient sa confiance en Jordan Bardella après la publication par Mediapart de messages antisémites attribués au président du RN remontant à 2013.",
+    "resume": "Marine Le Pen maintient sa confiance envers Jordan Bardella après la divulgation par Mediapart d'écrits antisémites attribués au président du RN remontant à 2013.",
     "rubrique": "Politique",
     "importance": 4
   },
@@ -799,21 +607,9 @@
     "extrait": "Selon Frédéric Francis, professeur d’entomologie (Gembloux Agro-Bio Tech), les punaises qui tentent actuellement de se...",
     "url": "https://www.rtbf.be/article/a-la-recherche-d-un-abri-pour-l-hiver-les-punaises-marbrees-s-invitent-dans-les-maisons-11796299",
     "publie": "2026-10-07T13:14:16+00:00",
-    "resume": "Les punaises marbrées cherchent des abris dans les maisons pour l'hiver, selon un professeur d'entomologie belge.",
+    "resume": "Les punaises marbrées cherchent des abris pour l'hiver et s'introduisent dans les maisons belges, selon un professeur d'entomologie de Gembloux Agro-Bio Tech.",
     "rubrique": "Belgique",
     "importance": 2
-  },
-  {
-    "id": "aa7409b1e",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Trois ans après le 7-Octobre, Israël rend hommage aux 1 200 victimes",
-    "extrait": "Trois ans après les attaques du Hamas, Israël se recueille en mémoire des quelque 1 200 personnes tuées le 7-Octobre. Invité en plateau, Samy Cohen, directeur de recherche émérite à Sciences Po, revient sur ce traumatisme national et ses conséquences pour la société israélienne.",
-    "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-rend-hommage-aux-1-200-victimes",
-    "publie": "2026-10-07T13:13:31+00:00",
-    "resume": "Israël rend hommage aux environ 1 200 victimes des attaques du 7-Octobre commises par le Hamas trois ans auparavant.",
-    "rubrique": "Monde",
-    "importance": 3
   },
   {
     "id": "aa0879146",
@@ -823,8 +619,8 @@
     "extrait": "Ce véhicule a surgi lundi sur une pelouse lors d'une manifestation de lycéens. Un gyrophare est posé sur le toit, mais il est éteint : pas de sirène, ni de signal lumineux. Au volant se trouve un policier casqué, fenêtre ouverte, selon ICI.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-voiture-de-police-banalisee-fonce-vers-des-lyceens-en-train-de-manifester-a-bourgoin-jallieu-en-isere_8226889.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T13:13:11+00:00",
-    "resume": "Une voiture de police banalisée a foncé vers des lycéens en manifestation lundi à Bourgoin-Jallieu, sans sirène ni signal lumineux allumé.",
-    "rubrique": "Politique",
+    "resume": "Une voiture de police banalisée a foncé vers des lycéens en manifestation à Bourgoin-Jallieu en Isère, sans gyrophare ni sirène activés.",
+    "rubrique": "Autres",
     "importance": 3
   },
   {
@@ -835,9 +631,9 @@
     "extrait": "Diane à 18 ans et étudie à Mons, elle est en 6e secondaire à l’Institut d’Enseignement Paramédical Provincial et...",
     "url": "https://www.rtbf.be/article/mobilisation-etudiante-a-mons-les-eleves-portent-leurs-messages-et-ecartent-les-casseurs-11796471",
     "publie": "2026-10-07T13:09:25+00:00",
-    "resume": "Une mobilisation étudiante se déroule à Mons avec des messages portés par les élèves, qui écartent les casseurs.",
+    "resume": "Des étudiants se mobilisent à Mons en portant leurs messages de protestation tout en écartant les casseurs.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a73af9b33",
@@ -847,9 +643,9 @@
     "extrait": "Le corps sans vie de cette maman de deux fillettes, âgées de 3 et 6 ans, a été découvert hier. C'est l'école de la...",
     "url": "https://www.rtbf.be/article/feminicide-presume-a-saint-gilles-une-mere-de-deux-enfants-violemment-tuee-11796459",
     "publie": "2026-10-07T13:07:32+00:00",
-    "resume": "Une femme mère de deux enfants a été retrouvée morte à Saint-Gilles, dans ce qui est présumé être un féminicide.",
+    "resume": "Le corps d'une mère de deux enfants a été découvert à Saint-Gilles ; les autorités enquêtent sur un féminicide présumé.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "aa76726d1",
@@ -859,8 +655,8 @@
     "extrait": "« Réflexion faite » (1/6). Entre 6 et 18 mois, le bébé découvre son reflet et fait l’expérience du moi. C’est le « stade du miroir », selon Lacan. Et si cette expérience ne se limitait pas à l’enfance ? Et si, tout au long de la vie, le miroir était le lieu des révélations intimes ? « Le Monde » a recueilli le témoignage de 19 personnes ayant vécu un moment déterminant face à leur image.",
     "url": "https://www.lemonde.fr/intimites/visuel/2026/10/07/de-7-a-80-ans-ils-racontent-un-moment-de-verite-face-au-miroir_6789602_6190330.html",
     "publie": "2026-10-07T13:00:11+00:00",
-    "resume": "Un reportage recueille les témoignages de 19 personnes de 7 à 80 ans ayant vécu un moment déterminant face à leur reflet dans un miroir.",
-    "rubrique": "Autres",
+    "resume": "Le Monde recueille les témoignages de 19 personnes de 7 à 80 ans sur des moments déterminants face à leur reflet dans le miroir.",
+    "rubrique": "Culture",
     "importance": 1
   },
   {
@@ -871,8 +667,8 @@
     "extrait": "Quelque 266 000 manifestants ont été recensés dans les rues mardi par le ministère de l'Intérieur, contre 450 000 par les organisateurs.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/en-soutien-a-la-mobilisation-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-faire-greve-et-manifester-jeudi_8226832.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T12:54:51+00:00",
-    "resume": "Plusieurs syndicats de l'Éducation nationale française appellent à la grève et aux manifestations jeudi en soutien aux lycéens ; environ 266 000 manifestants ont été recensés mardi.",
-    "rubrique": "Politique",
+    "resume": "Plusieurs syndicats de l'Éducation nationale française appellent à la grève et à la manifestation jeudi en soutien aux lycéens ; 266 000 manifestants ont été comptabilisés mardi.",
+    "rubrique": "Autres",
     "importance": 4
   },
   {
@@ -883,7 +679,7 @@
     "extrait": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
     "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T12:46:39+00:00",
-    "resume": "Dix personnes sont mises en quarantaine au Kenya en lien avec le premier cas d'Ebola du pays ; le patient avait circulé dans plusieurs villes de RDC avant de se rendre en Ouganda et voler vers le Kenya.",
+    "resume": "Dix personnes liées au premier cas confirmé d'Ebola au Kenya sont placées en quarantaine ; le patient avait transité par plusieurs villes en République démocratique du Congo et en Ouganda avant de se rendre au Kenya.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -895,32 +691,8 @@
     "extrait": "L'usage des grenades assourdissantes a été suspendu \"pour le mouvement lycéen\", a annoncé mercredi Laurent Nuñez après notamment qu'un manifestant de 15 ans a eu la main arrachée à Lens.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-utilisation-des-grenades-assourdissantes-suspendue-quatre-questions-sur-ces-armes-utilisees-par-les-forces-de-l-ordre-lors-des-manifestations_8226766.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T12:41:52+00:00",
-    "resume": "L'utilisation des grenades assourdissantes est suspendue pour le mouvement lycéen français après qu'un manifestant de 15 ans ait eu la main arrachée à Lens.",
-    "rubrique": "Politique",
-    "importance": 4
-  },
-  {
-    "id": "a3bc6fdb0",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Compétition mondiale dans les télécommunications : l'Europe en proie aux géants de la tech ?",
-    "extrait": "Après les panneaux photovoltaïques et l'automobile, les télécommunications européennes pourraient sombrer dans la crise. À cause de quoi, ou plutôt, de qui ? De la concurrence des géants américains de la tech. On ne les appelle plus les \"Gafam\" mais les \"Mangos\" pour Meta, Anthropic, Nvidia, Google, OpenAI et SpaceX. Les \"Mangos\" pourraient transformer les Deutsch Telekom, Orange, Vodafone ou Telefónica en vulgaires prestataires.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261007-comp%C3%A9tition-mondiale-dans-les-t%C3%A9l%C3%A9communications-l-europe-en-proie-aux-g%C3%A9ants-de-la-tech",
-    "publie": "2026-10-07T12:40:15+00:00",
-    "resume": "Les géants technologiques américains (Meta, Anthropic, Nvidia, Google, OpenAI, SpaceX) menaceraient la compétitivité des entreprises de télécommunications européennes comme Deutsch Telekom, Orange, Vodafone et Telefónica.",
-    "rubrique": "Europe",
-    "importance": 4
-  },
-  {
-    "id": "aeaa90cb0",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "7-Octobre, un traumatisme encore vif : Parlons-en avec Yshay Dan Jaoui et Claire Duhamel",
-    "extrait": "Journée de commémorations et de douleur en Israël, trois ans jour pour jour après les pires attaques terroristes qu'ait connu le pays. Ces massacres menés par des groupes armés dirigés par le Hamas ont coûté la vie à plus de 1 200 personnes. C'est une société traumatisée qui s'apprête à voter, à la fin du mois, pour des élections législatives.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261007-7-octobre-un-traumatisme-encore-vif-parlons-en-avec-yshay-dan-jaoui-et-claire-duhamel",
-    "publie": "2026-10-07T12:23:42+00:00",
-    "resume": "Trois ans après les attaques terroristes du 7 octobre 2023 qui ont coûté la vie à plus de 1 200 personnes en Israël, le pays commémore ce jour de douleur avant des élections législatives prévues à la fin du mois.",
-    "rubrique": "Monde",
+    "resume": "L'usage des grenades assourdissantes par les forces de l'ordre française est suspendu pour le mouvement lycéen après qu'un manifestant de 15 ans a eu la main arrachée à Lens.",
+    "rubrique": "Autres",
     "importance": 4
   },
   {
@@ -931,20 +703,8 @@
     "extrait": "Le Kremlin a estimé, mercredi 7 octobre, que la « grande majorité » des informations rapportées par des médias sur la mort suspecte en Sibérie d'une laborantine travaillant dans un institut d'étude sur la peste étaient « fausses ».",
     "url": "https://www.rfi.fr/fr/europe/20261007-soup%C3%A7ons-de-peste-en-russie-le-kremlin-d%C3%A9plore-une-multitude-de-fausses-informations",
     "publie": "2026-10-07T12:20:04+00:00",
-    "resume": "Le Kremlin dément la majorité des informations rapportées par les médias sur la mort suspecte d'une laborantine en Sibérie travaillant dans un institut d'étude sur la peste.",
+    "resume": "Le Kremlin conteste la majorité des informations rapportées sur la mort suspecte en Sibérie d'une laborantine travaillant dans un institut d'étude sur la peste.",
     "rubrique": "Monde",
-    "importance": 3
-  },
-  {
-    "id": "a5681324b",
-    "source": "BBC World",
-    "lang": "en",
-    "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
-    "extrait": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-    "publie": "2026-10-07T12:16:58+00:00",
-    "resume": "La France cesse d'utiliser les grenades étourdissantes suite à des plaintes concernant l'usage disproportionné de la force polière envers les adolescents lors de manifestations étudiantes.",
-    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -955,21 +715,9 @@
     "extrait": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
     "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T12:09:59+00:00",
-    "resume": "Les autorités de la concurrence japonaises ont perquisitionné les locaux des géants brassicoles Asahi, Kirin et Suntory en lien avec des soupçons de cartel de fixation des prix.",
-    "rubrique": "Monde",
+    "resume": "Les géants brassicoles japonais Asahi, Kirin et Suntory ont eu leurs locaux perquisitionnés par les autorités de la concurrence pour soupçons de cartel sur les prix.",
+    "rubrique": "Économie",
     "importance": 3
-  },
-  {
-    "id": "a6a7170ab",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Le Ballon d'Or \"doit évidemment revenir à un Français\", dit le footballeur Aurélien Tchouaméni",
-    "extrait": "Dans un entretien accordé à France 24, le milieu de terrain du Real Madrid, Aurélien Tchouaméni, estime que le Ballon d'Or doit \"revenir à un Français\". Il assume d'avoir joué diminué au Mondial et affirme que le club madrilène \"doit forcément gagner\" cette saison, après deux exercices sans titre.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261007-le-ballon-d-or-doit-%C3%A9videmment-revenir-%C3%A0-un-fran%C3%A7ais-dit-le-footballeur-aur%C3%A9lien-tchouam%C3%A9ni",
-    "publie": "2026-10-07T12:08:18+00:00",
-    "resume": "Le footballeur français Aurélien Tchouaméni, milieu de terrain du Real Madrid, estime que le Ballon d'Or doit revenir à un Français et affirme que son club doit remporter des titres cette saison.",
-    "rubrique": "Sport",
-    "importance": 1
   },
   {
     "id": "a6366205b",
@@ -979,7 +727,7 @@
     "extrait": "Accusé d’avoir tenu des propos antisémites dans sa jeunesse, le président du Rassemblement national conteste l’enquête du site d’information. Mais plusieurs de ses arguments se heurtent aux faits.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/07/ecrits-antisemites-les-contre-verites-de-jordan-bardella-pour-se-defendre-contre-l-enquete-de-mediapart_6789593_4355770.html",
     "publie": "2026-10-07T12:00:08+00:00",
-    "resume": "Jordan Bardella, président du Rassemblement national, conteste une enquête de Mediapart l'accusant de propos antisémites tenus dans sa jeunesse, mais plusieurs de ses arguments contredisent les faits rapportés.",
+    "resume": "Jordan Bardella, président du Rassemblement national, conteste l'enquête de Mediapart l'accusant de propos antisémites tenus dans sa jeunesse, mais plusieurs de ses arguments se heurtent aux faits.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -991,8 +739,8 @@
     "extrait": "Le réchauffement climatique favorise le développement de ce virus qui peut avoir des conséquences graves pour la santé dans de rares cas. Cinq personnes en sont déjà mortes en France cette année.",
     "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T11:58:21+00:00",
-    "resume": "Le virus du Nil occidental, dont la transmission est assurée par les moustiques, enregistre des records de cas en France ; cinq personnes en sont mortes cette année dans le pays.",
-    "rubrique": "Société",
+    "resume": "Le virus du Nil occidental se propage en Europe avec des records de cas en France ; cinq personnes en sont déjà décédées cette année, favorisé par le réchauffement climatique.",
+    "rubrique": "Environnement",
     "importance": 3
   },
   {
@@ -1003,7 +751,7 @@
     "extrait": "En Turquie, l’opposition perd peu à peu le contrôle de ses bastions municipaux. Dernier symbole en date, et non des moindres : Izmir, longtemps considérée comme la citadelle de l’opposition à Recep Tayyip Erdogan. Son maire a rejoint ce mercredi 7 octobre le parti présidentiel, l’AKP. Depuis les municipales de 2024, le pouvoir a ainsi repris le contrôle de nombreuses mairies, par des ralliements mais aussi par des mises sous tutelle. L’opposition dénonce une reconquête politique menée au moyen de la justice.",
     "url": "https://www.rfi.fr/fr/europe/20261007-turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du-pr%C3%A9sident-erdogan",
     "publie": "2026-10-07T11:53:20+00:00",
-    "resume": "Le maire d'Izmir a rejoint le parti présidentiel turc AKP le 7 octobre, marquant un nouveau ralliement de l'opposition au parti du président Erdogan, notamment après les municipales de 2024.",
+    "resume": "Le maire d'Izmir a rejoint mercredi le parti présidentiel AKP du président Erdogan, confirmant la perte de contrôle de l'opposition dans ses bastions municipaux turcs.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1015,9 +763,9 @@
     "extrait": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
     "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T11:51:52+00:00",
-    "resume": "Le prix Nobel de chimie 2026 a été attribué à des scientifiques français et japonais pour la résolution du mystère de l'asymétrie de la vie.",
+    "resume": "Le prix Nobel de chimie est attribué à des scientifiques français et japonais pour avoir résolu le mystère de l'asymétrie de la vie.",
     "rubrique": "Sciences & Tech",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "a5b2ab27a",
@@ -1027,7 +775,7 @@
     "extrait": "Outre les résultats impressionnants au premier tour de l’élection présidentielle brésilienne du candidat d’extrême droite, Flavio Bolsonaro, son parti s’assure une place de choix au Sénat. Cette mainmise sur la Chambre haute du Parlement offrirait aux bolsonaristes les moyens de leurs ambitions.",
     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
     "publie": "2026-10-07T11:49:36+00:00",
-    "resume": "Au Brésil, le candidat d'extrême droite Flavio Bolsonaro enregistre des résultats impressionnants au premier tour de l'élection présidentielle et son parti renforce sa position au Sénat.",
+    "resume": "Au Brésil, le candidat d'extrême droite Flavio Bolsonaro réalise des résultats impressionnants au premier tour de la présidentielle, et son parti s'assure une place importante au Sénat.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1039,7 +787,19 @@
     "extrait": "Au Mali, l'armée et ses partenaires russes de l'Africa Corps ont réinvesti mardi 6 octobre la ville de Kidal, dans le nord du pays, moins de six mois après en avoir été chassés par les indépendantistes du FLA et leurs alliés jihadistes du Jnim, liés à al-Qaïda. Cette victoire de prestige a été acquise sans même avoir à combattre, les groupes armés s'étant retirés avant l'arrivée de l'armée. Elle consacre un rapport de force, conforte les autorités de transition au pouvoir, soulève des interrogations sur le rôle de l'Algérie et crée de nouveaux défis pour Bamako.",
     "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition",
     "publie": "2026-10-07T11:45:53+00:00",
-    "resume": "L'armée malienne et les forces russes de l'Africa Corps reprennent possession de la ville de Kidal le 6 octobre, moins de six mois après la perdre face aux indépendantistes et aux jihadistes.",
+    "resume": "L'armée malienne et ses partenaires russes réinvestissent mardi la ville de Kidal après six mois, sans combat, les groupes armés s'étant retirés.",
+    "rubrique": "Monde",
+    "importance": 3
+  },
+  {
+    "id": "a48c600c0",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"On nous a parlé d'une maladie pire que le Covid\" : pourquoi les doutes persistent sur un éventuel cas de peste en Russie ?",
+    "extrait": "Que s'est-il passé dans un institut spécialisé dans la peste, en Sibérie ? Une jeune laborantine est morte d'une pneumonie inexpliquée. Si la peste n'est pas confirmée, les informations partielles des autorités russes laissent des questions sans réponse. En Europe, la situation est surveillée de près, bien que l'Organisation mondiale de la santé juge le risque très faible.",
+    "url": "https://www.franceinfo.fr/monde/russie/on-nous-a-parle-d-une-maladie-pire-que-le-covid-pourquoi-les-doutes-persistent-sur-un-eventuel-cas-de-peste-en-russie_8225752.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T11:42:32+00:00",
+    "resume": "Une jeune laborantine est morte d'une pneumonie inexpliquée en Sibérie dans un institut spécialisé dans la peste ; les informations partielles des autorités russes laissent des questions sans réponse.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1051,9 +811,9 @@
     "extrait": "Oleksiy Goncharenko a été exclu, lundi, du parti de l’ancien président Petro Porochenko, après avoir appelé à de nouvelles négociations de paix avec Moscou et plaidé notamment pour la levée des sanctions occidentales sur le secteur énergétique russe.",
     "url": "https://www.lemonde.fr/international/article/2026/10/07/l-ukraine-est-en-train-de-perdre-la-guerre-le-plan-de-paix-d-un-depute-d-odessa-provoque-un-tolle-a-kiev_6789592_3210.html",
     "publie": "2026-10-07T11:37:55+00:00",
-    "resume": "Un député d'Odessa a été exclu du parti de l'ancien président Porochenko après avoir appelé à de nouvelles négociations de paix avec la Russie et à la levée des sanctions occidentales sur l'énergie russe, provoquant une controverse à Kiev.",
-    "rubrique": "Europe",
-    "importance": 3
+    "resume": "Un député d'Odessa a été exclu de son parti lundi après avoir appelé à de nouvelles négociations de paix avec Moscou et à la levée des sanctions sur l'énergie russe, suscitant un tollé à Kiev.",
+    "rubrique": "Monde",
+    "importance": 4
   },
   {
     "id": "ab4197d11",
@@ -1063,21 +823,9 @@
     "extrait": "Après les violences qui ont touché le centre-ville de Liège, la question des indemnisations se pose pour de nombreux...",
     "url": "https://www.rtbf.be/article/emeutes-a-liege-les-degats-sont-ils-couverts-par-les-assurances-11796363",
     "publie": "2026-10-07T11:37:26+00:00",
-    "resume": "Après les violences survenues au centre-ville de Liège, se pose la question de la couverture des dégâts par les assurances pour de nombreux sinistré.",
+    "resume": "Après les violences au centre-ville de Liège, la question de la couverture des dégâts par les assurances se pose pour de nombreux commerces et particuliers.",
     "rubrique": "Belgique",
     "importance": 2
-  },
-  {
-    "id": "a908b46d8",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "France : la jeunesse au pied du mur de la dette",
-    "extrait": "Le gouvernement peine à trouver une issue à la crise qui secoue la jeunesse française. Faute de moyens budgétaires, comment venir à bout des blocages de lycées ? On va plus loin avec Richard Werly et Antoine Mariotti.",
-    "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261007-france-la-jeunesse-au-pied-du-mur-de-la-dette",
-    "publie": "2026-10-07T11:32:45+00:00",
-    "resume": "Le gouvernement français peine à résoudre la crise touchant la jeunesse et ne dispose pas des moyens budgétaires suffisants pour mettre fin aux blocages de lycées.",
-    "rubrique": "Europe",
-    "importance": 3
   },
   {
     "id": "a77af0ab4",
@@ -1087,7 +835,7 @@
     "extrait": "Nidal Hasan, un Américain musulman d'origine palestinienne, avait ouvert le feu le 5 novembre 2009 dans un centre médical...",
     "url": "https://www.rtbf.be/article/etats-unis-donald-trump-approuve-la-mise-a-mort-par-peloton-d-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire-11795557",
     "publie": "2026-10-07T11:22:57+00:00",
-    "resume": "Donald Trump approuve la mise à mort par peloton d'exécution de Nidal Hasan, auteur d'une fusillade commise le 5 novembre 2009 dans un centre médical sur une base militaire américaine.",
+    "resume": "Donald Trump approuve la mise à mort par peloton d'exécution de Nidal Hasan, auteur d'une tuerie commise le 5 novembre 2009 dans un centre médical militaire américain.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1099,21 +847,9 @@
     "extrait": "\"#IAmJaneDoe\". En dessous de post, en légende de photo ou encore scandés dans des vidéos : ces mots reviennent sur...",
     "url": "https://www.rtbf.be/article/iamjanedoe-mobilisation-d-internautes-pour-proteger-l-anonymat-de-la-victime-presumee-d-un-viol-a-l-universite-cornell-aux-etats-unis-11796240",
     "publie": "2026-10-07T11:21:28+00:00",
-    "resume": "Une mobilisation d'internautes utilisant le hashtag #IAmJaneDoe s'organise pour protéger l'anonymat d'une présumée victime de viol à l'université Cornell aux États-Unis.",
+    "resume": "Le hashtag #IAmJaneDoe est utilisé par des internautes pour protéger l'anonymat de la victime présumée d'un viol à l'université Cornell aux États-Unis.",
     "rubrique": "Société",
     "importance": 2
-  },
-  {
-    "id": "a251cac2f",
-    "source": "France 24",
-    "lang": "fr",
-    "titre": "Mouvement lycéen : le gouvernement dans l'impasse",
-    "extrait": "Mardi, \"l'acte III\" du mouvement lycéen a rassemblé plus de 260 000 personnes en France selon le ministère de l'Intérieur. Face à une mobilisation qui ne semble pas faiblir et face aux accusations de violences policières, le Premier ministre tente de reprendre la main. Il s'exprimera ce mercredi soir sur les lycées, la dette et les carburants. Quelle peut être la réponse du gouvernement alors que sa marge de manœuvre est extrêmement faible ?",
-    "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261007-mouvement-lyc%C3%A9en-le-gouvernement-dans-l-impasse",
-    "publie": "2026-10-07T11:15:04+00:00",
-    "resume": "Le mouvement lycéen français enregistre plus de 260 000 participants lors de son troisième acte le mardi ; face à une mobilisation persistante et aux accusations de violences policières, le Premier ministre s'exprimera le mercredi soir sur les lycées, la dette et les carburants.",
-    "rubrique": "Europe",
-    "importance": 4
   },
   {
     "id": "a2d56f267",
@@ -1123,7 +859,7 @@
     "extrait": "La sociologue et pédopsychiatre décrypte, dans un entretien au « Monde », le discours sur les mobilisations lycéennes, à la lumière du concept d’« infantisme », soit l’ensemble de préjugés envers les mineurs, du simple fait de leur âge, qu’elle a importé en France.",
     "url": "https://www.lemonde.fr/campus/article/2026/10/07/laelia-benoit-pedopsychiatre-les-jeunes-ne-sont-pas-dupes-des-discriminations-et-du-mepris-que-leur-reserve-la-societe_6789589_4401467.html",
     "publie": "2026-10-07T11:07:22+00:00",
-    "resume": "Une pédopsychiatre et sociologue décrypte les mobilisations lycéennes à travers le concept d'« infantisme », l'ensemble des préjugés envers les mineurs en raison de leur âge.",
+    "resume": "La pédopsychiatre Laelia Benoit décrypte les mobilisations lycéennes à la lumière du concept d'« infantisme », les préjugés envers les mineurs du seul fait de leur âge.",
     "rubrique": "Société",
     "importance": 2
   },
@@ -1135,7 +871,7 @@
     "extrait": "Les jeunes sont-ils réellement plus précarisés que leurs aînés au même âge ? La question se pose alors que des...",
     "url": "https://www.rtbf.be/article/les-jeunes-d-aujourd-hui-sont-ils-plus-pauvres-que-ceux-d-hier-logement-transport-etudes-l-analyse-de-deux-economistes-11796283",
     "publie": "2026-10-07T10:38:51+00:00",
-    "resume": "Deux économistes analysent si les jeunes d'aujourd'hui sont davantage précarisés que les générations précédentes au même âge, en examinant le logement, le transport et les études.",
+    "resume": "Deux économistes analysent si les jeunes d'aujourd'hui sont réellement plus précarisés que leurs aînés au même âge, en examinant le logement, le transport et les études.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -1147,7 +883,7 @@
     "extrait": "Le 7 octobre 2023, Israël déclare l’état de guerre et lance des frappes militaires sur la bande de Gaza. Une campagne de bombardements intensifs qui visent officiellement le Hamas et qui se poursuit malgré un cessez-le-feu proclamé l'an dernier. Dans un territoire si densément peuplé et surtout sous blocus depuis 2007, c'est la population civile qui en subit les conséquences.",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza",
     "publie": "2026-10-07T10:15:31+00:00",
-    "resume": "Trois ans après le 7 octobre 2023 et la déclaration de l'état de guerre par Israël, les habitants de Gaza subissent les conséquences d'une campagne de bombardements intensifs qui poursuit malgré un cessez-le-feu proclamé l'année précédente.",
+    "resume": "Trois ans après le 7 octobre 2023, les familles de Gaza accumulent les traumatismes suite à la déclaration de guerre d'Israël et aux bombardements intensifs qui se poursuivent.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1159,7 +895,7 @@
     "extrait": "Pour la première fois de son histoire, le Tribunal arbitral du sport doit trancher l’issue d’une Coupe d’Afrique des nations. À Lausanne ce jeudi, le Sénégal et le Maroc rejoueront la finale sur le terrain du droit, après le forfait infligé au premier par la CAF et l'attribution de la Coupe au second. Trois issues sont possibles : confirmation du forfait, nouvelle décision du TAS ou renvoi du dossier à la CAF.",
     "url": "https://www.rfi.fr/fr/afrique-foot/20261007-le-tas-va-t-il-enfin-d%C3%A9signer-le-vainqueur-de-la-can-2025-entre-le-maroc-et-s%C3%A9n%C3%A9gal",
     "publie": "2026-10-07T10:10:51+00:00",
-    "resume": "Le Tribunal arbitral du sport doit trancher jeudi à Lausanne l'issue de la finale de la CAN 2025 entre le Sénégal et le Maroc après le forfait infligé au Sénégal par la CAF et l'attribution de la Coupe au Maroc.",
+    "resume": "Le Tribunal arbitral du sport doit trancher jeudi l'issue de la finale de la CAN 2025 entre le Maroc et le Sénégal, suite au forfait du Sénégal infligé par la CAF.",
     "rubrique": "Sport",
     "importance": 3
   },
@@ -1171,7 +907,7 @@
     "extrait": "Ils sont récompensés \"pour la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique\".",
     "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-chimie-2026-decerne-au-francais-henri-kagan-et-au-japonais-kenso-soai-pour-leurs-travaux-sur-les-reactions-moleculaires-utilisees-notamment-en-pharmacologie_8226604.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T10:04:26+00:00",
-    "resume": "Le Français Henri Kagan et le Japonais Kenso Soai reçoivent le prix Nobel de chimie 2026 pour leurs travaux sur les réactions moléculaires utilisées notamment en pharmacologie, récompensés pour la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique.",
+    "resume": "Le Français Henri Kagan et le Japonais Kenso Soai reçoivent le prix Nobel de chimie 2026 pour leurs travaux sur les effets non linéaires et l'autocatalyse dans la synthèse organique asymétrique.",
     "rubrique": "Sciences & Tech",
     "importance": 4
   },
@@ -1183,9 +919,9 @@
     "extrait": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
     "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T10:01:47+00:00",
-    "resume": "Christa Pike, condamnée au meurtre de Colleen Slemmer, aurait survécu à deux injections létales et serait consciente et capable de parler en hospitalisation au Tennessee.",
+    "resume": "Christa Pike, condamnée pour meurtre, aurait survécu à deux injections létales au Tennessee et serait consciente et capable de parler à l'hôpital.",
     "rubrique": "Monde",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "aeac1e25d",
@@ -1195,7 +931,7 @@
     "extrait": "Les deux lauréats ont été récompensés pour leurs travaux ayant permis « la découverte des effets non linéaires et de l’autocatalyse dans la synthèse organique asymétrique », a annoncé le comité Nobel, réuni à Stockholm, ce mercredi 7 octobre.",
     "url": "https://www.rfi.fr/fr/science/20261007-le-prix-nobel-de-chimie-d%C3%A9cern%C3%A9-au-fran%C3%A7ais-henri-kagan-et-au-japonais-kenso-soai",
     "publie": "2026-10-07T09:57:21+00:00",
-    "resume": "Le Français Henri Kagan et le Japonais Kenso Soai remportent le prix Nobel de chimie 2026 pour leurs travaux sur la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique.",
+    "resume": "Le Français Henri Kagan et le Japonais Kenso Soai reçoivent le prix Nobel de chimie 2026 pour leurs travaux sur les effets non linéaires et l'autocatalyse dans la synthèse organique asymétrique.",
     "rubrique": "Sciences & Tech",
     "importance": 4
   },
@@ -1207,7 +943,7 @@
     "extrait": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
     "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T09:49:31+00:00",
-    "resume": "L'ancienne première dame du Sri Lanka, âgée de 73 ans, a été arrêtée pour des allégations de détournement de dons destinés à un hôpital pour enfants via une organisation caritative liée à son nom.",
+    "resume": "L'ancienne première dame du Sri Lanka, âgée de 73 ans, a été arrêtée pour suspicion de détournement de dons destinés à un hôpital pour enfants.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1219,9 +955,9 @@
     "extrait": "Trois mois après la Coupe du monde, des enquêtes du Monde et du New York Times révèlent que le gardien congolais Lionel Mpasi était inéligible, et que la FIFA aurait sciemment ignoré l’irrégularité. Un imbroglio réglementaire qui pourrait relancer le débat sur l’intégrité du football mondial.",
     "url": "https://www.rfi.fr/fr/afrique-foot/20261007-rdc-la-fifa-aurait-ferm%C3%A9-les-yeux-sur-sur-la-qualification-des-l%C3%A9opards-au-mondial-malgr%C3%A9-l-in%C3%A9ligibilit%C3%A9-de-mpasi",
     "publie": "2026-10-07T09:45:30+00:00",
-    "resume": "Selon des enquêtes du Monde et du New York Times, le gardien congolais Lionel Mpasi était inéligible lors de la Coupe du monde, et la FIFA aurait sciemment ignoré cette irrégularité permettant la qualification des Léopards.",
+    "resume": "Des enquêtes révèlent que le gardien congolais Lionel Mpasi était inéligible lors de la qualification pour le Mondial et que la FIFA aurait sciemment ignoré l'irrégularité.",
     "rubrique": "Sport",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "aec52f4aa",
@@ -1231,9 +967,9 @@
     "extrait": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
     "url": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T09:38:00+00:00",
-    "resume": "Un couple en Californie a été inculpé pour mauvais traitements envers au moins 14 enfants nés par substitution, après que 21 enfants ont été retirés de leur garde l'année précédente.",
+    "resume": "Un couple en Californie a été inculpé pour maltraitance d'au moins 14 enfants nés de maternité de substitution, après l'enlèvement de 21 enfants de leur garde l'année précédente.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a8e2b583f",
@@ -1243,7 +979,7 @@
     "extrait": "À l'approche des élections municipales de novembre en Afrique du Sud, une candidature crée la polémique. Bill Harington, ancien policier du temps de l'apartheid, emprisonné près de quatorze ans pour avoir commandité le meurtre d'un jeune militant de l'ANC dans les années 1990, se présente à la mairie de Nelson Mandela Bay, dans le sud du pays. Son parti le défend en expliquant qu'il a purgé sa peine, mais pour d'autres, cette candidature rouvre les plaies du passé.",
     "url": "https://www.rfi.fr/fr/afrique/20261007-afrique-du-sud-un-ancien-policier-de-l-apartheid-condamn%C3%A9-pour-meurtre-candidat-%C3%A0-la-mairie-de-nelson-mandela-bay",
     "publie": "2026-10-07T09:29:56+00:00",
-    "resume": "En Afrique du Sud, Bill Harington, ancien policier de l'apartheid condamné pour avoir commandité le meurtre d'un jeune militant de l'ANC dans les années 1990, se présente comme candidat à la mairie de Nelson Mandela Bay aux élections municipales de novembre.",
+    "resume": "Un ancien policier de l'apartheid, condamné pour avoir ordonné le meurtre d'un jeune militant de l'ANC dans les années 1990, est candidat à la mairie de Nelson Mandela Bay aux élections municipales sud-africaines de novembre.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1255,7 +991,7 @@
     "extrait": "La France a enregistré trois décès provoqués par ce virus transmis aux humains par des moustiques contaminés par des oiseaux. Le réchauffement climatique va favoriser en Europe la prolifération de ce genre de maladies tropicales.",
     "url": "https://www.rfi.fr/fr/podcasts/questions-d-environnement/20261007-faut-il-avoir-peur-du-virus-du-nil-occidental",
     "publie": "2026-10-07T09:27:12+00:00",
-    "resume": "La France a enregistré trois décès provoqués par le virus du Nil occidental, transmis par des moustiques contaminés par des oiseaux, avec des perspectives d'augmentation des cas liées au réchauffement climatique en Europe.",
+    "resume": "La France a enregistré trois décès causés par le virus du Nil occidental, transmis par des moustiques contaminés par des oiseaux, et le réchauffement climatique pourrait favoriser la propagation de maladies tropicales en Europe.",
     "rubrique": "Environnement",
     "importance": 3
   },
@@ -1267,9 +1003,9 @@
     "extrait": "Alors que les mobilisations lycéennes en France se poursuivent ce mercredi 7 octobre, le gouvernement évoque une mobilisation en « net recul », avec « 459 établissements connaissent une suspension totale ou partielle des cours », contre 891 la veille. En parallèle, des syndicats de l'Éducation appellent à la grève et à la manifestation jeudi pour continuer de soutenir le mouvement des lycéens. Suivez notre direct.",
     "url": "https://www.rfi.fr/fr/france/20261007-en-direct-mobilisation-des-lyc%C3%A9es-235-%C3%A9l%C3%A8ves-bless%C3%A9s-et-18-enqu%C3%AAtes-de-l-igpn-en-cours-annonce-laurent-nunez",
     "publie": "2026-10-07T09:19:10+00:00",
-    "resume": "Le ministre français de l'Intérieur affirme que les mobilisations lycéennes sont en « net recul » ce mercredi 7 octobre, avec 459 établissements connaissant une suspension totale ou partielle des cours, tandis que les syndicats de l'Éducation prévoient une grève jeudi.",
-    "rubrique": "Europe",
-    "importance": 4
+    "resume": "Le ministre français de l'Intérieur affirme ne pas être responsable des violences lors des mobilisations lycéennes, qui se poursuivent le 7 octobre avec 459 établissements en suspension totale ou partielle des cours.",
+    "rubrique": "Politique",
+    "importance": 3
   },
   {
     "id": "af48544ae",
@@ -1279,9 +1015,9 @@
     "extrait": "Après plus de 8 heures de délibération, le jury s’est positionné mardi soir pour la préméditation avec 7 voix...",
     "url": "https://www.rtbf.be/article/proces-ullens-voici-pourquoi-la-suite-du-proces-est-suspendue-l-accuse-reste-libre-11796252",
     "publie": "2026-10-07T08:28:43+00:00",
-    "resume": "Après plus de 8 heures de délibération au procès Ullens, le jury s'est positionné mardi soir pour la préméditation avec 7 voix, la suite du procès étant suspendue avec l'accusé restant libre.",
+    "resume": "Le procès Ullens est suspendu après plus de 8 heures de délibération du jury, qui s'est positionné sur la préméditation avec 7 voix, l'accusé restant libre.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a23f4f20e",
@@ -1291,20 +1027,8 @@
     "extrait": "En France, 450 000 manifestants étaient dans la rue mardi 6 octobre, selon l’Union syndicale, pour demander plus de moyens pour les lycées. La mobilisation lycéenne, qui a démarré en région parisienne à la mi-septembre, pourrait se poursuivre ce mercredi. Alors que doit faire le gouvernement pour enfin sortir de la crise ?",
     "url": "https://www.rfi.fr/fr/france/20261007-france-face-aux-revendications-des-lyc%C3%A9ens-comment-le-gouvernement-peut-il-sortir-de-la-crise",
     "publie": "2026-10-07T08:04:21+00:00",
-    "resume": "En France, environ 450 000 manifestants se sont rassemblés le 6 octobre pour demander plus de moyens pour les lycées, la mobilisation initiée en région parisienne à la mi-septembre pouvant se poursuivre.",
-    "rubrique": "Europe",
-    "importance": 4
-  },
-  {
-    "id": "aaba1fc65",
-    "source": "Le Monde",
-    "lang": "fr",
-    "titre": "Soupçon de peste en Russie : les Etats-Unis réclament « plus d’informations » à Moscou, à la suite de la mort d’une laborantine",
-    "extrait": "Une technicienne de laboratoire de 28 ans qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie orientale, est morte, ont rapporté plusieurs médias russes vendredi.",
-    "url": "https://www.lemonde.fr/international/article/2026/10/07/soupcon-de-peste-en-russie-les-etats-unis-reclament-plus-d-informations-a-moscou-apres-la-mort-d-une-laborantine_6789566_3210.html",
-    "publie": "2026-10-07T07:58:48+00:00",
-    "resume": "Une technicienne de laboratoire de 28 ans travaillant pour l'Institut de lutte contre la peste d'Irkoutsk en Sibérie orientale est décédée, avec les États-Unis réclamant davantage d'informations à la Russie suite à des soupçons de peste.",
-    "rubrique": "Monde",
+    "resume": "En France, 450 000 manifestants ont défilé mardi 6 octobre pour réclamer plus de moyens pour les lycées, la mobilisation lycéenne étant susceptible de se poursuivre le 7 octobre.",
+    "rubrique": "Politique",
     "importance": 3
   },
   {
@@ -1315,7 +1039,7 @@
     "extrait": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
     "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T07:45:47+00:00",
-    "resume": "Des opposants indiens ont été arrêtés lors d'une protestation où des leaders d'opposition affirment que le président de la Commission électorale a manipulé les listes d'électeurs en faveur du parti du premier ministre Narendra Modi.",
+    "resume": "En Inde, un leader de l'opposition a été traîné dans un bus alors que la police dispersait une manifestation contre des accusations de manipulation des listes électorales en faveur du parti du Premier ministre.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1327,7 +1051,7 @@
     "extrait": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
     "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T07:37:16+00:00",
-    "resume": "L'actrice oscarisée Eva Marie Saint, connue pour ses rôles aux côtés de Marlon Brando dans On the Waterfront et de Cary Grant dans le film d'Hitchcock North by Northwest, est décédée à l'âge de 102 ans.",
+    "resume": "L'actrice oscarisée Eva Marie Saint, qui a joué notamment aux côtés de Marlon Brando et Cary Grant, est décédée à l'âge de 102 ans.",
     "rubrique": "Culture",
     "importance": 2
   },
@@ -1339,7 +1063,7 @@
     "extrait": "Ce mardi, le géant français de l'IA Mistral a dévoilé sa dernière version d'intelligence artificielle. Baptisée Large 4, elle entend conforter la position de leader européen de Mistral et jouer des coudes avec les modèles chinois. Mais même avec ce dernier modèle, l'intelligence artificielle « made in France » est encore loin de rivaliser avec les États-Unis.",
     "url": "https://www.rfi.fr/fr/france/20261007-le-fran%C3%A7ais-mistral-tente-d-exister-dans-la-course-%C3%A0-l-ia-avec-son-nouveau-mod%C3%A8le",
     "publie": "2026-10-07T07:35:25+00:00",
-    "resume": "Mistral, géant français de l'IA, a dévoilé mardi sa dernière version d'intelligence artificielle baptisée Large 4, visant à consolider sa position de leader européen face aux modèles chinois, bien qu'elle reste distancée par les modèles américains.",
+    "resume": "Mistral, géant français de l'IA, a dévoilé son dernier modèle d'intelligence artificielle, baptisé Large 4, pour renforcer sa position de leader européen, bien que l'IA française reste loin de rivaliser avec les États-Unis.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -1351,9 +1075,21 @@
     "extrait": "La banque centrale indienne devrait relever ses taux d'intérêt ce mercredi, pour la première fois depuis près de quatre ans. Une décision qui intervient alors que l'inflation remonte, que le pétrole se négocie autour de 100 dollars le baril et que la roupie est proche de son plus bas niveau historique face au dollar. Dans le même temps, les investisseurs étrangers réduisent leur exposition aux actifs indiens.",
     "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261007-inde-investisseurs-etrangers-croissance-fuite-capitaux",
     "publie": "2026-10-07T07:28:35+00:00",
-    "resume": "La banque centrale indienne devrait relever ses taux d'intérêt mercredi pour la première fois depuis près de quatre ans, face à la hausse de l'inflation et à la faiblesse de la roupie, tandis que les investisseurs étrangers réduisent leur exposition aux actifs indiens.",
+    "resume": "La banque centrale indienne devrait relever ses taux d'intérêt pour la première fois en près de quatre ans, face à la remontée de l'inflation et au retrait des investisseurs étrangers malgré une croissance solide.",
     "rubrique": "Économie",
     "importance": 3
+  },
+  {
+    "id": "a97e665af",
+    "source": "Le Monde",
+    "lang": "fr",
+    "titre": "Quand des gourous s’emparent de soins de « bien-être » : « Des stages ruineux, découverts sur les réseaux sociaux, promettaient la guérison des traumas »",
+    "extrait": "Des dérives sectaires, visant à mettre sous leur emprise des personnes psychologiquement fragiles, peuvent se cacher derrière certaines pratiques complémentaires à la médecine. Témoignages de victimes qui s’en sont sorties.",
+    "url": "https://www.lemonde.fr/sante/article/2026/10/07/les-soins-de-bien-etre-antichambre-des-derives-sectaires_6789559_1651302.html",
+    "publie": "2026-10-07T07:27:51+00:00",
+    "resume": "Des dérives sectaires se cachent derrière certaines pratiques complémentaires à la médecine, avec des stages ruineux promis sur les réseaux sociaux ciblant des personnes psychologiquement fragiles.",
+    "rubrique": "Société",
+    "importance": 2
   },
   {
     "id": "a3878acd7",
@@ -1363,7 +1099,7 @@
     "extrait": "Libéré après 505 jours de captivité à Gaza, Omer Shem Tov tente de reconstruire sa vie, mais les souvenirs de sa détention refont surface régulièrement. Trois ans après le 7-Octobre, l’ancien otage raconte son traumatisme et son espoir de ne plus être un jour seulement considéré comme \"Omer Shem Tov, l’ancien otage\".",
     "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/soudainement-tu-te-figes-trois-ans-apres-le-7-octobre-omer-shem-tov-ancien-otage-du-hamas-reste-hante-par-sa-captivite_8205389.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T07:08:59+00:00",
-    "resume": "Omer Shem Tov, libéré après 505 jours de captivité à Gaza, demeure hanté par les souvenirs de sa détention, trois ans après l'attaque du 7-Octobre, et tente de reconstruire sa vie au-delà de cette identité d'ancien otage.",
+    "resume": "Omer Shem Tov, libéré après 505 jours de captivité à Gaza, demeure hanté par ses souvenirs de détention trois ans après le 7 octobre et tente de reconstruire sa vie.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1375,9 +1111,9 @@
     "extrait": "C'est l'anniversaire de Vladimir Poutine aujourd'hui. Le président russe a désormais 74 ans. Et dans sa guerre en Ukraine, qu'il a déclenché il y a plus de quatre ans, il ne donne aucun signe changement d'attitude ou d'inflexion stratégique malgré les difficultés.",
     "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261007-vladimir-poutine-continue-sa-fuite-en-avant-et-appuie-sur-l-acc%C3%A9l%C3%A9rateur",
     "publie": "2026-10-07T07:00:10+00:00",
-    "resume": "À l'occasion de son 74e anniversaire, Vladimir Poutine ne montre aucun signe de changement d'attitude ou d'inflexion stratégique dans sa guerre en Ukraine, poursuivant son offensive malgré les difficultés.",
+    "resume": "À l'occasion de son anniversaire, Vladimir Poutine, âgé de 74 ans, continue sa stratégie offensive en Ukraine sans montrer de changement d'attitude malgré les difficultés militaires.",
     "rubrique": "Monde",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "aed8e4000",
@@ -1387,9 +1123,9 @@
     "extrait": "En France, du 28 septembre au 2 octobre, toutes les bases aériennes se sont entraînées à limiter leur vulnérabilité face aux risques d’attaques de drones, d’intrusions ou de cyberattaques. Le site de Mérignac, siège du commandement territorial de l’armée de l’air et de l’espace, était au cœur de cet exercice.",
     "url": "https://www.lemonde.fr/international/article/2026/10/07/apres-l-attaque-dejouee-de-fairford-au-royaume-uni-les-bases-aeriennes-francaises-se-preparent-a-la-guerre-hybride_6789556_3210.html",
     "publie": "2026-10-07T07:00:08+00:00",
-    "resume": "Du 28 septembre au 2 octobre, toutes les bases aériennes françaises se sont entraînées à limiter leur vulnérabilité face aux risques d'attaques de drones, d'intrusions et de cyberattaques, dans le contexte de la « guerre hybride ».",
-    "rubrique": "Europe",
-    "importance": 3
+    "resume": "Les bases aériennes françaises se sont entraînées du 28 septembre au 2 octobre à limiter leur vulnérabilité face aux risques d'attaques de drones, d'intrusions et de cyberattaques.",
+    "rubrique": "Politique",
+    "importance": 2
   },
   {
     "id": "a198c9b25",
@@ -1399,7 +1135,7 @@
     "extrait": "L'Arabie saoudite a affirmé mercredi avoir intercepté des missiles tirés par les Houthis du Yémen en direction de Riyad. Ces derniers poursuivent leurs frappes contre le royaume malgré la contre-offensive menée par les forces gouvernementales yéménites appuyées par les forces saoudiennes.",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-les-houthis-frappent-les-a%C3%A9roports-d-aden-et-de-riyad-malgr%C3%A9-la-contre-offensive-gouvernementale-au-y%C3%A9men",
     "publie": "2026-10-07T06:55:13+00:00",
-    "resume": "Les Houthis du Yémen ont poursuivi leurs frappes mercredi, visant les aéroports d'Aden et de Riyad, tandis que l'Arabie saoudite affirme avoir intercepté des missiles en direction de Riyad.",
+    "resume": "L'Arabie saoudite affirme avoir intercepté des missiles tirés par les Houthis yéménites en direction de Riyad, les insurgés poursuivant leurs frappes malgré la contre-offensive gouvernementale.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1411,7 +1147,7 @@
     "extrait": "Omer Shem Tov a 24 ans, il a été enlevé par le Hamas au festival Nova le 7 octobre 2023. Il est resté otage du mouvement islamiste armé pendant 505 jours. Il vient de publier un livre en hébreu et en anglais sur l'histoire de sa détention : Meeting myself in hell, que l'on peut traduire par « seul avec moi-même en enfer ». Rencontre avec ce jeune homme chez ses parents, près de Tel Aviv.",
     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261007-omer-shem-tov-otage-du-hamas-pendant-505-jours-j-%C3%A9tais-l-esclave-de-mes-ge%C3%B4liers",
     "publie": "2026-10-07T06:14:25+00:00",
-    "resume": "Omer Shem Tov, âgé de 24 ans, enlevé lors du festival Nova le 7 octobre 2023, raconte dans son ouvrage publié en hébreu et anglais « Meeting myself in hell » ses 505 jours de captivité aux mains du Hamas.",
+    "resume": "Omer Shem Tov, 24 ans, enlevé par le Hamas le 7 octobre 2023 et retenu pendant 505 jours, vient de publier un livre en hébreu et en anglais relatant sa détention intitulé « Meeting myself in hell ».",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1423,7 +1159,7 @@
     "extrait": "Il y a vingt ans, Anna Politkovskaïa était assassinée, tuée par balles dans la cage d’escalier de son immeuble à Moscou, le jour de l’anniversaire de Vladimir Poutine. La journaliste d’investigation de Novaya Gazeta qui dénonçait la corruption et les crimes de guerre commis lors de la deuxième guerre de Tchétchénie, était une critique virulente du président russe. Si le tireur et l’organisateur ont été condamnés, les commanditaires n’ont jamais été identifiés. Vingt ans après, son fils, Ilia Politkovski, revient sur la personnalité et les convictions de sa mère, et sur ce qu’aurait pu être son",
     "url": "https://www.rfi.fr/fr/europe/20261007-assassinat-d-anna-politkovska%C3%AFa-une-v%C3%A9ritable-enqu%C3%AAte-ne-sera-possible-que-si-le-r%C3%A9gime-change-estime-son-fils",
     "publie": "2026-10-07T05:30:03+00:00",
-    "resume": "Vingt ans après l'assassinat d'Anna Politkovskaïa, journaliste d'investigation de Novaya Gazeta tuée à Moscou le jour de l'anniversaire de Vladimir Poutine, son fils déclare qu'« une véritable enquête ne sera possible que si le régime change ».",
+    "resume": "Vingt ans après l'assassinat de la journaliste d'investigation Anna Politkovskaïa à Moscou, son fils affirme qu'une véritable enquête ne sera possible que si le régime change, les commanditaires restant non identifiés.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1435,7 +1171,7 @@
     "extrait": "La condamnée qui a survécu à deux injections létales aux États-Unis, Christa Pike, a « repris connaissance et peut parler », ont annoncé, mardi 6 octobre, ses avocats, six jours après l'échec inédit de son exécution.",
     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-%C3%A9tats-unis-apr%C3%A8s-son-ex%C3%A9cution-rat%C3%A9e-christa-pike-a-repris-connaissance-et-peut-parler",
     "publie": "2026-10-07T05:16:21+00:00",
-    "resume": "Christa Pike, condamnée dont l'exécution a échoué après deux injections létales aux États-Unis, a « repris connaissance et peut parler » selon ses avocats, six jours après cet échec inédit.",
+    "resume": "Christa Pike, condamnée à mort qui a survécu à deux injections létales aux États-Unis, a repris connaissance et peut parler, selon ses avocats.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1447,7 +1183,7 @@
     "extrait": "Trois ans après l'attaque terroriste du 7 octobre 2023, dans la zone la plus touchée d'Israël, qu'on appelle \"l'enveloppe de Gaza\", il n'y a plus d'espace pour la paix. C'est particulièrement visible à Sderot, à proximité de l'enclave, où s'est rendu franceinfo.",
     "url": "https://www.franceinfo.fr/monde/israel/reportage-si-ca-ne-dependait-que-de-moi-je-tuerais-tout-le-monde-a-sderot-ville-proche-de-gaza-la-societe-israelienne-s-est-considerablement-droitisee_8225332.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T05:10:11+00:00",
-    "resume": "Trois ans après l'attaque terroriste du 7 octobre 2023, dans la zone la plus touchée d'Israël près de Gaza, notamment à Sderot, la société israélienne s'est considérablement droitisée avec peu d'espace pour la paix.",
+    "resume": "Trois ans après l'attaque du 7 octobre 2023, la société israélienne s'est considérablement droitisée, particulièrement visible à Sderot, ville proche de Gaza où il n'y a plus d'espace pour la paix.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1459,7 +1195,7 @@
     "extrait": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
     "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T05:02:18+00:00",
-    "resume": "Trois ans après l'attaque du 7 octobre contre le kibbutz Nir Oz, au cours de laquelle 47 personnes ont été tuées et 76 prises en otage, certains survivants ont commencé à revenir y vivre.",
+    "resume": "Trois ans après l'attaque du Hamas sur le kibboutz Nir Oz le 7 octobre, qui a tué 47 personnes et enlevé 76 autres, certains survivants sont retournés y vivre et font face aux défis de la reconstruction.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1471,9 +1207,9 @@
     "extrait": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
     "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T05:00:21+00:00",
-    "resume": "Certains candidats républicains se posent la question de savoir s'ils doivent se distancier d'un président impopulaire qui domine encore leur parti, à l'approche des élections de novembre.",
+    "resume": "Aux élections de novembre, certains candidats républicains américains cherchent à déterminer s'ils doivent se distancer d'un président impopulaire qui domine toujours son parti.",
     "rubrique": "Monde",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a2a109b06",
@@ -1483,9 +1219,9 @@
     "extrait": "Au Mali, la junte du général Goïta a réussi hier mardi à reprendre la ville de Kidal, qu'elle avait perdue il y a six mois au bénéfice des rebelles touaregs du FLA, le Front de libération de l'Azawad. Les Forces armées maliennes et leurs alliés russes sont entrés sans combat, hier midi, dans la grande ville de l'extrême-nord du pays. Est-ce pour autant la fin de la guerre ? Bakary Sambe est le directeur du Timbuktu Institute. Il est aussi enseignant chercheur à l'Université Gaston Berger de Saint Louis du Sénégal. Il répond aux questions de Christophe Boisbouvier.",
     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261007-mali-%C3%A0-kidal-l-arm%C3%A9e-a-r%C3%A9cup%C3%A9r%C3%A9-un-territoire-elle-n-a-pas-battu-son-adversaire",
     "publie": "2026-10-07T04:58:28+00:00",
-    "resume": "Au Mali, la junte du général Goïta a repris mardi la ville de Kidal, perdue il y a six mois aux mains des rebelles touaregs du FLA, sans combat selon les analistes, bien que cela ne signifie pas la fin de la guerre.",
+    "resume": "Au Mali, l'armée du général Goïta et ses alliés russes ont repris la ville de Kidal, perdue six mois plus tôt face aux rebelles touaregs du FLA, mais les experts questionnent si cela met fin au conflit.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "ad3e62108",
@@ -1495,9 +1231,9 @@
     "extrait": "Trois ans après le drame, les zones d’ombres persistent sur cet événement majeur qui a entraîné la région dans le chaos. Comment en est-on arrivé là et le Premier ministre israélien était-il au courant en amont de l'attaque ?",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-que-savait-benyamin-netanyahu",
     "publie": "2026-10-07T04:02:44+00:00",
-    "resume": "Trois ans après le 7-Octobre, des zones d'ombre persistent sur cet événement majeur ayant entraîné la région dans le chaos, notamment concernant le niveau d'information préalable du Premier ministre israélien Benyamin Netanyahu.",
+    "resume": "Trois ans après l'attaque du 7-Octobre en Israël, des questions persistent sur ce que Benyamin Netanyahu savait à l'avance de l'assaut du Hamas.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "ab88fad52",
@@ -1507,7 +1243,7 @@
     "extrait": "En pleine campagne électorale, l’Etat hébreu entamait la commémoration, mardi, des victimes de l’attaque terroriste du Hamas. Depuis le drame, le pays poursuit une guerre sans fin motivée par un désir de vengeance, sans s’interroger sur les failles qui ont conduit au désastre.",
     "url": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
     "publie": "2026-10-07T03:00:08+00:00",
-    "resume": "En Israël, à l'occasion de la commémoration des victimes de l'attaque du 7 octobre, le pays poursuit une guerre motivée par un désir de vengeance sans interrogation sur les failles ayant conduit au désastre.",
+    "resume": "Israël commémore le 7-Octobre, trois ans après l'attaque terroriste du Hamas, tandis que le pays poursuit une guerre sans fin motivée par la vengeance.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1519,7 +1255,7 @@
     "extrait": "Des ovations à répétition, des chants en boucle, des larmes et bien sûr... un but et des passes décisives. Lionel Messi, idole de l'Argentine du football, a disputé mardi ses dernières minutes avec l'Albiceleste dans une atmosphère de fièvre mêlant gratitude, et nostalgie déjà, pour l'adieu à un génie",
     "url": "https://www.rfi.fr/fr/sports/20261007-avec-un-dernier-but-contre-le-b%C3%A9nin-messi-fait-ses-adieux-%C3%A0-l-argentine-entre-%C3%A9motion-et-gratitude",
     "publie": "2026-10-07T02:33:02+00:00",
-    "resume": "Lionel Messi a disputé ses dernières minutes avec l'équipe nationale d'Argentine lors d'un match contre le Bénin, marquant un but et délivrant des passes décisives dans une atmosphère d'adieu émotionnel.",
+    "resume": "Lionel Messi a disputé mardi son dernier match avec l'équipe nationale d'Argentine contre le Bénin, marquant un but lors de ses adieux.",
     "rubrique": "Sport",
     "importance": 3
   },
@@ -1531,7 +1267,7 @@
     "extrait": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
     "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T23:42:35+00:00",
-    "resume": "Une détenue américaine condamnée à mort a survécu à deux tentatives d'injection létale ratées, soulevant des questions sur son rétablissement et les suites judiciaires.",
+    "resume": "Une détenue américaine à mort a survécu à deux injections létales échouées, soulevant des questions médicales et légales sans précédent.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1543,7 +1279,7 @@
     "extrait": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
     "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T22:17:56+00:00",
-    "resume": "Au Népal, des proches de personnes disparues dans les inondations ne peuvent obtenir de reconnaissance officielle du décès, ce qui les prive de compensation et crée des difficultés administratives.",
+    "resume": "Au Népal, les familles de personnes disparues dans les inondations font face à des obstacles administratifs faute de déclaration officielle de décès.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1555,9 +1291,9 @@
     "extrait": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
     "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T21:22:22+00:00",
-    "resume": "En France, des manifestations de lycéens se multiplient avec affrontements entre policiers antiémeute et protestataires, gaz lacrymogène utilisé dans plusieurs villes.",
+    "resume": "En France, les forces anti-émeutes affrontentent des manifestants et utilisent des gaz lacrymogènes lors de vagues de protestations de lycéens.",
     "rubrique": "Europe",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "a34332c30",
@@ -1567,7 +1303,7 @@
     "extrait": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
     "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T20:40:01+00:00",
-    "resume": "Des allégations de viol à l'université Cornell révèlent des lacunes dans les lois américaines sur les agressions sexuelles, notamment concernant la notion de consentement.",
+    "resume": "Des experts américains examinent les lacunes des lois fédérales sur les agressions sexuelles, particulièrement concernant le consentement et la consommation d'alcool.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1579,7 +1315,7 @@
     "extrait": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
     "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T18:42:58+00:00",
-    "resume": "Un accord impliquant Warner Bros devrait modifier les industries du divertissement et de l'information, avec des risques potentiels de hausse des prix pour les consommateurs.",
+    "resume": "Un accord concernant Warner Bros pourrait modifier les industries du divertissement et de l'information, avec des possibles répercussions sur les prix pour les consommateurs.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -1591,7 +1327,7 @@
     "extrait": "Les manifestations étudiantes se multiplient depuis plusieurs jours à Liège, Bruxelles, Mons, Charleroi ou encore Arlon....",
     "url": "https://www.rtbf.be/article/qr-le-debat-eleves-en-colere-faut-il-les-entendre-ou-les-sanctionner-votez-et-commentez-11795845",
     "publie": "2026-10-06T15:49:54+00:00",
-    "resume": "Des manifestations étudiantes se multiplient en Belgique (Liège, Bruxelles, Mons, Charleroi, Arlon) soulevant la question de savoir s'il faut les entendre ou les sanctionner.",
+    "resume": "Des manifestations étudiantes se multiplient en Belgique depuis plusieurs jours dans plusieurs villes.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1603,9 +1339,9 @@
     "extrait": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
     "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T15:35:22+00:00",
-    "resume": "La mort d'un chercheur dans un laboratoire russe étudiant la peste soulève des questions sur cette maladie et son mode de transmission.",
+    "resume": "La mort d'une chercheuse dans un laboratoire russe étudiant la peste soulève des questions sur cette maladie et sa transmission.",
     "rubrique": "Sciences & Tech",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a1f2120a5",
@@ -1615,8 +1351,20 @@
     "extrait": "The US and Russia have each offered to help each other tackling infectious diseases.",
     "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-06T13:32:42+00:00",
-    "resume": "Les États-Unis et la Russie se proposent mutuellement une aide pour lutter contre les maladies infectieuses suite au décès d'un chercheur de laboratoire.",
+    "resume": "Les États-Unis et la Russie s'offrent mutuellement une aide pour lutter contre les maladies infectieuses suite à la mort d'une chercheuse.",
     "rubrique": "Monde",
     "importance": 2
+  },
+  {
+    "id": "a78cba0b4",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "En Russie, les autorités nient l'instauration de mesures sanitaires après un soupçon d'un cas de peste en Sibérie",
+    "extrait": "Plusieurs médias locaux ont pour leur part fait état de la mise en place d'une quarantaine de trois semaines, après la mort d'une laborantine à Irkoutsk.",
+    "url": "https://www.franceinfo.fr/monde/russie/les-autorites-russes-nient-l-instauration-de-mesures-sanitaires-apres-un-soupcon-de-cas-de-peste-en-siberie-l-oms-estime-un-risque-tres-faible-pour-l-europe_8225071.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-06T12:15:34+00:00",
+    "resume": "Les autorités russes nient avoir instauré des mesures sanitaires après un soupçon de cas de peste en Sibérie, contrairement aux rapports de médias locaux évoquant une quarantaine.",
+    "rubrique": "Monde",
+    "importance": 3
   }
 ]
