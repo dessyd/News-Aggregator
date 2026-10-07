@@ -51,6 +51,18 @@ structurante, la plus récente en bas).
 - **Justification** : aucun contenu confidentiel ; GitHub Pages gratuit exige un dépôt public.
 - **Conséquences** : le code, les prompts, les caches de collecte et les pages générées sont publics ; ne jamais committer de clé API ; la page publiée reste en `noindex` et ne contient que des synthèses courtes avec liens.
 
+## D9 — Fédération d'identité plutôt qu'une clé API statique
+- **Date** : 2026-10-07
+- **Justification** : pas de secret longue durée à stocker, faire tourner ni risquer de fuiter (dépôt public, D8) ;
+  GitHub Actions présente un jeton OIDC de courte durée que la règle de fédération Anthropic échange contre un jeton d'accès
+  rattaché à un compte de service et à un workspace. Validé par le workflow `anthropic-wif-test`.
+- **Conséquences** : les workflows déclarent `id-token: write`, récupèrent le jeton (audience `https://api.anthropic.com`), l'écrivent
+  dans un fichier (`ANTHROPIC_IDENTITY_TOKEN_FILE`) et lisent les identifiants dans des variables de dépôt `vars.ANTHROPIC_*`
+  (ce ne sont pas des secrets). Aucun `ANTHROPIC_API_KEY` dans les workflows : il aurait priorité sur la fédération.
+  SDK `anthropic>=0.99` (fédération depuis 0.98, ciblage d'un workspace depuis 0.99). Le jeton OIDC est obtenu une seule fois
+  au début du job ; un job très long pourrait voir l'échange échouer si le SDK doit renouveler son jeton d'accès après
+  l'expiration du jeton GitHub (jobs actuels limités à 20 min). L'usage local reste possible avec une clé API.
+
 ## À trancher
 - Liste définitive des flux (belges notamment) après `check-feeds`.
 - Modèles par étape, après vérification des identifiants disponibles.

@@ -28,6 +28,7 @@ on:
         required: false
 
 permissions:
+  id-token: write
   contents: write
 
 concurrency:
@@ -38,6 +39,14 @@ jobs:
   essai:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      # Fédération d'identité : le SDK échange le jeton OIDC de GitHub contre un jeton d'accès Anthropic.
+      # Aucun ANTHROPIC_API_KEY ici : il aurait priorité sur la fédération.
+      ANTHROPIC_IDENTITY_TOKEN_FILE: /tmp/anthropic-identity-token
+      ANTHROPIC_FEDERATION_RULE_ID: ${{ vars.ANTHROPIC_FEDERATION_RULE_ID }}
+      ANTHROPIC_ORGANIZATION_ID: ${{ vars.ANTHROPIC_ORGANIZATION_ID }}
+      ANTHROPIC_SERVICE_ACCOUNT_ID: ${{ vars.ANTHROPIC_SERVICE_ACCOUNT_ID }}
+      ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
     steps:
       - uses: actions/checkout@v4
 
@@ -48,9 +57,16 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Jeton OIDC GitHub (fédération Anthropic)
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const token = await core.getIDToken('https://api.anthropic.com');
+            core.setSecret(token);
+            require('fs').writeFileSync(process.env.ANTHROPIC_IDENTITY_TOKEN_FILE, token, { mode: 0o600 });
+
       - name: Rejouer et comparer
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TAG: ${{ inputs.tag }}
           FROM_STAGE: ${{ inputs.from_stage }}
           DAY: ${{ inputs.date }}

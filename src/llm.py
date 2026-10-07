@@ -7,7 +7,7 @@ from .util import extract_json
 
 
 class LLM:
-    """Client minimal. La clé est lue dans la variable d'environnement ANTHROPIC_API_KEY."""
+    """Client minimal. Identifiants résolus par le SDK : ANTHROPIC_API_KEY (local) ou fédération d'identité (GitHub Actions)."""
 
     def __init__(self, temperature=None):
         import anthropic  # import tardif : les tests n'en ont pas besoin

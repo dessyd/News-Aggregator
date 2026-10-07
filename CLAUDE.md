@@ -38,7 +38,8 @@ python -m src.main replay --tag v2 --from-stage 3         # rejouer les étapes 
 python -m src.main compare --a main --b v2                # comparaison côte à côte
 ```
 
-La clé API se fournit via `ANTHROPIC_API_KEY` (via un gestionnaire de secrets, par exemple 1Password CLI : `op run -- python -m src.main ...`). Ne jamais la committer.
+En local, la clé API se fournit via `ANTHROPIC_API_KEY` (via un gestionnaire de secrets, par exemple 1Password CLI : `op run -- python -m src.main ...`). Ne jamais la committer.
+Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variables de dépôt `vars.ANTHROPIC_*`, voir D9). Ne jamais ajouter `ANTHROPIC_API_KEY` aux workflows : elle masquerait la fédération.
 
 ## Règles à respecter
 
@@ -57,5 +58,7 @@ La clé API se fournit via `ANTHROPIC_API_KEY` (via un gestionnaire de secrets, 
 ## État
 
 Squelette complet, testé avec un faux modèle ; **jamais exécuté avec un vrai modèle ni de vrais flux**.
-Prochaines étapes : valider les flux, ajouter le secret `ANTHROPIC_API_KEY`,
-activer Pages (branche `main`, dossier `/docs`), lancer une première revue, puis itérer sur les prompts.
+Fédération d'identité Claude ↔ GitHub Actions validée (workflow `anthropic-wif-test`, jeton d'accès obtenu) et appliquée
+à `revue-quotidienne.yml` et `essai-prompts.yml` (`anthropic>=0.99`) ; **ces deux workflows n'ont pas encore tourné avec la fédération**.
+Prochaines étapes : créer les quatre variables de dépôt `ANTHROPIC_*` (Settings → Secrets and variables → Actions → Variables),
+valider les flux, activer Pages (branche `main`, dossier `/docs`), lancer une première revue, puis itérer sur les prompts.

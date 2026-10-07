@@ -39,7 +39,11 @@ Les commentaires `<!-- ... -->` des fichiers de prompts ne sont pas envoyés au 
 ## Mise en route (une seule fois)
 
 1. Créer un dépôt GitHub et y déposer le contenu de ce dossier.
-2. Dépôt → *Settings → Secrets and variables → Actions* → ajouter le secret `ANTHROPIC_API_KEY`.
+2. Dépôt → *Settings → Secrets and variables → Actions → onglet Variables* → ajouter les quatre variables de dépôt
+   `ANTHROPIC_FEDERATION_RULE_ID`, `ANTHROPIC_ORGANIZATION_ID`, `ANTHROPIC_SERVICE_ACCOUNT_ID` et `ANTHROPIC_WORKSPACE_ID`
+   (identifiants de la règle de fédération d'identité Claude ↔ GitHub Actions, voir `design/decisions.md` D9).
+   **Pas de secret `ANTHROPIC_API_KEY`** : les workflows s'authentifient avec le jeton OIDC de GitHub, et une clé API
+   définie par ailleurs aurait priorité sur la fédération.
 3. *Settings → Pages* → Source : *Deploy from a branch*, branche `main`, dossier `/docs`.
 4. *Settings → Actions → General → Workflow permissions* → *Read and write permissions*.
 5. Vérifier les flux : `python -m src.main check-feeds` (en local) et corriger `config/feeds.yaml`.
@@ -70,7 +74,7 @@ et la revue finale, ce qui permet de justifier chaque choix éditorial.
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY=...            # ou via un gestionnaire de secrets (ex. 1Password CLI : op run -- python -m src.main ...)
+export ANTHROPIC_API_KEY=...            # local uniquement (GitHub Actions utilise la fédération) ; ou via 1Password CLI : op run -- python -m src.main ...
 
 python -m src.main check-feeds                          # tester les flux
 python -m src.main run --limit 30 --no-publish          # essai économique, rien n'est publié
