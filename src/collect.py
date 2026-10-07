@@ -49,9 +49,10 @@ def _norm_title(title: str) -> str:
 def fetch_feed(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse):
     """Renvoie (articles, rapport) pour un flux."""
     report = {"name": feed["name"], "url": feed["url"], "ok": False, "entries": 0,
-              "kept": 0, "with_summary": 0, "error": None}
+              "kept": 0, "with_summary": 0, "status": None, "error": None}
     socket.setdefaulttimeout(25)
     d, erreur = _lire_flux(feed["url"], parse)
+    report["status"] = d.get("status")  # statut HTTP de la dernière tentative (None si aucune réponse)
     entries = d.get("entries", []) or []
     if not entries:
         exc = d.get("bozo_exception")

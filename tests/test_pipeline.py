@@ -144,6 +144,20 @@ def test_collect_gives_up_after_one_retry():
     assert arts == [] and not report[0]["ok"] and "XML mal formé" in report[0]["error"]
 
 
+def test_collect_reports_http_status():
+    def parse(url, agent=None):
+        if "ko" in url:
+            return feedparser.FeedParserDict({"status": 503, "entries": [], "bozo_exception": ValueError("XML mal formé")})
+        if "down" in url:
+            raise OSError("réseau")
+        return feedparser.FeedParserDict({"status": 200, "entries": fake_parse_factory()("http://a.test/rss")["entries"]})
+
+    feeds = [{"name": n, "url": f"http://{n}.test/rss"} for n in ("ok", "ko", "down")]
+    _, report = collect(feeds, SETTINGS["collect"], now=NOW, parse=parse)
+    assert [r["status"] for r in report] == [200, 503, None]   # None : pas de réponse (exception réseau)
+    assert [r["ok"] for r in report] == [True, False, False]
+
+
 def test_collect_does_not_retry_a_healthy_feed():
     parse, calls = flaky_parse(failures=0)
     collect(FEEDS[:1], SETTINGS["collect"], now=NOW, parse=parse)
