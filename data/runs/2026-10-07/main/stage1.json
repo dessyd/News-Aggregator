@@ -1,5 +1,57 @@
 [
   {
+    "id": "a08012b6b",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "De fortes précipitations dans le Var, en vigilance aux orages et inondations, mais aussi dans les Alpes-Maritimes",
+    "extrait": "La pluie fait son retour avec fracas sur la Côte d’Azur : les départements des Alpes-Maritimes et du Var sont placés en vigilance jaune et orange ce 7 octobre face au risque de fortes précipitations.",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/vigilance-pluie-inondation-de-fortes-precipitations-ce-mercredi-matin-dans-le-var-et-les-alpes-maritimes-avec-des-perturbations-de-circulation-3429336.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T15:38:47+00:00",
+    "resume": "La pluie fait son retour avec fracas sur la Côte d’Azur : les départements des Alpes-Maritimes et du Var sont placés en vigilance jaune et orange ce 7 octobre face au risque de fortes précipitations.",
+    "rubrique": "Autres",
+    "importance": 2,
+    "repli": true
+  },
+  {
+    "id": "ab9d64a7e",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "Le nombre de déplacés au Yémen franchit la barre des 200 000 personnes, selon l'Organisation internationale des migrations",
+    "extrait": "Depuis juillet, les hostilités ont repris entre le gouvernement yéménite, soutenu par l'Arabie saoudite, et les houthis pro-iraniens.",
+    "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T15:37:39+00:00",
+    "resume": "Depuis juillet, les hostilités ont repris entre le gouvernement yéménite, soutenu par l'Arabie saoudite, et les houthis pro-iraniens.",
+    "rubrique": "Autres",
+    "importance": 2,
+    "repli": true
+  },
+  {
+    "id": "aa62cc6cd",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "Primoz Roglic nouveau champion d'Europe de cyclisme sur le contre-la-montre, les Français Bruno Armirail et Maxime Decomble complètent le podium",
+    "extrait": "L'équipe de France décroche l'argent et le bronze chez les hommes mercredi, au lendemain du titre européen sur le relais mixte, et peu après le bronze de Juliette Berthet.",
+    "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T15:33:11+00:00",
+    "resume": "L'équipe de France décroche l'argent et le bronze chez les hommes mercredi, au lendemain du titre européen sur le relais mixte, et peu après le bronze de Juliette Berthet.",
+    "rubrique": "Autres",
+    "importance": 2,
+    "repli": true
+  },
+  {
+    "id": "a3fc7e198",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "L'assouplissement des cahiers des charges des AOP comté, morbier et bleu de Gex, pour faire face à la sécheresse, publié au Journal officiel",
+    "extrait": "Cette demande était une requête des quatre filières de fromages AOP de Franche-Comté, après une sécheresse record cet été en France. Ces assouplissements sont en vigueur jusqu'au 31 mai 2027.",
+    "url": "https://www.franceinfo.fr/sante/alimentation/l-assouplissement-des-cahiers-des-charges-des-aop-comte-morbier-et-bleu-de-gex-publies-au-journal-officiel_8227108.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-07T15:30:31+00:00",
+    "resume": "Cette demande était une requête des quatre filières de fromages AOP de Franche-Comté, après une sécheresse record cet été en France. Ces assouplissements sont en vigueur jusqu'au 31 mai 2027.",
+    "rubrique": "Autres",
+    "importance": 2,
+    "repli": true
+  },
+  {
     "id": "abe4a0069",
     "source": "franceinfo",
     "lang": "fr",
@@ -650,19 +702,6 @@
     "repli": true
   },
   {
-    "id": "a457b09b9",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Un animateur de centre de loisirs dans le Calvados visé par une enquête pour agression sexuelle, deux plaintes déposées",
-    "extrait": "Selon les informations d'ICI, l'animateur a été suspendu de ses fonctions après le signalement de plusieurs parents.",
-    "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-de-centre-de-loisirs-dans-le-calvados-vise-par-une-enquete-pour-agression-sexuelle-deux-plaintes-deposees_8226919.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T13:28:31+00:00",
-    "resume": "Selon les informations d'ICI, l'animateur a été suspendu de ses fonctions après le signalement de plusieurs parents.",
-    "rubrique": "Autres",
-    "importance": 2,
-    "repli": true
-  },
-  {
     "id": "aa61e1de4",
     "source": "France 24",
     "lang": "fr",
@@ -827,19 +866,6 @@
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/en-soutien-a-la-mobilisation-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-faire-greve-et-manifester-jeudi_8226832.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T12:54:51+00:00",
     "resume": "Quelque 266 000 manifestants ont été recensés dans les rues mardi par le ministère de l'Intérieur, contre 450 000 par les organisateurs.",
-    "rubrique": "Autres",
-    "importance": 2,
-    "repli": true
-  },
-  {
-    "id": "a08012b6b",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "De fortes précipitations dans le Var, en vigilance aux orages et inondations, mais aussi dans les Alpes-Maritimes",
-    "extrait": "La pluie fait son retour avec fracas sur la Côte d’Azur : les départements des Alpes-Maritimes et du Var sont placés en vigilance jaune et orange ce 7 octobre face au risque de fortes précipitations.",
-    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/vigilance-pluie-inondation-de-fortes-precipitations-ce-mercredi-matin-dans-le-var-et-les-alpes-maritimes-avec-des-perturbations-de-circulation-3429336.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T12:51:41+00:00",
-    "resume": "La pluie fait son retour avec fracas sur la Côte d’Azur : les départements des Alpes-Maritimes et du Var sont placés en vigilance jaune et orange ce 7 octobre face au risque de fortes précipitations.",
     "rubrique": "Autres",
     "importance": 2,
     "repli": true
@@ -1359,19 +1385,6 @@
     "repli": true
   },
   {
-    "id": "aea52eb96",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "\"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
-    "extrait": "Malgré un semblant de cessez-le-feu et la promesse d'un plan de reconstruction, le territoire palestinien manque de moyens et de matériel pour réhabiliter les milliers de bâtiments détruits depuis l'automne 2023.",
-    "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T08:04:59+00:00",
-    "resume": "Malgré un semblant de cessez-le-feu et la promesse d'un plan de reconstruction, le territoire palestinien manque de moyens et de matériel pour réhabiliter les milliers de bâtiments détruits depuis l'automne 2023.",
-    "rubrique": "Autres",
-    "importance": 2,
-    "repli": true
-  },
-  {
     "id": "a23f4f20e",
     "source": "RFI",
     "lang": "fr",
@@ -1614,19 +1627,6 @@
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-que-savait-benyamin-netanyahu",
     "publie": "2026-10-07T04:02:44+00:00",
     "resume": "Trois ans après le drame, les zones d’ombres persistent sur cet événement majeur qui a entraîné la région dans le chaos. Comment en est-on arrivé là et le Premier ministre israélien était-il au courant en amont de l'attaque ?",
-    "rubrique": "Autres",
-    "importance": 2,
-    "repli": true
-  },
-  {
-    "id": "a01ba1ee6",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Le budget prévoit-il \"650 millions en moins\" pour l'Education nationale et \"1 600 postes de professeurs en moins\", comme l'affirme LFI ?",
-    "extrait": "Plusieurs cadres de La France insoumise dénoncent une présentation trompeuse du budget de l'Education nationale. Calculée en fonction de l'inflation, l'enveloppe de ce ministère est effectivement en baisse.",
-    "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-budget-prevoit-il-650-millions-en-moins-pour-l-education-nationale-et-1-600-postes-de-professeurs-en-moins-comme-l-affirme-lfi_8223316.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T03:58:20+00:00",
-    "resume": "Plusieurs cadres de La France insoumise dénoncent une présentation trompeuse du budget de l'Education nationale. Calculée en fonction de l'inflation, l'enveloppe de ce ministère est effectivement en baisse.",
     "rubrique": "Autres",
     "importance": 2,
     "repli": true
