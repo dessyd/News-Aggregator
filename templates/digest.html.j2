@@ -1,0 +1,12 @@
+{% extends "base.html.j2" %}
+{% import "_macros.html.j2" as m %}
+{% block title %}{{ site.title }} — {{ d.date_fr }}{% endblock %}
+{% block content %}
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ d.date_fr|capitalize }} · {{ site.subtitle }}</p>
+  <nav><a href="{{ base }}archives.html">Archives</a></nav>
+</header>
+{{ m.digest_body(d) }}
+{{ m.notice(d) }}
+{% endblock %}

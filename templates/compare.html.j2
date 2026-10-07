@@ -1,0 +1,20 @@
+{% extends "base.html.j2" %}
+{% import "_macros.html.j2" as m %}
+{% block title %}Comparaison {{ label_a }} / {{ label_b }}{% endblock %}
+{% block width %}1400px{% endblock %}
+{% block content %}
+<header>
+  <h1>Comparaison d'essais</h1>
+  <p>{{ a.date_fr|capitalize }} · mêmes articles, prompts différents</p>
+</header>
+<div class="cols">
+  <div>
+    <h3>{{ label_a }} <span class="src">(prompts {{ a.meta.prompts }}, {{ a.warnings|length }} avertissement(s))</span></h3>
+    {{ m.digest_body(a) }}
+  </div>
+  <div>
+    <h3>{{ label_b }} <span class="src">(prompts {{ b.meta.prompts }}, {{ b.warnings|length }} avertissement(s))</span></h3>
+    {{ m.digest_body(b) }}
+  </div>
+</div>
+{% endblock %}

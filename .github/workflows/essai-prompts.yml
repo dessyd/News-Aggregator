@@ -1,0 +1,85 @@
+name: Essai de prompts
+
+# À lancer depuis l'onglet Actions après avoir modifié un fichier du dossier prompts/.
+# Rejoue les étapes LLM sur une collecte déjà en cache (mêmes articles), sans toucher
+# à la revue publiée, et produit une page d'essai + une comparaison avec l'essai de référence.
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Nom de l'essai (ex. v2-ton-plus-sobre)"
+        required: true
+      from_stage:
+        description: "Rejouer à partir de l'étape (1 = tout, 2 = regroupement, 3 = rédaction, 4 = chapeau)"
+        required: true
+        default: "1"
+        type: choice
+        options: ["1", "2", "3", "4"]
+      date:
+        description: "Date de la collecte à rejouer (AAAA-MM-JJ) — vide = la plus récente"
+        required: false
+      base_tag:
+        description: "Essai de référence (comparaison et reprise des étapes précédentes)"
+        required: false
+        default: "main"
+      limit:
+        description: "Nombre max d'articles à l'étape 1 (vide = tous ; utile pour économiser)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: revue-de-presse
+  cancel-in-progress: false
+
+jobs:
+  essai:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Rejouer et comparer
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAG: ${{ inputs.tag }}
+          FROM_STAGE: ${{ inputs.from_stage }}
+          DAY: ${{ inputs.date }}
+          BASE_TAG: ${{ inputs.base_tag }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          ARGS=(--tag "$TAG" --from-stage "$FROM_STAGE" --base-tag "$BASE_TAG" --publish-test)
+          [ -n "$DAY" ] && ARGS+=(--date "$DAY")
+          [ -n "$LIMIT" ] && ARGS+=(--limit "$LIMIT")
+          python -m src.main replay "${ARGS[@]}"
+          CARGS=(--a "$BASE_TAG" --b "$TAG" --publish-test)
+          [ -n "$DAY" ] && CARGS+=(--date "$DAY")
+          python -m src.main compare "${CARGS[@]}"
+          {
+            echo "### Essai « $TAG » terminé"
+            echo "Les pages d'essai sont dans le dossier \`docs/tests/\` (publiées par GitHub Pages sous \`/tests/\`)."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Enregistrer l'essai
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          git config user.name "revue-bot"
+          git config user.email "revue-bot@users.noreply.github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer."
+          else
+            git commit -m "Essai de prompts : $TAG"
+            git pull --rebase
+            git push
+          fi

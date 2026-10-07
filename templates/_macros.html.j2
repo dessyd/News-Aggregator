@@ -1,0 +1,37 @@
+{% macro digest_body(d) %}
+{% if d.chapeau %}
+<p class="chapeau">{{ d.chapeau }}</p>
+{% endif %}
+{% for t in d.topics %}
+<article class="card">
+  <p class="rubrique">{{ t.rubrique }}</p>
+  <h2>{{ t.titre }}</h2>
+  <p>{{ t.texte }}</p>
+  <p class="sources">Sources :
+    {% for s in t.sources %}
+    <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer" title="{{ s.titre }}">{{ s.source }}</a>{% if not loop.last %} · {% endif %}
+    {% endfor %}
+  </p>
+</article>
+{% endfor %}
+{% if d.breves %}
+<section>
+  <h2 class="h-breves">En bref</h2>
+  <ul class="breves">
+    {% for b in d.breves %}
+    <li><a href="{{ b.url }}" target="_blank" rel="noopener noreferrer">{{ b.titre }}</a> <span class="src">{{ b.source }}</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endmacro %}
+
+{% macro notice(d) %}
+<footer>
+  <p>Revue générée automatiquement par un modèle de langage à partir de flux RSS
+  ({{ d.stats.articles }} article{{ 's' if d.stats.articles > 1 }}, {{ d.stats.sources }} source{{ 's' if d.stats.sources > 1 }}, {{ d.stats.sujets }} sujet{{ 's' if d.stats.sujets > 1 }}).
+  Les synthèses peuvent comporter des erreurs ou des omissions : consultez les articles originaux via les liens.</p>
+  <p class="tech">Générée le {{ d.generated_at[:16]|replace('T', ' à ') }} UTC · version des prompts {{ d.meta.prompts }}
+  {% if d.warnings %} · {{ d.warnings|length }} avertissement(s){% endif %}</p>
+</footer>
+{% endmacro %}

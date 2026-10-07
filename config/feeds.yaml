@@ -1,0 +1,41 @@
+# Liste des flux RSS. Modifiable librement (sans toucher au code).
+#
+# IMPORTANT : ces URL sont des points de départ. Elles n'ont pas toutes pu être
+# vérifiées au moment de la création du projet. Lancez
+#     python -m src.main check-feeds
+# pour contrôler chaque flux, puis commentez (ou mettez enabled: false) ceux qui
+# ne répondent pas. Seul le flux RTBF a été confirmé comme valide (20 entrées,
+# extraits souvent tronqués).
+#
+# Champs : name (affiché dans la revue), url, lang (fr/en/nl), enabled.
+
+feeds:
+  - name: RTBF Info
+    url: https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml
+    lang: fr
+
+  - name: Le Monde
+    url: https://www.lemonde.fr/rss/une.xml
+    lang: fr
+
+  - name: France 24
+    url: https://www.france24.com/fr/rss
+    lang: fr
+
+  - name: RFI
+    url: https://www.rfi.fr/fr/rss
+    lang: fr
+
+  - name: franceinfo
+    url: https://www.francetvinfo.fr/titres.rss
+    lang: fr
+
+  - name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    lang: en
+
+  # Flux belges à ajouter après vérification des URL officielles sur chaque site
+  # (Le Soir, La Libre, Belga, VRT NWS, The Brussels Times...). Exemple :
+  # - name: Le Soir
+  #   url: https://...
+  #   lang: fr
