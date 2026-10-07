@@ -4,6 +4,7 @@ from __future__ import annotations
 import difflib
 import re
 import socket
+import time
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -12,6 +13,19 @@ import yaml
 from .util import article_id, is_http_url, strip_html
 
 UA = "revue-de-presse/1.0 (projet pedagogique)"
+RETRY_PAUSE = 3  # secondes avant la relance d'un flux
+
+
+def _lire_flux(url: str, parse):
+    """Lit un flux ; une seule relance si la 1re tentative échoue ou ne renvoie rien (pannes ponctuelles observées)."""
+    for tentative in (1, 2):
+        try:
+            d, erreur = parse(url, agent=UA), None
+        except Exception as exc:  # réseau, certificat, etc.
+            d, erreur = {}, str(exc)
+        if d.get("entries") or tentative == 2:
+            return d, erreur
+        time.sleep(RETRY_PAUSE)
 
 
 def load_feeds(path) -> list[dict]:
@@ -37,15 +51,11 @@ def fetch_feed(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse):
     report = {"name": feed["name"], "url": feed["url"], "ok": False, "entries": 0,
               "kept": 0, "with_summary": 0, "error": None}
     socket.setdefaulttimeout(25)
-    try:
-        d = parse(feed["url"], agent=UA)
-    except Exception as exc:  # réseau, certificat, etc.
-        report["error"] = str(exc)
-        return [], report
+    d, erreur = _lire_flux(feed["url"], parse)
     entries = d.get("entries", []) or []
     if not entries:
         exc = d.get("bozo_exception")
-        report["error"] = str(exc) if exc else "aucune entrée (flux vide ou URL incorrecte)"
+        report["error"] = erreur or (str(exc) if exc else "aucune entrée (flux vide ou URL incorrecte)")
         return [], report
 
     report["ok"] = True

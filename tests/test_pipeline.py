@@ -11,6 +11,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+import src.collect
 from src.collect import collect, dedupe, sample
 from src.llm import call_json
 from src.pipeline import Pipeline
@@ -90,6 +91,11 @@ FEEDS = [{"name": "A", "url": "http://a.test/rss"}, {"name": "B", "url": "http:/
 NOW = datetime(2026, 10, 6, 8, 0, tzinfo=timezone.utc)
 
 
+@pytest.fixture(autouse=True)
+def no_retry_pause(monkeypatch):
+    monkeypatch.setattr(src.collect, "RETRY_PAUSE", 0)
+
+
 @pytest.fixture
 def articles():
     arts, report = collect(FEEDS, SETTINGS["collect"], now=NOW, parse=fake_parse_factory())
@@ -106,6 +112,42 @@ def test_collect_filters_dedupes_and_reports(articles):
     assert incendie["extrait"] == "Extrait HTML & texte"  # HTML nettoyé, version la plus riche conservée
     assert incendie["autres_sources"][0]["source"] == "B"  # la source doublon n'est pas perdue
     assert [r["ok"] for r in report] == [True, True, False]  # flux vide signalé
+
+
+def flaky_parse(failures, good="http://a.test/rss", error=None):
+    """Échoue `failures` fois (entrées vides, ou exception si `error`) puis renvoie le flux normal."""
+    ok, calls = fake_parse_factory(), []
+
+    def parse(url, agent=None):
+        calls.append(url)
+        if len(calls) <= failures:
+            if error:
+                raise error
+            return feedparser.FeedParserDict({"entries": [], "bozo_exception": ValueError("XML mal formé")})
+        return ok(good)
+    return parse, calls
+
+
+@pytest.mark.parametrize("error", [None, OSError("réseau")])
+def test_collect_retries_once_after_a_failed_read(error):
+    parse, calls = flaky_parse(failures=1, error=error)
+    arts, report = collect(FEEDS[:1], SETTINGS["collect"], now=NOW, parse=parse)
+    assert len(calls) == 2                               # une seule relance
+    assert report[0]["ok"] and report[0]["kept"] == 2 and report[0]["error"] is None
+    assert len(arts) == 2
+
+
+def test_collect_gives_up_after_one_retry():
+    parse, calls = flaky_parse(failures=5)
+    arts, report = collect(FEEDS[:1], SETTINGS["collect"], now=NOW, parse=parse)
+    assert len(calls) == 2                               # jamais plus d'une relance
+    assert arts == [] and not report[0]["ok"] and "XML mal formé" in report[0]["error"]
+
+
+def test_collect_does_not_retry_a_healthy_feed():
+    parse, calls = flaky_parse(failures=0)
+    collect(FEEDS[:1], SETTINGS["collect"], now=NOW, parse=parse)
+    assert len(calls) == 1
 
 
 def test_helpers():
