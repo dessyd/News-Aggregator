@@ -61,7 +61,10 @@ structurante, la plus récente en bas).
   (ce ne sont pas des secrets). Aucun `ANTHROPIC_API_KEY` dans les workflows : il aurait priorité sur la fédération.
   SDK `anthropic>=0.99` (fédération depuis 0.98, ciblage d'un workspace depuis 0.99). Le jeton OIDC est obtenu une seule fois
   au début du job ; un job très long pourrait voir l'échange échouer si le SDK doit renouveler son jeton d'accès après
-  l'expiration du jeton GitHub (jobs actuels limités à 20 min). L'usage local reste possible avec une clé API.
+  l'expiration du jeton GitHub (jobs actuels limités à 20 min). La règle de fédération (Console) ne doit pas
+  imposer `event_name` : le cron produit `schedule`, les lancements manuels `workflow_dispatch` (rejet `match_claim_value_mismatch`
+  sinon) ; le préfixe de sujet et `repository`/`ref` suffisent. Les variables `vars.*` ne doivent contenir ni retour chariot
+  ni espace final. L'usage local reste possible avec une clé API.
 
 ## À trancher
 - Liste définitive des flux (belges notamment) après `check-feeds`.

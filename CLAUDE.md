@@ -57,8 +57,9 @@ Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variable
 
 ## État
 
-Squelette complet, testé avec un faux modèle ; **jamais exécuté avec un vrai modèle ni de vrais flux**.
-Fédération d'identité Claude ↔ GitHub Actions validée (workflow `anthropic-wif-test`, jeton d'accès obtenu) et appliquée
-à `revue-quotidienne.yml` et `essai-prompts.yml` (`anthropic>=0.99`) ; **ces deux workflows n'ont pas encore tourné avec la fédération**.
-Prochaines étapes : créer les quatre variables de dépôt `ANTHROPIC_*` (Settings → Secrets and variables → Actions → Variables),
-valider les flux, activer Pages (branche `main`, dossier `/docs`), lancer une première revue, puis itérer sur les prompts.
+Squelette complet, testé avec un faux modèle. Première revue réelle le 2026-10-07 (6 flux, 135 articles, 12 sujets, aucun avertissement).
+Fédération d'identité Claude ↔ GitHub Actions en service sur `revue-quotidienne.yml` (validée) et `essai-prompts.yml`
+(converti, **pas encore lancé**) ; variables de dépôt `ANTHROPIC_*` créées (sans retour chariot final : un `\r` collé avec
+la valeur fait échouer l'échange). La règle de fédération ne doit **pas** imposer `event_name` (cron = `schedule`, lancements manuels = `workflow_dispatch`).
+Prochaines étapes : valider les autres flux avec `check-feeds`, vérifier l'activation de Pages (branche `main`, dossier `/docs`),
+lancer un essai de prompts, puis itérer sur les prompts.
