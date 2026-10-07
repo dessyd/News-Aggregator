@@ -1,0 +1,28 @@
+name: Diagnostic France 24 (temporaire)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install -q feedparser
+      - name: Lire le flux 8 fois
+        run: |
+          UA="revue-de-presse/1.0 (projet pedagogique)"
+          for i in 1 2 3 4 5 6 7 8; do
+            curl -sS -A "$UA" -D h.$i -o b.$i https://www.france24.com/fr/rss || echo "curl a échoué"
+            echo "=== essai $i : $(head -1 h.$i | tr -d '\r') | $(wc -c < b.$i) octets | $(grep -i '^content-type' h.$i | tr -d '\r') | $(grep -i '^content-encoding\|^transfer-encoding' h.$i | tr -d '\r' | tr '\n' ' ')"
+            python3 - "$i" <<'PY'
+          import sys, feedparser
+          i = sys.argv[1]
+          f = feedparser.parse(f"b.{i}")
+          print("   entries:", len(f.entries), "| bozo:", f.bozo, "|", repr(getattr(f, "bozo_exception", None))[:120])
+          if not f.entries:
+              raw = open(f"b.{i}", "rb").read()
+              print("   début:", raw[:200])
+              l2 = raw.split(b"\n")[1] if raw.count(b"\n") > 0 else b""
+              print("   ligne 2, octets 400-440:", l2[400:440])
+          PY
+            sleep 3
+          done
