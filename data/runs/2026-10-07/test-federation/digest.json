@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-07",
+  "date_fr": "mercredi 7 octobre 2026",
+  "generated_at": "2026-10-07T15:56:28+00:00",
+  "chapeau": "Israël a commémoré mercredi le troisième anniversaire des attaques du 7-octobre 2023, la journée la plus meurtrière de son histoire. Des attaques russes à grande échelle ont tué 24 personnes en Ukraine, détruisant notamment un immeuble à Pryluky. En France, la justice a ordonné la fermeture d'une plateforme qui vendait des contenus intimes volés de plus de 17 000 femmes.",
+  "topics": [
+    {
+      "titre": "Israël commémore le troisième anniversaire des attaques du 7-octobre 2023",
+      "texte": "Israël a commémoré mercredi le troisième anniversaire des attaques du 7-octobre 2023. Selon France 24, plusieurs cérémonies se sont organisées et des personnes endeuillées ont observé une minute de silence à l'aube sur des sites du pays pris d'assaut par le Hamas. Les attaques ont fait plus de 1 200 morts et 251 personnes ont été prises en otage, selon la même source. France 24 qualifie cet événement de « journée la plus meurtrière dans l'histoire du pays ».",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "af88f6d43"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-isra%C3%ABl-comm%C3%A9more-les-attaques-du-7-octobre"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Attaques russes meurtrières en Ukraine : 24 morts, un immeuble détruit à Pryluky",
+      "texte": "Des attaques russes à grande échelle ont tué 24 personnes en Ukraine, selon la BBC World. Parmi les cibles frappées figure un immeuble d'habitation à Pryluky, entièrement détruit. Les équipes de secours poursuivent leurs recherches pour retrouver d'éventuels survivants sous les décombres. Le président ukrainien Volodymyr Zelensky a condamné ces frappes qu'il qualifie de « viles ».",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a5d0d9e1c"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Soupçons de peste en Russie après le décès d'une laborantine en Sibérie",
+      "texte": "Une jeune laborantine est morte le 2 octobre d'une pneumonie d'origine « indéterminée » dans une zone reculée de Sibérie, selon franceinfo. Ce décès suscite l'inquiétude de la communauté internationale. L'OMS, l'Union européenne et les États-Unis réclament plus de transparence à la Russie sur les causes de ce décès. De son côté, Moscou dément tout « risque épidémique », d'après la même source.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a4f24bfe4"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Quatre questions sur les soupçons de peste en Russie, qui inquiètent la communauté internationale",
+          "url": "https://www.franceinfo.fr/monde/russie/quatre-questions-sur-les-soupcons-de-peste-en-russie-qui-inquietent-la-communaute-internationale_8226337.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Couvre-feu d'un mois imposé aux soldats américains à Okinawa après un meurtre",
+      "texte": "Un Marine américain est soupçonné d'avoir tué une habitante d'Okinawa samedi 3 octobre, déclenchant de vives tensions dans le sud du Japon, selon RFI. En réponse, le commandement militaire américain a imposé un couvre-feu d'un mois aux troupes stationnées sur l'île. Malgré cette mesure, le gouverneur d'Okinawa a réaffirmé l'urgence d'alléger le fardeau que font peser les bases militaires américaines sur l'archipel.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a01d91cf1"
+      ],
+      "sources": [
+        {
+          "source": "RFI",
+          "titre": "Japon: les soldats américains soumis à un couvre-feu à Okinawa après le meurtre d'une femme",
+          "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme"
+        }
+      ],
+      "importance": 3,
+      "score": 31,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés de milliers de femmes",
+      "texte": "La justice a ordonné la fermeture d'une plateforme qui vendait des contenus intimes volés concernant plus de 17 000 femmes, dont des mineures, selon Le Monde. Deux frères âgés de 21 et 25 ans, soupçonnés d'être les administrateurs du site, ont été arrêtés dans le nord de la France. Les enquêteurs ont saisi lors de l'opération près de 700 000 euros en cryptomonnaies.",
+      "rubrique": "Société",
+      "ids_sources": [
+        "a2978ac11"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Contenus intimes volés : la justice fait fermer une plateforme vendant les images de plus de 17 000 femmes, dont des mineures",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/07/contenus-intimes-voles-la-justice-fait-fermer-une-plateforme-vendant-les-images-de-plus-de-17-000-femmes-dont-des-mineures_6789617_3224.html"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Titres-services : \"On en vient à payer pour aller travailler\", les aides-ménagères interpellent le gouvernement wallon",
+      "url": "https://www.rtbf.be/article/titres-services-on-en-vient-a-payer-pour-aller-travailler-les-aides-menageres-interpellent-le-gouvernement-wallon-11796468",
+      "source": "RTBF Info",
+      "importance": 3
+    }
+  ],
+  "stats": {
+    "articles": 10,
+    "sujets": 5,
+    "sources": 6,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "claude-haiku-4-5",
+      "stage2": "claude-sonnet-4-5",
+      "stage3": "claude-sonnet-4-5",
+      "stage4": "claude-sonnet-4-5"
+    },
+    "prompts": "d40c9b52",
+    "usage": {
+      "claude-haiku-4-5": {
+        "calls": 1,
+        "input_tokens": 2249,
+        "output_tokens": 1045
+      },
+      "claude-sonnet-4-5": {
+        "calls": 7,
+        "input_tokens": 6598,
+        "output_tokens": 1478
+      }
+    }
+  },
+  "warnings": []
+}

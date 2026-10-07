@@ -1,0 +1,53 @@
+{
+  "sujets": [
+    {
+      "titre": "Israël commémore le troisième anniversaire des attaques du 7-octobre 2023",
+      "ids": [
+        "af88f6d43",
+        "a34842ad5"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Soupçons de peste en Russie après le décès d'une laborantine en Sibérie",
+      "ids": [
+        "a4f24bfe4"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Attaques russes meurtrières en Ukraine, 24 morts dont à Pryluky",
+      "ids": [
+        "a5d0d9e1c"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés de milliers de femmes",
+      "ids": [
+        "a2978ac11"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après un meurtre",
+      "ids": [
+        "a01d91cf1"
+      ],
+      "importance": 3,
+      "score": 31
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Titres-services : \"On en vient à payer pour aller travailler\", les aides-ménagères interpellent le gouvernement wallon",
+      "url": "https://www.rtbf.be/article/titres-services-on-en-vient-a-payer-pour-aller-travailler-les-aides-menageres-interpellent-le-gouvernement-wallon-11796468",
+      "source": "RTBF Info",
+      "importance": 3
+    }
+  ]
+}
