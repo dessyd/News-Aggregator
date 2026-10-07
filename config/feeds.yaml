@@ -27,7 +27,7 @@ feeds:
     lang: fr
 
   - name: franceinfo
-    url: https://www.francetvinfo.fr/titres.rss
+    url: https://www.franceinfo.fr/titres.rss
     lang: fr
 
   - name: BBC World
