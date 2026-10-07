@@ -1,59 +1,69 @@
 {
   "sujets": [
     {
-      "titre": "Soupçons de peste en Sibérie, la Russie dément tout risque épidémique",
+      "titre": "Guerre à Gaza : trois ans de destructions et de traumatismes",
+      "ids": [
+        "ae0d2a93c",
+        "aea52eb96"
+      ],
+      "importance": 5,
+      "score": 52
+    },
+    {
+      "titre": "Mouvement lycéen en France : manifestations, blocages et violences",
+      "ids": [
+        "a60e90209",
+        "a86841e13",
+        "a5681324b",
+        "a2093d391",
+        "a48038bea",
+        "ab5c4e7a7",
+        "a23f4f20e",
+        "afa927a70",
+        "a12a31d02",
+        "a3f39e729"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Trois ans après le 7-Octobre : commémorations et responsabilités en Israël",
+      "ids": [
+        "aab1cc787",
+        "af88f6d43",
+        "aeec8ad93",
+        "a0a0437a2",
+        "a34842ad5",
+        "ae5a51951",
+        "af2fbb3a1",
+        "aabf4d2c3",
+        "ad3e62108",
+        "ab88fad52"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Soupçons de peste en Russie après le décès d'une laborantine",
       "ids": [
         "a39ea1e8a",
         "a4f24bfe4",
-        "a3f34a122",
+        "abcd3b8f8",
         "a83218927",
         "a964605f2",
         "a48c600c0",
+        "a3f34a122",
         "a78cba0b4",
         "afe50533a",
         "a1f2120a5"
       ],
       "importance": 4,
-      "score": 44
+      "score": 45
     },
     {
-      "titre": "Manifestations d'étudiants et lycéens en Belgique et en France",
+      "titre": "Prix Nobel de chimie décerné au Français Henri Kagan",
       "ids": [
-        "a54cc740a",
-        "a6be7b596",
-        "a53f08298",
-        "a12a31d02",
-        "aaf5051cc",
-        "a191348df",
-        "a48038bea",
-        "a2093d391",
-        "ab5c4e7a7",
-        "a23f4f20e",
-        "a3f39e729",
-        "aa0879146"
-      ],
-      "importance": 4,
-      "score": 44
-    },
-    {
-      "titre": "Commémorations du 7-Octobre en Israël trois ans après l'attaque du Hamas",
-      "ids": [
-        "aeec8ad93",
-        "ad3e62108",
-        "ab88fad52",
-        "a3878acd7",
-        "a9477e805",
-        "ab2672c3d",
-        "aa6842562",
-        "aabf4d2c3"
-      ],
-      "importance": 4,
-      "score": 44
-    },
-    {
-      "titre": "Henri Kagan et Kenso Soai reçoivent le prix Nobel de chimie 2026",
-      "ids": [
-        "a04e36af7",
+        "a17c7fe7d",
         "aeac1e25d",
         "a2b4add7b"
       ],
@@ -61,27 +71,16 @@
       "score": 43
     },
     {
-      "titre": "France suspend l'usage des grenades assourdissantes après l'amputation d'un adolescent à Lens",
-      "ids": [
-        "a5681324b",
-        "abe4a0069",
-        "af9af9838",
-        "a83cd890b"
-      ],
-      "importance": 4,
-      "score": 42
-    },
-    {
       "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
       "ids": [
-        "a14f086ff",
+        "a3ca7923d",
         "a5d0d9e1c"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Plateforme de contenus intimes volés démantelée en France",
+      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés",
       "ids": [
         "a2978ac11",
         "aefe201e1"
@@ -90,43 +89,49 @@
       "score": 42
     },
     {
-      "titre": "Sophie Adenot de retour sur Terre après 235 jours dans l'espace",
+      "titre": "Reprise de Kidal par l'armée malienne",
       "ids": [
-        "a4d3c1224",
-        "a94dde945"
+        "a0d71c4aa",
+        "a269699a1",
+        "ae3f3fc99",
+        "a2a109b06"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Marine Le Pen maintient sa confiance en Jordan Bardella après révélations sur des écrits antisémites",
+      "titre": "Christa Pike survit à deux injections létales ratées aux États-Unis",
       "ids": [
-        "a426d86a5",
-        "a6366205b"
+        "ad8a9ee22",
+        "a85adc5b9",
+        "a50dd76ca"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre en Ukraine",
+      "titre": "Allocution du Premier ministre Sébastien Lecornu sur la mobilisation lycéenne",
       "ids": [
-        "ae36706c7"
+        "a1af7f1f7",
+        "a191348df"
       ],
       "importance": 4,
       "score": 41
     },
     {
-      "titre": "Candidats à la présidentielle française de 2027 au Sommet de l'élevage",
+      "titre": "Suspension des grenades assourdissantes après l'amputation d'un lycéen à Lens",
       "ids": [
-        "adb31895f"
+        "abe4a0069",
+        "af9af9838",
+        "a83cd890b"
       ],
       "importance": 4,
       "score": 41
     },
     {
-      "titre": "Féminicide présumé à Saint-Gilles en Belgique",
+      "titre": "Fonte accélérée des glaciers suisses en 2026",
       "ids": [
-        "a73af9b33"
+        "ad0bb8c3a"
       ],
       "importance": 4,
       "score": 41
@@ -134,93 +139,93 @@
   ],
   "breves": [
     {
-      "titre": "Premier cas d'Ebola confirmé au Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "titre": "L'Australie présidente de la COP31 malgré sa dépendance au charbon",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261007-l-australie-future-pr%C3%A9sidente-de-la-cop-pourtant-toujours-tr%C3%A8s-d%C3%A9pendante-du-charbon",
+      "source": "France 24",
       "importance": 4
     },
     {
-      "titre": "Reprise de Kidal par l'armée malienne et ses alliés russes",
-      "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition",
-      "source": "RFI",
+      "titre": "Crise humanitaire au Yémen : plus de 200 000 déplacés",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 4
     },
     {
-      "titre": "Député ukrainien exclu de son parti après appel à négocier avec Moscou",
-      "url": "https://www.lemonde.fr/international/article/2026/10/07/l-ukraine-est-en-train-de-perdre-la-guerre-le-plan-de-paix-d-un-depute-d-odessa-provoque-un-tolle-a-kiev_6789592_3210.html",
-      "source": "Le Monde",
+      "titre": "Sanctions européennes contre la Russie liées à la guerre en Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sanctionne-pres-de-1-600-individus-et-entites-lies-a-la-guerre-russe-contre-l-ukraine_8227030.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 4
     },
     {
-      "titre": "Résultats électoraux du candidat bolsonariste au Brésil",
+      "titre": "Candidats à la présidentielle française 2027 au Sommet de l'élevage",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/sommet-de-l-elevage-selfies-serrage-de-mains-le-pen-zemmour-ruffin-et-dupont-aignan-en-campagne-3429441.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 4
+    },
+    {
+      "titre": "Poussée bolsonariste au Brésil lors des élections",
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
       "source": "RFI",
       "importance": 4
     },
     {
-      "titre": "Christa Pike survit à deux injections létales aux États-Unis",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "titre": "Premier cas d'Ebola au Kenya avec dix personnes en quarantaine",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "importance": 3
+      "importance": 4
     },
     {
-      "titre": "Virus du Nil occidental : records de cas en France",
-      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
+      "titre": "Marine Le Pen \"maintient à 1 000% sa confiance en Jordan Bardella\", après la divulgation par Mediapart d'écrits antisémites attribués au président du RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-apres-la-divulgation-par-mediapart-d-ecrits-antisemites-attribues-au-president-du-rn_8226883.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 4
+    },
+    {
+      "titre": "Primoz Roglic champion d'Europe du contre-la-montre",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Adolescent blessé à la main à Strasbourg après manipulation d'un mortier",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/un-jeune-homme-grievement-blesse-a-la-main-apres-avoir-manipule-un-mortier-lors-d-une-mobilisation-lyceenne-3429465.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Retour de l'astronaute française Sophie Adenot sur Terre",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Enquête après interpellation violente d'un mineur à La Réunion",
-      "url": "https://la1ere.franceinfo.fr/reunion/mobilisation-lyceenne-une-enquete-ouverte-apres-l-interpellation-violente-d-un-mineur-au-lycee-roland-garros-au-tampon-video-1745712.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Manifestations lycéennes et étudiantes en Belgique avec tensions à Liège",
+      "url": "https://www.rtbf.be/article/direct-tensions-dans-le-centre-de-liege-la-gare-des-guillemins-fermee-les-commercants-appeles-a-fermer-leurs-commerces-11796189",
+      "source": "RTBF Info",
       "importance": 3
     },
     {
-      "titre": "Trois suspects en garde à vue après agression d'un policier à Belfort",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Midterms 2026 : enjeux du contrôle du Congrès américain",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-2026-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-faire-basculer-le-congr%C3%A8s",
+      "source": "France 24",
       "importance": 3
     },
     {
-      "titre": "Adolescents filmés chantant l'apologie du terrorisme dans une église en Vendée",
-      "url": "https://www.franceinfo.fr/faits-divers/vendee-une-dizaine-de-jeunes-filmes-dans-une-eglise-en-train-de-chanter-un-morceau-faisant-l-apologie-du-terrorisme_8226808.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Attaques de drones en mer Noire au large de la Bulgarie et Roumanie",
+      "url": "https://www.lemonde.fr/international/article/2026/10/07/les-attaques-de-drones-s-intensifient-en-mer-noire-au-large-de-la-bulgarie-et-la-roumanie_6789632_3210.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Adolescent jugé en février après agression d'un enseignant aspergé d'essence à La Ciotat",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-juge-en-fevrier-apres-l-agression-d-un-enseignant-asperge-d-essence-a-la-ciotat-en-marge-d-une-manifestation-lyceenne_8226937.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Affaire de viol collectif présumé en Tunisie",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
+      "source": "France 24",
       "importance": 3
     },
     {
-      "titre": "Plus de 200 000 déplacés au Yémen selon l'OIM",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
-    },
-    {
-      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après le meurtre d'une femme",
+      "titre": "Couvre-feu pour soldats américains à Okinawa après un meurtre",
       "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
       "source": "RFI",
       "importance": 3
     },
     {
-      "titre": "Le maire d'Izmir rejoint le parti du président Erdogan en Turquie",
-      "url": "https://www.rfi.fr/fr/europe/20261007-turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du-pr%C3%A9sident-erdogan",
-      "source": "RFI",
-      "importance": 3
-    },
-    {
-      "titre": "Géants brassicoles japonais perquisitionnés pour soupçons de cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "titre": "Forêt française : extension mais mortalité accrue des arbres",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/07/la-foret-francaise-s-etend-mais-souffre-de-plus-en-plus-des-effets-du-rechauffement-climatique_6789628_3244.html",
+      "source": "Le Monde",
       "importance": 3
     }
   ]

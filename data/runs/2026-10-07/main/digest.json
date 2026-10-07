@@ -1,53 +1,36 @@
 {
   "date": "2026-10-07",
   "date_fr": "mercredi 7 octobre 2026",
-  "generated_at": "2026-10-07T16:02:32+00:00",
-  "chapeau": "En Belgique, des centaines d'étudiants manifestent dans plusieurs villes tandis qu'à Saint-Gilles, une mère de deux enfants a été retrouvée morte dans un féminicide présumé. En France, les autorités suspendent l'usage des grenades assourdissantes après l'amputation d'un adolescent lors de manifestations lycéennes qui s'intensifient. Sur la scène internationale, Israël commémore les trois ans de l'attaque du Hamas, une frappe russe fait au moins 18 morts en Ukraine et des soupçons de peste en Sibérie suscitent l'inquiétude.",
+  "generated_at": "2026-10-07T16:39:37+00:00",
+  "chapeau": "Ce mercredi 7 octobre marque les trois ans des attaques du Hamas en Israël, dans un contexte de poursuite du conflit à Gaza et de frappes russes meurtrières en Ukraine. En France, le mouvement lycéen se poursuit avec une ampleur réduite, tandis que le gouvernement suspend l'usage des grenades assourdissantes après l'amputation d'un manifestant de 15 ans à Lens. Sur le plan international, la Russie fait face à des demandes de transparence après le décès suspect d'une laborantine, et le prix Nobel de chimie est décerné au Français Henri Kagan et au Japonais Kenso Soai.",
   "topics": [
     {
-      "titre": "Manifestations d'étudiants et lycéens en Belgique et en France",
-      "texte": "Des centaines d'étudiants manifestent depuis plusieurs jours en Belgique, notamment à Bruxelles, Liège, Mons, Charleroi et Arlon, avec une tension croissante observée dans le centre-ville, selon la RTBF. À Mons, les manifestants portent leurs messages tout en écartant les casseurs. En France, la mobilisation lycéenne s'intensifie après qu'un adolescent de 15 ans a eu la main arrachée lors de tensions, rapporte franceinfo. Le ministre de l'Intérieur Laurent Nuñez a annoncé la suspension des grenades assourdissantes lors des mobilisations lycéennes, mais la colère reste vive. Le campus de Sciences Po à Paris est bloqué par des étudiants le 7 octobre, rejoignant un mouvement qui a rassemblé plusieurs centaines de milliers de personnes mardi – 266 000 selon le ministère de l'Intérieur, 450 000 selon les organisateurs. Plusieurs syndicats de l'Éducation nationale appellent à la grève et à la manifestation jeudi. Le Premier ministre Sébastien Lecornu doit s'exprimer mercredi soir depuis Matignon sur la crise.",
+      "titre": "Mouvement lycéen en France : manifestations, blocages et violences",
+      "texte": "Le mouvement lycéen se poursuit en France avec 459 établissements connaissant une suspension totale ou partielle des cours le 7 octobre, contre 891 la veille, selon le gouvernement. Les manifestants, qui réclament davantage de moyens pour les lycées, étaient 266 000 dans les rues mardi selon le ministère de l'Intérieur, contre 450 000 selon les organisateurs. La France a cessé l'utilisation de grenades assourdissantes après des plaintes concernant l'usage disproportionné de la force policière envers les adolescents, rapporte la BBC. Le ministre de l'Intérieur Laurent Nuñez, auditionné à l'Assemblée, affirme ne pas être responsable des violences et assure qu'il n'y a pas d'intervention policière lors de manifestations pacifiques, selon franceinfo. Plusieurs syndicats de l'Éducation nationale appellent à faire grève et manifester jeudi en soutien aux lycéens. Selon Le Monde, la droite française, notamment Bruno Retailleau et Les Républicains, privilégie l'argument sécuritaire, tandis qu'Édouard Philippe affirme désormais vouloir écouter les manifestants.",
       "rubrique": "Société",
       "ids_sources": [
-        "a54cc740a",
-        "a6be7b596",
-        "a53f08298",
-        "a12a31d02",
-        "aaf5051cc",
-        "a191348df",
+        "ab5c4e7a7",
+        "a2093d391",
+        "a23f4f20e",
+        "a5681324b",
         "a48038bea",
-        "a2093d391"
+        "a86841e13"
       ],
       "sources": [
         {
-          "source": "RTBF Info",
-          "titre": "Direct - Manifestation des élèves : la tension monte d'un cran dans le centre-ville, plusieurs centaines de jeunes rassemblés",
-          "url": "https://www.rtbf.be/article/direct-manifestation-des-eleves-la-tension-monte-d-un-cran-dans-le-centre-ville-plusieurs-centaines-de-jeunes-rassembles-11796189"
+          "source": "Le Monde",
+          "titre": "Face au mouvement lycéen, la droite, sourde aux revendications, se place sur le seul terrain sécuritaire",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/07/face-au-mouvement-lyceen-la-droite-sourde-aux-revendications-se-place-sur-le-seul-terrain-securitaire_6789633_823448.html"
         },
         {
-          "source": "RTBF Info",
-          "titre": "Mobilisation étudiante à Mons : les élèves portent leurs messages et écartent les casseurs",
-          "url": "https://www.rtbf.be/article/mobilisation-etudiante-a-mons-les-eleves-portent-leurs-messages-et-ecartent-les-casseurs-11796471"
-        },
-        {
-          "source": "RTBF Info",
-          "titre": "\"QR le débat\" : élèves en colère, faut-il les entendre ou les sanctionner ? Votez et commentez",
-          "url": "https://www.rtbf.be/article/qr-le-debat-eleves-en-colere-faut-il-les-entendre-ou-les-sanctionner-votez-et-commentez-11795845"
+          "source": "BBC World",
+          "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "franceinfo",
-          "titre": "\"Ils sont dans le bla-bla, plutôt que dans l'action\" : à Lens, la colère des lycéens ne retombe pas après que l'un d'eux a eu la main arrachée",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "source": "franceinfo",
-          "titre": "\"Nous serons là en 2027 et nous irons voter\" : devant Sciences Po, des étudiants se joignent à la colère des lycéens",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-nous-serons-la-en-2027-et-nous-irons-voter-devant-sciences-po-des-etudiants-se-joignent-a-la-colere-des-lyceens_8226799.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "source": "franceinfo",
-          "titre": "\"On n'a pas toutes les cartes en main\" : pourquoi le gouvernement peine à trouver la solution face à la mobilisation lycéenne",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html#xtor=RSS-3-[lestitres]"
+          "titre": "En soutien aux lycéens, plusieurs syndicats de l'Education nationale appellent à faire grève et manifester jeudi",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/en-soutien-a-la-mobilisation-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-faire-greve-et-manifester-jeudi_8226832.html#xtor=RSS-3-[lestitres]"
         },
         {
           "source": "franceinfo",
@@ -55,49 +38,30 @@
           "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-blocages-doivent-reprendre-mercredi-matin-au-lendemain-de-la-grande-journee-de-manifestations_8226211.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "source": "franceinfo",
-          "titre": "En soutien aux lycéens, plusieurs syndicats de l'Education nationale appellent à faire grève et manifester jeudi",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/en-soutien-a-la-mobilisation-des-lyceens-plusieurs-syndicats-de-l-education-appellent-a-faire-greve-et-manifester-jeudi_8226832.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "importance": 4,
-      "score": 44,
-      "nb_articles": 12
-    },
-    {
-      "titre": "Féminicide présumé à Saint-Gilles : une mère de deux enfants retrouvée morte",
-      "texte": "Le corps sans vie d'une mère de deux fillettes âgées de 3 et 6 ans a été découvert à Saint-Gilles, selon la RTBF. Les autorités enquêtent sur un féminicide présumé. D'après la RTBF, c'est l'école de la victime qui aurait donné l'alerte.",
-      "rubrique": "Belgique",
-      "ids_sources": [
-        "a73af9b33"
-      ],
-      "sources": [
+          "source": "RFI",
+          "titre": "EN DIRECT - Mouvement des lycéens: le ministre de l'Intérieur affirme ne pas être «responsable» des violences",
+          "url": "https://www.rfi.fr/fr/france/20261007-en-direct-mobilisation-des-lyc%C3%A9es-235-%C3%A9l%C3%A8ves-bless%C3%A9s-et-18-enqu%C3%AAtes-de-l-igpn-en-cours-annonce-laurent-nunez"
+        },
         {
-          "source": "RTBF Info",
-          "titre": "Féminicide présumé à Saint-Gilles : une mère de deux enfants violemment tuée",
-          "url": "https://www.rtbf.be/article/feminicide-presume-a-saint-gilles-une-mere-de-deux-enfants-violemment-tuee-11796459"
+          "source": "RFI",
+          "titre": "France: face aux revendications des lycéens, comment le gouvernement peut-il sortir de la crise?",
+          "url": "https://www.rfi.fr/fr/france/20261007-france-face-aux-revendications-des-lyc%C3%A9ens-comment-le-gouvernement-peut-il-sortir-de-la-crise"
         }
       ],
       "importance": 4,
-      "score": 41,
-      "nb_articles": 1
+      "score": 45,
+      "nb_articles": 10
     },
     {
-      "titre": "France suspend l'usage des grenades assourdissantes après l'amputation d'un adolescent à Lens",
-      "texte": "La France a suspendu l'utilisation des grenades assourdissantes après qu'un manifestant de 15 ans a eu la main arrachée à Lens lors de manifestations lycéennes, selon franceinfo. Cette suspension, annoncée par Laurent Nuñez, directeur général de la Police nationale, est une demande d'Emmanuel Macron et doit durer « le temps que les circonstances de la blessure du jeune homme soient établies », précise franceinfo. D'après la BBC, plusieurs groupes s'étaient plaints de l'usage disproportionné de la force contre les jeunes. Une vidéo montrant la victime se pencher vers la grenade assourdissante a été révélée, mais ces images ne sont pas encore en possession des enquêteurs de l'IGPN, la police des polices chargée des investigations, selon franceinfo.",
+      "titre": "Suspension des grenades assourdissantes après l'amputation d'un lycéen à Lens",
+      "texte": "L'usage des grenades assourdissantes a été suspendu « pour le mouvement lycéen » après qu'un manifestant de 15 ans a eu la main arrachée à Lens, a annoncé Laurent Nuñez. Selon franceinfo, cette décision était une demande d'Emmanuel Macron. Le directeur général de la Police nationale précise que cette suspension doit durer « le temps que les circonstances de la blessure du jeune homme soient établies ». Une vidéo montre l'adolescent se penchant vers la grenade assourdissante, mais ces images ne sont pas encore en possession des enquêteurs de l'IGPN, la police des polices, chargée des investigations.",
       "rubrique": "Société",
       "ids_sources": [
-        "a5681324b",
-        "abe4a0069",
         "af9af9838",
-        "a83cd890b"
+        "a83cd890b",
+        "abe4a0069"
       ],
       "sources": [
-        {
-          "source": "BBC World",
-          "titre": "France halts use of stun grenades after boy's hand blown off in student protests",
-          "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
-        },
         {
           "source": "franceinfo",
           "titre": "Adolescent amputé d'une main à Lens : une vidéo montre la victime se pencher vers la grenade assourdissante",
@@ -115,12 +79,36 @@
         }
       ],
       "importance": 4,
-      "score": 42,
-      "nb_articles": 4
+      "score": 41,
+      "nb_articles": 3
     },
     {
-      "titre": "Plateforme de contenus intimes volés démantelée en France",
-      "texte": "La justice française a fait fermer une plateforme vendant des images intimes volées de plus de 17 000 femmes, dont des mineures, selon Le Monde et franceinfo. Deux frères, âgés de 21 et 25 ans, soupçonnés d'en être les administrateurs, ont été arrêtés dans le nord de la France, rapporte Le Monde. Les enquêteurs ont saisi près de 700 000 euros en cryptomonnaies lors de cette opération. Selon le parquet cité par franceinfo, « les utilisateurs du site étaient incités, contre récompense en monnaie virtuelle, à fournir des informations d'identification de chaque victime ».",
+      "titre": "Sébastien Lecornu s'exprime sur la mobilisation lycéenne et plusieurs dossiers de crise",
+      "texte": "Le Premier ministre Sébastien Lecornu s'est adressé aux Français mercredi soir depuis Matignon. Selon franceinfo, cette prise de parole intervient à la veille d'une nouvelle journée de mobilisation lycéenne, dans un contexte que le gouvernement qualifie d'explosif. Au-delà du mouvement des lycéens, le chef du gouvernement devait également évoquer la flambée des prix des carburants, la crise agricole et les débats budgétaires en cours.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "a1af7f1f7",
+        "a191348df"
+      ],
+      "sources": [
+        {
+          "source": "franceinfo",
+          "titre": "Lycées, carburants, budget... Suivez l'allocution du Premier ministre Sébastien Lecornu",
+          "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html#xtor=RSS-3-[lestitres]"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"On n'a pas toutes les cartes en main\" : pourquoi le gouvernement peine à trouver la solution face à la mobilisation lycéenne",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Fermeture d'une plateforme vendant des contenus intimes volés de plus de 17 000 femmes",
+      "texte": "La justice a fait fermer une plateforme qui vendait des images intimes volées de plus de 17 000 femmes, dont des mineures, selon Le Monde. Deux frères âgés de 21 et 25 ans, soupçonnés d'en être les administrateurs, ont été arrêtés dans le nord de la France. Les enquêteurs ont saisi près de 700 000 euros en cryptomonnaies lors de cette opération, rapporte Le Monde. Selon le parquet cité par franceinfo, les utilisateurs du site étaient incités, contre récompense en monnaie virtuelle, à fournir des informations d'identification de chaque victime.",
       "rubrique": "Société",
       "ids_sources": [
         "a2978ac11",
@@ -143,120 +131,84 @@
       "nb_articles": 2
     },
     {
-      "titre": "Marine Le Pen maintient sa confiance en Jordan Bardella après révélations sur des écrits antisémites",
-      "texte": "Marine Le Pen affirme maintenir « à 1 000% sa confiance » en Jordan Bardella, selon franceinfo, après la publication par Mediapart de messages antisémites attribués au président du Rassemblement national. Ces écrits remonteraient à 2013, et le site d'investigation assure en avoir vérifié l'authenticité. Jordan Bardella conteste l'enquête de Mediapart, mais selon Le Monde, plusieurs de ses arguments pour se défendre « se heurtent aux faits ». Le chef du RN est dans la tourmente depuis la divulgation de ces messages fin septembre.",
-      "rubrique": "Politique",
-      "ids_sources": [
-        "a426d86a5",
-        "a6366205b"
-      ],
-      "sources": [
-        {
-          "source": "franceinfo",
-          "titre": "Marine Le Pen \"maintient à 1 000% sa confiance en Jordan Bardella\", après la divulgation par Mediapart d'écrits antisémites attribués au président du RN",
-          "url": "https://www.franceinfo.fr/politique/front-national/marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-apres-la-divulgation-par-mediapart-d-ecrits-antisemites-attribues-au-president-du-rn_8226883.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "source": "Le Monde",
-          "titre": "Ecrits antisémites : les contre-vérités de Jordan Bardella pour se défendre contre l’enquête de « Mediapart »",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/07/ecrits-antisemites-les-contre-verites-de-jordan-bardella-pour-se-defendre-contre-l-enquete-de-mediapart_6789593_4355770.html"
-        }
-      ],
-      "importance": 4,
-      "score": 42,
-      "nb_articles": 2
-    },
-    {
-      "titre": "Candidats à la présidentielle 2027 au Sommet de l'élevage",
-      "texte": "Plusieurs candidats déclarés à la présidentielle de 2027 se sont rendus au Sommet de l'élevage de Cournon-d'Auvergne, près de Clermont-Ferrand, le 7 octobre. Selon franceinfo, Marine Le Pen a ouvert cette séquence politique, suivie de François Ruffin, Éric Zemmour et Nicolas Dupont-Aignan. Dans les travées de ce salon agricole, ces responsables politiques ont pu échanger avec les agriculteurs et rencontrer un public venu nombreux, dans le cadre de leur campagne présidentielle.",
-      "rubrique": "Politique",
-      "ids_sources": [
-        "adb31895f"
-      ],
-      "sources": [
-        {
-          "source": "franceinfo",
-          "titre": "Marine Le Pen, François Ruffin, Eric Zemmour... Les candidats à la présidentielle défilent au sommet de l'élevage, près de Clermont-Ferrand",
-          "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/sommet-de-l-elevage-selfies-serrage-de-mains-le-pen-zemmour-ruffin-et-dupont-aignan-en-campagne-3429441.html#xtor=RSS-3-[lestitres]"
-        }
-      ],
-      "importance": 4,
-      "score": 41,
-      "nb_articles": 1
-    },
-    {
-      "titre": "Israël commémore les trois ans de l'attaque du Hamas du 7-Octobre",
-      "texte": "Israël commémore ce mercredi 7 octobre les trois ans de l'attaque terroriste du Hamas de 2023, qui a fait 1 221 morts dont 51 Français, selon franceinfo. Des cérémonies d'hommage se tiennent sur les différents lieux où se sont déroulés les massacres. Selon la BBC, 47 personnes ont été tuées et 76 enlevées au kibboutz Nir Oz, où certains survivants sont retournés vivre. Parmi les otages figure Omer Shem Tov, libéré après 505 jours de captivité et qui reste hanté par sa détention, rapporte franceinfo. D'après Le Monde, Israël poursuit depuis lors une guerre sans fin motivée par un désir de vengeance, en pleine campagne électorale. RFI souligne que trois ans après, des zones d'ombre persistent sur ce qu'aurait su le Premier ministre Benyamin Netanyahu avant l'attaque. La société israélienne s'est considérablement droitisée, particulièrement visible à Sderot où « il n'y a plus d'espace pour la paix », constate franceinfo. Côté palestinien, RFI indique que les familles de Gaza accumulent les traumatismes suite aux bombardements intensifs qui se poursuivent malgré un cessez-le-feu proclamé l'an dernier.",
+      "titre": "Trois ans après le 7-Octobre : commémorations et responsabilités en Israël",
+      "texte": "Israël commémore mercredi les attaques du 7 octobre 2023 menées par le Hamas, qui ont tué plus de 1 200 personnes, dont 51 Français selon franceinfo, et fait 251 otages selon France 24. Il s'agit de la journée la plus meurtrière de l'histoire du pays, d'après France 24. Des minutes de silence ont été observées à l'aube sur les sites attaqués, notamment au festival Nova près de la frontière de Gaza. Trois ans après, la question des responsabilités reste posée : selon la BBC, le Premier ministre Benjamin Netanyahu refuse de prendre une responsabilité personnelle et d'ordonner une enquête d'État, alors que les Israéliens demandent des comptes sur les défaillances de ce jour-là. Le chef de la diplomatie française a déclaré que la France continuerait à agir pour une paix juste et durable, rapporte franceinfo.",
       "rubrique": "Monde",
       "ids_sources": [
+        "aab1cc787",
+        "af88f6d43",
         "aeec8ad93",
-        "ad3e62108",
-        "ab88fad52",
-        "a3878acd7",
-        "a9477e805",
-        "ab2672c3d",
-        "aa6842562",
-        "aabf4d2c3"
+        "a0a0437a2",
+        "ae5a51951"
       ],
       "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Israelis demand accountability over 7 October failures three years after attacks",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "France 24",
+          "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-trois-ans-apr%C3%A8s-isra%C3%ABl-comm%C3%A9more-les-attaques-du-7-octobre"
+        },
         {
           "source": "franceinfo",
           "titre": "\"Nos vies ont été dévastées à jamais\" : en Israël, une journée d'hommages aux victimes du 7-Octobre",
           "url": "https://www.franceinfo.fr/monde/israel/nos-vies-ont-ete-devastees-a-jamais-en-israel-une-journee-d-hommages-aux-victimes-du-7-octobre_8226892.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "source": "RFI",
-          "titre": "7-Octobre: que savait Benyamin Netanyahu?",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-que-savait-benyamin-netanyahu"
-        },
-        {
-          "source": "Le Monde",
-          "titre": "En Israël, trois ans après le 7-Octobre, les traumatismes et les aveuglements d’un pays",
-          "url": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html"
-        },
-        {
           "source": "franceinfo",
-          "titre": "\"Soudainement, tu te figes\" : trois ans après le 7-Octobre, Omer Shem Tov, ancien otage du Hamas, reste hanté par sa captivité",
-          "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/soudainement-tu-te-figes-trois-ans-apres-le-7-octobre-omer-shem-tov-ancien-otage-du-hamas-reste-hante-par-sa-captivite_8205389.html#xtor=RSS-3-[lestitres]"
+          "titre": "Commémorations du 7-Octobre : \"Nous continuerons inlassablement à agir pour une paix juste et durable\", déclare le chef de la diplomatie française",
+          "url": "https://www.franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "source": "RFI",
-          "titre": "Omer Shem Tov, otage du Hamas pendant 505 jours: «J’étais l’esclave de mes geôliers»",
-          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261007-omer-shem-tov-otage-du-hamas-pendant-505-jours-j-%C3%A9tais-l-esclave-de-mes-ge%C3%B4liers"
-        },
-        {
-          "source": "franceinfo",
-          "titre": "\"Si ça ne dépendait que de moi, je tuerais tout le monde\" : à Sderot, ville proche de Gaza, la société israélienne s'est considérablement droitisée",
-          "url": "https://www.franceinfo.fr/monde/israel/reportage-si-ca-ne-dependait-que-de-moi-je-tuerais-tout-le-monde-a-sderot-ville-proche-de-gaza-la-societe-israelienne-s-est-considerablement-droitisee_8225332.html#xtor=RSS-3-[lestitres]"
-        },
-        {
-          "source": "BBC World",
-          "titre": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-          "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "RFI",
-          "titre": "7-Octobre: trois ans de traumatismes accumulés pour les familles de Gaza",
-          "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza"
+          "source": "France 24",
+          "titre": "7-Octobre : au festival Nova, honorer les morts face au traumatisme",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-7-octobre-au-festival-nova-honorer-les-morts-face-au-traumatisme"
         }
       ],
       "importance": 4,
-      "score": 44,
-      "nb_articles": 8
+      "score": 45,
+      "nb_articles": 10
+    },
+    {
+      "titre": "Guerre à Gaza : trois ans de destructions et de traumatismes",
+      "texte": "Les frappes israéliennes se poursuivent à Gaza malgré le cessez-le-feu annoncé en octobre 2025, rapporte France 24. Selon les autorités sanitaires de Gaza, plus de 73 000 Palestiniens ont été tués en trois ans de conflit. La population reste confrontée à une catastrophe humanitaire, entre déplacements répétés et difficultés d'accès à l'aide. D'après franceinfo, le territoire palestinien manque de moyens et de matériel pour réhabiliter les milliers de bâtiments détruits depuis l'automne 2023, malgré la promesse d'un plan de reconstruction. Les habitants sont contraints de déblayer à la main dans les ruines.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ae0d2a93c",
+        "aea52eb96"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "À Gaza, les frappes israéliennes se poursuivent malgré le cessez-le-feu annoncé",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-%C3%A0-gaza-les-frappes-isra%C3%A9liennes-se-poursuivent-malgr%C3%A9-le-cessez-le-feu-annonc%C3%A9"
+        },
+        {
+          "source": "franceinfo",
+          "titre": "\"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html#xtor=RSS-3-[lestitres]"
+        }
+      ],
+      "importance": 5,
+      "score": 52,
+      "nb_articles": 2
     },
     {
       "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
-      "texte": "Une frappe de missile russe a détruit un immeuble d'habitation à Prylouky, dans le nord de l'Ukraine, faisant au moins 18 morts, dont quatre enfants, selon franceinfo. Le parquet ukrainien a indiqué sur Telegram que deux cages d'escalier de l'immeuble ont été détruites. Les opérations de secours se poursuivent pour rechercher d'éventuels résidents ensevelis, rapporte la BBC. Le président Zelensky a condamné ces attaques russes à grande échelle, qualifiées de « viles » par la BBC, qui font état d'un bilan global de 24 morts. La différence entre les bilans n'est pas explicitée dans les sources disponibles.",
+      "texte": "Une frappe de missile russe sur un immeuble résidentiel à Prylouky, en Ukraine, a fait au moins 18 morts selon France 24, dans le cadre d'attaques à grande échelle contre le pays. Selon la BBC World, qui cite le président Zelensky, ces attaques russes qualifiées de « viles » ont tué 24 personnes au total. L'immeuble d'habitation à Pryluky a été détruit et les opérations de sauvetage se poursuivent pour retrouver d'éventuels résidents encore sous les décombres, d'après la BBC. Les sources divergent sur le bilan : 18 morts pour France 24 concernant Prylouky spécifiquement, 24 morts au total pour la BBC incluant l'ensemble des attaques.",
       "rubrique": "Monde",
       "ids_sources": [
-        "a14f086ff",
+        "a3ca7923d",
         "a5d0d9e1c"
       ],
       "sources": [
         {
-          "source": "franceinfo",
-          "titre": "Au moins 18 morts, dont quatre enfants, dans une frappe russe sur un immeuble à Prylouky, dans le nord de l'Ukraine",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-[lestitres]"
+          "source": "France 24",
+          "titre": "Ukraine : une frappe russe sur un immeuble fait 18 morts à Prylouky",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-ukraine-une-frappe-russe-sur-un-immeuble-fait-18-morts-%C3%A0-prylouky"
         },
         {
           "source": "BBC World",
@@ -269,16 +221,17 @@
       "nb_articles": 2
     },
     {
-      "titre": "Soupçons de peste en Sibérie, la Russie dément tout risque épidémique",
-      "texte": "Une jeune laborantine travaillant dans un institut d'étude sur la peste en Sibérie, dans la région d'Irkoutsk, est décédée le 2 octobre d'une pneumonie d'origine indéterminée, selon franceinfo. Les autorités sanitaires russes démentent tout « risque épidémique », d'après la RTBF. Le Kremlin estime que la « grande majorité » des informations relayées par les médias sont « fausses », rapporte RFI. Les autorités nient également l'instauration de mesures sanitaires, alors que plusieurs médias locaux évoquent la mise en place d'une quarantaine de trois semaines, selon franceinfo. L'OMS, l'Union européenne et les États-Unis réclament plus de transparence sur les causes de ce décès, indique RFI. La Mongolie a ordonné mercredi une « surveillance » à sa frontière, selon la RTBF. D'après la BBC, Donald Trump prévoit de s'entretenir avec Poutine sur ce dossier. L'OMS juge toutefois le risque très faible, rapporte franceinfo.",
+      "titre": "Soupçons de peste en Russie après le décès d'une laborantine",
+      "texte": "Une jeune laborantine travaillant dans un institut d'étude sur la peste en Sibérie est décédée le 2 octobre d'une pneumonie d'origine « indéterminée » dans la région d'Irkoutsk, selon franceinfo. L'OMS, l'Union européenne et les États-Unis réclament plus de transparence sur les causes de ce décès, d'après RFI et France 24. Selon la BBC, des craintes concernant une possible peste pulmonaire ont été exprimées, et le président Trump prévoit d'évoquer le sujet avec Vladimir Poutine. L'agence sanitaire russe affirme qu'« aucun trouble de santé lié à une pathologie infectieuse n'a été détecté » et dément tout « risque épidémique », rapporte France 24 et la RTBF. Le Kremlin dénonce une « grande majorité » de « fausses informations » sur cette affaire, selon RFI. Alors que les autorités nient l'instauration de mesures sanitaires, des médias locaux évoquent une quarantaine de trois semaines et un possible deuxième cas suspect, d'après franceinfo et France 24. La Mongolie a ordonné une « surveillance » à sa frontière, selon la RTBF.",
       "rubrique": "Monde",
       "ids_sources": [
         "a39ea1e8a",
         "a4f24bfe4",
-        "a3f34a122",
+        "abcd3b8f8",
         "a83218927",
         "a964605f2",
         "a48c600c0",
+        "a3f34a122",
         "a78cba0b4"
       ],
       "sources": [
@@ -293,9 +246,9 @@
           "url": "https://www.franceinfo.fr/monde/russie/quatre-questions-sur-les-soupcons-de-peste-en-russie-qui-inquietent-la-communaute-internationale_8226337.html#xtor=RSS-3-[lestitres]"
         },
         {
-          "source": "BBC World",
-          "titre": "Trump to speak to Putin about plague lab worker's death in Russia",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+          "source": "France 24",
+          "titre": "Soupçon de peste en Russie : un possible deuxième cas suspect, Moscou appelé à plus de transparence",
+          "url": "https://www.france24.com/fr/europe/20261007-soup%C3%A7on-peste-russie-possible-deuxi%C3%A8me-cas-suspect-appel%C3%A9-transparence"
         },
         {
           "source": "RTBF Info",
@@ -313,47 +266,100 @@
           "url": "https://www.franceinfo.fr/monde/russie/on-nous-a-parle-d-une-maladie-pire-que-le-covid-pourquoi-les-doutes-persistent-sur-un-eventuel-cas-de-peste-en-russie_8225752.html#xtor=RSS-3-[lestitres]"
         },
         {
+          "source": "BBC World",
+          "titre": "Trump to speak to Putin about plague lab worker's death in Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "source": "franceinfo",
           "titre": "En Russie, les autorités nient l'instauration de mesures sanitaires après un soupçon d'un cas de peste en Sibérie",
           "url": "https://www.franceinfo.fr/monde/russie/les-autorites-russes-nient-l-instauration-de-mesures-sanitaires-apres-un-soupcon-de-cas-de-peste-en-siberie-l-oms-estime-un-risque-tres-faible-pour-l-europe_8225071.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "importance": 4,
-      "score": 44,
-      "nb_articles": 9
+      "score": 45,
+      "nb_articles": 10
     },
     {
-      "titre": "L'UE sanctionne près de 1 600 individus et entités liés à la guerre en Ukraine",
-      "texte": "L'Union européenne a décidé de sanctionner près de 1 600 individus et entités en lien avec la guerre menée par la Russie en Ukraine, selon franceinfo. Cette décision porte à près de 4 500 le nombre total de personnes et entités visées par des sanctions européennes en raison du conflit déclenché par le Kremlin.",
-      "rubrique": "Europe",
+      "titre": "Christa Pike survit à deux injections létales ratées aux États-Unis",
+      "texte": "Christa Pike, condamnée à mort pour le meurtre de Colleen Slemmer, a survécu à deux tentatives d'exécution par injection létale aux États-Unis, un cas qualifié d'inédit. Selon ses avocats cités par RFI, elle a repris connaissance et peut parler six jours après l'échec de son exécution. La condamnée se trouve actuellement hospitalisée au Tennessee où elle est consciente et capable de s'exprimer, rapporte la BBC. La chaîne britannique précise que Pike a subi des blessures graves lors de ces deux injections létales ratées, mais ne détaille pas la nature exacte de ces blessures. L'affaire soulève des questions sur les protocoles d'exécution, cette survie après deux tentatives étant décrite comme « sans précédent » par la BBC.",
+      "rubrique": "Monde",
       "ids_sources": [
-        "ae36706c7"
+        "ad8a9ee22",
+        "a85adc5b9",
+        "a50dd76ca"
       ],
       "sources": [
         {
-          "source": "franceinfo",
-          "titre": "L'Union européenne sanctionne près de 1 600 individus et entités liés à la guerre russe contre l'Ukraine",
-          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sanctionne-pres-de-1-600-individus-et-entites-lies-a-la-guerre-russe-contre-l-ukraine_8227030.html#xtor=RSS-3-[lestitres]"
+          "source": "BBC World",
+          "titre": "How did Christa Pike survive two lethal injections - and what happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "titre": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+          "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "RFI",
+          "titre": "États-Unis: après son exécution ratée, Christa Pike a «repris connaissance et peut parler»",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-%C3%A9tats-unis-apr%C3%A8s-son-ex%C3%A9cution-rat%C3%A9e-christa-pike-a-repris-connaissance-et-peut-parler"
         }
       ],
       "importance": 4,
-      "score": 41,
-      "nb_articles": 1
+      "score": 42,
+      "nb_articles": 3
     },
     {
-      "titre": "Henri Kagan et Kenso Soai reçoivent le prix Nobel de chimie 2026",
-      "texte": "Le Français Henri Kagan et le Japonais Kenso Soai ont reçu le prix Nobel de chimie 2026, annoncé mercredi 7 octobre à Stockholm. Selon le comité Nobel, les deux scientifiques sont récompensés \"pour la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique\". D'après franceinfo, ces travaux sont utilisés notamment en pharmacologie. La BBC World souligne que ce prix récompense la résolution du mystère de l'asymétrie de la vie. Ces recherches portent sur des réactions moléculaires fondamentales permettant de synthétiser des molécules asymétriques, propriété essentielle du vivant.",
+      "titre": "L'armée malienne reprend Kidal sans combat après six mois d'absence",
+      "texte": "L'armée malienne, appuyée par les forces russes d'Africa Corps, a réinvesti mardi 6 octobre la ville de Kidal, dans le nord du Mali, selon France 24 et RFI. Cette ville stratégique avait été perdue en avril dernier lors d'une offensive menée par les indépendantistes touaregs du Front de libération de l'Azawad (FLA) conjointement avec les jihadistes du Groupe de soutien à l'islam et aux musulmans (GSIM), d'après France 24. La reprise s'est effectuée sans affrontement, le FLA ayant confirmé son retrait avant l'arrivée des forces gouvernementales. Selon Bakary Sambe, directeur du Timbuktu Institute cité par RFI, « l'armée a récupéré un territoire, elle n'a pas battu son adversaire ». D'après RFI, cette victoire de prestige renforce les autorités de transition au pouvoir et soulève des interrogations sur le rôle de l'Algérie.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a0d71c4aa",
+        "a269699a1",
+        "ae3f3fc99",
+        "a2a109b06"
+      ],
+      "sources": [
+        {
+          "source": "France 24",
+          "titre": "Mali : l'armée de retour à Kidal",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal"
+        },
+        {
+          "source": "France 24",
+          "titre": "Les dessous de la reprise de Kidal sans combats par l'armée malienne",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-les-secrets-de-la-reprise-de-kidal-sans-combats"
+        },
+        {
+          "source": "RFI",
+          "titre": "Au Mali, la reprise de Kidal «consolide» la Transition",
+          "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition"
+        },
+        {
+          "source": "RFI",
+          "titre": "Mali: à Kidal, «l'armée a récupéré un territoire, elle n'a pas battu son adversaire»",
+          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261007-mali-%C3%A0-kidal-l-arm%C3%A9e-a-r%C3%A9cup%C3%A9r%C3%A9-un-territoire-elle-n-a-pas-battu-son-adversaire"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Prix Nobel de chimie décerné au Français Henri Kagan et au Japonais Kenso Soai",
+      "texte": "Le Français Henri Kagan et le Japonais Kenso Soai ont reçu mercredi le prix Nobel de chimie. Selon RFI, les deux chercheurs ont été récompensés pour leurs travaux ayant permis « la découverte des effets non linéaires et de l'autocatalyse dans la synthèse organique asymétrique ». Le Monde précise qu'ils ont été mis à l'honneur pour leurs travaux sur la catalyse asymétrique. D'après la BBC, le prix a été attribué pour avoir résolu le mystère de l'asymétrie de la vie. L'annonce a été faite par le comité Nobel réuni à Stockholm.",
       "rubrique": "Sciences & Tech",
       "ids_sources": [
-        "a04e36af7",
+        "a17c7fe7d",
         "aeac1e25d",
         "a2b4add7b"
       ],
       "sources": [
         {
-          "source": "franceinfo",
-          "titre": "Le prix Nobel de chimie 2026 décerné au Français Henri Kagan et au Japonais Kenso Soai pour leurs travaux sur les réactions moléculaires utilisées notamment en pharmacologie",
-          "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-chimie-2026-decerne-au-francais-henri-kagan-et-au-japonais-kenso-soai-pour-leurs-travaux-sur-les-reactions-moleculaires-utilisees-notamment-en-pharmacologie_8226604.html#xtor=RSS-3-[lestitres]"
+          "source": "Le Monde",
+          "titre": "Le Français Henri Kagan, un Nobel de chimie très attendu",
+          "url": "https://www.lemonde.fr/sciences/article/2026/10/07/le-francais-henri-kagan-un-nobel-de-chimie-tres-attendu_6789626_1650684.html"
         },
         {
           "source": "RFI",
@@ -371,127 +377,121 @@
       "nb_articles": 3
     },
     {
-      "titre": "Sophie Adenot de retour sur Terre après 235 jours dans l'espace",
-      "texte": "L'astronaute française Sophie Adenot est en route vers la Terre après avoir passé 235 jours dans l'espace, selon Le Monde. Elle et ses coéquipiers du Crew-12 ont quitté la Station spatiale internationale mercredi à 14h05, à bord d'une capsule Crew Dragon, rapporte franceinfo. Après plus d'une journée de voyage, le vaisseau traversera l'atmosphère à une vitesse extrêmement élevée. Dans les dernières minutes de vol, il sera ralenti par de puissants parachutes pour amerrir dans l'océan Pacifique, au large de la Californie. La Nasa prévoit le splashdown jeudi à 17h34, heure de Paris, indique Le Monde.",
-      "rubrique": "Sciences & Tech",
+      "titre": "Fonte accélérée des glaciers suisses en 2026",
+      "texte": "Les glaciers suisses ont connu une « année catastrophique » en 2026, selon l'Académie suisse des sciences. Selon franceinfo, qui cite le média public suisse Swissinfo, les vagues de chaleur estivales et le faible enneigement hivernal ont conduit à la disparition de dizaines de glaciers alpins cette année. L'Académie suisse des sciences souligne que « le climat se réchauffe trop rapidement pour qu'ils s'adaptent », illustrant l'accélération du phénomène de fonte dans les Alpes suisses.",
+      "rubrique": "Environnement",
       "ids_sources": [
-        "a4d3c1224",
-        "a94dde945"
+        "ad0bb8c3a"
       ],
       "sources": [
         {
-          "source": "Le Monde",
-          "titre": "Sophie Adenot est en route vers la Terre, après avoir passé deux cent trente-cinq jours dans l’espace",
-          "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html"
-        },
-        {
           "source": "franceinfo",
-          "titre": "Sophie Adenot a quitté la Station spatiale internationale et doit arriver sur Terre jeudi après-midi",
-          "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/video-sophie-adenot-a-quitte-la-station-spatiale-internationale-et-doit-arriver-sur-terre-jeudi-apres-midi_8226928.html#xtor=RSS-3-[lestitres]"
+          "titre": "\"Le climat se réchauffe trop rapidement pour qu'ils s'adaptent\" : en Suisse, les glaciers perdent en volume et certains ont disparu cet été",
+          "url": "https://www.franceinfo.fr/environnement/crise-climatique/fonte-des-glaces/le-climat-se-rechauffe-trop-rapidement-pour-qu-ils-s-adaptent-en-suisse-les-glaciers-perdent-en-volume-et-certains-ont-disparu-cet-ete_8226811.html#xtor=RSS-3-[lestitres]"
         }
       ],
       "importance": 4,
-      "score": 42,
-      "nb_articles": 2
+      "score": 41,
+      "nb_articles": 1
     }
   ],
   "breves": [
     {
-      "titre": "Premier cas d'Ebola confirmé au Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "titre": "L'Australie présidente de la COP31 malgré sa dépendance au charbon",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261007-l-australie-future-pr%C3%A9sidente-de-la-cop-pourtant-toujours-tr%C3%A8s-d%C3%A9pendante-du-charbon",
+      "source": "France 24",
       "importance": 4
     },
     {
-      "titre": "Reprise de Kidal par l'armée malienne et ses alliés russes",
-      "url": "https://www.rfi.fr/fr/afrique/20261007-au-mali-la-reprise-de-kidal-consolide-la-transition",
-      "source": "RFI",
+      "titre": "Crise humanitaire au Yémen : plus de 200 000 déplacés",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 4
     },
     {
-      "titre": "Député ukrainien exclu de son parti après appel à négocier avec Moscou",
-      "url": "https://www.lemonde.fr/international/article/2026/10/07/l-ukraine-est-en-train-de-perdre-la-guerre-le-plan-de-paix-d-un-depute-d-odessa-provoque-un-tolle-a-kiev_6789592_3210.html",
-      "source": "Le Monde",
+      "titre": "Sanctions européennes contre la Russie liées à la guerre en Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sanctionne-pres-de-1-600-individus-et-entites-lies-a-la-guerre-russe-contre-l-ukraine_8227030.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
       "importance": 4
     },
     {
-      "titre": "Résultats électoraux du candidat bolsonariste au Brésil",
+      "titre": "Candidats à la présidentielle française 2027 au Sommet de l'élevage",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/sommet-de-l-elevage-selfies-serrage-de-mains-le-pen-zemmour-ruffin-et-dupont-aignan-en-campagne-3429441.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 4
+    },
+    {
+      "titre": "Poussée bolsonariste au Brésil lors des élections",
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
       "source": "RFI",
       "importance": 4
     },
     {
-      "titre": "Christa Pike survit à deux injections létales aux États-Unis",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "titre": "Premier cas d'Ebola au Kenya avec dix personnes en quarantaine",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "importance": 3
+      "importance": 4
     },
     {
-      "titre": "Virus du Nil occidental : records de cas en France",
-      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-[lestitres]",
+      "titre": "Marine Le Pen \"maintient à 1 000% sa confiance en Jordan Bardella\", après la divulgation par Mediapart d'écrits antisémites attribués au président du RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-apres-la-divulgation-par-mediapart-d-ecrits-antisemites-attribues-au-president-du-rn_8226883.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 4
+    },
+    {
+      "titre": "Primoz Roglic champion d'Europe du contre-la-montre",
+      "url": "https://www.franceinfo.fr/sports/cyclisme/primoz-roglic-nouveau-champion-d-europe-de-cyclisme-sur-le-contre-la-montre-les-francais-bruno-armirail-et-maxime-decomble-completent-le-podium_8227120.html#xtor=RSS-3-[lestitres]",
       "source": "franceinfo",
       "importance": 3
     },
     {
-      "titre": "Adolescent blessé à la main à Strasbourg après manipulation d'un mortier",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/un-jeune-homme-grievement-blesse-a-la-main-apres-avoir-manipule-un-mortier-lors-d-une-mobilisation-lyceenne-3429465.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Retour de l'astronaute française Sophie Adenot sur Terre",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/sophie-adenot-est-en-route-vers-la-terre-apres-avoir-passe-deux-cent-trente-cinq-jours-dans-l-espace_6789611_1650684.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Enquête après interpellation violente d'un mineur à La Réunion",
-      "url": "https://la1ere.franceinfo.fr/reunion/mobilisation-lyceenne-une-enquete-ouverte-apres-l-interpellation-violente-d-un-mineur-au-lycee-roland-garros-au-tampon-video-1745712.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Manifestations lycéennes et étudiantes en Belgique avec tensions à Liège",
+      "url": "https://www.rtbf.be/article/direct-tensions-dans-le-centre-de-liege-la-gare-des-guillemins-fermee-les-commercants-appeles-a-fermer-leurs-commerces-11796189",
+      "source": "RTBF Info",
       "importance": 3
     },
     {
-      "titre": "Trois suspects en garde à vue après agression d'un policier à Belfort",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Midterms 2026 : enjeux du contrôle du Congrès américain",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-2026-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-faire-basculer-le-congr%C3%A8s",
+      "source": "France 24",
       "importance": 3
     },
     {
-      "titre": "Adolescents filmés chantant l'apologie du terrorisme dans une église en Vendée",
-      "url": "https://www.franceinfo.fr/faits-divers/vendee-une-dizaine-de-jeunes-filmes-dans-une-eglise-en-train-de-chanter-un-morceau-faisant-l-apologie-du-terrorisme_8226808.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Attaques de drones en mer Noire au large de la Bulgarie et Roumanie",
+      "url": "https://www.lemonde.fr/international/article/2026/10/07/les-attaques-de-drones-s-intensifient-en-mer-noire-au-large-de-la-bulgarie-et-la-roumanie_6789632_3210.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Adolescent jugé en février après agression d'un enseignant aspergé d'essence à La Ciotat",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-adolescent-juge-en-fevrier-apres-l-agression-d-un-enseignant-asperge-d-essence-a-la-ciotat-en-marge-d-une-manifestation-lyceenne_8226937.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
+      "titre": "Affaire de viol collectif présumé en Tunisie",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-tunisie-une-affaire-de-viol-collectif-pr%C3%A9sum%C3%A9-suscite-l-%C3%A9motion",
+      "source": "France 24",
       "importance": 3
     },
     {
-      "titre": "Plus de 200 000 déplacés au Yémen selon l'OIM",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/le-nombre-de-deplaces-au-yemen-franchit-la-barre-des-200-000-personnes-selon-l-organisation-internationale-des-migrations_8226817.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
-    },
-    {
-      "titre": "Couvre-feu imposé aux soldats américains à Okinawa après le meurtre d'une femme",
+      "titre": "Couvre-feu pour soldats américains à Okinawa après un meurtre",
       "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
       "source": "RFI",
       "importance": 3
     },
     {
-      "titre": "Le maire d'Izmir rejoint le parti du président Erdogan en Turquie",
-      "url": "https://www.rfi.fr/fr/europe/20261007-turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du-pr%C3%A9sident-erdogan",
-      "source": "RFI",
-      "importance": 3
-    },
-    {
-      "titre": "Géants brassicoles japonais perquisitionnés pour soupçons de cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "titre": "Forêt française : extension mais mortalité accrue des arbres",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/07/la-foret-francaise-s-etend-mais-souffre-de-plus-en-plus-des-effets-du-rechauffement-climatique_6789628_3244.html",
+      "source": "Le Monde",
       "importance": 3
     }
   ],
   "stats": {
-    "articles": 114,
+    "articles": 135,
     "sujets": 12,
-    "sources": 5,
-    "flux_en_echec": 1
+    "sources": 6,
+    "flux_en_echec": 0
   },
   "meta": {
     "models": {
@@ -503,14 +503,14 @@
     "prompts": "d40c9b52",
     "usage": {
       "claude-haiku-4-5": {
-        "calls": 5,
-        "input_tokens": 20229,
-        "output_tokens": 10763
+        "calls": 6,
+        "input_tokens": 24544,
+        "output_tokens": 12914
       },
       "claude-sonnet-4-5": {
         "calls": 14,
-        "input_tokens": 31862,
-        "output_tokens": 5481
+        "input_tokens": 35535,
+        "output_tokens": 5791
       }
     }
   },

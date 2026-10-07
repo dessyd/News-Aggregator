@@ -6,6 +6,7 @@
     "entries": 20,
     "kept": 18,
     "with_summary": 18,
+    "status": 200,
     "error": null
   },
   {
@@ -15,33 +16,37 @@
     "entries": 16,
     "kept": 16,
     "with_summary": 16,
+    "status": 200,
     "error": null
   },
   {
     "name": "France 24",
     "url": "https://www.france24.com/fr/rss",
-    "ok": false,
-    "entries": 0,
-    "kept": 0,
-    "with_summary": 0,
-    "error": "<unknown>:2:422: not well-formed (invalid token)"
+    "ok": true,
+    "entries": 24,
+    "kept": 24,
+    "with_summary": 23,
+    "status": 200,
+    "error": null
   },
   {
     "name": "RFI",
     "url": "https://www.rfi.fr/fr/rss",
     "ok": true,
-    "entries": 24,
-    "kept": 24,
-    "with_summary": 24,
+    "entries": 23,
+    "kept": 23,
+    "with_summary": 23,
+    "status": 200,
     "error": null
   },
   {
     "name": "franceinfo",
     "url": "https://www.francetvinfo.fr/titres.rss",
     "ok": true,
-    "entries": 36,
-    "kept": 36,
-    "with_summary": 36,
+    "entries": 34,
+    "kept": 34,
+    "with_summary": 34,
+    "status": 301,
     "error": null
   },
   {
@@ -51,6 +56,7 @@
     "entries": 21,
     "kept": 20,
     "with_summary": 20,
+    "status": 200,
     "error": null
   }
 ]
