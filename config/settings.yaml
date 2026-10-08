@@ -26,9 +26,9 @@ collect:
 # Étapes 2 à 4 = regroupement et rédaction -> modèle plus capable.
 models:
   stage1: claude-haiku-4-5
-  stage2: claude-sonnet-4-5
-  stage3: claude-sonnet-4-5
-  stage4: claude-sonnet-4-5
+  stage2: claude-sonnet-5-5
+  stage3: claude-sonnet-5-5
+  stage4: claude-sonnet-5-5
 
 llm:
   temperature: null            # null = valeur par défaut du modèle (certains modèles refusent ce paramètre)
