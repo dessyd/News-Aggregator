@@ -44,7 +44,7 @@ Les commentaires `<!-- ... -->` des fichiers de prompts ne sont pas envoyés au 
    (identifiants de la règle de fédération d'identité Claude ↔ GitHub Actions, voir `design/decisions.md` D9).
    **Pas de secret `ANTHROPIC_API_KEY`** : les workflows s'authentifient avec le jeton OIDC de GitHub, et une clé API
    définie par ailleurs aurait priorité sur la fédération.
-3. *Settings → Pages* → Source : *Deploy from a branch*, branche `main`, dossier `/docs`.
+3. *Settings → Pages* → Source : *GitHub Actions* (les workflows publient le dossier `docs/` via `actions/deploy-pages` ; un push du bot ne déclenche pas la construction « depuis une branche »).
 4. *Settings → Actions → General → Workflow permissions* → *Read and write permissions*.
 5. Vérifier les flux : `python -m src.main check-feeds` (en local) et corriger `config/feeds.yaml`.
 6. Onglet *Actions* → « Revue de presse quotidienne » → *Run workflow* pour une première revue.
