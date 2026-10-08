@@ -1,0 +1,489 @@
+{
+  "date": "2026-10-08",
+  "date_fr": "jeudi 8 octobre 2026",
+  "generated_at": "2026-10-08T17:15:41+00:00",
+  "chapeau": "En Belgique, Liège reste sous surveillance policière après près de 200 arrestations depuis le 1er octobre en marge de mobilisations d'élèves, tandis que le Premier ministre Bart De Wever presse sa majorité de avancer sur un budget où le gouvernement cherche 10 milliards d'euros. Les syndicats organisent une journée d'action nationale vendredi 9 octobre, suivie d'une grève dans le secteur public lundi 12. À l'international, une frappe russe sur des bus à Kramatorsk a fait au moins 30 morts, la justice américaine a engagé de nouvelles poursuites pour complot de torture contre Nicolas Maduro et son épouse, et le prix Nobel de littérature a été attribué à Anne Carson.",
+  "topics": [
+    {
+      "titre": "Gaza : frappes israéliennes malgré le cessez-le-feu",
+      "texte": "Des Palestiniens de Gaza continuent de subir des frappes israéliennes malgré le cessez-le-feu, rapporte la BBC. Le titre de son article cite un témoignage : « Chaque jour, il y a des morts ». Selon le média britannique, de nombreux habitants vivent toujours dans des camps de tentes surpeuplés. La BBC indique par ailleurs que le plan américain destiné à mettre fin à la guerre est largement au point mort. L'article fourni ne précise ni bilan chiffré des frappes ni position des autorités israéliennes ou américaines sur ces événements.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a1d4d72e5"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 5,
+      "score": 51,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Émeutes et violences à Liège en marge des manifestations d'élèves",
+      "texte": "Liège est placée sous surveillance policière après des affrontements entre jeunes et forces de l'ordre en marge de mobilisations d'élèves et d'étudiants ; la RTBF fait état de près de 200 arrestations depuis le 1er octobre. Le bourgmestre Willy Demeyer (PS) a interdit les rassemblements dès jeudi 6 heures, sauf exceptions. Selon la RTBF, une enquête montre que des adultes ont infiltré les cortèges et incité à la violence ; elle mentionne vitrines brisées et tirs de mortiers d'artifice. Le ministre de l'Intérieur Bernard Quintin veut rétablir l'ordre « par tous les moyens » et met en cause parents, écoles et mouvement antifa, d'après Le Vif. Les antifas démentent, selon La Libre et la RTBF, qui rapporte qu'ils dénoncent un « fantasme » destiné à légitimer un projet de loi. La RTBF signale aussi un tir de carabine à plomb ayant légèrement blessé deux étudiants.",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "a9919f1e3",
+        "afcb3836c",
+        "a48757f68",
+        "aa5776cfc",
+        "a55f05b8f",
+        "ac38123c1",
+        "a2eba2010"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "\"On se serait cru dans un film\", \"On ne pense qu’à ça\" : sous haute surveillance policière, les Liégeois encore sous le choc après les émeutes",
+          "url": "https://www.lalibre.be/belgique/enseignement/2026/10/08/on-se-serait-cru-dans-un-film-on-ne-pense-qua-ca-sous-haute-surveillance-policiere-les-liegeois-encore-sous-le-choc-apres-les-emeutes-CBLAX36WQZGGZHTP2HW2X56K7U/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Ciblés par Bernard Quintin à Liège, les Antifas répliquent : “C'est lui et son gouvernement qui incitent à la casse”",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/08/cibles-par-bernard-quintin-a-liege-les-antifas-repliquent-cest-lui-et-son-gouvernement-qui-incitent-a-la-casse-OTCNBEP33RDBXITKUSB5PAGG6I/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Notre enquête révèle comment des adultes ont infiltré les manifestations des élèves à Liège et incité à la violence",
+          "url": "https://www.rtbf.be/article/notre-enquete-revele-comment-des-adultes-ont-infiltre-les-manifestations-des-eleves-a-liege-et-incite-a-la-violence-11796889"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Emeutes étudiantes à Liège: Bernard Quintin veut rétablir l’ordre «par tous les moyens» et pointe «la responsabilité des parents, des écoles, et du mouvement antifa»",
+          "url": "https://www.levif.be/belgique/justice/emeutes-etudiantes-a-liege-bernard-quintin-veut-retablir-lordre-par-tous-les-moyens-et-pointe-la-responsabilite-des-parents-des-ecoles-et-du-mouvement-antifa/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Le ministre de l’Intérieur Bernard Quintin accuse les antifas pour les incidents de Liège, \"un fantasme pour légitimer son projet de loi\" répond le front antifasciste",
+          "url": "https://www.rtbf.be/article/le-ministre-de-l-interieur-bernard-quintin-accuse-les-antifas-pour-les-incidents-de-liege-un-fantasme-pour-legitimer-son-projet-de-loi-repond-le-front-antifasciste-11796820"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Direct – Mobilisation étudiante : Liège sous surveillance policière, près de 200 arrestations depuis le 1er octobre",
+          "url": "https://www.rtbf.be/article/direct-mobilisation-etudiante-liege-sous-surveillance-policiere-pres-de-200-arrestations-depuis-le-1er-octobre-11796688"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Liège : un tir de carabine à plomb en direction d'étudiants en marge d'une manifestation, deux blessés légers",
+          "url": "https://www.rtbf.be/article/liege-un-tir-de-carabine-a-plomb-en-direction-d-etudiants-en-marge-d-une-manifestation-deux-blesses-legers-11796966"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 10
+    },
+    {
+      "titre": "Journée d'action nationale et grèves des 9 et 12 octobre en Belgique",
+      "texte": "Les syndicats ACV et ABVV organisent une Journée nationale d'action vendredi 9 octobre, suivie lundi 12 octobre d'une grève dans le secteur public. Selon VRT NWS, ils s'opposent aux politiques du gouvernement De Wever I. Le média annonce des perturbations vendredi à la MIVB, chez De Lijn et à Brussels Airport, puis lundi dans les écoles et sur le rail. La RTBF précise que les deux mobilisations ne répondent pas au même objectif et que des difficultés de déplacement sont à prévoir. D'après La Libre, la RTBF reporte au mardi 13 octobre le lancement de l'émission « En vrai de vrai », en raison de la grève nationale.",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "a6f4e61b9",
+        "aeb64bccd",
+        "af280c905"
+      ],
+      "sources": [
+        {
+          "source": "RTBF Info",
+          "titre": "Manifestation et grève les 9 et 12 octobre : quelles perturbations dans les transports et les services publics ?",
+          "url": "https://www.rtbf.be/article/manifestation-et-greve-les-9-et-12-octobre-quelles-perturbations-dans-les-transports-et-les-services-publics-11796891"
+        },
+        {
+          "source": "VRT NWS (EN)",
+          "titre": "National Day of Action and public sector strike to cause disruption on Friday 9 October and Monday 12 October",
+          "url": "https://vrtnws.be/p.oL1W5xYZO"
+        },
+        {
+          "source": "La Libre",
+          "titre": "\"En vrai de vrai\", le \"Quotidien\" à la belge doit reporter son lancement... à cause de la grève nationale",
+          "url": "https://www.lalibre.be/culture/medias-tele/2026/10/08/en-vrai-de-vrai-le-quotidien-a-la-belge-doit-reporter-son-lancement-a-cause-de-la-greve-nationale-7FET44WJAVEWFE3TIQIX2O5COI/"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Négociations budgétaires fédérales belges",
+      "texte": "Le Premier ministre Bart De Wever (N-VA) a appelé jeudi à la Chambre ses partenaires de majorité à prendre leurs responsabilités dans les discussions budgétaires, selon L'Echo et La Libre. D'après La Libre, il s'exprimait à la veille d'un week-end budgétaire qui pourrait être décisif, et a averti d'un risque d'« effet boule de neige » sur les intérêts d'ici 2029. La RTBF indique que le gouvernement cherche 10 milliards d'euros. L'Echo rapporte que les 425 millions que le Fédéral devait transférer aux Régions pour le volet régional de la norme énergétique pourraient être affectés à d'autres besoins. Le Vif évoque des critiques croissantes contre le régime fiscal des sociétés de management.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "a6e55e2ea",
+        "af2f9e1b2",
+        "affc9a0d9",
+        "a3d908ff9",
+        "a503d1316"
+      ],
+      "sources": [
+        {
+          "source": "L'Echo",
+          "titre": "Le Premier ministre met la pression sur ses partenaires",
+          "url": "https://www.lecho.be/r/t/1/id/10694896"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Bart De Wever met un nouveau coup de pression pour le budget fédéral : \"Nous risquons d'assister à un effet boule de neige sur les intérêts d'ici 2029",
+          "url": "https://www.lalibre.be/belgique/2026/10/08/bart-de-wever-met-un-nouveau-coup-de-pression-pour-le-budget-federal-nous-risquons-dassister-a-un-effet-boule-de-neige-sur-les-interets-dici-2029-RV6DR4HBSVEPHPC3G7P764KMV4/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Budget : deux experts pointent les trois problèmes majeurs du système d'imposition en Belgique",
+          "url": "https://www.rtbf.be/article/budget-deux-experts-pointent-les-trois-problemes-majeurs-du-systeme-d-imposition-en-belgique-11796253"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Les sociétés de management encore dans le viseur d’une partie de l’Arizona: 3 économistes expliquent pourquoi «ce système est complètement détraqué»",
+          "url": "https://www.levif.be/economie/les-societes-de-management-encore-dans-le-viseur-dune-partie-de-larizona-3-economistes-expliquent-pourquoi-ce-systeme-est-completement-detraque/"
+        },
+        {
+          "source": "L'Echo",
+          "titre": "Le volet régional de la norme énergétique remis en question",
+          "url": "https://www.lecho.be/r/t/1/id/10694885"
+        }
+      ],
+      "importance": 4,
+      "score": 44,
+      "nb_articles": 6
+    },
+    {
+      "titre": "Projet de loi sur les visites domiciliaires",
+      "texte": "Le projet de loi sur les visites domiciliaires a été adopté en deuxième lecture en commission de l'Intérieur de la Chambre et se rapproche de son vote définitif, rapportent Le Vif et VRT NWS. Selon VRT NWS, ce texte, rédigé par la ministre de l'Asile et de la Migration Anneleen Van Bossuyt (N-VA) et la ministre de la Justice Annelies Verlinden (CD&V), permettrait à la police d'entrer, avec l'Office des étrangers, dans les logements de migrants en situation irrégulière représentant une menace pour l'ordre public ou la sécurité nationale. Il doit encore être approuvé en séance plénière. D'après Le Vif, malgré plusieurs amendements, les garanties entourant ces interventions restent critiquées, y compris dans les rangs de la majorité. La RTBF évoque un dossier qui fait débat depuis plusieurs années.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "a063cdd46",
+        "a5b6acb89",
+        "a0327b0a3"
+      ],
+      "sources": [
+        {
+          "source": "Le Vif",
+          "titre": "Visites domiciliaires: 3 questions pour comprendre le projet de loi qui divise les élus de la majorité",
+          "url": "https://www.levif.be/societe/visites-domiciliaires-3-questions-pour-comprendre-le-projet-de-loi-qui-divise-les-elus-de-la-majorite/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Visites domiciliaires en Belgique : que dit le projet de loi ? Pourquoi fait-il encore débat ?",
+          "url": "https://www.rtbf.be/article/visites-domiciliaires-en-belgique-que-dit-le-projet-de-loi-pourquoi-fait-il-encore-debat-11741551"
+        },
+        {
+          "source": "VRT NWS (EN)",
+          "titre": "Belgian parliament to legislate to allow police to enter homes to facilitate undocumented migrant removals",
+          "url": "https://vrtnws.be/p.43N6Q71Q5"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Nicolas Maduro et son épouse poursuivis pour torture aux États-Unis",
+      "texte": "La justice américaine a engagé jeudi de nouvelles poursuites pour complot en vue de commettre des actes de torture contre l'ancien président vénézuélien Nicolas Maduro et son épouse, Cilia Flores, détenus à New York depuis janvier, selon La Libre. D'après Le Monde, la justice affirme qu'ils étaient au cœur d'un dispositif de décision concernant des actes visant des opposants, tels que des électrocutions, des passages à tabac ou des simulations de noyade. La BBC précise que les nouvelles accusations portent sur la torture présumée de citoyens américains détenus au Venezuela durant son mandat. Selon la BBC, les procureurs fédéraux de New York avaient déposé un acte d'accusation révisé.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "aab6b0d30",
+        "a50c4b3f7",
+        "af88f863e",
+        "a24616613"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Nicolas Maduro et son épouse, Cilia Flores, poursuivis par la justice américaine pour « complot en vue de commettre des actes de torture »",
+          "url": "https://www.lemonde.fr/international/article/2026/10/08/la-justice-americaine-poursuit-nicolas-maduro-et-son-epouse-pour-complot-en-vue-de-commettre-des-actes-de-torture_6790261_3210.html"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "La Libre",
+          "titre": "La justice américaine poursuit Maduro et son épouse pour torture",
+          "url": "https://www.lalibre.be/international/amerique/2026/10/08/la-justice-americaine-poursuit-maduro-et-son-epouse-pour-torture-MRO2PKIPJJCJ7KMLSFMRN3LYFM/"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+          "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
+      "texte": "Les Houthis du Yémen ont affirmé jeudi avoir de nouveau frappé l'aéroport de Ryad avec un missile, selon La Libre. Les autorités saoudiennes disent avoir intercepté deux missiles tirés par les combattants pro-iraniens. D'après la BBC, trois personnes ont été tuées dans des attaques contre des aéroports saoudiens, selon des responsables. Le groupe a revendiqué ces attaques, que la chaîne décrit comme une escalade du conflit. Face à ces tirs, l'Arabie saoudite active pour la première fois la « coalition défensive » de La Mecque, d'après La Libre : la Turquie, le Pakistan et l'Arabie saoudite doivent déployer des forces et des moyens militaires en territoire saoudien.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a80d815d1",
+        "a1f5272f3",
+        "a8ac4f979"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "Les Houthis affirment avoir de nouveau frappé l'aéroport de Ryad à l'aide d'un missile",
+          "url": "https://www.lalibre.be/international/moyen-orient/2026/10/08/les-houthis-affirment-avoir-de-nouveau-frappe-laeroport-de-ryad-a-laide-dun-missile-DSASR4KD3FFYDDSMODZUH5XV3M/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Face aux attaques des Houthis, l’Arabie saoudite active pour la première fois la “coalition défensive” de La Mecque",
+          "url": "https://www.lalibre.be/international/moyen-orient/2026/10/08/face-aux-attaques-des-houthis-larabie-saoudite-active-pour-la-premiere-fois-la-coalition-defensive-de-la-mecque-LHZMYGGB7BHMPBH3EFUMCK3RYI/"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Frappe russe sur des bus à Kramatorsk",
+      "texte": "Une frappe russe sur des bus à Kramatorsk, dans l'est de l'Ukraine, a fait au moins 30 morts, selon la BBC et la RTBF. D'après la BBC, qui cite des responsables, deux véhicules bondés ont été touchés dans cette ville proche de la ligne de front. L'Ukraine accuse la Russie d'avoir délibérément visé des véhicules civils afin de tuer le plus grand nombre de personnes possible. Le bilan a évolué : selon la RTBF, le parquet ukrainien avait d'abord fait état de 12 victimes d'après les premières informations. La BBC situe cette frappe dans une hausse des attaques meurtrières contre l'Ukraine.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a16c67f2b",
+        "a68252108"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Une frappe russe sur des bus fait 30 morts dans l’Est de l’Ukraine",
+          "url": "https://www.rtbf.be/article/une-frappe-russe-sur-des-bus-fait-30-morts-dans-l-est-de-l-ukraine-11796866"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Frappes russes sur Kiev et drones Geran",
+      "texte": "La capitale ukrainienne est passée en mode « survie » à l'approche de l'hiver, a déclaré jeudi son maire à l'AFP, cité par La Libre. Selon le quotidien, la campagne de frappes russes de ces dernières semaines vise des ponts et des infrastructures clés de la ville. Parallèlement, Le Vif indique que les drones russes Geran-5 sont devenus plus rapides, plus précis et plus résistants au brouillage. Le magazine les décrit comme des missiles de croisière à bas coût, difficilement interceptables pour l'instant par l'Ukraine. Toujours d'après Le Vif, cette évolution oblige Kiev à adapter ses défenses et ouvre un nouvel épisode sur le plan de la guerre économique.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "af0c91e67",
+        "a1517a72b"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "Les frappes russes font basculer Kiev en mode \"survie\" avant l'hiver : \"Les bombardements sur notre ville s'intensifient\"",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/08/les-frappes-russes-font-basculer-kiev-en-mode-survie-avant-lhiver-les-bombardements-sur-notre-ville-sintensifient-FSOFTG5O35GN5NTO72IWLN7GBY/"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Comment les drones russes Geran-5 sont devenus des missiles de croisière low cost et le cauchemar de l’Ukraine",
+          "url": "https://www.levif.be/international/comment-les-drones-russes-geran-5-sont-devenus-des-missiles-de-croisiere-low-cost-et-le-cauchemar-de-lukraine/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Tensions diplomatiques entre Israël et le Royaume-Uni autour du consulat de Jérusalem",
+      "texte": "Le consulat britannique à Jérusalem a été rétrogradé en simple « mission » jeudi 8 octobre, selon Le Monde, qui y voit le signe d'une escalade diplomatique spectaculaire entre deux pays traditionnellement alliés. Le quotidien évoque un accord minimaliste. D'après la BBC, Israël a annoncé que la plupart des diplomates britanniques quitteraient le consulat de Jérusalem-Est. Selon la chaîne, Israël avait indiqué en septembre qu'il réagirait aux sanctions britanniques visant des implantations israéliennes illégales en Cisjordanie. Toujours d'après la BBC, Miliband affirme que des « services vitaux » seront maintenus.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "aa6b79b36",
+        "abd668b32"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Israël-Royaume-Uni : des relations diplomatiques au plus bas, malgré un accord minimaliste trouvé sur le consulat de Jérusalem",
+          "url": "https://www.lemonde.fr/international/article/2026/10/08/israel-royaume-uni-des-relations-diplomatiques-au-plus-bas-malgre-un-accord-a-minima-trouve-sur-le-consulat-de-jerusalem_6790246_3210.html"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Prix Nobel de littérature 2026 attribué à Anne Carson",
+      "texte": "Le prix Nobel de littérature 2026 a été attribué à Anne Carson, ont annoncé jeudi à la mi-journée plusieurs médias belges. La Libre présente l'autrice comme canadienne. La RTBF rappelle que la distinction succède à celle de l'écrivain hongrois Laszlo Krasznahorkai en 2025. Selon Le Vif, Anne Carson devient la 19e femme à recevoir ce prix sur 123 lauréats depuis sa création. Les extraits fournis ne détaillent ni les motivations du jury ni les œuvres citées.",
+      "rubrique": "Culture",
+      "ids_sources": [
+        "a83c7601f",
+        "a6fedae1b",
+        "ad1509dd3"
+      ],
+      "sources": [
+        {
+          "source": "Le Vif",
+          "titre": "Le Nobel de littérature décerné à Anne Carson: sur 123 lauréats depuis la création du prix, seuls 19 sont des femmes",
+          "url": "https://www.levif.be/culture/le-nobel-de-litterature-decerne-a-anne-carson-sur-123-laureats-depuis-la-creation-du-prix-seuls-19-sont-des-femmes/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Le prix Nobel de littérature 2026 est attribué à l'autrice Anne Carson",
+          "url": "https://www.rtbf.be/article/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-anne-carson-11796313"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Prix Nobel de littérature 2026 : la Canadienne Anne Carson sacrée",
+          "url": "https://www.lalibre.be/culture/livres-bd/2026/10/08/prix-nobel-de-litterature-2026-la-canadienne-est-anne-carson-K5X25XHOIJF43IX3BCLBQEQDAY/"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Dette française et confiance des marchés",
+      "texte": "La France peine à rassurer les marchés financiers sur sa trajectoire budgétaire, selon Le Monde. Le ministre de l'Économie, Roland Lescure, s'est rendu jeudi à Londres pour s'adresser aux acteurs de la City. D'après le quotidien, certains investisseurs étrangers préfèrent céder leurs obligations françaises, et les investisseurs asiatiques alimentent la défiance. L'Echo indique de son côté que la flambée du pétrole a de nouveau poussé le rendement français à dix ans aux portes des 5 %. Le média économique relève que certaines entreprises françaises inspirent désormais davantage confiance que l'État et font figure de refuge obligataire.",
+      "rubrique": "Économie",
+      "ids_sources": [
+        "a32e40a0b",
+        "a1a70e3aa"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Dette : la France peine à rassurer les marchés financiers, les investisseurs asiatiques alimentent la défiance",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/08/dette-la-france-peine-a-rassurer-les-marches-financiers-les-investisseurs-asiatiques-alimentent-la-defiance_6790205_3234.html"
+        },
+        {
+          "source": "L'Echo",
+          "titre": "Quand la dette française frôle les 5%, ses entreprises font figure de refuge obligataire",
+          "url": "https://www.lecho.be/r/t/1/id/10694841"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Mort suspecte d'une laborantine en Russie et soupçons de peste",
+      "url": "https://www.lalibre.be/international/europe/2026/10/08/soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-detectee-apres-lanalyse-de-tous-les-cas-contacts-clone-NPFGXFOYV5EFRCP222HZLOG6A4/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Trois ans après le 7 octobre : défaillances israéliennes",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Trump et l'Iran avant les élections de mi-mandat",
+      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/08/trump-exclut-dattaquer-liran-avant-les-elections-de-mi-mandat-IVDXS2OP6VECLO36DY7V7ZKWF4/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Zelensky invité au sommet européen, adhésion de l'Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-volodymyr-zelensky-invite-au-prochain-sommet-europeen-des-avancees-attendues-sur-l-adhesion-de-l-ukraine_6787996_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Drones ukrainiens sur un site Gazprom dans l'Oural",
+      "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/08/des-drones-ukrainiens-provoquent-un-incendie-chez-gazprom-en-russie-6REG6YPY2VEARFFUQQBBH7Z72Y/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Retour sur Terre de l'astronaute Sophie Adenot",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/08/sophie-adenot-a-amerri-jeudi-apres-un-sejour-record-dans-la-station-spatiale-internationale_6790250_1650684.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Décès de Margaret Hamilton, pionnière du logiciel Apollo",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Attentat déjoué contre la Bank of America à Paris",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/08/attentat-dejoue-contre-la-bank-of-america-a-paris-un-commanditaire-membre-de-groupuscules-pro-iraniens-identifie-par-le-fbi_6790204_3224.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Meurtre à Okinawa par un marine américain",
+      "url": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Visite européenne à Pékin sur les exportations chinoises",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/l-europe-espere-faire-plier-la-chine-ce-geant-economique-devenu-imbattable_6790213_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Vote sur la supervision financière européenne",
+      "url": "https://www.lecho.be/r/t/1/id/10694827",
+      "source": "L'Echo",
+      "importance": 4
+    },
+    {
+      "titre": "L'AfD en position de diriger la Saxe-Anhalt",
+      "url": "https://www.levif.be/allemagne/acteur-porno-ex-cadre-de-la-stasi-les-mauvais-garcons-de-lafd-qui-pourraient-diriger-la-saxe-anhalt-en-allemagne/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Mutilations génitales féminines à Bruxelles",
+      "url": "https://vrtnws.be/p.8eX9ODqBK",
+      "source": "VRT NWS (EN)",
+      "importance": 4
+    },
+    {
+      "titre": "Le Canada suspend l'extension de l'aide à mourir",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Mobilisation des élèves en Belgique francophone et réactions politiques",
+      "url": "https://www.lecho.be/r/t/1/id/10694898",
+      "source": "L'Echo",
+      "importance": 3
+    }
+  ],
+  "stats": {
+    "articles": 157,
+    "sujets": 12,
+    "sources": 7,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "claude-haiku-4-5",
+      "stage2": "claude-sonnet-5-5",
+      "stage3": "claude-sonnet-5-5",
+      "stage4": "claude-sonnet-5-5"
+    },
+    "prompts": "d40c9b52",
+    "usage": {
+      "claude-sonnet-5-5": {
+        "calls": 15,
+        "input_tokens": 46039,
+        "output_tokens": 11266
+      }
+    }
+  },
+  "warnings": []
+}

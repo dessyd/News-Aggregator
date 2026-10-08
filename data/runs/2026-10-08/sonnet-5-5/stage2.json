@@ -1,0 +1,221 @@
+{
+  "sujets": [
+    {
+      "titre": "Gaza : frappes israéliennes malgré le cessez-le-feu",
+      "ids": [
+        "a1d4d72e5"
+      ],
+      "importance": 5,
+      "score": 51
+    },
+    {
+      "titre": "Négociations budgétaires fédérales belges",
+      "ids": [
+        "a6e55e2ea",
+        "af2f9e1b2",
+        "affc9a0d9",
+        "acba4711b",
+        "a503d1316",
+        "a3d908ff9"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Émeutes et violences à Liège en marge des manifestations d'élèves",
+      "ids": [
+        "a9919f1e3",
+        "afcb3836c",
+        "a48757f68",
+        "aa5776cfc",
+        "a55f05b8f",
+        "ac38123c1",
+        "a08fa2502",
+        "a2eba2010",
+        "afe519218",
+        "a5f0225d2"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Nicolas Maduro et son épouse poursuivis pour torture aux États-Unis",
+      "ids": [
+        "aab6b0d30",
+        "a50c4b3f7",
+        "af88f863e",
+        "a24616613"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Prix Nobel de littérature 2026 attribué à Anne Carson",
+      "ids": [
+        "a83c7601f",
+        "a6fedae1b",
+        "ad1509dd3"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Journée d'action nationale et grèves des 9 et 12 octobre en Belgique",
+      "ids": [
+        "a6f4e61b9",
+        "aeb64bccd",
+        "af280c905"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Projet de loi sur les visites domiciliaires",
+      "ids": [
+        "a063cdd46",
+        "a0327b0a3",
+        "a5b6acb89"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Dette française et confiance des marchés",
+      "ids": [
+        "a32e40a0b",
+        "a1a70e3aa"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Frappe russe sur des bus à Kramatorsk",
+      "ids": [
+        "a16c67f2b",
+        "a68252108"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Frappes russes sur Kiev et drones Geran",
+      "ids": [
+        "af0c91e67",
+        "a1517a72b"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Tensions diplomatiques entre Israël et le Royaume-Uni autour du consulat de Jérusalem",
+      "ids": [
+        "aa6b79b36",
+        "abd668b32"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
+      "ids": [
+        "a80d815d1",
+        "a1f5272f3",
+        "a8ac4f979"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Mort suspecte d'une laborantine en Russie et soupçons de peste",
+      "url": "https://www.lalibre.be/international/europe/2026/10/08/soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-detectee-apres-lanalyse-de-tous-les-cas-contacts-clone-NPFGXFOYV5EFRCP222HZLOG6A4/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Trois ans après le 7 octobre : défaillances israéliennes",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Trump et l'Iran avant les élections de mi-mandat",
+      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/08/trump-exclut-dattaquer-liran-avant-les-elections-de-mi-mandat-IVDXS2OP6VECLO36DY7V7ZKWF4/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Zelensky invité au sommet européen, adhésion de l'Ukraine",
+      "url": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-volodymyr-zelensky-invite-au-prochain-sommet-europeen-des-avancees-attendues-sur-l-adhesion-de-l-ukraine_6787996_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Drones ukrainiens sur un site Gazprom dans l'Oural",
+      "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/08/des-drones-ukrainiens-provoquent-un-incendie-chez-gazprom-en-russie-6REG6YPY2VEARFFUQQBBH7Z72Y/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Retour sur Terre de l'astronaute Sophie Adenot",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/08/sophie-adenot-a-amerri-jeudi-apres-un-sejour-record-dans-la-station-spatiale-internationale_6790250_1650684.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Décès de Margaret Hamilton, pionnière du logiciel Apollo",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Attentat déjoué contre la Bank of America à Paris",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/08/attentat-dejoue-contre-la-bank-of-america-a-paris-un-commanditaire-membre-de-groupuscules-pro-iraniens-identifie-par-le-fbi_6790204_3224.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Meurtre à Okinawa par un marine américain",
+      "url": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Visite européenne à Pékin sur les exportations chinoises",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/l-europe-espere-faire-plier-la-chine-ce-geant-economique-devenu-imbattable_6790213_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Vote sur la supervision financière européenne",
+      "url": "https://www.lecho.be/r/t/1/id/10694827",
+      "source": "L'Echo",
+      "importance": 4
+    },
+    {
+      "titre": "L'AfD en position de diriger la Saxe-Anhalt",
+      "url": "https://www.levif.be/allemagne/acteur-porno-ex-cadre-de-la-stasi-les-mauvais-garcons-de-lafd-qui-pourraient-diriger-la-saxe-anhalt-en-allemagne/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Mutilations génitales féminines à Bruxelles",
+      "url": "https://vrtnws.be/p.8eX9ODqBK",
+      "source": "VRT NWS (EN)",
+      "importance": 4
+    },
+    {
+      "titre": "Le Canada suspend l'extension de l'aide à mourir",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Mobilisation des élèves en Belgique francophone et réactions politiques",
+      "url": "https://www.lecho.be/r/t/1/id/10694898",
+      "source": "L'Echo",
+      "importance": 3
+    }
+  ]
+}
