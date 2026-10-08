@@ -1,0 +1,226 @@
+{
+  "sujets": [
+    {
+      "titre": "Décès de Maricarmen Abascal, symbole de la crise du logement en Espagne",
+      "ids": [
+        "a8546abf0",
+        "a2f3b8f3c",
+        "a852aba6f",
+        "aad6f8930",
+        "ab629e83c",
+        "a870378b3",
+        "ae9ac298d"
+      ],
+      "importance": 4,
+      "score": 46
+    },
+    {
+      "titre": "Mobilisation des lycéens en France : blocages et débat sur les violences policières",
+      "ids": [
+        "a31fbb0ba",
+        "ae7ac5dd2",
+        "aef50d06a",
+        "acd60c869",
+        "a3354a51d",
+        "a04f26400",
+        "ab50a0058",
+        "ad5216680",
+        "ab5c4e7a7"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Annonces de Sébastien Lecornu sur la crise des lycées et le prix du gazole",
+      "ids": [
+        "a1d239b55",
+        "a1fddfe2c",
+        "a158966de",
+        "ac8d9a49a"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Trois ans après le 7 octobre : commémoration et situation à Gaza",
+      "ids": [
+        "ab500e133",
+        "a3213f6f1",
+        "a019f7a20",
+        "a7488e81a",
+        "aa4ef66a7",
+        "aab1cc787",
+        "aabf4d2c3"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Soupçons de peste en Russie et appels à la transparence",
+      "ids": [
+        "a66dc3d25",
+        "a244c4d55",
+        "a39ea1e8a",
+        "a4f24bfe4",
+        "a964605f2"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Populations d'animaux sauvages en chute de 73% depuis 1970",
+      "ids": [
+        "a48fc8ace",
+        "ae3708944"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
+      "ids": [
+        "a8ac4f979",
+        "addd95163"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Poursuites contre Trump pour usage de fonds publics en campagne",
+      "ids": [
+        "ade3fdd5b",
+        "a3206a2ba"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
+      "ids": [
+        "a14f086ff",
+        "a3ca7923d"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Christa Pike survit à son exécution aux États-Unis",
+      "ids": [
+        "a1f9029de",
+        "ad8a9ee22"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Sophie Adenot achève sa mission de 235 jours dans l'ISS",
+      "ids": [
+        "af192fa56",
+        "a4fece40c"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Haute Cour australienne bloque l'extension d'une mine de charbon",
+      "ids": [
+        "a33f62738",
+        "abc4c055f"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "El Niño : un épisode exceptionnel surveillé jusqu'en 2027",
+      "url": "https://www.france24.com/fr/plan%C3%A8te/20261008-le-ph%C3%A9nom%C3%A8ne-m%C3%A9t%C3%A9orologique-el-ni%C3%B1o-amen%C3%A9-%C3%A0-s-intensifier-jusqu-en-d%C3%A9cembreg",
+      "source": "France 24",
+      "importance": 4
+    },
+    {
+      "titre": "Suspension des grenades assourdissantes après l'amputation d'un jeune",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/gaz-lacrymogene-grenades-lbd-dans-quel-cadre-les-armes-intermediaires-sont-elles-utilisees-pour-le-maintien-de-l-ordre-par-les-policiers-et-gendarmes_8224891.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 4
+    },
+    {
+      "titre": "Le Kremlin orchestre la reprise des actifs occidentaux en Russie",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/07/comment-le-kremlin-orchestre-la-reprise-des-actifs-russes-de-leroy-merlin-auchan-nestle-et-fm-logistic_6789604_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Trois ans après le 7 octobre et à l’approche d’élections cruciales : \"Deux Israël s’affrontent\"",
+      "url": "https://www.rtbf.be/article/trois-ans-apres-le-7-octobre-et-a-l-approche-d-elections-cruciales-deux-israel-s-affrontent-11796277",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Décès de Margaret Hamilton, pionnière du programme Apollo",
+      "url": "https://www.franceinfo.fr/sciences/espace/la-scientifique-americaine-margaret-hamilton-figure-du-programme-apollo-est-morte-a-90-ans_8227816.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Finale de la CAN 2025 : le TAS arbitre entre Maroc et Sénégal",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261008-finale-de-la-can-2025-si-vous-avez-accept%C3%A9-de-jouer-vous-devrez-accepter-le-r%C3%A9sultat-qui-en-d%C3%A9coule",
+      "source": "RFI",
+      "importance": 3
+    },
+    {
+      "titre": "Manifestations au Brésil avant le second tour présidentiel",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-plus-jamais-bolsonaro-des-milliers-de-manifestants-mobilis%C3%A9s-avant-le-second-tour-au-br%C3%A9sil",
+      "source": "France 24",
+      "importance": 3
+    },
+    {
+      "titre": "Expulsions de migrants vers l'Afrique par les États-Unis",
+      "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-ont-expulse-plus-de-500-migrants-vers-des-pays-d-afrique-ou-ils-n-avaient-aucun-contact-selon-human-rights-watch_8226943.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Contre-offensive au Yémen face aux Houthis",
+      "url": "https://www.france24.com/fr/moyen-orient/20261008-y%C3%A9men-houthis-affichent-leur-s%C3%A9r%C3%A9nit%C3%A9-face-contre-offensive-soutenue-arabie-saoudite",
+      "source": "France 24",
+      "importance": 3
+    },
+    {
+      "titre": "France : nouvelle coupe drastique de l'aide au développement",
+      "url": "https://www.rfi.fr/fr/france/20261008-nouvelle-coupe-drastique-et-nouvelle-strat%C3%A9gie-pour-l-aide-fran%C3%A7aise-au-d%C3%A9veloppement",
+      "source": "RFI",
+      "importance": 3
+    },
+    {
+      "titre": "Cédric Villani reconnaît l'impact de l'IA sur les mathématiques",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-changement-le-plus-radical-en-mathematiques-depuis-au-moins-quatre-siecles-cedric-villani-reconnait-les-prouesses-de-l-intelligence-artificielle_8227834.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "L'Europe cherche à rééquilibrer ses relations commerciales avec la Chine",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261008-face-%C3%A0-l-%C3%A9crasante-puissance-commerciale-chinoise-l-europe-cherche-la-riposte",
+      "source": "RFI",
+      "importance": 3
+    },
+    {
+      "titre": "Budget de Marine Le Pen critiqué",
+      "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Anciens tweets de Jordan Bardella liés à la sphère Soral",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html#xtor=RSS-3-[lestitres]",
+      "source": "franceinfo",
+      "importance": 3
+    },
+    {
+      "titre": "Marine Le Pen veut instaurer une taxe sur l'embauche d'extra-européens",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
+      "source": "Le Monde",
+      "importance": 3
+    }
+  ]
+}

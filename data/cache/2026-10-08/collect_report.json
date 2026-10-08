@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RTBF Info",
+    "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml",
+    "ok": true,
+    "entries": 20,
+    "kept": 18,
+    "with_summary": 18,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "Le Monde",
+    "url": "https://www.lemonde.fr/rss/une.xml",
+    "ok": true,
+    "entries": 16,
+    "kept": 16,
+    "with_summary": 16,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "France 24",
+    "url": "https://www.france24.com/fr/rss",
+    "ok": true,
+    "entries": 24,
+    "kept": 24,
+    "with_summary": 23,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "RFI",
+    "url": "https://www.rfi.fr/fr/rss",
+    "ok": true,
+    "entries": 23,
+    "kept": 23,
+    "with_summary": 23,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "franceinfo",
+    "url": "https://www.franceinfo.fr/titres.rss",
+    "ok": true,
+    "entries": 30,
+    "kept": 29,
+    "with_summary": 29,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "BBC World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "ok": true,
+    "entries": 22,
+    "kept": 19,
+    "with_summary": 19,
+    "status": 200,
+    "error": null
+  }
+]
