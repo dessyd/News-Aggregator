@@ -1,132 +1,125 @@
 {
   "sujets": [
     {
-      "titre": "Trois ans après le 7-Octobre : Gaza dévastée et commémorations en Israël",
+      "titre": "Émeutes et manifestations d'élèves à Liège",
       "ids": [
-        "ab500e133",
-        "a3213f6f1",
-        "a019f7a20",
-        "a7488e81a",
-        "a84201655",
-        "aa4ef66a7",
-        "aab1cc787",
-        "aabf4d2c3",
-        "a2433d804"
-      ],
-      "importance": 5,
-      "score": 55
-    },
-    {
-      "titre": "Décès de Maricarmen Abascal, symbole de la crise du logement en Espagne",
-      "ids": [
-        "a8546abf0",
-        "a2f3b8f3c",
-        "a852aba6f",
-        "ab629e83c",
-        "a870378b3",
-        "ae9ac298d"
-      ],
-      "importance": 4,
-      "score": 45
-    },
-    {
-      "titre": "Mobilisation des lycéens en France : blocages, manifestations et tensions",
-      "ids": [
-        "a31fbb0ba",
-        "ae7ac5dd2",
-        "a3354a51d",
-        "acd60c869",
-        "a04f26400",
-        "ab50a0058",
-        "ad5216680",
-        "ab5c4e7a7"
+        "a9919f1e3",
+        "afcb3836c",
+        "a85a77110",
+        "a18b74959",
+        "a48757f68",
+        "ac38123c1",
+        "a08fa2502",
+        "afe519218",
+        "aa5776cfc",
+        "a55f05b8f",
+        "a2eba2010"
       ],
       "importance": 4,
       "score": 44
     },
     {
-      "titre": "Décès de Margaret Hamilton, pionnière informatique du programme Apollo",
+      "titre": "Nicolas Maduro poursuivi par la justice américaine pour torture",
       "ids": [
-        "a914409bc",
-        "a2ac7d1b9",
-        "ace481ba5"
+        "aab6b0d30",
+        "a50c4b3f7",
+        "af88f863e",
+        "a24616613"
       ],
       "importance": 4,
       "score": 43
     },
     {
-      "titre": "Soupçons de peste en Russie après la mort d'une laborantine",
+      "titre": "Anne Carson reçoit le prix Nobel de littérature",
       "ids": [
-        "a66dc3d25",
-        "a244c4d55",
-        "a39ea1e8a",
-        "a4f24bfe4",
-        "a964605f2"
+        "a83c7601f",
+        "a6fedae1b",
+        "ad1509dd3"
       ],
       "importance": 4,
       "score": 43
     },
     {
-      "titre": "El Niño s'intensifie et pourrait être l'un des plus puissants depuis 1950",
+      "titre": "Grèves et manifestations prévues en Belgique",
       "ids": [
-        "a991a0a5b",
-        "a407587d6"
+        "a96f17bb9",
+        "a6f4e61b9",
+        "aeb64bccd"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Projet de loi sur les visites domiciliaires en Belgique",
+      "ids": [
+        "a063cdd46",
+        "a5b6acb89",
+        "a0327b0a3"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Frappe russe sur des bus à Kramatorsk en Ukraine",
+      "ids": [
+        "a16c67f2b",
+        "a68252108"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Les populations d'animaux sauvages ont chuté de 73% depuis 1970",
+      "titre": "Frappes russes sur Kiev et infrastructures ukrainiennes",
       "ids": [
-        "a48fc8ace",
-        "ae3708944"
+        "af0c91e67",
+        "acb6d0238",
+        "ae7de0279"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Les Houthis frappent l'Arabie saoudite, au moins trois morts",
+      "titre": "Discussions budgétaires belges sous pression",
       "ids": [
-        "a8ac4f979",
-        "addd95163"
+        "a6e55e2ea",
+        "af2f9e1b2"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
+      "titre": "Crise diplomatique Israël-Royaume-Uni sur le consulat de Jérusalem",
       "ids": [
-        "a14f086ff",
-        "a3ca7923d"
+        "aa6b79b36",
+        "abd668b32"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Christa Pike survit à son exécution aux États-Unis",
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
       "ids": [
-        "a1f9029de",
-        "ad8a9ee22"
+        "a80d815d1",
+        "a1f5272f3",
+        "a8ac4f979"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Midterms américains : enjeux électoraux et redécoupage",
+      "titre": "Dette française : tensions sur les marchés financiers",
       "ids": [
-        "a3206a2ba",
-        "ade3fdd5b",
-        "abae79c98",
-        "ac1643763"
+        "a32e40a0b",
+        "a1a70e3aa"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "La Haute Cour australienne s'oppose à l'extension d'une mine de charbon",
+      "titre": "Trois ans après les attaques du 7 octobre en Israël",
       "ids": [
-        "a33f62738",
-        "abc4c055f"
+        "aab1cc787",
+        "a89aaa40b"
       ],
       "importance": 4,
       "score": 42
@@ -134,92 +127,92 @@
   ],
   "breves": [
     {
-      "titre": "Poussée bolsonariste au Brésil lors des élections sénatoriales",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
-      "source": "RFI",
+      "titre": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 5
+    },
+    {
+      "titre": "Mort suspecte d'une laborantine en Russie",
+      "url": "https://www.lalibre.be/international/europe/2026/10/08/soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-detectee-apres-lanalyse-de-tous-les-cas-contacts-clone-NPFGXFOYV5EFRCP222HZLOG6A4/",
+      "source": "La Libre",
       "importance": 4
     },
     {
-      "titre": "Visite du commissaire européen en Chine pour rééquilibrer les relations commerciales",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261008-face-%C3%A0-l-%C3%A9crasante-puissance-commerciale-chinoise-l-europe-cherche-la-riposte",
-      "source": "RFI",
+      "titre": "Trump exclut puis envisage des frappes contre l'Iran",
+      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/08/trump-exclut-dattaquer-liran-avant-les-elections-de-mi-mandat-IVDXS2OP6VECLO36DY7V7ZKWF4/",
+      "source": "La Libre",
       "importance": 4
     },
     {
-      "titre": "Traitement optogénétique : six patients aveugles retrouvent une vision partielle",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/un-traitement-optogenetique-redonne-une-vision-partielle-a-six-patients-aveugles_6789654_1650684.html",
+      "titre": "Retour de Sophie Adenot après 237 jours dans l'ISS",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/08/sophie-adenot-a-amerri-jeudi-apres-un-sejour-record-dans-la-station-spatiale-internationale_6790250_1650684.html",
       "source": "Le Monde",
       "importance": 4
     },
     {
-      "titre": "Le Kremlin orchestre la confiscation des actifs russes de multinationales occidentales",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/07/comment-le-kremlin-orchestre-la-reprise-des-actifs-russes-de-leroy-merlin-auchan-nestle-et-fm-logistic_6789604_3234.html",
+      "titre": "Attentat déjoué contre la Bank of America à Paris",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/08/attentat-dejoue-contre-la-bank-of-america-a-paris-un-commanditaire-membre-de-groupuscules-pro-iraniens-identifie-par-le-fbi_6790204_3224.html",
       "source": "Le Monde",
       "importance": 4
     },
     {
-      "titre": "Troupes érythréennes déployées dans le nord du Tigré en Éthiopie",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261007-%C3%A9thiopie-des-troupes-%C3%A9rythr%C3%A9ennes-se-d%C3%A9ploient-dans-le-nord-du-tigr%C3%A9",
-      "source": "France 24",
+      "titre": "Vote crucial sur le marché unique financier européen",
+      "url": "https://www.lecho.be/r/t/1/id/10694827",
+      "source": "L'Echo",
       "importance": 4
     },
     {
-      "titre": "Crise du logement en Espagne: la retraitée à l'origine de la mobilisation est décédée",
-      "url": "https://www.rfi.fr/fr/europe/20261007-crise-du-logement-en-espagne-la-retrait%C3%A9-%C3%A0-l-origine-de-la-mobilisation-est-d%C3%A9c%C3%A9d%C3%A9e",
-      "source": "RFI",
+      "titre": "Mutilations génitales féminines à Bruxelles",
+      "url": "https://vrtnws.be/p.8eX9ODqBK",
+      "source": "VRT NWS (EN)",
       "importance": 4
     },
     {
-      "titre": "Annonces de Sébastien Lecornu sur les lycées et le prix des carburants",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
+      "titre": "Meurtre d'une habitante d'Okinawa par un marine américain",
+      "url": "https://www.lemonde.fr/international/article/2026/10/08/au-japon-le-meurtre-d-une-habitante-d-okinawa-par-un-marine-ravive-la-defiance-envers-la-presence-militaire-americaine_6790231_3210.html",
+      "source": "Le Monde",
+      "importance": 4
     },
     {
-      "titre": "Le TAS doit trancher sur la finale de la CAN 2025 entre le Maroc et le Sénégal",
-      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261008-finale-de-la-can-2025-si-vous-avez-accept%C3%A9-de-jouer-vous-devrez-accepter-le-r%C3%A9sultat-qui-en-d%C3%A9coule",
-      "source": "RFI",
-      "importance": 3
+      "titre": "Tensions diplomatiques UE-Chine sur les exportations",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/08/l-europe-espere-faire-plier-la-chine-ce-geant-economique-devenu-imbattable_6790213_3234.html",
+      "source": "Le Monde",
+      "importance": 4
     },
     {
-      "titre": "Controverse autour du budget de Marine Le Pen et de sa taxe sur les travailleurs extra-européens",
-      "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
+      "titre": "Décès de Margaret Hamilton, pionnière du logiciel spatial",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
     },
     {
-      "titre": "L'utilisation des armes intermédiaires par la police interrogée après l'amputation d'un jeune",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/gaz-lacrymogene-grenades-lbd-dans-quel-cadre-les-armes-intermediaires-sont-elles-utilisees-pour-le-maintien-de-l-ordre-par-les-policiers-et-gendarmes_8224891.html#xtor=RSS-3-[lestitres]",
-      "source": "franceinfo",
-      "importance": 3
+      "titre": "Alertes sur la dette belge",
+      "url": "https://www.lalibre.be/economie/placements/2026/10/08/sommes-nous-a-laube-dune-nouvelle-crise-de-la-dette-il-faut-sattaquer-a-la-reduction-des-depenses-il-y-a-une-fatigue-fiscale-en-belgique-KAOIMA57SJDZNBAYMPZP4D53O4/",
+      "source": "La Libre",
+      "importance": 4
     },
     {
-      "titre": "Lancement d'une agence africaine de notation de crédit",
-      "url": "https://www.rfi.fr/fr/afrique/20261008-l-union-africaine-lance-une-agence-de-notation-pour-renforcer-la-souverainet%C3%A9-financi%C3%A8re-du-continent",
-      "source": "RFI",
-      "importance": 3
+      "titre": "Drones russes Geran-5 en Ukraine",
+      "url": "https://www.levif.be/international/comment-les-drones-russes-geran-5-sont-devenus-des-missiles-de-croisiere-low-cost-et-le-cauchemar-de-lukraine/",
+      "source": "Le Vif",
+      "importance": 4
     },
     {
-      "titre": "La France réduit drastiquement son aide au développement",
-      "url": "https://www.rfi.fr/fr/france/20261008-nouvelle-coupe-drastique-et-nouvelle-strat%C3%A9gie-pour-l-aide-fran%C3%A7aise-au-d%C3%A9veloppement",
-      "source": "RFI",
-      "importance": 3
+      "titre": "Acteur porno, ex-cadre de la Stasi… Les «mauvais garçons» de l’AfD qui pourraient diriger la Saxe-Anhalt en Allemagne",
+      "url": "https://www.levif.be/allemagne/acteur-porno-ex-cadre-de-la-stasi-les-mauvais-garcons-de-lafd-qui-pourraient-diriger-la-saxe-anhalt-en-allemagne/",
+      "source": "Le Vif",
+      "importance": 4
     },
     {
-      "titre": "Donald Trump approuve l'exécution par peloton de l'auteur d'une tuerie militaire",
-      "url": "https://www.rtbf.be/article/etats-unis-donald-trump-approuve-la-mise-a-mort-par-peloton-d-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire-11795557",
-      "source": "RTBF Info",
-      "importance": 3
+      "titre": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
     },
     {
-      "titre": "Arrestation de l'ex-Première dame du Sri Lanka pour détournement de fonds",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-sri-lanka-l-ex-premi%C3%A8re-dame-shiranthi-rajapaksa-arr%C3%AAt%C3%A9e-pour-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds",
-      "source": "RFI",
-      "importance": 3
-    },
-    {
-      "titre": "La capitaine indienne de cricket prend sa retraite après une carrière historique",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "titre": "Christa Pike survit à son exécution aux États-Unis",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3
     }

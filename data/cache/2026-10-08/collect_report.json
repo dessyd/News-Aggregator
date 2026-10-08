@@ -4,8 +4,8 @@
     "url": "https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml",
     "ok": true,
     "entries": 20,
-    "kept": 18,
-    "with_summary": 18,
+    "kept": 20,
+    "with_summary": 20,
     "status": 200,
     "error": null
   },
@@ -20,42 +20,52 @@
     "error": null
   },
   {
-    "name": "France 24",
-    "url": "https://www.france24.com/fr/rss",
-    "ok": true,
-    "entries": 24,
-    "kept": 24,
-    "with_summary": 23,
-    "status": 200,
-    "error": null
-  },
-  {
-    "name": "RFI",
-    "url": "https://www.rfi.fr/fr/rss",
-    "ok": true,
-    "entries": 23,
-    "kept": 23,
-    "with_summary": 23,
-    "status": 200,
-    "error": null
-  },
-  {
-    "name": "franceinfo",
-    "url": "https://www.franceinfo.fr/titres.rss",
-    "ok": true,
-    "entries": 30,
-    "kept": 29,
-    "with_summary": 29,
-    "status": 200,
-    "error": null
-  },
-  {
     "name": "BBC World",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "ok": true,
-    "entries": 22,
-    "kept": 19,
-    "with_summary": 19,
+    "entries": 36,
+    "kept": 33,
+    "with_summary": 33,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "La Libre",
+    "url": "https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml",
+    "ok": true,
+    "entries": 100,
+    "kept": 50,
+    "with_summary": 98,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "L'Echo",
+    "url": "https://www.lecho.be/rss/actualite.xml",
+    "ok": true,
+    "entries": 10,
+    "kept": 10,
+    "with_summary": 10,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "Le Vif",
+    "url": "https://www.levif.be/feed/",
+    "ok": true,
+    "entries": 50,
+    "kept": 20,
+    "with_summary": 20,
+    "status": 200,
+    "error": null
+  },
+  {
+    "name": "VRT NWS (EN)",
+    "url": "https://www.vrt.be/vrtnws/en.rss.articles.xml",
+    "ok": true,
+    "entries": 50,
+    "kept": 9,
+    "with_summary": 9,
     "status": 200,
     "error": null
   }
