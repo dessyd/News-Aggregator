@@ -61,5 +61,7 @@ Squelette complet, testé avec un faux modèle. Première revue réelle le 2026-
 Fédération d'identité Claude ↔ GitHub Actions en service sur `revue-quotidienne.yml` (validée) et `essai-prompts.yml`
 (converti, **pas encore lancé**) ; variables de dépôt `ANTHROPIC_*` créées (sans retour chariot final : un `\r` collé avec
 la valeur fait échouer l'échange). La règle de fédération ne doit **pas** imposer `event_name` (cron = `schedule`, lancements manuels = `workflow_dispatch`).
-Prochaines étapes : valider les autres flux avec `check-feeds`, vérifier l'activation de Pages (branche `main`, dossier `/docs`),
-lancer un essai de prompts, puis itérer sur les prompts.
+Pages : source **GitHub Actions** (et non « branche `main` / `/docs` ») ; chaque workflow a un job `deploy` (`upload-pages-artifact` + `deploy-pages` sur `docs/`),
+car `POST /pages/builds` est refusé (403) avec `GITHUB_TOKEN` et les pushs du bot ne déclenchent pas de construction. Validé en lancement manuel le 2026-10-08 ;
+cron 05:17 UTC pas encore observé.
+Prochaines étapes : valider les autres flux avec `check-feeds`, constater le premier cron, lancer un essai de prompts, puis itérer sur les prompts.
