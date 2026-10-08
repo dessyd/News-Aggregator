@@ -21,21 +21,43 @@ feeds:
   - name: France 24
     url: https://www.france24.com/fr/rss
     lang: fr
+    enabled: false
 
   - name: RFI
     url: https://www.rfi.fr/fr/rss
     lang: fr
+    enabled: false
 
   - name: franceinfo
     url: https://www.franceinfo.fr/titres.rss
     lang: fr
+    enabled: false
 
   - name: BBC World
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     lang: en
 
-  # Flux belges à ajouter après vérification des URL officielles sur chaque site
-  # (Le Soir, La Libre, Belga, VRT NWS, The Brussels Times...). Exemple :
-  # - name: Le Soir
-  #   url: https://...
-  #   lang: fr
+  - name: Le Soir
+    url: https://www.lesoir.be/rss2/9/cible_principale
+    lang: fr
+    enabled: false  # 403 Akamai (Access Denied) le 2026-10-08, y compris avec un User-Agent de navigateur
+
+  - name: La Libre
+    url: https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml
+    lang: fr
+
+  - name: L'Echo
+    url: https://www.lecho.be/rss/actualite.xml
+    lang: fr
+
+  - name: Le Vif
+    url: https://www.levif.be/feed/
+    lang: fr
+
+  - name: VRT NWS (EN)
+    url: https://www.vrt.be/vrtnws/en.rss.articles.xml
+    lang: en
+
+  # Testés le 2026-10-08, non retenus : DH (flux intitulé « Les Sports+ »), 7sur7 (sans extrait),
+  # HLN et Bruzz (néerlandais), VRT NWS (NL). Bloqués ou invalides : Sudinfo (403), Brussels Times (XML invalide),
+  # Belga et RTL Info (404 sur les URL essayées).

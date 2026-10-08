@@ -15,7 +15,7 @@ rubriques:
 
 collect:
   max_age_hours: 30            # ignorer les articles plus anciens
-  max_articles_per_feed: 40    # plafond par flux (les plus récents)
+  max_articles_per_feed: 50    # plafond par flux (les plus récents)
   max_articles_total: 200      # plafond global (maîtrise du coût)
   extrait_max_chars: 600       # longueur max de l'extrait envoyé au modèle
   title_similarity: 0.88       # seuil (0-1) de détection de titres quasi identiques
