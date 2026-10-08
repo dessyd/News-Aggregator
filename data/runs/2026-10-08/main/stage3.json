@@ -1,14 +1,62 @@
 [
   {
+    "titre": "Trois ans après le 7-Octobre : Gaza dévastée et commémorations en Israël",
+    "texte": "Israël a commémoré mercredi les attaques du Hamas du 7 octobre 2023, notamment au site du festival Nova où 348 jeunes gens avaient été tués, selon France 24. Cet anniversaire intervient dans un contexte politique tendu, à l'approche d'élections législatives, tandis que des Israéliens demandent des comptes sur les défaillances sécuritaires, rapporte la BBC. Le Premier ministre Benjamin Netanyahu refuse de prendre la responsabilité personnelle et s'oppose à une enquête d'État. Trois ans après le début de l'offensive israélienne lancée en réponse à l'attaque, Gaza est dévastée : selon France 24, plus de 80 % des bâtiments ont été endommagés ou détruits. RFI fait état d'au moins 74 000 morts et de centaines de milliers de Palestiniens vivant dans des abris précaires. Malgré un cessez-le-feu proclamé l'an dernier, selon RFI, les bombardements se poursuivent et le blocus demeure en place, tandis que les organisations humanitaires dénoncent un blocage de l'acheminement de l'aide par Israël.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a3213f6f1",
+      "aab1cc787",
+      "a019f7a20",
+      "aa4ef66a7",
+      "aabf4d2c3",
+      "ab500e133"
+    ],
+    "sources": [
+      {
+        "source": "RFI",
+        "titre": "Trois ans après le 7-Octobre, l’agonie se poursuit dans la bande de Gaza",
+        "url": "https://www.rfi.fr/fr/moyen-orient/20261008-trois-ans-apr%C3%A8s-le-7-octobre-l-agonie-se-poursuit-dans-la-bande-de-gaza"
+      },
+      {
+        "source": "France 24",
+        "titre": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
+        "url": "https://www.france24.com/fr/moyen-orient/20261007-nostalgie-resilience-hommage-commemoration-7-octobre-israel-netanyahu-benyamin-elections-legislatives-gaza-hamas"
+      },
+      {
+        "source": "France 24",
+        "titre": "Gaza : plus de 8 bâtiments sur 10 endommagés ou détruits",
+        "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261007-gaza-plus-de-8-b%C3%A2timents-sur-10-endommag%C3%A9s-ou-d%C3%A9truits"
+      },
+      {
+        "source": "RFI",
+        "titre": "«Gaza, trois ans après le début de cette phase de génocide, ne se relève pas»",
+        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261007-gaza-trois-ans-apr%C3%A8s-le-d%C3%A9but-de-cette-phase-de-g%C3%A9nocide-ne-se-rel%C3%A8ve-pas"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Israelis demand accountability over 7 October failures three years after attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "RFI",
+        "titre": "7-Octobre: trois ans de traumatismes accumulés pour les familles de Gaza",
+        "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza"
+      }
+    ],
+    "importance": 5,
+    "score": 55,
+    "nb_articles": 9
+  },
+  {
     "titre": "Décès de Maricarmen Abascal, symbole de la crise du logement en Espagne",
-    "texte": "Maricarmen Abascal, retraitée de 87 ans dont l'expulsion avait déclenché un vaste mouvement de protestation contre la crise du logement en Espagne, est décédée mercredi 7 octobre, a annoncé l'Union des locataires de Madrid selon la RTBF. L'octogénaire avait été expulsée le 23 septembre de son appartement madrilène où elle vivait depuis plus de 70 ans, évacuée sur une civière d'après la BBC. Son cas avait provoqué des manifestations massives dans tout le pays et placé la question du logement au cœur du débat politique, au point d'entraîner la dissolution du Parlement et la convocation d'élections anticipées par Pedro Sanchez, rapporte Le Monde. Les manifestants rassemblés sur la Puerta del Sol ont appris la nouvelle en pleine assemblée générale et dénoncent un « meurtre dû à la spéculation immobilière », selon France 24. Les principaux syndicats appellent désormais à la mobilisation générale, avec une grève générale prévue le 11 novembre d'après France 24, alors que les élections anticipées approchent.",
-    "rubrique": "Europe",
+    "texte": "Maricarmen Abascal est décédée mercredi à l'âge de 87 ans, a annoncé l'Union des locataires de Madrid, selon la RTBF. Cette retraitée espagnole avait été expulsée de son appartement madrilène le 23 septembre, selon France 24, un logement qu'elle occupait depuis sept décennies d'après franceinfo. La BBC précise qu'elle avait été évacuée de force sur une civière. Son expulsion avait déclenché un vaste mouvement de protestation contre la crise du logement en Espagne, avec des milliers de manifestants descendus dans la rue. Selon Le Monde, cet événement avait placé le logement au cœur du débat politique, jusqu'à provoquer la dissolution du Parlement et des élections législatives anticipées. France 24 rapporte que les manifestants rassemblés Puerta del Sol ont appris son décès en pleine assemblée générale et dénoncent un « meurtre dû à la spéculation immobilière ». Une grève générale est prévue le 11 novembre.",
+    "rubrique": "Société",
     "ids_sources": [
       "a8546abf0",
       "a2f3b8f3c",
       "a852aba6f",
-      "aad6f8930",
       "ab629e83c",
+      "a870378b3",
       "ae9ac298d"
     ],
     "sources": [
@@ -28,14 +76,14 @@
         "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "source": "RFI",
-        "titre": "Crise du logement en Espagne: la retraitée à l'origine de la mobilisation est décédée",
-        "url": "https://www.rfi.fr/fr/europe/20261007-crise-du-logement-en-espagne-la-retrait%C3%A9-%C3%A0-l-origine-de-la-mobilisation-est-d%C3%A9c%C3%A9d%C3%A9e"
-      },
-      {
         "source": "France 24",
         "titre": "Espagne : Maricarmen, la retraitée devenue symbole de la crise du logement, est morte",
         "url": "https://www.france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte"
+      },
+      {
+        "source": "franceinfo",
+        "titre": "Maricarmen Abascal, la retraitée espagnole expulsée de son logement, à l'origine d'un immense mouvement de protestation, est morte",
+        "url": "https://www.franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html#xtor=RSS-3-[lestitres]"
       },
       {
         "source": "RTBF Info",
@@ -44,20 +92,20 @@
       }
     ],
     "importance": 4,
-    "score": 46,
-    "nb_articles": 7
+    "score": 45,
+    "nb_articles": 6
   },
   {
-    "titre": "Mobilisation des lycéens en France : blocages et débat sur les violences policières",
-    "texte": "La mobilisation des lycéens en France, qui dure depuis 15 jours, continue de perturber le système éducatif avec 224 établissements totalement fermés et 151 partiellement rouverts jeudi matin, selon le ministère de l'Éducation nationale. Le mouvement s'étend au-delà du secondaire : l'Institut national supérieur du professorat et de l'éducation (Inspé) a été bloqué pour la première fois mercredi, rapporte RFI. L'Union syndicale lycéenne et l'Union étudiante, soutenues par plusieurs syndicats de l'éducation, ont appelé à un quatrième acte de mobilisation jeudi et réclament 250 000 places universitaires supplémentaires ainsi que la suppression de la sélection Parcoursup, selon France 24. Les manifestants s'organisent notamment via Discord pour coordonner les blocages et perturber les cours en ligne, d'après franceinfo. Le Premier ministre Sébastien Lecornu a tenté de répondre à la crise mercredi soir, mais ses annonces ne convainquent pas les oppositions, note franceinfo. Lecornu a déclaré que les forces de l'ordre n'avaient pas d'instruction d'affronter les lycéens.",
+    "titre": "Mobilisation des lycéens en France : blocages, manifestations et tensions",
+    "texte": "La mobilisation lycéenne et étudiante se poursuit en France pour son quatrième acte jeudi, après quinze jours de mouvement. Selon le ministère de l'Éducation nationale, 224 établissements sont totalement fermés et 151 partiellement rouverts jeudi matin, avec une baisse d'environ 30% des établissements perturbés par rapport à la veille. Les manifestants, soutenus par plusieurs syndicats de l'éducation et l'Union syndicale lycéenne, réclament 250 000 places universitaires supplémentaires et la suppression de la sélection par Parcoursup, rapporte France 24. Le mouvement s'organise notamment sur Discord pour coordonner les blocages et perturber les cours à distance, selon franceinfo. Il s'étend au-delà du secondaire : RFI signale qu'une école de formation pédagogique a été bloquée mercredi. Le ministre de l'Intérieur Sébastien Lecornu, cité par France 24, affirme que les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens et estime, selon RFI, qu'il est « excessif de parler de répression policière », malgré des accusations de violences disproportionnées.",
     "rubrique": "Société",
     "ids_sources": [
       "a31fbb0ba",
       "ae7ac5dd2",
-      "aef50d06a",
       "acd60c869",
       "a04f26400",
-      "ad5216680"
+      "ad5216680",
+      "ab5c4e7a7"
     ],
     "sources": [
       {
@@ -69,11 +117,6 @@
         "source": "franceinfo",
         "titre": "Mobilisation des lycéens : comment le mouvement s'organise sur Discord pour préparer les blocages et perturber les cours en ligne",
         "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-comment-le-mouvement-s-organise-sur-discord-pour-preparer-les-blocages-et-perturber-les-cours-en-ligne_8226913.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "source": "franceinfo",
-        "titre": "Les annonces de Sébastien Lecornu sur la crise des lycées et les prix des carburants ne convainquent pas les oppositions",
-        "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html#xtor=RSS-3-[lestitres]"
       },
       {
         "source": "France 24",
@@ -89,110 +132,56 @@
         "source": "France 24",
         "titre": "🔴 En direct : \"Les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\", dit Sébastien Lecornu",
         "url": "https://www.france24.com/fr/france/20261007-en-direct-nu%C3%B1ez-suspend-utilisation-grenades-assourdissantes-contre-lyc%C3%A9ens-manifestation"
+      },
+      {
+        "source": "RFI",
+        "titre": "Mouvement des lycéens: le ministre de l'Intérieur affirme ne pas être «responsable» des violences",
+        "url": "https://www.rfi.fr/fr/france/20261007-en-direct-mobilisation-des-lyc%C3%A9es-235-%C3%A9l%C3%A8ves-bless%C3%A9s-et-18-enqu%C3%AAtes-de-l-igpn-en-cours-annonce-laurent-nunez"
       }
     ],
     "importance": 4,
     "score": 44,
-    "nb_articles": 9
+    "nb_articles": 8
   },
   {
-    "titre": "Sébastien Lecornu annonce des mesures sur le gazole et promet des décisions fin octobre pour les lycéens",
-    "texte": "Le Premier ministre Sébastien Lecornu a pris la parole mercredi 7 octobre lors d'une allocution pour répondre à plusieurs crises que traverse la France. Selon franceinfo, il a annoncé la libération de 10 millions de barils de gazole, une mesure destinée à faire baisser le prix du litre de gazole à la pompe de 12 à 18 centimes d'euro, en pleine crise des carburants. Concernant le mouvement lycéen, le chef du gouvernement a adopté une posture d'apaisement. D'après France 24, il a assuré que les forces de l'ordre « n'ont pas pour instruction d'affronter les lycéens » et a affirmé ne « pas être indifférent à leurs angoisses ». Toutefois, selon Le Monde, il a prévenu qu'il ne pourrait pas répondre à leurs principales revendications. Sébastien Lecornu a promis d'annoncer de « premières décisions » à la fin du mois d'octobre pour répondre à la mobilisation lycéenne, rapporte franceinfo.",
-    "rubrique": "Politique",
+    "titre": "Décès de Margaret Hamilton, pionnière informatique du programme Apollo",
+    "texte": "Margaret Hamilton, informaticienne pionnière du programme spatial américain, est décédée à l'âge de 90 ans. Selon la BBC, elle a dirigé le développement du logiciel pour la mission Apollo de la Nasa. D'après franceinfo et Le Monde, ses travaux ont permis à la Nasa de battre l'Union soviétique durant la course à la Lune, dans les années 1960 et 1970. Considérée comme une figure majeure dans son domaine, elle avait notamment contribué au succès de la mission Apollo 11, selon la BBC. Pour son parcours, elle avait reçu la Médaille présidentielle de la liberté, indique la BBC.",
+    "rubrique": "Sciences & Tech",
     "ids_sources": [
-      "a1d239b55",
-      "a1fddfe2c",
-      "a158966de",
-      "ac8d9a49a"
+      "a914409bc",
+      "a2ac7d1b9",
+      "ace481ba5"
     ],
     "sources": [
       {
-        "source": "Le Monde",
-        "titre": "Sébastien Lecornu accablé par « la superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
-        "url": "https://www.lemonde.fr/politique/article/2026/10/08/sebastien-lecornu-accable-par-la-superposition-des-crises-du-mouvement-lyceen-a-la-baisse-du-pouvoir-d-achat_6789890_823448.html"
-      },
-      {
         "source": "franceinfo",
-        "titre": "Libération de 10 millions de barils de gazole : \"Comme d'habitude, ils finissent par mettre en œuvre nos propositions après les avoir ridiculisées\", réagit Marine Le Pen",
-        "url": "https://www.franceinfo.fr/economie/automobile/essence/liberation-de-10-millions-de-barils-de-gazole-comme-d-habitude-ils-finissent-par-mettre-en-uvre-nos-propositions-apres-les-avoir-ridiculisees-reagit-marine-le-pen_8227372.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "source": "franceinfo",
-        "titre": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
-        "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-[lestitres]"
-      },
-      {
-        "source": "France 24",
-        "titre": "Lecornu joue l'apaisement avec les lycéens et annonce des mesures sur le prix de l'essence",
-        "url": "https://www.france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence"
-      }
-    ],
-    "importance": 4,
-    "score": 43,
-    "nb_articles": 4
-  },
-  {
-    "titre": "Trois ans après le 7 octobre : commémoration et situation à Gaza",
-    "texte": "Trois ans après l'attaque du Hamas du 7 octobre 2023, la plus meurtrière jamais perpétrée en Israël, des commémorations se sont tenues mercredi dans le pays, notamment sur le site du festival Nova où 348 personnes avaient été tuées, selon France 24. Cet anniversaire intervient dans un contexte politique tendu, à l'approche des élections législatives, tandis que des Israéliens réclament des comptes sur les défaillances, rapporte la BBC, qui précise que le Premier ministre Netanyahu refuse toute responsabilité personnelle et refuse d'ordonner une enquête d'État. À Gaza, la situation reste catastrophique : selon RFI, au moins 74 000 morts sont à déplorer et des centaines de milliers de Palestiniens vivent sous des tentes ou dans des abris précaires. France 24 indique que plus de 80 % des bâtiments sont endommagés ou détruits. Malgré un cessez-le-feu proclamé l'an dernier, les bombardements se poursuivent et les organisations humanitaires dénoncent un blocage de l'acheminement de l'aide par Israël, d'après RFI.",
-    "rubrique": "Monde",
-    "ids_sources": [
-      "ab500e133",
-      "a3213f6f1",
-      "a019f7a20",
-      "a7488e81a",
-      "aa4ef66a7",
-      "aab1cc787",
-      "aabf4d2c3"
-    ],
-    "sources": [
-      {
-        "source": "RFI",
-        "titre": "Trois ans après le 7-Octobre, l’agonie se poursuit dans la bande de Gaza",
-        "url": "https://www.rfi.fr/fr/moyen-orient/20261008-trois-ans-apr%C3%A8s-le-7-octobre-l-agonie-se-poursuit-dans-la-bande-de-gaza"
-      },
-      {
-        "source": "France 24",
-        "titre": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
-        "url": "https://www.france24.com/fr/moyen-orient/20261007-nostalgie-resilience-hommage-commemoration-7-octobre-israel-netanyahu-benyamin-elections-legislatives-gaza-hamas"
-      },
-      {
-        "source": "France 24",
-        "titre": "Gaza : plus de 8 bâtiments sur 10 endommagés ou détruits",
-        "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261007-gaza-plus-de-8-b%C3%A2timents-sur-10-endommag%C3%A9s-ou-d%C3%A9truits"
-      },
-      {
-        "source": "France 24",
-        "titre": "7-Octobre : quel avenir pour Israël ?",
-        "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261007-7-octobre-quel-avenir-pour-isra%C3%ABl"
-      },
-      {
-        "source": "RFI",
-        "titre": "«Gaza, trois ans après le début de cette phase de génocide, ne se relève pas»",
-        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261007-gaza-trois-ans-apr%C3%A8s-le-d%C3%A9but-de-cette-phase-de-g%C3%A9nocide-ne-se-rel%C3%A8ve-pas"
+        "titre": "La scientifique américaine Margaret Hamilton, figure du programme Apollo, est morte à 90 ans",
+        "url": "https://www.franceinfo.fr/sciences/espace/la-scientifique-americaine-margaret-hamilton-figure-du-programme-apollo-est-morte-a-90-ans_8227816.html#xtor=RSS-3-[lestitres]"
       },
       {
         "source": "BBC World",
-        "titre": "Israelis demand accountability over 7 October failures three years after attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+        "titre": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "source": "RFI",
-        "titre": "7-Octobre: trois ans de traumatismes accumulés pour les familles de Gaza",
-        "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza"
+        "source": "Le Monde",
+        "titre": "Margaret Hamilton, scientifique qui a développé le système informatique de la mission Apollo, est morte à 90 ans",
+        "url": "https://www.lemonde.fr/disparitions/article/2026/10/08/margaret-hamilton-scientifique-qui-a-developpe-le-systeme-informatique-de-la-mission-apollo-est-morte-a-90-ans_6789925_3382.html"
       }
     ],
     "importance": 4,
     "score": 43,
-    "nb_articles": 7
+    "nb_articles": 3
   },
   {
-    "titre": "Soupçons de peste en Russie et appels à la transparence",
-    "texte": "Une laborantine de 28 ans travaillant à l'institut de lutte contre la peste d'Irkoutsk, en Sibérie, est décédée le 2 octobre d'une pneumonie d'origine indéterminée, selon franceinfo. Les autorités russes ont démenti mercredi 7 octobre tout « risque épidémique » et dénoncent des « fausses informations », d'après RFI. L'Organisation mondiale de la santé, l'Union européenne et les États-Unis ont néanmoins exhorté la Russie à fournir davantage d'informations sur les causes exactes de ce décès. Selon France 24, le flou persistant entre les versions de certains médias et le démenti des autorités entretient rumeurs et désinformation sur les réseaux sociaux.",
+    "titre": "Soupçons de peste en Russie après la mort d'une laborantine",
+    "texte": "Une technicienne de laboratoire de 28 ans, Daria Shipilova, est décédée le 2 octobre d'une pneumonie d'origine indéterminée en Sibérie, selon franceinfo et France 24. Elle travaillait à l'institut de lutte contre la peste d'Irkutsk. Les autorités sanitaires russes affirment qu'il n'existe aucun risque épidémique dans la région et le Kremlin dénonce des « fausses informations », d'après RFI. L'affaire a pris une ampleur internationale : l'Organisation mondiale de la santé, l'Union européenne et les États-Unis ont exhorté Moscou à fournir davantage d'informations et réclament plus de transparence sur les causes exactes du décès. Entre les versions des médias et les démentis officiels, le flou persiste et alimente rumeurs et désinformation sur les réseaux sociaux.",
     "rubrique": "Monde",
     "ids_sources": [
       "a66dc3d25",
-      "a4f24bfe4",
       "a244c4d55",
+      "a39ea1e8a",
+      "a4f24bfe4",
       "a964605f2"
     ],
     "sources": [
@@ -205,6 +194,11 @@
         "source": "France 24",
         "titre": "Russie : les soupçons de peste contaminent les réseaux sociaux",
         "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux"
+      },
+      {
+        "source": "RFI",
+        "titre": "Russie: épidémie de désinformation autour d'un cas suspect de peste",
+        "url": "https://www.rfi.fr/fr/monde/20261007-russie-%C3%A9pid%C3%A9mie-de-d%C3%A9sinformation-autour-d-un-cas-suspect-de-peste"
       },
       {
         "source": "franceinfo",
@@ -222,8 +216,32 @@
     "nb_articles": 5
   },
   {
-    "titre": "Populations d'animaux sauvages en chute de 73% depuis 1970",
-    "texte": "Les populations de vertébrés sauvages ont chuté de 73% depuis 1970, selon le rapport « Planète vivante » du WWF publié cette semaine. Cet indice, actualisé tous les deux ans, suit la taille moyenne des populations d'amphibiens, d'oiseaux, de poissons, de mammifères et de reptiles, indique Le Monde. D'après Franceinfo, « les espèces disparaissent aujourd'hui à un rythme au moins 100 fois supérieur au taux d'extinction naturel d'avant l'apparition de l'être humain », précise la nouvelle édition du rapport. Malgré ce constat alarmant, le WWF affirme qu'il est possible d'« inverser cette courbe du déclin », rapporte Franceinfo.",
+    "titre": "El Niño s'intensifie et pourrait être l'un des plus puissants depuis 1950",
+    "texte": "Le phénomène météorologique El Niño devrait continuer à s'intensifier jusqu'en décembre et pourrait constituer « l'un des épisodes les plus intenses depuis au moins 1950 », selon le dernier bulletin saisonnier publié par l'Organisation météorologique mondiale (OMM), une agence de l'ONU. D'après France 24, l'OMM surveille depuis juin cet épisode qui s'annonce déjà exceptionnel par son ampleur et sa durée. Après avoir atteint un pic en décembre, ce phénomène récurrent, qui aggrave les conséquences du réchauffement climatique, pourrait se prolonger jusqu'en février 2027, toujours selon l'organisation.",
+    "rubrique": "Environnement",
+    "ids_sources": [
+      "a991a0a5b",
+      "a407587d6"
+    ],
+    "sources": [
+      {
+        "source": "franceinfo",
+        "titre": "\"L'un des épisodes les plus intenses depuis au moins 1950\" : le phénomène météorologique El Niño va continuer de s'intensifier jusqu'en décembre",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/l-un-des-episodes-les-plus-intenses-depuis-au-moins-1950-le-phenomene-meteorologique-el-nino-va-continuer-de-s-intensifier-jusqu-en-decembre_8227891.html#xtor=RSS-3-[lestitres]"
+      },
+      {
+        "source": "France 24",
+        "titre": "Le phénomène météorologique El Niño amené à s'intensifier jusqu'en décembre",
+        "url": "https://www.france24.com/fr/plan%C3%A8te/20261008-le-ph%C3%A9nom%C3%A8ne-m%C3%A9t%C3%A9orologique-el-ni%C3%B1o-amen%C3%A9-%C3%A0-s-intensifier-jusqu-en-d%C3%A9cembreg"
+      }
+    ],
+    "importance": 4,
+    "score": 42,
+    "nb_articles": 2
+  },
+  {
+    "titre": "Les populations d'animaux sauvages ont chuté de 73% depuis 1970",
+    "texte": "Les populations d'animaux sauvages se sont effondrées de 73 % depuis 1970, selon le rapport « Planète vivante » du WWF. Cet indice, publié tous les deux ans, mesure l'évolution de la taille moyenne des populations suivies d'amphibiens, d'oiseaux, de poissons, de mammifères et de reptiles à travers le monde. D'après franceinfo, « les espèces disparaissent aujourd'hui à un rythme au moins 100 fois supérieur au taux d'extinction naturel d'avant l'apparition de l'être humain ». Malgré ce constat alarmant, le WWF affirme qu'« il est possible d'inverser cette courbe du déclin ».",
     "rubrique": "Environnement",
     "ids_sources": [
       "a48fc8ace",
@@ -246,8 +264,8 @@
     "nb_articles": 2
   },
   {
-    "titre": "Attaques des Houthis contre l'Arabie saoudite",
-    "texte": "Les Houthis du Yémen ont mené des attaques contre des aéroports en Arabie saoudite, faisant trois morts selon des sources officielles citées par la BBC. Selon France 24, les rebelles yéménites ont visé jeudi l'aéroport international de Riyad, après des frappes similaires la veille. Les Houthis ont revendiqué ces attaques, qui marquent une escalade du conflit selon la BBC. En réponse, la coalition militaire menée par l'Arabie saoudite a affirmé que ces attaques ne resteraient pas « impunies » et annoncé avoir détruit « 82 cibles militaires légitimes » des combattants yéménites, rapporte France 24. Les hostilités ont provoqué plus de 200 000 déplacés, d'après France 24.",
+    "titre": "Les Houthis frappent l'Arabie saoudite, au moins trois morts",
+    "texte": "Des attaques des Houthis du Yémen contre des aéroports saoudiens ont fait au moins trois morts, selon des responsables. Selon la BBC World, les Houthis ont revendiqué la responsabilité de ces frappes qui marquent une escalade dans le conflit. D'après France 24, les combattants yéménites ont visé jeudi l'aéroport international de Riyad, un jour après des frappes similaires ayant causé ce bilan de trois victimes. La coalition militaire d'Arabie saoudite a déclaré que ces attaques ne resteraient pas « impunies » et a annoncé avoir détruit en représailles « 82 cibles militaires légitimes » des Houthis, rapporte France 24. Selon cette même source, les hostilités ont provoqué plus de 200 000 déplacements de population.",
     "rubrique": "Monde",
     "ids_sources": [
       "a8ac4f979",
@@ -270,32 +288,8 @@
     "nb_articles": 2
   },
   {
-    "titre": "Le Parti démocrate poursuit Trump pour usage présumé de fonds publics à des fins électorales",
-    "texte": "Le Comité national du Parti démocrate (DNC) a déposé mercredi une plainte contre le président américain Donald Trump, selon France 24. Les démocrates l'accusent de « violation flagrante » de l'interdiction de s'approprier des fonds publics pour financer des publicités à sa gloire, notamment en période électorale. Cette action intervient à l'approche des élections de mi-mandat aux États-Unis. Dans ce contexte de campagne, un meeting de Donald Trump au Texas, à San Antonio, a par ailleurs été perturbé à plusieurs reprises par des manifestants, rapporte franceinfo.",
-    "rubrique": "Politique",
-    "ids_sources": [
-      "ade3fdd5b",
-      "a3206a2ba"
-    ],
-    "sources": [
-      {
-        "source": "France 24",
-        "titre": "Midterms : les démocrates poursuivent Trump pour des publicités payées par les contribuables",
-        "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-etats-unis-d%C3%A9mocrates-poursuivent-plainte-donald-trump-publicites-payees-par-contribuables-propagande-dnc-fonds-publics-midterms"
-      },
-      {
-        "source": "franceinfo",
-        "titre": "A l'approche des élections de mi-mandat, un discours de Donald Trump interrompu à plusieurs reprises au Texas",
-        "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-discours-de-donald-trump-interrompu-a-plusieurs-reprises-au-texas_8227858.html#xtor=RSS-3-[lestitres]"
-      }
-    ],
-    "importance": 4,
-    "score": 42,
-    "nb_articles": 2
-  },
-  {
     "titre": "Frappe russe meurtrière sur un immeuble à Prylouky en Ukraine",
-    "texte": "Une frappe russe a touché un immeuble résidentiel à Prylouky, dans le nord de l'Ukraine, faisant de nombreuses victimes. Le bilan humain diverge selon les sources : France 24 fait état de 18 morts, tandis que franceinfo rapporte au moins 28 personnes tuées, dont cinq enfants, citant le président Volodymyr Zelensky. Selon franceinfo, des dizaines de personnes ont également été blessées, dont sept enfants d'après les déclarations de Zelensky. Cette attaque vise une zone résidentielle, dans une ville située au nord du territoire ukrainien.",
+    "texte": "Une frappe russe a touché un immeuble résidentiel à Prylouky, dans le nord de l'Ukraine, faisant de nombreuses victimes. Le bilan humain diverge selon les sources : franceinfo évoque au moins 28 morts, dont cinq enfants, tandis que France 24 fait état de 18 morts. Selon franceinfo, des dizaines de personnes ont également été blessées, dont sept enfants d'après le président ukrainien Volodymyr Zelensky. France 24 qualifie l'attaque de « nouvelle attaque meurtrière contre une zone résidentielle ».",
     "rubrique": "Monde",
     "ids_sources": [
       "a14f086ff",
@@ -319,7 +313,7 @@
   },
   {
     "titre": "Christa Pike survit à son exécution aux États-Unis",
-    "texte": "Christa Pike, condamnée à mort aux États-Unis pour le meurtre de Colleen Slemmer, a survécu à son exécution par injection létale et a repris connaissance. Selon franceinfo, elle se dit \"en colère et désorientée\". D'après la BBC, elle se trouverait à l'hôpital dans le Tennessee, où elle serait consciente et capable de parler. Cet incident sans précédent aux États-Unis relance le débat sur l'application de la peine capitale, en particulier par injection létale, selon franceinfo.",
+    "texte": "Christa Pike, condamnée pour le meurtre de Colleen Slemmer, a survécu à une tentative d'exécution par injection létale aux États-Unis. Selon la BBC, elle est hospitalisée en Tennessee, consciente et capable de communiquer. D'après franceinfo, elle se dit « en colère et désorientée ». Cet échec d'exécution, qualifié de « sans précédent » par franceinfo, relance le débat sur l'application de la peine capitale, en particulier par injection létale.",
     "rubrique": "Monde",
     "ids_sources": [
       "a1f9029de",
@@ -347,32 +341,44 @@
     "nb_articles": 2
   },
   {
-    "titre": "Sophie Adenot achève sa mission de 235 jours dans l'ISS",
-    "texte": "L'astronaute française Sophie Adenot a quitté la Station spatiale internationale le 7 octobre après 235 jours passés en apesanteur, selon RFI. Cette mission de huit mois marque, d'après la même source, « la fin d'une mission historique à plus d'un titre ». De retour sur Terre, Sophie Adenot doit désormais suivre un protocole de réadaptation de trois semaines au Centre des astronautes européens à Cologne, en Allemagne, rapporte franceinfo. Ce programme vise notamment à surveiller son cœur et à retrouver l'équilibre après une longue période en apesanteur.",
-    "rubrique": "Sciences & Tech",
+    "titre": "Midterms américains : le redécoupage électoral au cœur de la bataille pour le Congrès",
+    "texte": "À l'approche des élections de mi-mandat américaines, le redécoupage électoral (gerrymandering) constitue un enjeu majeur entre républicains et démocrates pour le contrôle de la Chambre des représentants, selon France 24. Les démocrates tentent de reconquérir les sièges décisifs face à la majorité républicaine de Donald Trump, sur fond d'enjeux comme l'inflation, l'immigration et la guerre en Iran, d'après France 24. Le Comité national du Parti démocrate a déposé plainte contre le président Trump, l'accusant de « violation flagrante » de l'interdiction d'utiliser des fonds publics pour des publicités électorales à sa gloire, rapporte France 24. La campagne est marquée par des tensions : un meeting de Trump au Texas a été interrompu à plusieurs reprises par des manifestants, indique franceinfo.",
+    "rubrique": "Monde",
     "ids_sources": [
-      "af192fa56",
-      "a4fece40c"
+      "a3206a2ba",
+      "ade3fdd5b",
+      "abae79c98",
+      "ac1643763"
     ],
     "sources": [
       {
-        "source": "RFI",
-        "titre": "Après 235 jours passés dans l'espace, Sophie Adenot achève une mission de tous les records dans l’ISS",
-        "url": "https://www.rfi.fr/fr/france/20261007-apr%C3%A8s-235-jours-pass%C3%A9s-dans-l-espace-sophie-adenot-ach%C3%A8ve-une-mission-de-tous-les-records-dans-l-iss"
+        "source": "franceinfo",
+        "titre": "A l'approche des élections de mi-mandat, un discours de Donald Trump interrompu à plusieurs reprises au Texas",
+        "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-discours-de-donald-trump-interrompu-a-plusieurs-reprises-au-texas_8227858.html#xtor=RSS-3-[lestitres]"
       },
       {
-        "source": "franceinfo",
-        "titre": "Surveiller son cœur, retrouver l'équilibre... Quel est le programme de réadaptation pour Sophie Adenot après son retour sur Terre ?",
-        "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/surveiller-son-c-ur-retrouver-l-equilibre-quel-est-le-programme-de-readaptation-pour-sophie-adenot-apres-son-retour-sur-terre_8218453.html#xtor=RSS-3-[lestitres]"
+        "source": "France 24",
+        "titre": "Midterms : les démocrates poursuivent Trump pour des publicités payées par les contribuables",
+        "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-etats-unis-d%C3%A9mocrates-poursuivent-plainte-donald-trump-publicites-payees-par-contribuables-propagande-dnc-fonds-publics-midterms"
+      },
+      {
+        "source": "France 24",
+        "titre": "Midterms 2026 : le redécoupage électoral peut-il faire basculer le Congrès ?",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-2026-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-faire-basculer-le-congr%C3%A8s"
+      },
+      {
+        "source": "France 24",
+        "titre": "Midterms : les démocrates peuvent-ils reprendre le Congrès à Trump ?",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-les-d%C3%A9mocrates-peuvent-ils-reprendre-le-congr%C3%A8s-%C3%A0-trump"
       }
     ],
     "importance": 4,
     "score": 42,
-    "nb_articles": 2
+    "nb_articles": 4
   },
   {
-    "titre": "Haute Cour australienne bloque l'extension d'une mine de charbon",
-    "texte": "La Haute Cour de Justice australienne s'est prononcée le 7 octobre contre un vaste projet d'extension d'une mine de charbon, jugé trop dangereux pour le climat selon France 24. Cette décision constitue une première pour l'Australie, deuxième exportateur mondial de charbon d'après RFI. Le contexte est particulièrement sensible alors que le pays s'apprête à diriger les négociations de la COP31 Climat, selon France 24. Cette instance met en lumière la forte dépendance de l'Australie au charbon, qui représente 9% de son PIB selon la même source. RFI souligne que l'activité charbonnière australienne a récemment été dopée par le blocage du détroit d'Ormuz et la demande accrue des pays asiatiques.",
+    "titre": "La Haute Cour australienne s'oppose à l'extension d'une mine de charbon",
+    "texte": "La Haute Cour australienne s'est prononcée contre un vaste projet d'extension d'une mine de charbon, selon RFI et France 24. Cette décision, rendue mercredi 7 octobre, constitue une première pour l'Australie, deuxième exportateur mondial de charbon. Selon France 24, la Haute Cour a estimé le projet trop dangereux pour le climat. Cette décision intervient alors que l'Australie s'apprête à diriger les négociations de la COP31 Climat, soulignant le paradoxe de sa position. D'après France 24, le charbon représente 9% du PIB australien et le pays continue d'augmenter sa production, massivement exportée vers les pays asiatiques. RFI note que l'activité charbonnière australienne a été dopée par le blocage du détroit d'Ormuz et la forte demande asiatique.",
     "rubrique": "Environnement",
     "ids_sources": [
       "a33f62738",

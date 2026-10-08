@@ -1,13 +1,37 @@
 [
   {
+    "id": "a88f04b63",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"Nous avons estimé que nous pouvions le conserver dans notre liste\", justifie le secrétaire général du prix Renaudot à propos de Thélyson Orélien soupçonné d'avoir eu recours à l'IA",
+    "extrait": "\"C'était ça ou mourir\", l'ouvrage mis en cause, a toutefois été retiré de la sélection du prix Goncourt et écarté de la deuxième sélection du prix Femina à cause de ces accusations.",
+    "url": "https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/nous-avons-estime-que-nous-pouvions-le-conserver-dans-notre-liste-justifie-le-secretaire-general-du-prix-renaudot-a-propos-de-thelyson-orelien-soupconne-d-avoir-eu-recours-a-l-ia_8227927.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-08T06:13:39+00:00",
+    "resume": "Le secrétaire général du prix Renaudot justifie le maintien de l'écrivain Thélyson Orélien dans sa sélection malgré les accusations d'utilisation d'IA, tandis que l'ouvrage a été retiré du prix Goncourt et écarté de la sélection du Femina.",
+    "rubrique": "Culture",
+    "importance": 2
+  },
+  {
+    "id": "a991a0a5b",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"L'un des épisodes les plus intenses depuis au moins 1950\" : le phénomène météorologique El Niño va continuer de s'intensifier jusqu'en décembre",
+    "extrait": "C'est ce qui ressort du dernier bulletin saisonnier sur le climat, publié jeudi par l'Organisation météorologique mondiale, une agence de l'ONU.",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/l-un-des-episodes-les-plus-intenses-depuis-au-moins-1950-le-phenomene-meteorologique-el-nino-va-continuer-de-s-intensifier-jusqu-en-decembre_8227891.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-08T06:11:23+00:00",
+    "resume": "Selon le dernier bulletin de l'Organisation météorologique mondiale, le phénomène El Niño s'annonce comme l'un des plus intenses depuis au least 1950 et devrait continuer à s'intensifier jusqu'en décembre.",
+    "rubrique": "Environnement",
+    "importance": 4
+  },
+  {
     "id": "a407587d6",
     "source": "France 24",
     "lang": "fr",
     "titre": "Le phénomène météorologique El Niño amené à s'intensifier jusqu'en décembre",
-    "extrait": "L'Organisation météorologique mondiale (OMM) surveille de près cet épisode d'El Niño qui s'annonce déjà exceptionnel par son ampleur et sa durée. Après avoir atteint un pic en décembre, ce phénomène météorologique récurrent, qui aggrave les conséquences du réchauffement climatique, pourrait durer jusqu'en février 2027.",
+    "extrait": "Depuis le mois de juin, l'Organisation météorologique mondiale (OMM) surveille de près cet épisode d'El Niño qui s'annonce déjà exceptionnel par son ampleur et sa durée. Après avoir atteint un pic en décembre, ce phénomène météorologique récurrent, qui aggrave les conséquences du réchauffement climatique, pourrait durer jusqu'en février 2027.",
     "url": "https://www.france24.com/fr/plan%C3%A8te/20261008-le-ph%C3%A9nom%C3%A8ne-m%C3%A9t%C3%A9orologique-el-ni%C3%B1o-amen%C3%A9-%C3%A0-s-intensifier-jusqu-en-d%C3%A9cembreg",
     "publie": "2026-10-08T06:08:39+00:00",
-    "resume": "L'Organisation météorologique mondiale surveille un épisode d'El Niño qui s'annonce exceptionnel par son ampleur et sa durée, devant atteindre un pic en décembre et pouvant durer jusqu'en février 2027.",
+    "resume": "L'Organisation météorologique mondiale surveille un épisode d'El Niño exceptionnel par son ampleur et sa durée, qui pourrait atteindre un pic en décembre et durer jusqu'en février 2027.",
     "rubrique": "Environnement",
     "importance": 4
   },
@@ -19,8 +43,8 @@
     "extrait": "La baisse du nombre d'établissements bloqués ou perturbés \"se poursuit, avec encore environ 30% d’établissements concernés en moins par rapport à hier à la même heure\".",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T06:05:20+00:00",
-    "resume": "En France, 224 établissements scolaires sont totalement fermés et 151 partiellement rouverts jeudi matin en raison d'une mobilisation de lycéens, avec une baisse continue du nombre d'établissements perturbés.",
-    "rubrique": "Politique",
+    "resume": "Selon le ministère français de l'Éducation nationale, 224 établissements scolaires sont totalement fermés et 151 partiellement rouverts jeudi matin lors de la mobilisation des lycéens, avec une baisse continue d'environ 30% du nombre d'établissements perturbés.",
+    "rubrique": "Société",
     "importance": 3
   },
   {
@@ -31,7 +55,7 @@
     "extrait": "L’interdiction concerne la voie publique et les lieux publics jusqu’au 16 octobre à 23h59, sauf abrogation anticipée...",
     "url": "https://www.rtbf.be/article/tensions-dans-le-centre-de-liege-le-ministre-de-l-interieur-bernard-quintin-accuse-les-antifas-pour-les-incidents-de-liege-11796688",
     "publie": "2026-10-08T06:02:06+00:00",
-    "resume": "Le ministre belge de l'Intérieur Bernard Quintin accuse les antifas pour les incidents de Liège ; une interdiction est en place dans le centre-ville jusqu'au 16 octobre.",
+    "resume": "Le ministre belge de l'Intérieur Bernard Quintin accuse les antifas pour les incidents survenus à Liège, avec une interdiction de rassemblement dans la voie publique et les lieux publics jusqu'au 16 octobre.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -43,8 +67,8 @@
     "extrait": "L’Afrique se dote d’un nouvel outil pour avoir son mot à dire sur les marchés financiers. L’Agence africaine de notation de crédit a été officiellement lancée mercredi 7 octobre à Maurice, avec l’ambition de proposer une lecture africaine du risque financier. L’enjeu est majeur : le coût auquel les États et les entreprises du continent accèdent aux financements. Pour ses promoteurs, une meilleure prise en compte des réalités économiques africaines pourrait contribuer à attirer davantage de capitaux vers le continent. Reste à établir sa crédibilité.",
     "url": "https://www.rfi.fr/fr/afrique/20261008-l-union-africaine-lance-une-agence-de-notation-pour-renforcer-la-souverainet%C3%A9-financi%C3%A8re-du-continent",
     "publie": "2026-10-08T06:00:00+00:00",
-    "resume": "L'Afrique lance l'Agence africaine de notation de crédit à Maurice, le 7 octobre, pour améliorer l'accès au financement des États et entreprises du continent en proposant une lecture africaine du risque financier.",
-    "rubrique": "Monde",
+    "resume": "L'Agence africaine de notation de crédit a été officiellement lancée le 7 octobre à Maurice pour proposer une évaluation africaine du risque financier et améliorer l'accès au financement des États et entreprises du continent.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -55,21 +79,21 @@
     "extrait": "L'informaticienne a permis à la Nasa de battre l'Union soviétique durant la course à la Lune, dans les années 1960 et 1970.",
     "url": "https://www.franceinfo.fr/sciences/espace/la-scientifique-americaine-margaret-hamilton-figure-du-programme-apollo-est-morte-a-90-ans_8227816.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T05:47:06+00:00",
-    "resume": "La scientifique américaine Margaret Hamilton, informaticienne clé du programme Apollo qui a permis à la Nasa de remporter la course à la Lune, est morte à 90 ans.",
+    "resume": "Margaret Hamilton, informaticienne qui a permis à la Nasa de remporter la course à la Lune dans les années 1960 et 1970, est décédée à 90 ans.",
     "rubrique": "Sciences & Tech",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a8546abf0",
     "source": "Le Monde",
     "lang": "fr",
     "titre": "En Espagne, la mort de Maricarmen Abascal, symbole de la crise du logement, suscite une forte émotion",
-    "extrait": "L’octogénaire est morte mercredi à l’âge de 87 ans. Son expulsion avait déclenché une vague de protestations et placé le logement au cœur du débat politique, jusqu’à provoquer la dissolution du Parlement et des élections anticipées.",
+    "extrait": "L’octogénaire est décédée mercredi à l’âge de 87 ans. Son expulsion avait déclenché une vague de protestations et placé le logement au cœur du débat politique, jusqu’à provoquer la dissolution du Parlement et des élections législatives anticipées.",
     "url": "https://www.lemonde.fr/international/article/2026/10/08/en-espagne-le-deces-de-maricarmen-abascal-symbole-de-la-crise-du-logement-suscite-une-forte-emotion_6790065_3210.html",
     "publie": "2026-10-08T05:43:51+00:00",
-    "resume": "Maricarmen Abascal, octogénaire dont l'expulsion avait déclenché une vague de protestations sur le logement en Espagne et provoqué la dissolution du Parlement, est morte à 87 ans.",
-    "rubrique": "Europe",
-    "importance": 3
+    "resume": "Maricarmen Abascal, symbole de la crise du logement en Espagne, est décédée à 87 ans; son expulsion avait déclenché des protestations et forcé la dissolution du Parlement avec élections législatives anticipées.",
+    "rubrique": "Monde",
+    "importance": 4
   },
   {
     "id": "a3206a2ba",
@@ -79,7 +103,7 @@
     "extrait": "Des manifestants ont coupé la parole au président américain, lors d'un meeting à San Antonio.",
     "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-discours-de-donald-trump-interrompu-a-plusieurs-reprises-au-texas_8227858.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T05:34:47+00:00",
-    "resume": "Un discours de Donald Trump au Texas a été interrompu à plusieurs reprises par des manifestants à l'approche des élections de mi-mandat américaines.",
+    "resume": "Un meeting de Donald Trump au Texas a été interrompu à plusieurs reprises par des manifestants, à l'approche des élections de mi-mandat américaines.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -91,7 +115,7 @@
     "extrait": "L'ONG accuse les autorités américaines d'avoir privé ces migrants de leur droit à une procédure régulière, plusieurs d'entre eux n'ayant pas pu prévenir leurs avocats ou ayant été expulsés sans connaître leur destination.",
     "url": "https://www.franceinfo.fr/monde/usa/les-etats-unis-ont-expulse-plus-de-500-migrants-vers-des-pays-d-afrique-ou-ils-n-avaient-aucun-contact-selon-human-rights-watch_8226943.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T05:33:22+00:00",
-    "resume": "Human Rights Watch accuse les États-Unis d'avoir expulsé plus de 500 migrants vers des pays d'Afrique sans procédure régulière, plusieurs migrants n'ayant pu prévenir leurs avocats ou connaître leur destination.",
+    "resume": "Human Rights Watch accuse les autorités américaines d'avoir expulsé plus de 500 migrants vers des pays d'Afrique sans assurer leurs droits à une procédure régulière ni leur permettre de contacter leurs avocats.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -103,7 +127,7 @@
     "extrait": "Ce matin, l’ambiance sera assez maussade. Le front pluvieux qui a envahi la Belgique hier en fin d’après-midi continue...",
     "url": "https://www.rtbf.be/article/meteo-en-belgique-des-averses-et-un-thermometre-qui-degringole-ce-jeudi-11796742",
     "publie": "2026-10-08T05:31:51+00:00",
-    "resume": "La météo en Belgique ce jeudi sera maussade avec des averses et une baisse des températures.",
+    "resume": "La météo en Belgique ce jeudi sera marquée par des averses et une baisse des températures, avec un front pluvieux qui persiste depuis la veille.",
     "rubrique": "Belgique",
     "importance": 1
   },
@@ -115,9 +139,9 @@
     "extrait": "Après plusieurs semaines de revers face aux Houthis, les forces gouvernementales yéménites tentent de reprendre l’initiative face aux rebelles pro-iraniens. Soutenues par l’aviation saoudienne, elles disent avoir lancé une contre-offensive \"stratégique\" pendant le week-end. Elles revendiquent même des avancées sur plusieurs fronts, ce que démentent les rebelles chiites.",
     "url": "https://www.france24.com/fr/moyen-orient/20261008-y%C3%A9men-houthis-affichent-leur-s%C3%A9r%C3%A9nit%C3%A9-face-contre-offensive-soutenue-arabie-saoudite",
     "publie": "2026-10-08T05:26:19+00:00",
-    "resume": "Au Yémen, les forces gouvernementales soutenues par l'aviation saoudienne ont lancé une contre-offensive contre les Houthis, revendiquant des avancées que les rebelles chiites démentent.",
+    "resume": "Au Yémen, les forces gouvernementales soutenues par l'aviation saoudienne revendiquent une contre-offensive stratégique contre les Houthis, que ces derniers démentent.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a61c5bce9",
@@ -127,7 +151,7 @@
     "extrait": "Une maison neuve coûtait en moyenne 403.222 euros au 3e trimestre, tandis qu’un appartement revenait à...",
     "url": "https://www.rtbf.be/article/les-prix-de-l-immobilier-neuf-ont-legerement-augmente-en-un-an-11796721",
     "publie": "2026-10-08T05:25:23+00:00",
-    "resume": "En Belgique, les prix de l'immobilier neuf ont légèrement augmenté en un an, une maison neuve coûtant en moyenne 403.222 euros au troisième trimestre.",
+    "resume": "Les prix de l'immobilier neuf en Belgique ont légèrement augmenté sur un an, avec un prix moyen de 403.222 euros pour une maison neuve au troisième trimestre.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -139,7 +163,7 @@
     "extrait": "Le projet de loi de finances français acte une nouvelle fois une baisse drastique de l'aide publique au développement. Dans la recherche de 54 milliards d'euros d'économies, les budgets de l'aide ne sont pas épargnés. Près de deux milliards d'euros de moins pour 2027, soit -43 % par rapport à 2026. Le nouveau directeur de l'Agence française de développement était entendu ce 7 octobre à l'Assemblée nationale pour défendre la politique de solidarité internationale.",
     "url": "https://www.rfi.fr/fr/france/20261008-nouvelle-coupe-drastique-et-nouvelle-strat%C3%A9gie-pour-l-aide-fran%C3%A7aise-au-d%C3%A9veloppement",
     "publie": "2026-10-08T05:17:35+00:00",
-    "resume": "Le projet de loi de finances français prévoit une baisse drastique de l'aide publique au développement, avec une réduction de 43 % pour 2027 par rapport à 2026, soit environ deux milliards d'euros de moins.",
+    "resume": "Le projet de loi de finances français prévoit une baisse drastique de 43% de l'aide publique au développement pour 2027 par rapport à 2026, soit près de deux milliards d'euros de réduction.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -151,9 +175,9 @@
     "extrait": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
     "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T05:10:40+00:00",
-    "resume": "Margaret Hamilton, pionnière de l'informatique qui a dirigé le développement du logiciel de la mission Apollo de la Nasa, est morte à 90 ans.",
+    "resume": "Margaret Hamilton, informaticienne pionnière qui a dirigé le développement du logiciel du programme Apollo et a reçu la Médaille présidentielle de la liberté, est décédée à 90 ans.",
     "rubrique": "Sciences & Tech",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "ae2248779",
@@ -163,7 +187,7 @@
     "extrait": "Le mathématicien français, détenteur de la médaille Fields, affirme qu'aucune université dans le monde \"ne produit de mathématiques de haut niveau à un tel rythme\". Plusieurs grandes entreprises d'intelligence artificielle ont annoncé ces derniers mois avoir résolu des problèmes mathématiques particulièrement complexes.",
     "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-changement-le-plus-radical-en-mathematiques-depuis-au-moins-quatre-siecles-cedric-villani-reconnait-les-prouesses-de-l-intelligence-artificielle_8227834.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T05:07:04+00:00",
-    "resume": "Le mathématicien français Cédric Villani reconnaît que l'intelligence artificielle opère « le changement le plus radical en mathématiques depuis au moins quatre siècles », avec des entreprises d'IA résolvant récemment des problèmes mathématiques complexes.",
+    "resume": "Le mathématicien Cédric Villani, médaille Fields, reconnaît que l'intelligence artificielle produit des mathématiques de haut niveau à un rythme sans précédent, qualifiant cela de changement le plus radical depuis au moins quatre siècles.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -175,9 +199,9 @@
     "extrait": "Maroc ou Sénégal, qui va être déclaré vainqueur de la dernière Coupe d'Afrique des nations de football qui s'est jouée en janvier dernier ? C'est tout l'enjeu de la réunion à huis clos du Tribunal arbitral du sport (TAS), ce jeudi 8 octobre à Lausanne, en Suisse. Aucune décision ne sera rendue dès aujourd'hui, mais les deux pays vont plaider devant le tribunal. Joseph-Antoine Bell a été un grand international camerounais. Il est aujourd'hui consultant pour RFI et expert auprès de la Confédération africaine de football (CAF).",
     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261008-finale-de-la-can-2025-si-vous-avez-accept%C3%A9-de-jouer-vous-devrez-accepter-le-r%C3%A9sultat-qui-en-d%C3%A9coule",
     "publie": "2026-10-08T05:03:40+00:00",
-    "resume": "Le Tribunal arbitral du sport se réunit jeudi 8 octobre à Lausanne pour trancher entre le Maroc et le Sénégal sur la finale de la CAN 2025, les deux pays revendiquant le titre.",
+    "resume": "Le Tribunal arbitral du sport examine jeudi les enjeux de la finale de la CAN 2025 entre le Maroc et le Sénégal disputée en janvier, sans décision attendue le jour même.",
     "rubrique": "Sport",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a64542f3c",
@@ -199,9 +223,9 @@
     "extrait": "Le commissaire européen au Commerce, Maros Sefcovic, entame ce jeudi 8 octobre une visite cruciale de deux jours en Chine pour tenter de rééquilibrer les relations commerciales entre les deux blocs. Alors que Paris et Berlin appellent Bruxelles à durcir sa politique commerciale, Pékin met en garde contre toute dérive protectionniste.",
     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261008-face-%C3%A0-l-%C3%A9crasante-puissance-commerciale-chinoise-l-europe-cherche-la-riposte",
     "publie": "2026-10-08T04:55:29+00:00",
-    "resume": "Le commissaire européen au Commerce Maros Sefcovic entame jeudi une visite de deux jours en Chine pour tenter de rééquilibrer les relations commerciales, tandis que Pékin met en garde contre le protectionnisme.",
+    "resume": "Le commissaire européen au Commerce Maros Sefcovic entame jeudi une visite de deux jours en Chine pour tenter de rééquilibrer les relations commerciales, tandis que la France et l'Allemagne demandent un durcissement et Pékin met en garde contre le protectionnisme.",
     "rubrique": "Europe",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a9b7a4429",
@@ -211,7 +235,7 @@
     "extrait": "Letec invite ses usagers et voyageuses à consulter ses canaux de communication pour connaître l'évolution de la situation...",
     "url": "https://www.rtbf.be/article/les-trams-et-bus-liegeois-a-l-arret-ce-jeudi-matin-en-raison-d-un-mouvement-de-greve-spontane-11796754",
     "publie": "2026-10-08T04:43:27+00:00",
-    "resume": "Les trams et bus liégeois sont à l'arrêt jeudi matin en raison d'un mouvement de grève spontané.",
+    "resume": "Les trams et bus liégeois sont à l'arrêt jeudi matin en raison d'un mouvement de grève spontané, avec Letec invitant les usagers à consulter ses canaux de communication.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -223,7 +247,7 @@
     "extrait": "En Espagne, la crise du logement est devenue tellement explosive qu’elle a provoqué des élections anticipées. Mais...",
     "url": "https://www.rtbf.be/article/un-jour-une-carte-crise-du-logement-l-espagne-est-loin-d-etre-un-cas-isole-11795964",
     "publie": "2026-10-08T04:35:00+00:00",
-    "resume": "L'Espagne n'est pas un cas isolé en matière de crise du logement, un phénomène qui s'étend à d'autres pays européens.",
+    "resume": "Un article cartographique de la RTBF montre que la crise du logement en Espagne, qui a provoqué des élections anticipées, n'est pas un cas isolé en Europe.",
     "rubrique": "Europe",
     "importance": 2
   },
@@ -235,7 +259,7 @@
     "extrait": "L’entreprise familiale, qui a fondé le journal « Le Soir » à Bruxelles, possède notamment « La Voix du Nord » à Lille depuis 2005, et veut désormais acquérir « Sud Ouest ». Ce qui conforterait sa place de troisième groupe de PQR en France.",
     "url": "https://www.lemonde.fr/economie/article/2026/10/08/rossel-le-groupe-belge-qui-se-taille-un-empire-dans-la-presse-quotidienne-regionale-francaise_6789966_3234.html",
     "publie": "2026-10-08T04:30:07+00:00",
-    "resume": "Rossel, groupe belge fondateur du journal « Le Soir », renforce sa position dans la presse régionale française en possédant notamment « La Voix du Nord » depuis 2005 et envisageant d'acquérir « Sud Ouest ».",
+    "resume": "Le groupe belge Rossel, fondateur du journal Le Soir, renforce sa présence dans la presse quotidienne régionale française en possédant notamment La Voix du Nord depuis 2005 et cherchant à acquérir Sud Ouest.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -247,9 +271,9 @@
     "extrait": "La mobilisation des lycéens, qui dure désormais depuis 15 jours devant les établissements scolaires, tisse aussi sa toile sur les réseaux sociaux. Sur Discord, des groupes de discussion ont été créés pour relayer les appels à la mobilisation et pour organiser les intrusions dans les cours à distance.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-comment-le-mouvement-s-organise-sur-discord-pour-preparer-les-blocages-et-perturber-les-cours-en-ligne_8226913.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T04:26:20+00:00",
-    "resume": "La mobilisation des lycéens en France, qui dure depuis 15 jours, s'organise via Discord pour relayer les appels à la mobilisation et organiser les intrusions dans les cours à distance.",
-    "rubrique": "Politique",
-    "importance": 2
+    "resume": "La mobilisation des lycéens français, qui dure depuis 15 jours, s'organise également sur Discord avec des groupes de discussion pour coordonner les blocages et perturber les cours à distance.",
+    "rubrique": "Société",
+    "importance": 3
   },
   {
     "id": "ae32cb651",
@@ -259,7 +283,7 @@
     "extrait": "L’an dernier, lors du conclave budgétaire, le gouvernement De Wever s’était déjà penché sur les sociétés de...",
     "url": "https://www.rtbf.be/article/un-cout-de-4-2-milliards-pour-l-etat-que-sont-ces-societes-de-management-que-certains-partis-de-l-arizona-pointent-du-doigt-11796480",
     "publie": "2026-10-08T04:15:00+00:00",
-    "resume": "En Belgique, certains partis de l'Arizona pointent du doigt les sociétés de management, évoquant un coût de 4,2 milliards pour l'État.",
+    "resume": "Un article examine le coût de 4,2 milliards pour l'État belge des sociétés de management, un sujet que certains partis de l'Arizona pointent du doigt, ayant déjà été examiné lors du conclave budgétaire de l'an dernier.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -271,7 +295,7 @@
     "extrait": "Le Premier ministre tente de répondre aux deux crises du moment. Mais les annonces, qu'il a faites mercredi soir, sont loin de faire l'unanimité.",
     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T04:13:35+00:00",
-    "resume": "Les annonces du Premier ministre français Sébastien Lecornu sur la crise des lycées et les prix des carburants ne convainquent pas les oppositions.",
+    "resume": "Les annonces du Premier ministre français Sébastien Lecornu mercredi soir sur la crise des lycées et les prix des carburants ne convainquent pas les oppositions.",
     "rubrique": "Politique",
     "importance": 2
   },
@@ -283,7 +307,7 @@
     "extrait": "Plus de mille jours après le début de la guerre, la bande de Gaza compte encore ses tués et ses morts. Depuis le soi-disant cessez-le-feu et le plan de paix, l’étau d’Israël sur l’enclave paupérisée ne désarme pas : le blocus n’est pas levé et la libre circulation entravée.",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261008-trois-ans-apr%C3%A8s-le-7-octobre-l-agonie-se-poursuit-dans-la-bande-de-gaza",
     "publie": "2026-10-08T04:10:02+00:00",
-    "resume": "Trois ans après le 7 octobre, la bande de Gaza compte ses tués et ses morts ; depuis le cessez-le-feu, le blocus n'est pas levé et la libre circulation reste entravée.",
+    "resume": "Plus de mille jours après le début de la guerre, la bande de Gaza continue de compter ses victimes. Malgré le cessez-le-feu et le plan de paix, le blocus israélien demeure en place et la libre circulation reste entravée.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -295,7 +319,7 @@
     "extrait": "Pour avoir quitté la pelouse afin de dénoncer un penalty, les Sénégalais ont été déclarés forfaits malgré leur victoire face aux Marocains (1-0). Depuis, chacune des sélections revendique le titre continental : les premiers s’estiment vainqueurs sur le terrain, les seconds au nom du droit.",
     "url": "https://www.lemonde.fr/afrique/article/2026/10/08/finale-de-la-can-2025-le-tribunal-arbitral-du-sport-appele-a-trancher-entre-le-maroc-et-le-senegal_6789931_3212.html",
     "publie": "2026-10-08T04:00:20+00:00",
-    "resume": "Le Tribunal arbitral du sport est appelé à trancher entre le Maroc et le Sénégal pour la finale de la CAN 2025 : les Sénégalais ont quitté la pelouse en protestation contre un penalty et ont été déclarés forfaits malgré leur victoire 1-0.",
+    "resume": "Le Tribunal arbitral du sport est appelé à trancher sur la finale de la CAN 2025 entre le Maroc et le Sénégal : le Sénégal revendique la victoire sportive (1-0) après avoir quitté le terrain en protestation contre un penalty, tandis que le Maroc est déclaré vainqueur selon le droit.",
     "rubrique": "Sport",
     "importance": 3
   },
@@ -307,8 +331,8 @@
     "extrait": "Stéphanie Rist a demandé aux médecins qui conseillent le gouvernement de se pencher sur la question, mais il ne s'agit pas encore d'un changement officiel de la stratégie.",
     "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/vaccin/info-franceinfo-la-ministre-de-la-sante-envisage-d-avancer-la-prochaine-campagne-de-vaccination-contre-le-covid_8227399.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T04:00:02+00:00",
-    "resume": "La ministre de la Santé demande aux conseillers du gouvernement d'examiner l'avancement de la prochaine campagne de vaccination contre le Covid, sans qu'il s'agisse encore d'un changement officiel de stratégie.",
-    "rubrique": "Politique",
+    "resume": "La ministre française de la Santé envisage d'avancer la prochaine campagne de vaccination contre le Covid et a demandé aux conseillers gouvernementaux d'étudier la question, sans que cela constitue un changement officiel de stratégie pour l'instant.",
+    "rubrique": "Société",
     "importance": 2
   },
   {
@@ -319,7 +343,7 @@
     "extrait": "Le rapport \"Planète vivante\" dresse, tous les deux ans, un bilan de l'état des populations de vertébrés dans le monde. \"Les espèces disparaissent aujourd’hui à un rythme au moins 100 fois supérieur au taux d'extinction naturel d'avant l’apparition de l'être humain\", détaille sa nouvelle édition.",
     "url": "https://www.franceinfo.fr/environnement/biodiversite/les-populations-d-animaux-sauvages-se-sont-effondrees-de-73-depuis-1970-mais-nous-pouvons-inverser-cette-courbe-du-declin-assure-le-wwf_8218336.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:56:48+00:00",
-    "resume": "Selon le rapport \"Planète vivante\" du WWF, les populations de vertébrés ont chuté de 73% depuis 1970, avec un taux d'extinction actuel au moins 100 fois supérieur au taux naturel pré-humain.",
+    "resume": "Selon le rapport « Planète vivante » du WWF, les populations d'animaux sauvages se sont effondrées de 73 % depuis 1970, avec un taux d'extinction au moins 100 fois supérieur au taux naturel d'avant l'apparition de l'être humain.",
     "rubrique": "Environnement",
     "importance": 4
   },
@@ -331,9 +355,9 @@
     "extrait": "Découvrez la liste actualisée de tous les candidats et candidates lancés dans la course à l'Elysée, classés par couleur politique.",
     "url": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:55:46+00:00",
-    "resume": "Article présentant la liste actualisée des candidats et candidates à l'élection présidentielle française de 2027.",
+    "resume": "Un article de service dressant la liste actualisée des candidats et candidates à l'élection présidentielle française de 2027, classés par couleur politique.",
     "rubrique": "Politique",
-    "importance": 3
+    "importance": 1
   },
   {
     "id": "ab50a0058",
@@ -343,7 +367,7 @@
     "extrait": "Nées sur les réseaux sociaux, ces confrontations mêlant poses de mangas, références sportives et mèmes internet ont gagné les cours de récréation à la rentrée. Ces derniers jours, elles ont également été remarquées dans les blocages et manifestations des lycéens.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/celui-qui-a-le-plus-d-allure-gagne-c-est-quoi-les-battles-d-aura-ces-duels-qui-se-multiplient-dans-les-manifestations-lyceennes_8226778.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:54:58+00:00",
-    "resume": "Les \"battles d'aura\", duels originaires des réseaux sociaux combinant poses de mangas et références culturelles, se multiplient dans les cours de récréation et lors des manifestations lycéennes.",
+    "resume": "Les « battles d'aura », des duels nés sur les réseaux sociaux mêlant poses de mangas et références sportives, se multiplient dans les cours de récréation et ont été remarquées lors des blocages et manifestations lycéens récents.",
     "rubrique": "Société",
     "importance": 2
   },
@@ -355,7 +379,7 @@
     "extrait": "La quadruple candidate à l'élection présidentielle a présenté un ambitieux projet de réduction du déficit public, sans convaincre ses adversaires.",
     "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:54:36+00:00",
-    "resume": "Le budget de Marine Le Pen prévoyant 140 milliards d'euros d'économies pour réduire le déficit public fait l'objet de critiques de ses adversaires politiques.",
+    "resume": "Le projet budgétaire de Marine Le Pen, prévoyant 140 milliards d'économies et une réduction du déficit public, fait l'objet de critiques de la part de ses adversaires qui le jugent peu crédible.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -367,7 +391,7 @@
     "extrait": "Franceinfo a retrouvé plusieurs messages publiés sur le compte Twitter de Jordan Bardella qui reprennent des références issues de la sphère de l’idéologue d'extrême droite Alain Soral. Les écrits de l'époque du jeune militant frontiste éclairent sous un autre jour les révélations de Mediapart. L'entourage du président du RN dément toute proximité avec celui qui a été plusieurs fois condamné pour antisémitisme.",
     "url": "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:54:10+00:00",
-    "resume": "Franceinfo a découvert d'anciens tweets de Jordan Bardella reprenant des références de la sphère d'Alain Soral, tandis que son entourage dément toute proximité avec l'idéologue d'extrême droite.",
+    "resume": "Franceinfo a retrouvé plusieurs tweets du jeune Jordan Bardella reprenant des références issues de la sphère de l'idéologue d'extrême droite Alain Soral, tandis que l'entourage du président du RN dément toute proximité avec ce dernier.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -379,7 +403,7 @@
     "extrait": "L'astronaute française doit suivre un protocole de récupération au Centre des astronautes européens, à Cologne, en Allemagne. Celui-ci doit durer trois semaines.",
     "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/surveiller-son-c-ur-retrouver-l-equilibre-quel-est-le-programme-de-readaptation-pour-sophie-adenot-apres-son-retour-sur-terre_8218453.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:52:53+00:00",
-    "resume": "L'astronaute française Sophie Adenot doit suivre un protocole de réadaptation de trois semaines au Centre des astronautes européens à Cologne après son retour sur Terre.",
+    "resume": "L'astronaute française Sophie Adenot doit suivre un protocole de réadaptation de trois semaines au Centre des astronautes européens à Cologne après son retour sur Terre, incluant une surveillance cardiaque et un rééquilibrage physique.",
     "rubrique": "Sciences & Tech",
     "importance": 2
   },
@@ -391,9 +415,9 @@
     "extrait": "Lundi, un jeune de 15 ans a eu la main arrachée par l'explosion d'une grenade policière. En réaction, le ministre de l'Intérieur a annoncé la suspension de l'utilisation des grenades assourdissantes \"pour le mouvement lycéen\". Cette décision interroge plus largement sur l'utilisation des armes dites de force intermédiaire.",
     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/gaz-lacrymogene-grenades-lbd-dans-quel-cadre-les-armes-intermediaires-sont-elles-utilisees-pour-le-maintien-de-l-ordre-par-les-policiers-et-gendarmes_8224891.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-08T03:52:25+00:00",
-    "resume": "Suite à l'amputation de la main d'un jeune de 15 ans par une grenade policière, le ministre de l'Intérieur suspend l'utilisation des grenades assourdissantes lors des manifestations lycéennes.",
+    "resume": "Suite à l'amputation d'un jeune de 15 ans par l'explosion d'une grenade policière, le ministre français de l'Intérieur a suspendu l'utilisation des grenades assourdissantes pour le mouvement lycéen, soulevant des questions plus larges sur l'usage des armes de force intermédiaire.",
     "rubrique": "Société",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "ace481ba5",
@@ -403,7 +427,7 @@
     "extrait": "Considérée comme une pionnière dans son domaine, l’informaticienne américaine a permis à la NASA de battre l’Union soviétique durant la course à la Lune, dans les années 1960 et 1970.",
     "url": "https://www.lemonde.fr/disparitions/article/2026/10/08/margaret-hamilton-scientifique-qui-a-developpe-le-systeme-informatique-de-la-mission-apollo-est-morte-a-90-ans_6789925_3382.html",
     "publie": "2026-10-08T03:49:19+00:00",
-    "resume": "Margaret Hamilton, informaticienne pionnière qui a développé le système informatique de la mission Apollo permettant à la NASA de battre l'URSS, est décédée à 90 ans.",
+    "resume": "Margaret Hamilton, informaticienne américaine pionnière qui a développé le système informatique de la mission Apollo et contribué à la victoire des États-Unis dans la course à la Lune, est décédée à 90 ans.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -415,9 +439,9 @@
     "extrait": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
     "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T03:41:34+00:00",
-    "resume": "L'acteur indien Nana Patekar, connu pour ses performances intenses dans le cinéma indien, est décédé à 75 ans.",
+    "resume": "L'acteur indien Nana Patekar, connu pour ses performances intenses au cinéma indien, est décédé à 75 ans.",
     "rubrique": "Culture",
-    "importance": 2
+    "importance": 1
   },
   {
     "id": "a3354a51d",
@@ -427,7 +451,7 @@
     "extrait": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
     "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T03:38:46+00:00",
-    "resume": "Les blocages et marches des étudiants français reflètent des griefs réels ancrés dans la tradition française de régler les politiques publiques par les manifestations.",
+    "resume": "Les protestations scolaires en France, marquées par des blocages et des marches, sont l'expression de véritables griefs, reflétant l'habitude française de régler les questions politiques dans la rue.",
     "rubrique": "Société",
     "importance": 3
   },
@@ -439,7 +463,7 @@
     "extrait": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
     "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T03:32:35+00:00",
-    "resume": "Trois personnes ont été tuées lors d'attaques attribuées aux Houthis contre des aéroports d'Arabie saoudite, marquant une escalade du conflit.",
+    "resume": "Les Houthis ont revendiqué la responsabilité d'attaques contre les aéroports d'Arabie saoudite ayant fait trois morts, marquant une escalade dans le conflit.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -451,7 +475,7 @@
     "extrait": "Dans son « contre-budget », le Rassemblement national envisage notamment de créer une taxe de 1 000 euros pour l’embauche d’un travailleur extra-européen. Une proposition jugée déconnectée des réalités du marché du travail par de nombreux chefs d’entreprise.",
     "url": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html",
     "publie": "2026-10-08T03:30:06+00:00",
-    "resume": "Le Rassemblement national envisage une taxe de 1 000 euros pour l'embauche d'un travailleur extra-européen afin d'instaurer la préférence nationale dans le secteur privé, critiquée par les chefs d'entreprise.",
+    "resume": "Le Rassemblement national envisage dans son « contre-budget » de créer une taxe de 1 000 euros pour l'embauche d'un travailleur extra-européen afin d'instaurer la préférence nationale dans le secteur privé, une proposition jugée déconnectée de la réalité du marché du travail par les chefs d'entreprise.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -459,13 +483,13 @@
     "id": "a1d239b55",
     "source": "Le Monde",
     "lang": "fr",
-    "titre": "Sébastien Lecornu accablé par « la superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
+    "titre": "Sébastien Lecornu accablé par la « superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
     "extrait": "Dans une allocution télévisée, mercredi soir, le premier ministre a corrigé sa posture vis-à-vis du mouvement des lycéens, manifestant une forme de compréhension. Mais il a prévenu qu’il ne pourrait pas répondre à leurs principales revendications. Evoquant également les autres crises que traverse la France, il a annoncé des mesures sur le prix du gazole à la pompe.",
     "url": "https://www.lemonde.fr/politique/article/2026/10/08/sebastien-lecornu-accable-par-la-superposition-des-crises-du-mouvement-lyceen-a-la-baisse-du-pouvoir-d-achat_6789890_823448.html",
     "publie": "2026-10-08T03:29:42+00:00",
-    "resume": "Le premier ministre Sébastien Lecornu manifeste une forme de compréhension envers le mouvement lycéen mais prévient qu'il ne pourra pas répondre à leurs principales revendications ; il annonce des mesures sur le prix du gazole.",
+    "resume": "Le premier ministre français Sébastien Lecornu a exprimé une forme de compréhension vis-à-vis du mouvement lycéen tout en prévenant qu'il ne pourrait pas répondre à ses principales revendications, et a annoncé des mesures sur le prix du gazole face aux diverses crises.",
     "rubrique": "Politique",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "a8369764b",
@@ -475,9 +499,9 @@
     "extrait": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
     "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T03:02:06+00:00",
-    "resume": "Le Texas procède à sa première exécution depuis les injections létales ratées de Christa Pike, malgré une demande de pause des avocats.",
+    "resume": "Le Texas a procédé à une exécution, la première aux États-Unis depuis les injections létales ratées de Christa Pike, malgré les demandes d'ajournement des avocats de Jamaal Howard.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a972c7b28",
@@ -487,8 +511,8 @@
     "extrait": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
     "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T03:00:50+00:00",
-    "resume": "Donald Trump envisage de créer une retraite de type Camp David sur son club de golf en Floride, marquant une transformation d'une autre tradition.",
-    "rubrique": "Autres",
+    "resume": "Donald Trump souhaite établir une nouvelle retraite de type Camp David sur son club de golf en Floride, marquant une autre transformation des traditions par Trump.",
+    "rubrique": "Monde",
     "importance": 1
   },
   {
@@ -499,7 +523,7 @@
     "extrait": "Outre-Atlantique, la presse alerte sur l’instabilité budgétaire et sur un marché de la dette en tension. Entre 3 % et 4 % de cet endettement pourrait être entre les mains d’investisseurs américains, notamment de fonds privés.",
     "url": "https://www.lemonde.fr/economie/article/2026/10/08/aux-etats-unis-la-situation-economique-de-la-france-suscite-l-inquietude_6789856_3234.html",
     "publie": "2026-10-08T03:00:05+00:00",
-    "resume": "La situation économique et budgétaire de la France suscite l'inquiétude aux États-Unis, en particulier auprès des investisseurs américains détenant entre 3% et 4% de la dette française.",
+    "resume": "La situation économique de la France suscite l'inquiétude aux États-Unis, la presse alertant sur l'instabilité budgétaire et la tension du marché de la dette français, dont 3 à 4 % serait détenu par des investisseurs américains.",
     "rubrique": "Économie",
     "importance": 3
   },
@@ -511,7 +535,7 @@
     "extrait": "Soutenus par plusieurs syndicats de l'éducation, l'Union syndicale lycéenne et l'Union étudiante ont appelé à de nouveaux rassemblements jeudi et demandé à être reçus par Sébastien Lecornu. Les étudiants et lycéens réclament 250 000 places en plus à l'université et la suppression de la sélection par Parcoursup. Le gouvernement multiplie les signes d'apaisement pour mettre fin à la crise. Suivez la mobilisation en direct.",
     "url": "https://www.france24.com/fr/france/20261008-en-direct-etudiants-lyceens-appeles-de-nouveau-mobiliser-jeudi-acte-iv-mouvement-france-sebastien-lecornu-syndicats-manifestations-parcoursup",
     "publie": "2026-10-08T02:45:19+00:00",
-    "resume": "Un nouvel appel à manifester est lancé jeudi par l'Union syndicale lycéenne et l'Union étudiante, qui réclament 250 000 places universitaires supplémentaires et la suppression de la sélection Parcoursup.",
+    "resume": "Le quatrième acte de la mobilisation lycéenne et étudiante française est appelé jeudi, avec des demandes de 250 000 places universitaires supplémentaires et la suppression de la sélection par Parcoursup, tandis que le gouvernement multiplie les signes d'apaisement.",
     "rubrique": "Société",
     "importance": 4
   },
@@ -523,8 +547,8 @@
     "extrait": "Après une succession de scandales impliquant des religieux de rang élevé, des projets de loi sont sur la table pour mieux encadrer la gestion financière des temples et la conduite des porteurs de la robe safran.",
     "url": "https://www.lemonde.fr/international/article/2026/10/08/en-thailande-des-moines-succombent-a-la-tentation-du-sexe-et-de-l-argent_6789855_3210.html",
     "publie": "2026-10-08T02:45:04+00:00",
-    "resume": "En Thaïlande, après des scandales impliquant des moines de haut rang, des projets de loi visent à mieux encadrer la gestion financière des temples et la conduite des religieux.",
-    "rubrique": "Société",
+    "resume": "En Thaïlande, une succession de scandales impliquant des moines de rang élevé a conduit à l'élaboration de projets de loi pour mieux encadrer la gestion financière des temples et la conduite des religieux.",
+    "rubrique": "Monde",
     "importance": 2
   },
   {
@@ -535,7 +559,7 @@
     "extrait": "Les Houthis ont visé jeudi l'aéroport international de Riyad. La veille, des frappes similaires avaient fait au moins trois morts. La coalition militaire d'Arabie saoudite a assuré que ces attaques ne resteraient pas \"impunies\" et annoncé avoir détruit en représailles \"82 cibles militaires légitimes\" des combattants yéménites. Les hostilités ont fait plus de 200 000 déplacés.",
     "url": "https://www.france24.com/fr/moyen-orient/20261008-houthis-lancent-attaques-trois-morts-aeroports-arabie-saoudite-riyad-riposte-detruit-cibles-militaires",
     "publie": "2026-10-08T02:29:39+00:00",
-    "resume": "Les Houthis du Yémen ont frappé l'aéroport international de Riyad jeudi ; la coalition saoudienne annonce avoir détruit 82 cibles militaires en représailles après des attaques meurtrières la veille.",
+    "resume": "Les Houthis du Yémen ont à nouveau visé l'aéroport de Riyad jeudi, un jour après des frappes similaires ayant fait au moins trois morts, tandis que la coalition saoudienne affirme avoir détruit 82 cibles militaires en représailles.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -547,7 +571,7 @@
     "extrait": "Les membres de la rédaction du site spécialisé dans le fact-checking avaient été arrêtés fin septembre lors d’un coup de force inédit contre des journalistes.",
     "url": "https://www.lemonde.fr/afrique/article/2026/10/08/en-egypte-les-six-journalistes-du-media-d-investigation-matsadaash-inculpes-d-infractions-liees-au-terrorisme_6789789_3212.html",
     "publie": "2026-10-08T02:14:49+00:00",
-    "resume": "Six journalistes du média d'investigation égyptien \"Matsadaash\" spécialisé dans le fact-checking sont inculpés d'infractions liées au terrorisme après leur arrestation fin septembre.",
+    "resume": "En Égypte, les six journalistes du média d'investigation « Matsadaash » spécialisé dans le fact-checking ont été inculpés d'infractions liées au terrorisme après leur arrestation fin septembre.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -559,9 +583,9 @@
     "extrait": "Mariecarmen, dont l'expulsion a entraîné un mouvement citoyen contre la crise du logement en Espagne, est décédée à l'hôpital mercredi, rapporte la correspondante de France 24 à Madrid, Maude Petit-Jové. Les manifestants, rassemblés sur la Puerta del Sol pour dénoncer la spéculation immobilière, l'ont appris en pleine AG. Après une minute de silence, ils ont dénoncé des \"meurtres\". Le mouvement se poursuit : la grève générale est prévue le 11 novembre.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261008-la-mort-de-mariecarmen-%C3%A0-madrid-un-meurtre-d%C3%BB-%C3%A0-la-sp%C3%A9culation-immobili%C3%A8re",
     "publie": "2026-10-08T01:02:38+00:00",
-    "resume": "Mariecarmen, dont l'expulsion a déclenché un mouvement citoyen contre la crise du logement en Espagne, est décédée à l'hôpital mercredi ; les manifestants dénoncent un \"meurtre dû à la spéculation immobilière\".",
+    "resume": "Mariecarmen, dont l'expulsion a déclenché un mouvement citoyen contre la crise du logement en Espagne, est décédée à l'hôpital mercredi, les manifestants dénonçant un « meurtre dû à la spéculation immobilière ». Une grève générale est prévue le 11 novembre.",
     "rubrique": "Société",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "afee2951f",
@@ -571,9 +595,9 @@
     "extrait": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
     "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T00:53:46+00:00",
-    "resume": "Les géants japonais de la bière Asahi, Sapporo, Kirin et Suntory ont confirmé que leurs locaux ont été perquisitionnés par l'autorité de la concurrence pour collusion présumée sur les prix.",
+    "resume": "Les géants japonais de la bière Asahi, Sapporo, Kirin et Suntory confirment que leurs locaux ont été perquisitionnés par l'autorité de la concurrence japonaise pour une allégation de cartellisation des prix.",
     "rubrique": "Économie",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "ada6e1d45",
@@ -583,9 +607,9 @@
     "extrait": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
     "url": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T00:46:36+00:00",
-    "resume": "L'accusatrice dans une affaire de viol à l'université de Cornell aurait reçu des menaces, selon son avocat.",
-    "rubrique": "Autres",
-    "importance": 2
+    "resume": "Une femme qui accuse avoir été violée dans une fraternité universitaire à Cornell en 2024 aurait reçu des menaces, selon son avocat.",
+    "rubrique": "Monde",
+    "importance": 3
   },
   {
     "id": "a869feab4",
@@ -595,7 +619,7 @@
     "extrait": "Le candidat communiste à la présidentielle a également condamné, sur LCI, les attaques du Hamas du 7 octobre 2023. Il renvoie dos à dos le gouvernement de Benyamin Nétanyahou et le mouvement islamiste palestinien en dénonçant « des forces extrémistes qui s’affrontent et qui sèment la haine ».",
     "url": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html",
     "publie": "2026-10-08T00:35:30+00:00",
-    "resume": "Le candidat communiste à la présidentielle Fabien Roussel accuse le gouvernement israélien de \"terrorisme d'État\" tout en condamnant les attaques du Hamas du 7 octobre 2023.",
+    "resume": "Le candidat communiste à la présidentielle française accuse le gouvernement israélien de « terrorisme d'Etat » tout en condamnant les attaques du Hamas du 7 octobre 2023.",
     "rubrique": "Politique",
     "importance": 2
   },
@@ -607,9 +631,9 @@
     "extrait": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
     "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-08T00:09:17+00:00",
-    "resume": "Une retraitée espagnole de 87 ans, dont l'expulsion en septembre a déclenché des manifestations nationales, est décédée.",
+    "resume": "Une retraitée espagnole de 87 ans, dont l'expulsion avait déclenché des manifestations nationales, est décédée.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "aee1eadee",
@@ -619,9 +643,9 @@
     "extrait": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
     "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T23:31:00+00:00",
-    "resume": "La capitaine de l'équipe de cricket féminine indienne, qui a remporté la Coupe du monde 2025, a annoncé son départ de tous les formats de jeu.",
+    "resume": "La capitaine indienne qui a mené l'équipe à la victoire à la Coupe du monde féminine 2025 a annoncé son retrait de tous les formats de cricket.",
     "rubrique": "Sport",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "ade3fdd5b",
@@ -631,7 +655,7 @@
     "extrait": "Le Comité national du Parti démocrate (DNC) a déposé une plainte, mercredi, contre le président américain Donald Trump. Il l'accuse de \"violation flagrante\" de l'interdiction de s'approprier des fonds publics pour des publicités à sa gloire, et notamment en période électorale.",
     "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-etats-unis-d%C3%A9mocrates-poursuivent-plainte-donald-trump-publicites-payees-par-contribuables-propagande-dnc-fonds-publics-midterms",
     "publie": "2026-10-07T23:22:02+00:00",
-    "resume": "Le Parti démocrate américain a poursuivi le président Donald Trump pour utilisation présumée de fonds publics destinés à des publicités électorales.",
+    "resume": "Le Parti démocrate américain porte plainte contre le président Donald Trump pour utilisation de fonds publics destinés à des publicités électorales à sa gloire.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -643,9 +667,9 @@
     "extrait": "Alors que le mouvement des lycéens continue de gagner de nombreux établissements au-delà du secondaire, l'Institut national supérieur du professorat et de l'éducation (Inspé) a été bloqué pour la première fois mercredi 7 octobre. Une mobilisation spontanée d'une quinzaine de personnes a finalement attiré plus d'une soixantaine de manifestants.",
     "url": "https://www.rfi.fr/fr/france/20261007-mobilisations-lyc%C3%A9ennes-en-france-les-futurs-professeurs-de-l-insp%C3%A9-rejoignent-le-mouvement",
     "publie": "2026-10-07T23:20:24+00:00",
-    "resume": "L'institut de formation des enseignants (Inspé) a été bloqué pour la première fois mercredi par des futurs professeurs rejoignant le mouvement de mobilisation des lycéens en France.",
-    "rubrique": "Europe",
-    "importance": 3
+    "resume": "Des futurs professeurs d'une école de formation pédagogique française ont rejoint les mobilisations lycéennes en bloquant l'établissement mercredi.",
+    "rubrique": "Société",
+    "importance": 2
   },
   {
     "id": "af17ae9a7",
@@ -655,7 +679,7 @@
     "extrait": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
     "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T23:18:40+00:00",
-    "resume": "Un tribunal de New York examine les arguments d'une action en justice de familles des victimes du 11 septembre contre l'Arabie saoudite, qui nient toute implication.",
+    "resume": "Une cour de New York entend les arguments de familles de victimes du 11-Septembre qui allèguent des liens entre des hommes liés au gouvernement saoudien et les auteurs des attaques.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -667,8 +691,8 @@
     "extrait": "Face à la hausse vertigineuse de l’inflation qui a atteint 4,2 % sur un an, le gouvernement de Giorgia Meloni a demandé à la Commission européenne d’insérer la question de la pression inflationniste dans le Conseil de l’Ecofin du 9 octobre. L’objectif est d’obtenir une flexibilité budgétaire supplémentaire pour aider les entreprises et les ménages.",
     "url": "https://www.rfi.fr/fr/europe/20261007-nous-mangeons-comme-des-oiseaux-en-italie-les-prix-alimentaires-s%C3%A9v%C3%A8rement-touch%C3%A9s-par-l-inflation",
     "publie": "2026-10-07T23:18:39+00:00",
-    "resume": "Face à une inflation de 4,2 % sur un an, le gouvernement italien demande à la Commission européenne une flexibilité budgétaire supplémentaire pour aider les entreprises et ménages.",
-    "rubrique": "Europe",
+    "resume": "L'Italie connaît une inflation alimentaire sévère atteignant 4,2 % sur un an ; le gouvernement demande une flexibilité budgétaire supplémentaire à la Commission européenne.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -679,8 +703,8 @@
     "extrait": "La retraitée madrilène dont l'expulsion a déclenché des manifestations monstres contre la crise du logement en Espagne est morte mercredi 7 octobre. Les principaux syndicats du pays appellent à la mobilisation générale, alors qu'approchent les élections anticipées convoquées par Pedro Sanchez.",
     "url": "https://www.rfi.fr/fr/europe/20261007-crise-du-logement-en-espagne-la-retrait%C3%A9-%C3%A0-l-origine-de-la-mobilisation-est-d%C3%A9c%C3%A9d%C3%A9e",
     "publie": "2026-10-07T23:08:46+00:00",
-    "resume": "La retraitée dont l'expulsion a provoqué des manifestations massives contre la crise du logement en Espagne est décédée mercredi ; les syndicats appellent à la mobilisation générale avant les élections anticipées.",
-    "rubrique": "Europe",
+    "resume": "La retraitée madrilène dont l'expulsion a déclenché des manifestations nationales contre la crise du logement en Espagne est décédée mercredi.",
+    "rubrique": "Société",
     "importance": 4
   },
   {
@@ -691,9 +715,9 @@
     "extrait": "Sur les images, les lycées sont vus en train de reprendre un morceau de rap faisant référence aux attaques terroristes. Par ailleurs, une enquête a été ouverte en Vendée en raison d’une vidéo dans laquelle des adolescents diffusent ce même morceau dans une église.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/08/apologie-du-terrorisme-trois-mineurs-en-garde-a-vue-a-orleans-apres-une-video-dans-un-lycee-mentionnant-les-attaques-de-mohamed-merah-et-salah-abdeslam_6789689_3224.html",
     "publie": "2026-10-07T23:08:41+00:00",
-    "resume": "Trois mineurs sont en garde à vue à Orléans après une vidéo dans un lycée où des adolescents reprennent un morceau de rap faisant référence à des attaques terroristes ; une enquête a également été ouverte en Vendée.",
-    "rubrique": "Société",
-    "importance": 3
+    "resume": "Trois mineurs sont en garde à vue à Orléans après la diffusion d'une vidéo dans un lycée montrant des élèves chantant un rap mentionnant les attaques terroristes de Mohammed Merah et Salah Abdeslam.",
+    "rubrique": "Belgique",
+    "importance": 2
   },
   {
     "id": "a24616613",
@@ -703,7 +727,7 @@
     "extrait": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
     "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T22:50:00+00:00",
-    "resume": "L'ancien président vénézuélien Nicolás Maduro devrait faire face à des accusations supplémentaires cette semaine concernant des tortures d'Américains dans des prisons vénézuéliennes, selon les médias américains.",
+    "resume": "L'ancien président vénézuélien Nicolás Maduro devrait faire face à de nouvelles accusations cette semaine, portant sur son rôle supposé dans la torture d'Américains dans des prisons vénézuéliennes.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -715,7 +739,7 @@
     "extrait": "La majorité des victimes – des prostituées mais aussi leurs clients – ont dénoncé « des violences physiques » et toutes ont déploré des « menaces » de la part des mis en cause, a précisé le procureur de Béthune.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/08/demantelement-d-un-reseau-de-proxenetisme-violent-dans-le-nord-et-le-pas-de-calais-dix-personnes-interpellees-une-mineure-de-13-ans-parmi-les-victimes_6789656_3224.html",
     "publie": "2026-10-07T22:27:32+00:00",
-    "resume": "Un réseau de proxénétisme violent a été démantelé dans le Nord et le Pas-de-Calais, dix personnes ont été interpellées ; parmi les victimes figurait une mineure de 13 ans.",
+    "resume": "Dix personnes ont été interpellées pour démantèlement d'un réseau de proxénétisme violent dans le Nord et le Pas-de-Calais ; une mineure de 13 ans compte parmi les victimes.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -727,7 +751,7 @@
     "extrait": "WWF publie la mise à jour de son « indice planète vivante », selon lequel la taille moyenne des populations suivie d’amphibiens, d’oiseaux, de poissons, de mammifères et de reptiles a chuté de 73 % depuis 1970.",
     "url": "https://www.lemonde.fr/planete/article/2026/10/08/le-declin-des-populations-de-vertebres-sauvages-s-accentue-depuis-cinquante-ans_6789655_3244.html",
     "publie": "2026-10-07T22:25:30+00:00",
-    "resume": "Selon le nouvel indice planète vivante de WWF, la taille moyenne des populations d'amphibiens, d'oiseaux, de poissons, de mammifères et de reptiles a chuté de 73 % depuis 1970.",
+    "resume": "Selon l'indice planète vivante du WWF, la taille moyenne des populations d'amphibiens, d'oiseaux, de poissons, de mammifères et de reptiles a chuté de 73 % depuis 1970.",
     "rubrique": "Environnement",
     "importance": 4
   },
@@ -739,7 +763,7 @@
     "extrait": "Portant des autocollants proclamant par exemple \"Non au père, non au fils\", des milliers de Brésiliens ont participé mercredi à la manifestation convoquée à Rio de Janeiro par des organisations étudiantes. Ils appellent à faire barrage au sénateur conservateur Flavio Bolsonaro, arrivé en tête au premier tour face au président sortant Luiz Inacio Lula da Silva.",
     "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-plus-jamais-bolsonaro-des-milliers-de-manifestants-mobilis%C3%A9s-avant-le-second-tour-au-br%C3%A9sil",
     "publie": "2026-10-07T22:20:49+00:00",
-    "resume": "Des milliers de manifestants se sont mobilisés mercredi à Rio de Janeiro pour faire barrage au sénateur conservateur Flavio Bolsonaro, arrivé en tête au premier tour de la présidentielle brésilienne.",
+    "resume": "Des milliers de manifestants brésiliens se sont rassemblés à Rio de Janeiro avant le second tour pour faire barrage au sénateur conservateur Flavio Bolsonaro face au président sortant Lula.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -751,9 +775,9 @@
     "extrait": "The BBC's Madeline Gerber describes the conditions of the mansion where the children - some as young as two months old - were living.",
     "url": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T22:20:03+00:00",
-    "resume": "Un couple californien est accusé de maltraitance envers des enfants nés par maternité de substitution, dont certains âgés de deux mois, vivant dans des conditions déplorables.",
+    "resume": "Un couple de Californie est accusé d'avoir maltraité des enfants nés par maternité de substitution dans des conditions décrites comme extrêmes.",
     "rubrique": "Monde",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a019f7a20",
@@ -763,7 +787,7 @@
     "extrait": "Après l’attaque menée par le Hamas le 7 octobre 2023, Israël a lancé une offensive avec plusieurs objectifs affichés : ramener les otages, démanteler les capacités militaires du Hamas et faire en sorte que Gaza ne puisse plus constituer une menace pour Israël. Trois ans après, le moins que l'on puisse dire c'est que l'enclave palestinienne n'a plus du tout le même visage.",
     "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261007-gaza-plus-de-8-b%C3%A2timents-sur-10-endommag%C3%A9s-ou-d%C3%A9truits",
     "publie": "2026-10-07T22:18:30+00:00",
-    "resume": "Plus de 80 % des bâtiments de Gaza sont endommagés ou détruits trois ans après l'attaque du Hamas du 7 octobre 2023 et l'offensive israélienne qui a suivi.",
+    "resume": "Plus de 80 % des bâtiments de Gaza ont été endommagés ou détruits depuis l'offensive israélienne lancée après l'attaque du Hamas du 7 octobre 2023.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -775,7 +799,7 @@
     "extrait": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
     "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T22:10:20+00:00",
-    "resume": "Des feux de forêt en Indonésie parmi les pires jamais enregistrés provoquent un brouillard toxique qui affecte les pays d'Asie du Sud-Est, notamment Singapour.",
+    "resume": "Une brume toxique due aux feux de forêt en Indonésie fait disparaître les monuments de Singapour et impacte plusieurs pays d'Asie du Sud-Est.",
     "rubrique": "Environnement",
     "importance": 3
   },
@@ -787,9 +811,9 @@
     "extrait": "En 2026, le vaccin contre le papillomavirus fait toujours débat en Turquie. Alors que plus de 140 pays l’ont intégré à leur programme national de vaccination, les autorités d’Ankara hésitent et temporisent. Ce choix pose des questions de santé publique, mais aussi d’égalité : ce vaccin protège notamment contre le cancer du col de l’utérus, mais son prix le rend inaccessible à une large partie de la population. Pourquoi cette hésitation du gouvernement turc face au HPV ? Entre défiance vaccinale, contraintes économiques et tabou autour d’un virus sexuellement transmissible, les raisons sont mul",
     "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261007-la-turquie-r%C3%A9siste-%C3%A0-la-vaccination-contre-le-papillomavirus",
     "publie": "2026-10-07T22:00:58+00:00",
-    "resume": "La Turquie hésite à intégrer le vaccin contre le papillomavirus à son programme national de vaccination, contrairement à plus de 140 pays, soulevant des enjeux de santé publique et d'égalité d'accès.",
-    "rubrique": "Société",
-    "importance": 3
+    "resume": "La Turquie hésite à intégrer le vaccin contre le papillomavirus à son programme national de vaccination, bien que plus de 140 pays l'aient déjà adopté.",
+    "rubrique": "Monde",
+    "importance": 2
   },
   {
     "id": "a5f7479c5",
@@ -799,7 +823,7 @@
     "extrait": "Les salariés français souffrent toujours autant de harcèlement au travail, qu'il soit moral ou sexuel. Un statu quo révélé ce mois-ci par une étude réalisée par Qualisocial, un cabinet spécialisé dans la qualité de vie au travail. L'institut de sondage Ipsos BVA a interrogé 2 000 actifs, avec des données qui sont les mêmes qu'il y a quatre ans lors de la précédente étude. Le phénomène de harcèlement au travail a beau être mieux connu, il est toujours aussi difficile à être identifié par les salariés et géré par les entreprises.",
     "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261007-en-france-un-salari%C3%A9-sur-trois-dit-avoir-d%C3%A9j%C3%A0-subi-une-situation-de-harc%C3%A8lement-au-travail",
     "publie": "2026-10-07T22:00:57+00:00",
-    "resume": "Un sondage révèle qu'un salarié français sur trois a déjà subi du harcèlement au travail, avec des chiffres inchangés depuis quatre ans malgré une meilleure sensibilisation.",
+    "resume": "Une étude française révèle qu'un salarié sur trois dit avoir subi une situation de harcèlement au travail, avec des chiffres identiques à ceux d'il y a quatre ans.",
     "rubrique": "Société",
     "importance": 3
   },
@@ -811,8 +835,8 @@
     "extrait": "En Argentine, le lithium connait un véritable boum. La production de ce minerai critique dans le secteur de la transition énergétique a augmenté de 62 % en un an et pourrait presque quintupler d'ici 2035, selon des chiffres officiels. Cette explosion s'explique par un besoin croissant en lithium, notamment pour les véhicules électriques, mais aussi par la mise en place d'une politique fiscale avantageuse de la part de l'Argentine.",
     "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261007-en-argentine-une-explosion-de-l-exploitation-du-lithium-qui-pose-des-questions-environnementales",
     "publie": "2026-10-07T22:00:57+00:00",
-    "resume": "La production de lithium en Argentine a augmenté de 62 % en un an et pourrait presque quintupler d'ici 2035, en raison de la demande croissante pour la transition énergétique et d'une politique fiscale avantageuse.",
-    "rubrique": "Environnement",
+    "resume": "La production de lithium en Argentine a augmenté de 62 % en un an et pourrait presque quintupler d'ici 2035, suscitant des questions environnementales.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -823,9 +847,9 @@
     "extrait": "L'Organisation mondiale de la santé, les États-Unis et l'Union européenne ont exhorté la Russie à fournir davantage d'informations à la suite du décès de cette femme de 28 ans, qui a pris ces derniers jours une ampleur internationale.",
     "url": "https://www.franceinfo.fr/monde/russie/la-russie-dement-tout-risque-epidemique-en-siberie-apres-la-mort-d-une-laborantine-d-un-institut-travaillant-sur-la-peste_8227513.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T21:54:00+00:00",
-    "resume": "La Russie dément tout risque épidémique en Sibérie suite au décès d'une laborantine travaillant à l'institut de lutte contre la peste ; l'OMS, les États-Unis et l'UE demandent plus de transparence.",
+    "resume": "La Russie dément tout risque épidémique en Sibérie suite au décès d'une laborantine de 28 ans d'un institut travaillant sur la peste, attirant l'attention de l'OMS et de l'Union européenne.",
     "rubrique": "Monde",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "a3213f6f1",
@@ -835,7 +859,7 @@
     "extrait": "Israël a commémoré mercredi les attaques du Hamas survenues sur son territoire le 7 octobre 2023, dont le souvenir pèse sur la campagne des élections législatives. Civils et proches des victimes se sont recueillis sur le site du festival de musique électronique Nova, où 348 jeunes gens avaient été exécutés par le Hamas, mais aussi à Tel-Aviv.",
     "url": "https://www.france24.com/fr/moyen-orient/20261007-nostalgie-resilience-hommage-commemoration-7-octobre-israel-netanyahu-benyamin-elections-legislatives-gaza-hamas",
     "publie": "2026-10-07T21:37:27+00:00",
-    "resume": "Israël a commémoré mercredi les attaques du Hamas du 7 octobre 2023, dont le souvenir pèse sur la campagne des élections législatives ; 348 jeunes gens avaient été tués au festival Nova.",
+    "resume": "Israël commémore mercredi les attaques du Hamas du 7 octobre 2023, notamment au site du festival Nova où 348 jeunes gens avaient été tués.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -847,7 +871,7 @@
     "extrait": "Des dizaines de personnes ont en outre été blessées, dont, a déploré Volodymyr Zelensky, sept enfants.",
     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-cinq-morts-dans-une-frappe-russe-sur-un-immeuble-a-prylouky-dans-le-nord-de-l-ukraine_8226463.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T21:30:50+00:00",
-    "resume": "Au moins 28 personnes, dont cinq enfants, ont été tuées et des dizaines blessées dans une frappe russe sur un immeuble à Prylouky, dans le nord de l'Ukraine.",
+    "resume": "Au moins 28 personnes, dont cinq enfants, ont été tuées dans une frappe russe sur un immeuble à Prylouky dans le nord de l'Ukraine.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -859,9 +883,9 @@
     "extrait": "Un essai clinique, mené chez dix personnes non voyantes en France, aux Etats-Unis et au Royaume-Uni, suggère l’intérêt, pour restaurer une forme de vision, d’un traitement qui consiste à injecter dans l’œil un vecteur viral porteur d’une construction génétique.",
     "url": "https://www.lemonde.fr/sciences/article/2026/10/07/un-traitement-optogenetique-redonne-une-vision-partielle-a-six-patients-aveugles_6789654_1650684.html",
     "publie": "2026-10-07T21:10:04+00:00",
-    "resume": "Un traitement optogénétique a permis de restaurer une vision partielle à six patients aveugles sur dix participant à un essai clinique en France, aux États-Unis et au Royaume-Uni.",
+    "resume": "Un essai clinique d'un traitement optogénétique a restauré une vision partielle chez six patients aveugles en France, aux États-Unis et au Royaume-Uni.",
     "rubrique": "Sciences & Tech",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "aa0d13344",
@@ -871,9 +895,9 @@
     "extrait": "Le corps sans vie de cette maman de deux fillettes, âgées de 3 et 6 ans, a été découvert hier soir à Saint-Gilles....",
     "url": "https://www.rtbf.be/article/feminicide-a-saint-gilles-une-mere-de-deux-enfants-violemment-tuee-11796459",
     "publie": "2026-10-07T21:09:02+00:00",
-    "resume": "Une mère de deux fillettes a été tuée violemment à Saint-Gilles ; son corps a été découvert hier soir.",
+    "resume": "Une mère de deux enfants a été trouvée morte à Saint-Gilles dans des circonstances de violences.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 2
   },
   {
     "id": "a244c4d55",
@@ -883,9 +907,9 @@
     "extrait": "La Russie est appelée, de la part de l'OMS, de l'Union européenne et des Etats-Unis, à plus de transparence après la mort d'une technicienne de laboratoire en Sibérie. Daria Shipilova, qui travaillait à l'institut de lutte contre la peste d'Irkutsk, est décédée d'une pneumonie dont l'origine est indéterminée. Entre les versions de certains médias et le démenti des autorités, le flou persiste et entretient rumeurs et désinformation.",
     "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux",
     "publie": "2026-10-07T20:49:50+00:00",
-    "resume": "La mort d'une technicienne de laboratoire à l'institut sibérien de lutte contre la peste entretient rumeurs et désinformation sur les réseaux sociaux ; l'OMS, l'UE et les États-Unis demandent plus de transparence à la Russie.",
+    "resume": "La Russie est appelée par l'OMS, l'UE et les États-Unis à plus de transparence après la mort d'une technicienne de laboratoire en Sibérie travaillant à l'institut de lutte contre la peste. L'origine de la pneumonie reste indéterminée, alimentant les rumeurs et la désinformation.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "ad7d0c0f1",
@@ -895,9 +919,9 @@
     "extrait": "Des troupes érythréennes se déploient ces derniers jours autour d'Adigrat, dans le nord de l'État régional éthiopien du Tigré, frontalier de l'Érythrée, vers laquelle des forces éthiopiennes semblent se diriger, ont indiqué mercredi des sources concordantes, sur fond de tensions exacerbées entre Éthiopie et Érythrée.",
     "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261007-%C3%A9thiopie-des-troupes-%C3%A9rythr%C3%A9ennes-se-d%C3%A9ploient-dans-le-nord-du-tigr%C3%A9",
     "publie": "2026-10-07T20:30:20+00:00",
-    "resume": "Des troupes érythréennes se déploient autour d'Adigrat dans le nord du Tigré, tandis que des forces éthiopiennes se dirigent vers l'Érythrée, sur fond de tensions exacerbées entre les deux pays.",
+    "resume": "Des troupes érythréennes se déploient dans le nord du Tigré en Éthiopie, tandis que des forces éthiopiennes semblent se diriger vers l'Érythrée, sur fond de tensions exacerbées entre les deux pays.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a1f9029de",
@@ -914,7 +938,7 @@
         "url": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_6789651_3210.html"
       }
     ],
-    "resume": "Christa Pike, condamnée à mort aux États-Unis, a survécu à son exécution par injection létale et a repris connaissance. Cet incident relance le débat sur l'application de la peine capitale.",
+    "resume": "Christa Pike, dont l'exécution par injection létale a échoué aux États-Unis, a repris connaissance et se dit en colère et désorientée. Cet événement relance le débat sur l'application de la peine capitale.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -926,7 +950,7 @@
     "extrait": "La justice sri-lankaise ajoute un nouveau dossier à la pile des affaires concernant l'ancienne famille présidentielle Rajapaksa. Soupçonnée de détournement de fonds, l'ex-Première dame du pays pendant l'ère Mahinda Rajapaksa a été placée en détention provisoire mercredi 7 octobre.",
     "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-sri-lanka-l-ex-premi%C3%A8re-dame-shiranthi-rajapaksa-arr%C3%AAt%C3%A9e-pour-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds",
     "publie": "2026-10-07T20:13:02+00:00",
-    "resume": "L'ex-Première dame sri-lankaise Shiranthi Rajapaksa a été arrêtée le 7 octobre et placée en détention provisoire pour soupçons de détournement de fonds.",
+    "resume": "L'ex-Première dame du Sri Lanka, Shiranthi Rajapaksa, a été placée en détention provisoire mercredi pour soupçons de détournement de fonds.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -938,7 +962,7 @@
     "extrait": "La préfecture de la région a publié mercredi deux arrêtés interdisant toute action revendicative jusqu'au 12 octobre, rapporte ICI Occitanie. Le préfet assure \"redouter des troubles à l'ordre public\".",
     "url": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/la-prefecture-d-occitanie-interdit-les-mobilisations-des-opposants-au-projet-d-autoroute-a69-jusqu-au-12-octobre_8227450.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T20:05:05+00:00",
-    "resume": "La préfecture d'Occitanie a publié deux arrêtés le 7 octobre interdisant toute mobilisation des opposants au projet d'autoroute A69 jusqu'au 12 octobre, invoquant des risques de troubles à l'ordre public.",
+    "resume": "La préfecture d'Occitanie a interdit les mobilisations des opposants au projet d'autoroute A69 jusqu'au 12 octobre, le préfet redoutant des troubles à l'ordre public.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -950,9 +974,9 @@
     "extrait": "Après huit mois passés en apesanteur, l’astronaute française Sophie Adenot a quitté la Station spatiale internationale, mercredi 7 octobre. La fin d’une mission historique à plus d’un titre.",
     "url": "https://www.rfi.fr/fr/france/20261007-apr%C3%A8s-235-jours-pass%C3%A9s-dans-l-espace-sophie-adenot-ach%C3%A8ve-une-mission-de-tous-les-records-dans-l-iss",
     "publie": "2026-10-07T20:04:06+00:00",
-    "resume": "L'astronaute française Sophie Adenot a quitté la Station spatiale internationale le 7 octobre après 235 jours en apesanteur, marquant la fin d'une mission historique.",
+    "resume": "L'astronaute française Sophie Adenot a quitté la Station spatiale internationale mercredi après 235 jours passés en apesanteur, marquant la fin d'une mission historique.",
     "rubrique": "Sciences & Tech",
-    "importance": 4
+    "importance": 3
   },
   {
     "id": "a2433d804",
@@ -962,7 +986,7 @@
     "extrait": "Parmi les survivants du 7 octobre 2023, des enfants vivent avec le traumatisme des attaques. Certains ont été retenus en otage par le Hamas, d’autres ont perdu leur père, leur mère… Trois ans après, comment retrouver une enfance normale quand les souvenirs ne vous quittent pas ? Notre correspondant en Israël, Arnaud Miguet, a recueilli leurs témoignages. Ils racontent ce qu’ils ont vécu, et ce qui les hante encore aujourd’hui.",
     "url": "https://www.franceinfo.fr/monde/proche-orient/attaques-du-7-octobre/parfois-je-me-refais-le-film-dans-la-tete-ces-enfants-rescapes-du-7-octobre-qui-grandissent-avec-le-traumatisme_8227444.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T20:03:09+00:00",
-    "resume": "Des enfants survivants des attaques du 7 octobre 2023 en Israël vivent avec un traumatisme durable, certains ayant été retenus en otage par le Hamas ou ayant perdu un parent.",
+    "resume": "Des enfants rescapés des attaques du 7 octobre 2023 en Israël vivent avec le traumatisme, certains ayant été retenus en otage par le Hamas ou ayant perdu un parent.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -974,7 +998,7 @@
     "extrait": "Maricarmen, une femme de 87 ans, avait été expulsée de son appartement à Madrid le 23 septembre. Dans la foulée, des milliers de personnes étaient descendues dans la rue pour manifester contre la crise du logement en Espagne. La retraitée est morte mercredi, a annoncé un syndicat de locataires.",
     "url": "https://www.france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte",
     "publie": "2026-10-07T19:51:55+00:00",
-    "resume": "Maricarmen, une retraitée de 87 ans expulsée de son appartement à Madrid le 23 septembre, est décédée le 7 octobre. Son expulsion avait déclenché des manifestations massives contre la crise du logement en Espagne.",
+    "resume": "Maricarmen, une femme de 87 ans expulsée de son appartement à Madrid le 23 septembre, est décédée mercredi. Son expulsion avait déclenché des manifestations massives contre la crise du logement en Espagne.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -986,7 +1010,7 @@
     "extrait": "Les manifestations étudiantes se multiplient depuis plusieurs jours à Liège, Bruxelles, Mons, Charleroi ou encore Arlon....",
     "url": "https://www.rtbf.be/article/qr-le-debat-eleves-en-colere-faut-il-les-entendre-ou-les-sanctionner-revivez-notre-debat-11795845",
     "publie": "2026-10-07T19:42:49+00:00",
-    "resume": "Des manifestations étudiantes se multiplient depuis plusieurs jours dans plusieurs villes belges dont Liège, Bruxelles, Mons, Charleroi et Arlon.",
+    "resume": "Des manifestations étudiantes se multiplient en Belgique dans plusieurs villes dont Liège, Bruxelles, Mons, Charleroi et Arlon.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -998,7 +1022,7 @@
     "extrait": "Elle était devenue le symbole des problèmes d'accès au logement qui affectent l'Espagne depuis des années lorsqu'elle a été contrainte de quitter l'appartement où elle vivait depuis sept décennies.",
     "url": "https://www.franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T19:34:02+00:00",
-    "resume": "Maricarmen Abascal, retraitée espagnole expulsée de son logement où elle vivait depuis sept décennies, est décédée. Son expulsion avait symbolisé les problèmes d'accès au logement en Espagne.",
+    "resume": "Maricarmen Abascal, la retraitée espagnole devenue symbole des problèmes d'accès au logement après son expulsion, est décédée. Elle vivait dans son appartement depuis sept décennies.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -1010,7 +1034,7 @@
     "extrait": "\"Nous avons le regret d'annoncer que Maricarmen est décédée aujourd'hui\", a indiqué l'Union des locataires de Madrid...",
     "url": "https://www.rtbf.be/article/espagne-la-retraitee-expulsee-a-l-origine-du-mouvement-de-protestation-sur-le-logement-est-decedee-11796671",
     "publie": "2026-10-07T19:32:39+00:00",
-    "resume": "L'Union des locataires de Madrid a annoncé le décès de Maricarmen, la retraitée à l'origine du mouvement de protestation sur le logement.",
+    "resume": "Maricarmen, la retraitée expulsée à l'origine du mouvement de protestation sur le logement en Espagne, est décédée.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -1022,7 +1046,7 @@
     "extrait": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
     "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T19:30:51+00:00",
-    "resume": "Le Canada a indéfiniment suspendu ses plans d'expansion de l'aide au décès médical aux personnes atteintes de troubles mentaux, qui devait entrer en vigueur en mars 2027.",
+    "resume": "Le Canada a suspendu indéfiniment ses plans d'extension de l'aide à mourir aux personnes atteintes de maladie mentale, initialement prévue pour mars 2027.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1034,7 +1058,7 @@
     "extrait": "Il y a d’abord bien sûr les vaccins contre la grippe et le Covid. Ils sont à refaire chaque année et sont adaptés aux...",
     "url": "https://www.rtbf.be/article/nouvelle-campagne-de-vaccination-contre-la-grippe-qui-doit-le-faire-combien-ca-coute-11796508",
     "publie": "2026-10-07T19:05:14+00:00",
-    "resume": "Campagne de vaccination contre la grippe en Belgique : vaccins contre la grippe et le Covid doivent être renouvelés chaque année et sont adaptés aux variants.",
+    "resume": "Nouvelle campagne de vaccination contre la grippe : information sur les bénéficiaires et les modalités de vaccination.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -1046,7 +1070,7 @@
     "extrait": "Les Engagés ont donc soutenu le texte. Ils disent avoir obtenu un \"renforcement de l'équilibre\" qui sous-tend le...",
     "url": "https://www.rtbf.be/article/visites-domiciliaires-les-visites-domiciliaires-passent-en-deuxieme-lecture-en-commission-de-l-interieur-11796637",
     "publie": "2026-10-07T18:58:15+00:00",
-    "resume": "La question des visites domiciliaires passe en deuxième lecture en commission de l'Intérieur en Belgique. Les Engagés ont soutenu le texte en obtenant un renforcement de l'équilibre.",
+    "resume": "Les visites domiciliaires passent en deuxième lecture en commission de l'Intérieur du Parlement belge. Les Engagés ont soutenu le texte.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -1058,7 +1082,7 @@
     "extrait": "🇲🇱 La reprise de Kidal marque un tournant pour l’armée malienne, après sept mois de revers. Les FAMA ont repris cette ville stratégique sans combat, à la suite du repli des Touaregs du FLA. Reste désormais à consolider ce succès dans le Nord.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-apr%C3%A8s-kidal-quelles-perspectives-pour-l-arm%C3%A9e-dans-le-nord",
     "publie": "2026-10-07T18:51:35+00:00",
-    "resume": "L'armée malienne a repris la ville stratégique de Kidal sans combat après le repli des Touaregs du FLA, marquant un tournant après sept mois de revers.",
+    "resume": "L'armée malienne a repris la ville de Kidal sans combat après le repli des Touaregs du FLA, marquant un tournant après sept mois de revers dans le nord du Mali.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1070,20 +1094,8 @@
     "extrait": "Lors d'une allocution mercredi soir, Sébastien Lecornu a annoncé cette mesure qui, selon lui, doit permettre de faire baisser de 12 à 18 centimes d'euro le prix du litre de gazole à la pompe, en pleine crise des carburants.",
     "url": "https://www.franceinfo.fr/economie/automobile/essence/liberation-de-10-millions-de-barils-de-gazole-comme-d-habitude-ils-finissent-par-mettre-en-uvre-nos-propositions-apres-les-avoir-ridiculisees-reagit-marine-le-pen_8227372.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T18:47:21+00:00",
-    "resume": "Le ministre Sébastien Lecornu a annoncé la libération de 10 millions de barils de gazole le 7 octobre, mesure destinée à réduire le prix du litre de gazole de 12 à 18 centimes d'euro à la pompe.",
-    "rubrique": "Politique",
-    "importance": 3
-  },
-  {
-    "id": "a472f1c02",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Procès des attentats de Trèbes et Carcassonne : des peines alourdies en appel à 12 ans et 10 ans de détention pour deux accusés",
-    "extrait": "Cet attentat terroriste avait conduit à la mort du gendarme Arnaud Beltrame et de trois autres victimes, le 23 mars 2018.",
-    "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-terroristes-dans-l-aude/proces-des-attentats-de-trebes-et-carcassonne-des-peines-alourdies-en-appel-a-12-ans-et-10-ans-de-detention-pour-deux-accuses_8227357.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T18:42:42+00:00",
-    "resume": "En appel, deux accusés dans le procès des attentats de Trèbes et Carcassonne ont vu leurs peines alourdies à 12 et 10 ans de détention. Ces attentats du 23 mars 2018 avaient tué le gendarme Arnaud Beltrame et trois autres victimes.",
-    "rubrique": "Politique",
+    "resume": "Le gouvernement français annonce la libération de 10 millions de barils de gazole pour faire baisser le prix à la pompe de 12 à 18 centimes d'euro le litre, en pleine crise des carburants.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1094,7 +1106,7 @@
     "extrait": "Trois ans après l’attaque du 7 octobre 2023 en Israël, la plus meurtrière jamais perpétrée dans le pays par le Hamas, des commémorations se sont tenues tout au long de la journée. Cette attaque avait déclenché une vaste offensive israélienne dans la bande de Gaza. Cet anniversaire intervient cette année dans un contexte politique particulièrement tendu, à l’approche des élections législatives.",
     "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261007-7-octobre-quel-avenir-pour-isra%C3%ABl",
     "publie": "2026-10-07T18:32:59+00:00",
-    "resume": "Trois ans après l'attaque du 7 octobre 2023 par le Hamas, Israël commémore cet événement dans un contexte politique tendu avec l'approche des élections législatives.",
+    "resume": "À l'occasion des trois ans de l'attaque du 7 octobre 2023, des commémorations se sont tenues en Israël. Cet anniversaire intervient dans un contexte politique tendu, avant les élections législatives.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1106,9 +1118,9 @@
     "extrait": "L'intervention est l'aboutissement d'une longue instruction qui a permis aux enquêteurs d'identifier plusieurs suspects...",
     "url": "https://www.rtbf.be/article/vaste-operation-policiere-menee-dans-toute-la-wallonie-des-armes-saisies-et-plusieurs-personnes-interpellees-11796646",
     "publie": "2026-10-07T18:08:21+00:00",
-    "resume": "Une vaste opération policière a été menée en Wallonie, aboutissement d'une longue instruction qui a permis d'identifier plusieurs suspects, avec saisie d'armes et interpellations.",
+    "resume": "Une vaste opération policière menée dans toute la Wallonie a permis la saisie d'armes et l'interpellation de plusieurs personnes, aboutissement d'une longue instruction.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "ac8d9a49a",
@@ -1118,8 +1130,8 @@
     "extrait": "Sébastien Lecornu a tenté d'apporter des réponses à plusieurs crises mercredi lors d'une allocution, assurant que les forces de l'ordre \"n'ont pas pour instruction d'affronter les lycéens\", affirmant ne \"pas être indifférent à leurs angoisses\" et annonçant par ailleurs une mesure permettant une baisse de 12 à 18 centimes du prix du litre à la pompe.",
     "url": "https://www.france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence",
     "publie": "2026-10-07T17:46:48+00:00",
-    "resume": "Le ministre Sébastien Lecornu a tenté d'apaiser les tensions le 7 octobre en affirmant que les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens et en annonçant une baisse du prix de l'essence de 12 à 18 centimes.",
-    "rubrique": "Politique",
+    "resume": "Le Premier ministre français a annoncé que les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens et a présenté une mesure visant à réduire le prix du gazole de 12 à 18 centimes par litre.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1130,8 +1142,8 @@
     "extrait": "Le chef du gouvernement a notamment promis d'annoncer de \"premières décisions\" à la fin du mois d'octobre afin de répondre à la mobilisation des lycéens.",
     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T17:43:06+00:00",
-    "resume": "Le Premier ministre Sébastien Lecornu a annoncé lors d'une allocution du 7 octobre de premières décisions fin octobre pour répondre aux mobilisations lycéennes, et a évoqué des mesures sur le gazole, l'électricité et le budget.",
-    "rubrique": "Politique",
+    "resume": "Le Premier ministre français a annoncé des décisions sur plusieurs dossiers : lycées, gazole, électricité et budget, avec des premières mesures prévues fin octobre.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1142,7 +1154,7 @@
     "extrait": "La justice australienne peut-elle freiner la production et l’exportation de charbon du pays ? Mercredi 7 octobre, la plus haute instance judiciaire d’Australie s'est prononcée contre un vaste projet d'extension d'une mine de charbon, le combustible fossile le plus émetteur de CO2 et donc largement responsable du réchauffement climatique. Une première pour le deuxième exportateur mondial de charbon dont l’activité a été dopée par le blocage du détroit d’Ormuz et la demande, en forte hausse, des pays asiatiques.",
     "url": "https://www.rfi.fr/fr/environnement/20261007-l-australie-s-oppose-%C3%A0-un-vaste-projet-d-extension-d-une-mine-de-charbonles",
     "publie": "2026-10-07T17:41:07+00:00",
-    "resume": "La plus haute instance judiciaire australienne s'est prononcée le 7 octobre contre l'extension d'une mine de charbon, combustible fossile majeur dans les émissions de CO2.",
+    "resume": "La plus haute instance judiciaire australienne s'est prononcée contre un vaste projet d'extension d'une mine de charbon, une première pour le deuxième exportateur mondial de charbon.",
     "rubrique": "Environnement",
     "importance": 4
   },
@@ -1154,7 +1166,7 @@
     "extrait": "Particulièrement touché par les conséquences de la fermeture presque totale du détroit d’Ormuz, l'Irak peine à exporter son pétrole : pour y remédier, la Banque centrale irakienne a dévalué mercredi 7 octobre son dinar face au dollar pour la première fois depuis plus de trois ans. Il s’agit du premier État arabe du Golfe à dévaluer sa monnaie depuis le début de la guerre israélo-américaine contre l’Iran.",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-crise-p%C3%A9troli%C3%A8re-l-irak-d%C3%A9value-sa-monnaie-pour-tenter-d-encaisser-le-choc-dinar-iran-guerre",
     "publie": "2026-10-07T17:24:34+00:00",
-    "resume": "L'Irak a dévalué son dinar face au dollar le 7 octobre pour la première fois depuis plus de trois ans, affecté par la fermeture quasi-totale du détroit d'Ormuz qui entrave ses exportations pétrolières.",
+    "resume": "L'Irak a dévalué son dinar face au dollar mercredi pour la première fois depuis plus de trois ans, en réaction à la fermeture presque totale du détroit d'Ormuz qui entrave son exportation pétrolière.",
     "rubrique": "Économie",
     "importance": 3
   },
@@ -1166,8 +1178,8 @@
     "extrait": "La France avance-t-elle assez vite dans sa transition écologique ? Pour la Cour des comptes, la réponse est non. Dans son rapport annuel présenté mercredi, l'institution pointe notamment des retards dans plusieurs secteurs.",
     "url": "https://www.franceinfo.fr/environnement/la-cour-des-comptes-appelle-a-mieux-depenser-en-matiere-de-transition-ecologique-et-pointe-des-resultats-insuffisants_8226955.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T17:20:56+00:00",
-    "resume": "La Cour des comptes française a appelé à \"mieux dépenser\" en transition écologique dans son rapport du 7 octobre, pointant des résultats insuffisants et des retards dans plusieurs secteurs.",
-    "rubrique": "Politique",
+    "resume": "La Cour des comptes française appelle à mieux dépenser en matière de transition écologique et pointe des résultats insuffisants dans plusieurs secteurs.",
+    "rubrique": "Environnement",
     "importance": 3
   },
   {
@@ -1178,7 +1190,7 @@
     "extrait": "Trois personnes mineures ont été placées en garde à vue dans le cadre d'une enquête pour apologie du terrorisme, a annoncé ce 7 octobre le parquet d'Orléans. Les adolescents avaient chanté sur un morceau de rap mentionnant Mohamed Merah, Salah Abdeslam et Adolf Hitler.",
     "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/apologie-du-terrorisme-3-mineurs-en-garde-a-vue-apres-une-video-mentionnant-mohamed-merah-et-la-tuerie-du-bataclan-3429717.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T17:16:13+00:00",
-    "resume": "Trois mineurs ont été placés en garde à vue le 7 octobre pour apologie du terrorisme après avoir chanté sur un morceau de rap mentionnant Mohamed Merah et des attentats.",
+    "resume": "Trois mineurs ont été placés en garde à vue pour apologie du terrorisme après avoir chanté sur un morceau de rap mentionnant Mohamed Merah et la tuerie du Bataclan.",
     "rubrique": "Société",
     "importance": 2
   },
@@ -1190,7 +1202,7 @@
     "extrait": "Les faits ont eu lieu au sein de l'école élémentaire Maurice Ravel de Talence, lundi matin, selon le maire de la ville. Le père de l'élève a notamment menacé l'enseignante de décapitation.",
     "url": "https://www.franceinfo.fr/faits-divers/un-parent-d-eleve-place-en-garde-a-vue-en-gironde-pour-avoir-menace-de-mort-l-institutrice-de-son-fils_8227285.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T17:09:55+00:00",
-    "resume": "Un parent d'élève a été placé en garde à vue en Gironde pour avoir menacé de mort l'institutrice de son fils, notamment en menaçant de décapitation lors d'un incident lundi matin.",
+    "resume": "Un parent d'élève a été placé en garde à vue en Gironde pour avoir menacé de mort l'institutrice de son fils, notamment en la menaçant de décapitation.",
     "rubrique": "Société",
     "importance": 2
   },
@@ -1202,7 +1214,7 @@
     "extrait": "Dans la foulée de l’attaque, le gouvernement de Benjamin Netanyahu a ouvert plusieurs fronts avec l’objectif...",
     "url": "https://www.rtbf.be/article/trois-ans-apres-le-7-octobre-et-a-l-approche-d-elections-cruciales-deux-israel-s-affrontent-11796277",
     "publie": "2026-10-07T17:03:34+00:00",
-    "resume": "Trois ans après le 7 octobre 2023 et à l'approche d'élections cruciales en Israël, deux visions du pays s'affrontent après que le gouvernement Netanyahu a ouvert plusieurs fronts militaires.",
+    "resume": "À l'approche d'élections cruciales en Israël, trois ans après l'attaque du 7 octobre, deux conceptions politiques s'opposent au sein du pays. Le gouvernement de Benjamin Netanyahu a ouvert plusieurs fronts militaires.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1214,8 +1226,8 @@
     "extrait": "",
     "url": "https://www.france24.com/fr/france/20261007-en-direct-nu%C3%B1ez-suspend-utilisation-grenades-assourdissantes-contre-lyc%C3%A9ens-manifestation",
     "publie": "2026-10-07T16:57:50+00:00",
-    "resume": "Le ministre français de l'Intérieur Sébastien Lecornu déclare que les forces de l'ordre n'ont pas d'instruction d'affronter les lycéens, dans le contexte d'un mouvement lycéen en cours.",
-    "rubrique": "Politique",
+    "resume": "Le ministre français Sébastien Lecornu déclare que les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens lors d'un mouvement de protestation.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1226,9 +1238,9 @@
     "extrait": "Gaza est dévastée, réduite en cendres et en ruines après trois années de guerre. Au moins 74 000 morts, des centaines de milliers de Palestiniens vivent toujours sous des tentes ou des abris extrêmement précaires. Malgré la persistance des attaques israéliennes, la vie se poursuit au milieu du chaos et de la désolation et les organisations humanitaires dénoncent un blocage de l’acheminement de l’aide à la population palestinienne par Israël. Le point de la situation sur place avec Elsa Softic, adjointe à la direction des opérations de l'ONG Première Urgence Internationale.",
     "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261007-gaza-trois-ans-apr%C3%A8s-le-d%C3%A9but-de-cette-phase-de-g%C3%A9nocide-ne-se-rel%C3%A8ve-pas",
     "publie": "2026-10-07T16:53:09+00:00",
-    "resume": "Trois ans après le début de la guerre, Gaza reste dévastée avec au moins 74 000 morts et des centaines de milliers de Palestiniens vivant sous des tentes ou abris précaires, tandis que les organisations humanitaires dénoncent un blocage de l'acheminement de l'aide par Israël.",
+    "resume": "Trois ans après le début de la phase actuelle du conflit, Gaza est dévastée avec au moins 74 000 morts et des centaines de milliers de Palestiniens vivant dans des abris précaires. Les organisations humanitaires dénoncent un blocage de l'aide par Israël.",
     "rubrique": "Monde",
-    "importance": 4
+    "importance": 5
   },
   {
     "id": "a1c1d673b",
@@ -1238,7 +1250,7 @@
     "extrait": "Le ministère français des Affaires étrangères a convoqué mercredi l'ambassadeur iranien à Paris pour dénoncer la \"campagne de désinformation\" que la France accuse l'Iran de mener au sujet du mouvement lycéen. Paris qualifie aussi d'\"infondée\" la convocation la veille par Téhéran de l'ambassadeur de France en Iran.",
     "url": "https://www.france24.com/fr/france/20261007-mouvement-lyc%C3%A9en-france-d%C3%A9nonce-campagne-d%C3%A9sinformation-iranienne",
     "publie": "2026-10-07T16:51:28+00:00",
-    "resume": "Le ministère français des Affaires étrangères convoque l'ambassadeur iranien pour dénoncer une campagne de désinformation iranienne concernant le mouvement lycéen français.",
+    "resume": "La France a convoqué l'ambassadeur iranien pour dénoncer une campagne de désinformation iranienne au sujet du mouvement lycéen français.",
     "rubrique": "Europe",
     "importance": 3
   },
@@ -1250,7 +1262,7 @@
     "extrait": "L'actrice américaine Eva Marie Saint, qui a marqué le cinéma hollywoodien des années 1950 avec ses rôles dans Sur les quais d'Elia Kazan et La mort aux trousses d'Alfred Hitchcock, est décédée mardi 6 octobre à l'âge de 102 ans, a annoncé son agent.",
     "url": "https://www.rfi.fr/fr/culture/20261007-d%C3%A9c%C3%A8s-%C3%A0-102-ans-d-eva-marie-saint-star-de-sur-les-quais-et-la-mort-aux-trousses-%C3%A9tats-unis-hollywood",
     "publie": "2026-10-07T16:25:50+00:00",
-    "resume": "L'actrice américaine Eva Marie Saint, célèbre pour ses rôles dans des films de Kazan et Hitchcock, est décédée mardi à l'âge de 102 ans.",
+    "resume": "L'actrice américaine Eva Marie Saint, connue pour ses rôles dans les films « Sur les quais » et « La mort aux trousses », est décédée mardi à l'âge de 102 ans.",
     "rubrique": "Culture",
     "importance": 2
   },
@@ -1262,7 +1274,7 @@
     "extrait": "L'Australie s'apprête à diriger les négociations de la COP31 Climat. Mais le pays est rattrapé par l'actualité: sa Haute Cour de Justice vient de s'opposer à l'extension d'une mine de charbon, trop dangereuse pour le climat. Une décision qui met en lumière la très grande dépendance du pays au charbon. Il représente 9% du PIB australien. Une production massivement exportée, ce qui permet à l'Australie de présenter un bilan d'émissions en baisse tout en augmentant sa production de charbon",
     "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261007-l-australie-future-pr%C3%A9sidente-de-la-cop-pourtant-toujours-tr%C3%A8s-d%C3%A9pendante-du-charbon",
     "publie": "2026-10-07T16:22:49+00:00",
-    "resume": "Alors que l'Australie s'apprête à diriger les négociations de la COP31, sa Haute Cour de Justice s'oppose à l'extension d'une mine de charbon, révélant la dépendance du pays au charbon qui représente 9% de son PIB.",
+    "resume": "L'Australie, future présidente de la COP31 Climat, voit sa Haute Cour s'opposer à l'extension d'une mine de charbon. Le pays reste très dépendant du charbon qui représente 9% de son PIB et augmente sa production malgré ses engagements climatiques.",
     "rubrique": "Environnement",
     "importance": 4
   },
@@ -1274,7 +1286,7 @@
     "extrait": "Aux Comores, une nouvelle loi, votée mais pas encore appliquée, réserve certaines activités de petit commerce aux seuls Comoriens de naissance. Une mesure qui inquiète vivement la communauté malgache installée dans l'archipel. Récit de Maya-Anaïs Yataghène.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-aux-comores-une-nouvelle-loi-inqui%C3%A8te-la-communaut%C3%A9-malgache",
     "publie": "2026-10-07T16:18:37+00:00",
-    "resume": "Aux Comores, une nouvelle loi réserve certaines activités de petit commerce aux seuls Comoriens de naissance, suscitant des inquiétudes au sein de la communauté malgache résidente.",
+    "resume": "Aux Comores, une nouvelle loi réserve certaines activités de petit commerce aux seuls Comoriens de naissance, inquiétant la communauté malgache établie dans l'archipel.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1286,9 +1298,9 @@
     "extrait": "Catherine Vautrin, ministre française des Armées, était ce mardi à Madagascar pour une visite de quelques heures. Elle y a annoncé un don de drones à l'armée malgache, alors que la Grande Île s'est rapprochée de Moscou depuis l'arrivée des militaires au pouvoir il y a un an. Correspondance d'Aurélie Kouman.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-madagascar-la-france-offre-des-drones-%C3%A0-l-arm%C3%A9e-malgache",
     "publie": "2026-10-07T16:16:54+00:00",
-    "resume": "La ministre française des Armées Catherine Vautrin annonce un don de drones à l'armée malgache lors d'une visite à Madagascar.",
+    "resume": "La ministre française des Armées Catherine Vautrin a annoncé un don de drones à l'armée malgache lors d'une visite à Madagascar, alors que le pays s'est rapproché de la Russie depuis l'arrivée des militaires au pouvoir.",
     "rubrique": "Monde",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "abae79c98",
@@ -1298,9 +1310,9 @@
     "extrait": "À l’approche des élections de mi-mandat, les redécoupages électoraux sont au cœur de la bataille entre républicains et démocrates. Quel impact le \"gerrymandering \"peut-il avoir sur les résultats et le contrôle de la Chambre des représentants ? Décryptage avec Jérôme Viala-Godefroy, chargé de cours à Sciences Po, et Matthieu Mabin, correspondant de France 24 à Washington.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-2026-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-faire-basculer-le-congr%C3%A8s",
     "publie": "2026-10-07T16:15:12+00:00",
-    "resume": "À l'approche des midterms, les redécoupages électoraux sont au cœur de la compétition entre républicains et démocrates aux États-Unis.",
+    "resume": "À l'approche des élections de mi-mandat américaines, le redécoupage électoral (gerrymandering) constitue un enjeu majeur pour les républicains et démocrates quant au contrôle de la Chambre des représentants.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a3ca7923d",
@@ -1310,8 +1322,8 @@
     "extrait": "De nouvelles frappes de missiles russes touchent l’Ukraine : à Prylouky, un immeuble a été frappé, faisant 18 morts. Une nouvelle attaque meurtrière contre une zone résidentielle, racontée par Ludovic de Foucaud.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-ukraine-une-frappe-russe-sur-un-immeuble-fait-18-morts-%C3%A0-prylouky",
     "publie": "2026-10-07T16:11:35+00:00",
-    "resume": "Une frappe de missile russe sur un immeuble à Prylouky en Ukraine fait 18 morts.",
-    "rubrique": "Europe",
+    "resume": "Une frappe de missile russe a touché un immeuble à Prylouky en Ukraine, faisant 18 morts dans une zone résidentielle.",
+    "rubrique": "Monde",
     "importance": 4
   },
   {
@@ -1322,9 +1334,9 @@
     "extrait": "Donald Trump parviendra-t-il à préserver la majorité républicaine au Congrès lors des élections de mi-mandat ? Hausse des prix, immigration, intelligence artificielle et guerre en Iran : sa politique intérieure et étrangère s’invite dans la campagne, tandis que les démocrates cherchent à reconquérir les sièges décisifs. Analyse avec Matthieu Mabin, correspondant de France 24, et Jérôme Viala-Godefroy, chargé de cours à Sciences Po.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-midterms-les-d%C3%A9mocrates-peuvent-ils-reprendre-le-congr%C3%A8s-%C3%A0-trump",
     "publie": "2026-10-07T16:10:06+00:00",
-    "resume": "Les démocrates cherchent à reconquérir les sièges décisifs au Congrès lors des midterms face à Trump, sur fond de désaccords sur les prix, l'immigration et la politique étrangère.",
+    "resume": "À l'approche des élections de mi-mandat, les démocrates tentent de reconquérir les sièges décisifs au Congrès face aux républicains de Donald Trump, sur fond d'enjeux comme l'inflation, l'immigration et la guerre en Iran.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a84522290",
@@ -1334,21 +1346,9 @@
     "extrait": "Mbappé, Dembélé, Olise ? Qui devrait être Ballon d’Or ? Marc Perelman a posé la question au milieu du Real Madrid Aurélien Tchouaméni.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-qui-sera-le-ballon-d-or-selon-aur%C3%A9lien-tchouam%C3%A9ni",
     "publie": "2026-10-07T16:07:47+00:00",
-    "resume": "Aurélien Tchouaméni, milieu du Real Madrid, est interrogé sur ses prédictions pour le Ballon d'Or.",
+    "resume": "Aurélien Tchouaméni du Real Madrid s'exprime sur les candidats possibles pour le Ballon d'Or.",
     "rubrique": "Sport",
     "importance": 1
-  },
-  {
-    "id": "af4e48f4d",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Un mois après le cambriolage du musée Renoir de Cagnes-sur-Mer, six personnes placées en garde à vue dont deux suspectées d'être les auteurs",
-    "extrait": "Début septembre, quatre tableaux d'Auguste Renoir, prêtés par le musée d'Orsay au musée Renoir, avaient été dérobés.",
-    "url": "https://www.franceinfo.fr/faits-divers/six-personnes-placees-en-garde-a-vue-dont-les-deux-cambrioleurs-presumes-du-musee-renoir-de-cagnes-sur-mer_8227180.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T16:06:27+00:00",
-    "resume": "Un mois après le vol de quatre tableaux d'Auguste Renoir au musée Renoir de Cagnes-sur-Mer, six personnes sont placées en garde à vue dont deux suspectées d'être les auteurs.",
-    "rubrique": "Belgique",
-    "importance": 3
   },
   {
     "id": "aab1cc787",
@@ -1358,9 +1358,9 @@
     "extrait": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
     "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T16:00:18+00:00",
-    "resume": "Trois ans après les attaques du 7 octobre, des Israéliens réclament des comptes sur les défaillances, tandis que le Premier ministre Netanyahu refuse de prendre toute responsabilité personnelle et refuse d'ordonner une enquête d'État.",
+    "resume": "Trois ans après les attaques du 7 octobre, des Israéliens demandent des comptes sur les défaillances de la sécurité, mais le Premier ministre Benjamin Netanyahu refuse de prendre la responsabilité personnelle et s'oppose à une enquête d'État.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a10f27417",
@@ -1370,9 +1370,9 @@
     "extrait": "Tous les amateurs d’Hitchcock savent reconnaître le thème composé par Bernard Herrmann pour l’un de ses...",
     "url": "https://www.rtbf.be/article/un-soir-un-film-avec-hugues-dayez-hommage-a-eva-marie-saint-star-de-la-mort-aux-trousses-decedee-a-102-ans-11796401",
     "publie": "2026-10-07T16:00:00+00:00",
-    "resume": "Hommage à l'actrice Eva Marie Saint, décédée à 102 ans, connue pour son rôle dans le film d'Hitchcock \"La mort aux trousses\".",
+    "resume": "Hommage à l'actrice Eva Marie Saint, star du film « La mort aux trousses », décédée à 102 ans.",
     "rubrique": "Culture",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "a39ea1e8a",
@@ -1382,7 +1382,7 @@
     "extrait": "Alors que l'agence sanitaire russe affirme qu'aucun risque épidémique n'existe dans la région d'Irkoutsk où un cas de peste pulmonaire est soupçonné suite au décès d'une jeune laborantine, les demandes d'explication se multiplient auprès de Moscou. Les États-Unis, l'Union européenne mais aussi l'OMS demandent de la transparence. Dans le même temps, sur les réseaux sociaux, le flou alimente la désinformation.",
     "url": "https://www.rfi.fr/fr/monde/20261007-russie-%C3%A9pid%C3%A9mie-de-d%C3%A9sinformation-autour-d-un-cas-suspect-de-peste",
     "publie": "2026-10-07T15:51:02+00:00",
-    "resume": "En Russie, un cas suspect de peste pulmonaire dans la région d'Irkoutsk alimente la désinformation sur les réseaux sociaux, tandis que les autorités russes nient tout risque épidémique et que l'OMS et d'autres nations demandent de la transparence.",
+    "resume": "Un cas suspect de peste pulmonaire en Sibérie alimente la désinformation en Russie, tandis que les États-Unis, l'Union européenne et l'OMS demandent de la transparence. Moscou affirme qu'aucun risque épidémique n'existe.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1394,7 +1394,7 @@
     "extrait": "Une jeune laborantine est morte le 2 octobre d'une pneumonie d'origine \"indéterminée\" dans une zone reculée de Sibérie. Si les autorités russes démentent tout \"risque épidémique\", l'OMS, l'Union européenne et les Etats-Unis réclament plus de transparence sur les causes de ce décès.",
     "url": "https://www.franceinfo.fr/monde/russie/quatre-questions-sur-les-soupcons-de-peste-en-russie-qui-inquietent-la-communaute-internationale_8226337.html#xtor=RSS-3-[lestitres]",
     "publie": "2026-10-07T15:40:53+00:00",
-    "resume": "Une jeune laborantine est morte le 2 octobre d'une pneumonie d'origine indéterminée en Sibérie; l'OMS, l'Union européenne et les États-Unis réclament plus de transparence sur les causes, face aux suspicions de peste.",
+    "resume": "Une laborantine est décédée le 2 octobre d'une pneumonie d'origine indéterminée en Sibérie. Bien que les autorités russes nient tout risque épidémique, l'OMS, l'Union européenne et les États-Unis réclament plus de transparence.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1406,7 +1406,7 @@
     "extrait": "Les aides-ménagères veulent se faire entendre. Réunies à Namur ce mercredi, elles ont dénoncé les conséquences...",
     "url": "https://www.rtbf.be/article/titres-services-on-en-vient-a-payer-pour-aller-travailler-les-aides-menageres-interpellent-le-gouvernement-wallon-11796468",
     "publie": "2026-10-07T15:36:22+00:00",
-    "resume": "Les aides-ménagères wallonnes se mobilisent à Namur pour protester contre les conditions de travail dans le secteur des titres-services.",
+    "resume": "Les aides-ménagères wallonnes ont protesté à Namur contre les conséquences du système des titres-services, affirmant qu'elles en viennent à payer pour aller travailler.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1418,9 +1418,9 @@
     "extrait": "Sur les 22,1 kilomètres du parcours tracé autour de Sencur, identique à celui de la course en ligne disputée sur...",
     "url": "https://www.rtbf.be/article/primoz-roglic-devient-champion-d-europe-du-contre-la-montre-a-domicile-ilan-van-wilder-finit-au-pied-du-podium-11796567",
     "publie": "2026-10-07T15:28:54+00:00",
-    "resume": "Primoz Roglic remporte le titre de Champion d'Europe du contre-la-montre à domicile en Slovénie, tandis qu'Ilan Van Wilder finit hors du podium.",
+    "resume": "Primoz Roglic remporte le titre de Champion d'Europe du contre-la-montre à domicile. Ilan Van Wilder termine au pied du podium sur les 22,1 kilomètres de l'épreuve.",
     "rubrique": "Sport",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a01d91cf1",
@@ -1430,7 +1430,7 @@
     "extrait": "Le meurtre présumé samedi 3 octobre d’une habitante d’Okinawa par un Marine américain continue d'alimenter de vives tensions dans le sud du Japon. Malgré le couvre-feu d'un mois imposé par le commandement militaire américain aux troupes stationnées sur l'île, le gouverneur d'Okinawa a réaffirmé l'urgence d'alléger le fardeau que font peser ces bases sur l'archipel.",
     "url": "https://www.rfi.fr/fr/asie-pacifique/20261007-japon-les-soldats-am%C3%A9ricains-soumis-%C3%A0-un-couvre-feu-%C3%A0-okinawa-apr%C3%A8s-le-meurtre-d-une-femme",
     "publie": "2026-10-07T14:51:23+00:00",
-    "resume": "Suite au meurtre présumé d'une habitante d'Okinawa par un Marine américain samedi 3 octobre, les soldats américains sont soumis à un couvre-feu d'un mois, tandis que le gouverneur réclame un allègement du fardeau des bases militaires.",
+    "resume": "Suite au meurtre présumé d'une habitante d'Okinawa par un Marine américain le 3 octobre, un couvre-feu d'un mois a été imposé aux troupes américaines stationnées sur l'île. Le gouverneur d'Okinawa réaffirme l'urgence de réduire le poids des bases militaires.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1442,7 +1442,7 @@
     "extrait": "Selon Frédéric Francis, professeur d’entomologie (Gembloux Agro-Bio Tech), les punaises qui tentent actuellement de se...",
     "url": "https://www.rtbf.be/article/a-la-recherche-d-un-abri-pour-l-hiver-les-punaises-marbrees-s-invitent-dans-les-maisons-11796299",
     "publie": "2026-10-07T13:14:16+00:00",
-    "resume": "À l'approche de l'hiver, les punaises marbrées s'invitent dans les maisons belges en quête d'abri.",
+    "resume": "À l'approche de l'hiver, les punaises marbrées s'invitent dans les maisons en Belgique à la recherche d'abris, selon le professeur d'entomologie Frédéric Francis.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -1454,7 +1454,7 @@
     "extrait": "Vladimir Poutine a déclaré que ces magasins pourraient revenir à leurs propriétaires occidentaux. Dans les faits, par le biais d’une société-écran, Moscou en organise la confiscation. Après la mise « sous administration temporaire » devrait venir la répartition de ces actifs entre sociétés amies.",
     "url": "https://www.lemonde.fr/economie/article/2026/10/07/comment-le-kremlin-orchestre-la-reprise-des-actifs-russes-de-leroy-merlin-auchan-nestle-et-fm-logistic_6789604_3234.html",
     "publie": "2026-10-07T13:00:09+00:00",
-    "resume": "Le Kremlin orchestre la reprise des actifs russes de Leroy-Merlin, Auchan, Nestlé et FM Logistic par le biais d'une société-écran, en prélude à leur répartition entre sociétés amies, bien que Poutine ait déclaré qu'ils pourraient revenir à leurs propriétaires occidentaux.",
+    "resume": "Le Kremlin orchestre la reprise des actifs russes de Leroy-Merlin, d'Auchan, de Nestlé et de FM Logistic par le biais d'une société-écran, organisant leur confiscation malgré les déclarations de Poutine sur leur possible restitution.",
     "rubrique": "Économie",
     "importance": 4
   },
@@ -1466,7 +1466,7 @@
     "extrait": "Les autorités russes ont affirmé mercredi 7 octobre qu'il n'existait « aucun risque épidémique » en Sibérie après la mort d'une laborantine d'un institut travaillant sur la peste. Le Kremlin dénonce des « fausses informations » alors que les appels à plus de transparence se multiplient, notamment de la part de l'OMS, de l'UE et des États-Unis.",
     "url": "https://www.rfi.fr/fr/europe/20261007-soup%C3%A7ons-de-peste-en-russie-le-kremlin-d%C3%A9plore-une-multitude-de-fausses-informations",
     "publie": "2026-10-07T12:20:04+00:00",
-    "resume": "Les autorités russes affirment qu'il n'existe aucun risque épidémique suite à la mort d'une laborantine d'un institut travaillant sur la peste en Sibérie, tandis que l'OMS, l'Union européenne et les États-Unis réclament plus de transparence.",
+    "resume": "Après la mort d'une laborantine d'un institut travaillant sur la peste en Sibérie, les autorités russes affirment qu'il n'existe aucun risque épidémique. L'OMS, l'Union européenne et les États-Unis appellent à plus de transparence.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1478,9 +1478,9 @@
     "extrait": "Outre les résultats impressionnants au premier tour de l’élection présidentielle brésilienne du candidat d’extrême droite, Flavio Bolsonaro, son parti s’assure une place de choix au Sénat. Cette mainmise sur la Chambre haute du Parlement offrirait aux bolsonaristes les moyens de leurs ambitions.",
     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
     "publie": "2026-10-07T11:49:36+00:00",
-    "resume": "Le candidat d'extrême droite Flavio Bolsonaro obtient des résultats impressionnants au premier tour de l'élection présidentielle brésilienne, et son parti assure une place importante au Sénat.",
+    "resume": "Au Brésil, les résultats électoraux impressionnants du candidat d'extrême droite Flavio Bolsonaro au premier tour et la mainmise bolsonariste au Sénat façonneront la prochaine présidence.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a77af0ab4",
@@ -1490,7 +1490,7 @@
     "extrait": "Nidal Hasan, un Américain musulman d'origine palestinienne, avait ouvert le feu le 5 novembre 2009 dans un centre médical...",
     "url": "https://www.rtbf.be/article/etats-unis-donald-trump-approuve-la-mise-a-mort-par-peloton-d-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire-11795557",
     "publie": "2026-10-07T11:22:57+00:00",
-    "resume": "Donald Trump approuve l'exécution par peloton d'exécution de Nidal Hasan, auteur d'une fusillade le 5 novembre 2009 dans un centre médical sur une base militaire.",
+    "resume": "Donald Trump approuve la mise à mort par peloton d'exécution de Nidal Hasan, un Américain d'origine palestinienne qui avait ouvert le feu le 5 novembre 2009 dans un centre médical militaire.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1502,7 +1502,7 @@
     "extrait": "Le 7 octobre 2023, Israël déclare l’état de guerre et lance des frappes militaires sur la bande de Gaza. Une campagne de bombardements intensifs qui visent officiellement le Hamas et qui se poursuit malgré un cessez-le-feu proclamé l'an dernier. Dans un territoire si densément peuplé et surtout sous blocus depuis 2007, c'est la population civile qui en subit les conséquences.",
     "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza",
     "publie": "2026-10-07T10:15:31+00:00",
-    "resume": "Trois ans après le 7 octobre 2023, les familles de Gaza accumulent les traumatismes d'une campagne de bombardements intensifs poursuivie malgré un cessez-le-feu proclamé l'an dernier.",
+    "resume": "Trois ans après le 7 octobre 2023, les familles de Gaza accumulent les traumatismes. Bien qu'un cessez-le-feu ait été proclamé l'an dernier, les bombardements se poursuivent contre la population civile d'un territoire densément peuplé et sous blocus depuis 2007.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1514,7 +1514,7 @@
     "extrait": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
     "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T10:01:47+00:00",
-    "resume": "Christa Pike, condamnée pour le meurtre de Colleen Slemmer, aurait survécu à une tentative d'exécution et serait consciente à l'hôpital du Tennessee.",
+    "resume": "Christa Pike, condamnée pour le meurtre de Colleen Slemmer, a survécu à une tentative d'exécution en Tennessee et est hospitalisée, consciente et capable de communiquer.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1526,7 +1526,7 @@
     "extrait": "Le gouvernement français a évoqué une mobilisation lycéenne en « net recul », alors que les manifestations se sont poursuivies mercredi 7 octobre. En parallèle, des syndicats de l'Éducation ont appelé à la grève jeudi pour continuer de soutenir le mouvement des lycéens. Interrogé par une commission de députés au sujet des violences disproportionnées dont sont accusées les forces de l'ordre, le ministre de l'Intérieur a estime qu'il était « excessif de parler de répression policière ».",
     "url": "https://www.rfi.fr/fr/france/20261007-en-direct-mobilisation-des-lyc%C3%A9es-235-%C3%A9l%C3%A8ves-bless%C3%A9s-et-18-enqu%C3%AAtes-de-l-igpn-en-cours-annonce-laurent-nunez",
     "publie": "2026-10-07T09:19:10+00:00",
-    "resume": "Le ministre français de l'Intérieur conteste les accusations de violences disproportionnées des forces de l'ordre lors des manifestations lycéennes qui se poursuivent, tandis que des syndicats de l'Éducation appellent à la grève jeudi.",
+    "resume": "En France, le ministre de l'Intérieur rejette les accusations de répression policière dispropositionnée lors du mouvement des lycéens qui s'est poursuivi mercredi, tandis que des syndicats de l'Éducation appellent à la grève jeudi pour soutenir la mobilisation.",
     "rubrique": "Europe",
     "importance": 3
   },
@@ -1538,7 +1538,7 @@
     "extrait": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
     "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-07T05:00:21+00:00",
-    "resume": "Certains candidats républicains aux élections de novembre cherchent à déterminer s'ils doivent se distancer d'un président impopulaire qui domine toujours son parti.",
+    "resume": "Certains candidats républicains aux élections de novembre doivent décider s'ils vont prendre distance avec un président impopulaire qui domine toujours le parti.",
     "rubrique": "Monde",
     "importance": 2
   }

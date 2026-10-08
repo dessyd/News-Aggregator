@@ -1,10 +1,28 @@
 [
   {
+    "id": "a88f04b63",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"Nous avons estimé que nous pouvions le conserver dans notre liste\", justifie le secrétaire général du prix Renaudot à propos de Thélyson Orélien soupçonné d'avoir eu recours à l'IA",
+    "extrait": "\"C'était ça ou mourir\", l'ouvrage mis en cause, a toutefois été retiré de la sélection du prix Goncourt et écarté de la deuxième sélection du prix Femina à cause de ces accusations.",
+    "url": "https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/nous-avons-estime-que-nous-pouvions-le-conserver-dans-notre-liste-justifie-le-secretaire-general-du-prix-renaudot-a-propos-de-thelyson-orelien-soupconne-d-avoir-eu-recours-a-l-ia_8227927.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-08T06:13:39+00:00"
+  },
+  {
+    "id": "a991a0a5b",
+    "source": "franceinfo",
+    "lang": "fr",
+    "titre": "\"L'un des épisodes les plus intenses depuis au moins 1950\" : le phénomène météorologique El Niño va continuer de s'intensifier jusqu'en décembre",
+    "extrait": "C'est ce qui ressort du dernier bulletin saisonnier sur le climat, publié jeudi par l'Organisation météorologique mondiale, une agence de l'ONU.",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/l-un-des-episodes-les-plus-intenses-depuis-au-moins-1950-le-phenomene-meteorologique-el-nino-va-continuer-de-s-intensifier-jusqu-en-decembre_8227891.html#xtor=RSS-3-[lestitres]",
+    "publie": "2026-10-08T06:11:23+00:00"
+  },
+  {
     "id": "a407587d6",
     "source": "France 24",
     "lang": "fr",
     "titre": "Le phénomène météorologique El Niño amené à s'intensifier jusqu'en décembre",
-    "extrait": "L'Organisation météorologique mondiale (OMM) surveille de près cet épisode d'El Niño qui s'annonce déjà exceptionnel par son ampleur et sa durée. Après avoir atteint un pic en décembre, ce phénomène météorologique récurrent, qui aggrave les conséquences du réchauffement climatique, pourrait durer jusqu'en février 2027.",
+    "extrait": "Depuis le mois de juin, l'Organisation météorologique mondiale (OMM) surveille de près cet épisode d'El Niño qui s'annonce déjà exceptionnel par son ampleur et sa durée. Après avoir atteint un pic en décembre, ce phénomène météorologique récurrent, qui aggrave les conséquences du réchauffement climatique, pourrait durer jusqu'en février 2027.",
     "url": "https://www.france24.com/fr/plan%C3%A8te/20261008-le-ph%C3%A9nom%C3%A8ne-m%C3%A9t%C3%A9orologique-el-ni%C3%B1o-amen%C3%A9-%C3%A0-s-intensifier-jusqu-en-d%C3%A9cembreg",
     "publie": "2026-10-08T06:08:39+00:00"
   },
@@ -49,7 +67,7 @@
     "source": "Le Monde",
     "lang": "fr",
     "titre": "En Espagne, la mort de Maricarmen Abascal, symbole de la crise du logement, suscite une forte émotion",
-    "extrait": "L’octogénaire est morte mercredi à l’âge de 87 ans. Son expulsion avait déclenché une vague de protestations et placé le logement au cœur du débat politique, jusqu’à provoquer la dissolution du Parlement et des élections anticipées.",
+    "extrait": "L’octogénaire est décédée mercredi à l’âge de 87 ans. Son expulsion avait déclenché une vague de protestations et placé le logement au cœur du débat politique, jusqu’à provoquer la dissolution du Parlement et des élections législatives anticipées.",
     "url": "https://www.lemonde.fr/international/article/2026/10/08/en-espagne-le-deces-de-maricarmen-abascal-symbole-de-la-crise-du-logement-suscite-une-forte-emotion_6790065_3210.html",
     "publie": "2026-10-08T05:43:51+00:00"
   },
@@ -345,7 +363,7 @@
     "id": "a1d239b55",
     "source": "Le Monde",
     "lang": "fr",
-    "titre": "Sébastien Lecornu accablé par « la superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
+    "titre": "Sébastien Lecornu accablé par la « superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
     "extrait": "Dans une allocution télévisée, mercredi soir, le premier ministre a corrigé sa posture vis-à-vis du mouvement des lycéens, manifestant une forme de compréhension. Mais il a prévenu qu’il ne pourrait pas répondre à leurs principales revendications. Evoquant également les autres crises que traverse la France, il a annoncé des mesures sur le prix du gazole à la pompe.",
     "url": "https://www.lemonde.fr/politique/article/2026/10/08/sebastien-lecornu-accable-par-la-superposition-des-crises-du-mouvement-lyceen-a-la-baisse-du-pouvoir-d-achat_6789890_823448.html",
     "publie": "2026-10-08T03:29:42+00:00"
@@ -808,15 +826,6 @@
     "publie": "2026-10-07T18:47:21+00:00"
   },
   {
-    "id": "a472f1c02",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Procès des attentats de Trèbes et Carcassonne : des peines alourdies en appel à 12 ans et 10 ans de détention pour deux accusés",
-    "extrait": "Cet attentat terroriste avait conduit à la mort du gendarme Arnaud Beltrame et de trois autres victimes, le 23 mars 2018.",
-    "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-terroristes-dans-l-aude/proces-des-attentats-de-trebes-et-carcassonne-des-peines-alourdies-en-appel-a-12-ans-et-10-ans-de-detention-pour-deux-accuses_8227357.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T18:42:42+00:00"
-  },
-  {
     "id": "a7488e81a",
     "source": "France 24",
     "lang": "fr",
@@ -1004,15 +1013,6 @@
     "extrait": "Mbappé, Dembélé, Olise ? Qui devrait être Ballon d’Or ? Marc Perelman a posé la question au milieu du Real Madrid Aurélien Tchouaméni.",
     "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-qui-sera-le-ballon-d-or-selon-aur%C3%A9lien-tchouam%C3%A9ni",
     "publie": "2026-10-07T16:07:47+00:00"
-  },
-  {
-    "id": "af4e48f4d",
-    "source": "franceinfo",
-    "lang": "fr",
-    "titre": "Un mois après le cambriolage du musée Renoir de Cagnes-sur-Mer, six personnes placées en garde à vue dont deux suspectées d'être les auteurs",
-    "extrait": "Début septembre, quatre tableaux d'Auguste Renoir, prêtés par le musée d'Orsay au musée Renoir, avaient été dérobés.",
-    "url": "https://www.franceinfo.fr/faits-divers/six-personnes-placees-en-garde-a-vue-dont-les-deux-cambrioleurs-presumes-du-musee-renoir-de-cagnes-sur-mer_8227180.html#xtor=RSS-3-[lestitres]",
-    "publie": "2026-10-07T16:06:27+00:00"
   },
   {
     "id": "aab1cc787",
