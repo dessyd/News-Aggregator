@@ -30,7 +30,6 @@ on:
 permissions:
   id-token: write
   contents: write
-  pages: write
 
 concurrency:
   group: revue-de-presse
@@ -98,9 +97,25 @@ jobs:
             git push
           fi
 
-      - name: Déclencher le déploiement GitHub Pages
-        # Un push fait avec GITHUB_TOKEN ne déclenche pas la construction de Pages : on la demande explicitement.
-        if: ${{ !cancelled() }}
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "::warning::Déclenchement de Pages échoué"
+  deploy:
+    # Un push fait avec GITHUB_TOKEN ne déclenche pas la construction de Pages : on déploie explicitement docs/.
+    needs: essai
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
