@@ -2,13 +2,14 @@ name: Revue de presse quotidienne
 
 on:
   schedule:
-    # 05:00 UTC = 07:00 en été (CEST) / 06:00 en hiver (CET). GitHub peut retarder l'exécution de quelques minutes.
-    - cron: "0 5 * * *"
+    # 05:17 UTC (minute décalée : les cron « pile à l'heure » sont souvent retardés ou perdus) = 07:17 en été (CEST) / 06:17 en hiver (CET). GitHub peut retarder l'exécution de quelques minutes.
+    - cron: "17 5 * * *"
   workflow_dispatch:
 
 permissions:
   id-token: write
   contents: write
+  pages: write
 
 concurrency:
   group: revue-de-presse
@@ -56,3 +57,10 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Déclencher le déploiement GitHub Pages
+        # Un push fait avec GITHUB_TOKEN ne déclenche pas la construction de Pages : on la demande explicitement.
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "::warning::Déclenchement de Pages échoué"

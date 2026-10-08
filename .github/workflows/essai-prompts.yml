@@ -30,6 +30,7 @@ on:
 permissions:
   id-token: write
   contents: write
+  pages: write
 
 concurrency:
   group: revue-de-presse
@@ -96,3 +97,10 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Déclencher le déploiement GitHub Pages
+        # Un push fait avec GITHUB_TOKEN ne déclenche pas la construction de Pages : on la demande explicitement.
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent || echo "::warning::Déclenchement de Pages échoué"
