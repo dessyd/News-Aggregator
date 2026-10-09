@@ -51,6 +51,23 @@ Les commentaires `<!-- ... -->` des fichiers de prompts ne sont pas envoyés au 
 
 Ensuite la revue est générée automatiquement chaque jour vers 7 h (heure de Bruxelles en été, 6 h en hiver).
 
+## Flux dont l'adresse est secrète (`url_env`)
+
+L'adresse du flux de sortie d'un lecteur (Inoreader, par exemple) contient un jeton : elle donne accès à votre compte et ne doit **jamais** figurer dans le dépôt, qui est public.
+Une entrée de `config/feeds.yaml` peut la lire dans une variable d'environnement :
+
+```yaml
+  - name: Le Soir
+    url_env: LESOIR_FEED_URL      # nom de la variable, pas l'adresse
+    lang: fr
+```
+
+1. Dépôt → *Settings → Secrets and variables → Actions* → créer le secret `LESOIR_FEED_URL` (ou, en ligne de commande, `gh secret set LESOIR_FEED_URL`, saisie masquée).
+2. Déclarer la variable dans l'étape « Générer la revue » de `.github/workflows/revue-quotidienne.yml` : `LESOIR_FEED_URL: ${{ secrets.LESOIR_FEED_URL }}`.
+   Sans cette ligne, GitHub ne transmet pas le secret au programme.
+
+Une variable absente, vide ou invalide est signalée dans les avertissements sans interrompre la revue. Le rapport de collecte et les messages d'erreur affichent `env:NOM`, jamais l'adresse. Pour ces flux, le texte d'une erreur n'est **pas recopié** (il pourrait citer l'adresse ou une redirection) : seuls l'étiquette et le type d'erreur (par exemple `OSError`) sont conservés, avec le statut HTTP du rapport.
+
 ## Boucle de travail éditoriale (sans rien installer)
 
 1. Modifier un fichier de `prompts/` directement sur GitHub (bouton crayon) et enregistrer (*commit*).
