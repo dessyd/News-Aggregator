@@ -1,8 +1,10 @@
 """Tests du pipeline avec un faux modèle (aucun appel réseau, aucune clé API)."""
+import http.client
 import json
 import re
 import sys
 import urllib.error
+import urllib.parse
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
@@ -282,11 +284,12 @@ class FakeNewsBlur:
     def __init__(self, pages, ids=(1,), error=None):
         self.pages, self.ids, self.error, self.calls, self.last_status = pages, list(ids), error, [], 200
 
-    def folder_feed_ids(self, folder):
+    def folder_feeds(self, folder):
         if self.error:
             raise self.error
         self.calls.append(("dossier", folder))
-        return self.ids
+        return [{"id": i, "title": f"Flux {i}", "address": "http://soir.test/rss", "link": "http://soir.test/"}
+                for i in self.ids]
 
     def river_stories(self, ids, page):
         self.calls.append(("page", page))
@@ -388,8 +391,11 @@ class FakeOpener:
             if fragment in url:
                 if isinstance(rep, Exception):
                     raise rep
-                return FakeHTTP(rep)
+                return FakeHTTP(rep(url, data) if callable(rep) else rep)
         raise AssertionError(f"appel inattendu : {url}")
+
+    def count(self, fragment):
+        return sum(fragment in u for u in self.urls)
 
 
 def test_newsblur_client_login_folders_and_stories():
@@ -397,8 +403,8 @@ def test_newsblur_client_login_folders_and_stories():
     opener = FakeOpener({"/api/login": {"authenticated": True}, "/reader/feeds": {"folders": folders},
                          "/reader/river_stories": {"stories": [story(1)]}})
     client = NewsBlurClient("utilisateur", "motdepasse-secret", opener=opener)
-    assert client.folder_feed_ids("belgique") == [11, 12]            # insensible à la casse, sous-dossiers compris
-    assert client.folder_feed_ids("Inconnu") == []
+    assert [f["id"] for f in client.folder_feeds("belgique")] == [11, 12]   # insensible à la casse, sous-dossiers compris
+    assert client.folder_feeds("Inconnu") == []
     assert client.river_stories([11, 12], 2) == [story(1)]
     assert sum("/api/login" in u for u in opener.urls) == 1          # une seule connexion par exécution
     assert "motdepasse-secret" not in " ".join(opener.urls)          # le mot de passe ne figure jamais dans une URL
@@ -416,3 +422,103 @@ def test_newsblur_client_errors_never_reveal_credentials():
     with pytest.raises(NewsBlurError, match="HTTP 403"):
         blocked.login()
     assert blocked.last_status == 403
+
+
+# ------------------------------------------------------------------ NewsBlur : défauts relevés à la revue (PR #8)
+def nb_server(folders, feeds, stories=()):
+    """Faux serveur NewsBlur complet (connexion, abonnements, articles), accessible par un vrai NewsBlurClient."""
+    return FakeOpener({
+        "/api/login": {"authenticated": True},
+        "/reader/feeds": {"folders": folders, "feeds": feeds},
+        "/reader/river_stories": lambda url, data: {   # des articles à la page 1 seulement, comme un vrai dossier
+            "stories": list(stories) if urllib.parse.parse_qs(urllib.parse.urlsplit(url).query)["page"] == ["1"] else []},
+    })
+
+
+def nb_feed(i, host):
+    return {"id": i, "feed_title": f"Flux {i}", "feed_address": f"https://{host}/rss/{i}", "feed_link": f"https://{host}/"}
+
+
+@pytest.mark.parametrize("exc", [TimeoutError("timed out"), ConnectionResetError("reset"),
+                                 http.client.RemoteDisconnected("closed"), http.client.IncompleteRead(b"x")])
+def test_newsblur_network_errors_are_reported_not_raised(exc):
+    client = NewsBlurClient("u", "motdepasse-secret", opener=FakeOpener({"/api/login": exc}))
+    arts, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=client)
+    assert arts == [] and not rep["ok"]
+    assert rep["error"].startswith("réseau")          # une panne réseau est nommée comme telle, pas comme un bogue
+    assert "motdepasse-secret" not in rep["error"]
+
+
+@pytest.mark.parametrize("opener", [
+    FakeOpener({"/api/login": []}),                                                              # JSON : liste, pas objet
+    FakeOpener({"/api/login": {"authenticated": True}, "/reader/feeds": {"folders": {"a": 1}}}),  # dossiers : pas une liste
+    nb_server([{"Le Soir": [11]}], {"11": nb_feed(11, "www.lesoir.be")}, stories="pas une liste"),
+    nb_server([{"Le Soir": [11]}], {"11": nb_feed(11, "www.lesoir.be")}, stories=["pas un objet", 3]),
+])
+def test_newsblur_malformed_payloads_are_reported_not_raised(opener):
+    arts, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=NewsBlurClient("u", "p", opener=opener))
+    assert arts == [] and not rep["ok"] and rep["error"]
+
+
+def test_newsblur_unexpected_bug_is_contained_and_collect_goes_on():
+    class Broken(FakeNewsBlur):
+        def river_stories(self, ids, page):
+            raise RuntimeError("boum")
+
+    _, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=Broken([]))
+    assert not rep["ok"] and "RuntimeError" in rep["error"]
+    arts, report = collect([FEEDS[0], NEWS], SETTINGS["collect"], now=NOW, parse=fake_parse_factory(), newsblur=Broken([]))
+    assert arts and [r["ok"] for r in report] == [True, False]       # la revue continue avec les autres sources
+
+
+def test_newsblur_asks_for_hidden_stories_too():
+    opener = nb_server([{"Le Soir": [11]}], {"11": nb_feed(11, "www.lesoir.be")}, stories=[story(1)])
+    fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=NewsBlurClient("u", "p", opener=opener))
+    stories_url = next(u for u in opener.urls if "/reader/river_stories" in u)
+    assert "include_hidden=true" in stories_url      # le filtrage personnel du compte ne doit pas vider la revue publique
+
+
+def test_newsblur_mixed_folder_is_refused_unless_a_site_is_given():
+    folders = [{"Belgique": [11, 12]}]
+    feeds = {"11": nb_feed(11, "www.lesoir.be"), "12": nb_feed(12, "www.lalibre.be")}
+    # sans `site` : refusé, plutôt que d'étiqueter La Libre « Le Soir »
+    opener = nb_server(folders, feeds, stories=[story(1)])
+    arts, rep = fetch_newsblur({**NEWS, "folder": "Belgique"}, SETTINGS["collect"], NOW,
+                               client=NewsBlurClient("u", "p", opener=opener))
+    assert arts == [] and not rep["ok"]
+    assert "mixte" in rep["error"] and "lesoir.be" in rep["error"] and "lalibre.be" in rep["error"]
+    assert opener.count("/reader/river_stories") == 0
+    # avec `site` : seul le flux correspondant est lu
+    opener = nb_server(folders, feeds, stories=[story(1)])
+    arts, rep = fetch_newsblur({**NEWS, "folder": "Belgique", "site": "lesoir.be"}, SETTINGS["collect"], NOW,
+                               client=NewsBlurClient("u", "p", opener=opener))
+    assert rep["ok"] and [a["source"] for a in arts] == ["Le Soir"]
+    stories_url = next(u for u in opener.urls if "/reader/river_stories" in u)
+    assert "feeds=11" in stories_url and "feeds=12" not in stories_url
+    # `site` qui ne correspond à rien : erreur explicite
+    arts, rep = fetch_newsblur({**NEWS, "folder": "Belgique", "site": "inconnu.be"}, SETTINGS["collect"], NOW,
+                               client=NewsBlurClient("u", "p", opener=nb_server(folders, feeds, stories=[story(1)])))
+    assert arts == [] and not rep["ok"] and "aucun flux" in rep["error"]
+
+
+def test_collect_shares_one_newsblur_session_between_entries(monkeypatch):
+    opener = nb_server([{"Soir": [11]}, {"Sud": [12]}],
+                       {"11": nb_feed(11, "www.lesoir.be"), "12": nb_feed(12, "www.sudinfo.be")}, stories=[story(1)])
+    monkeypatch.setattr(NewsBlurClient, "from_env", classmethod(lambda cls: cls("u", "p", opener=opener)))
+    entries = [{"name": "Le Soir", "type": "newsblur", "folder": "Soir"},
+               {"name": "Sudinfo", "type": "newsblur", "folder": "Sud"}]
+    _, report = collect(entries, SETTINGS["collect"], now=NOW, parse=fake_parse_factory())
+    assert all(r["ok"] for r in report)
+    assert opener.count("/api/login") == 1             # une seule connexion par exécution
+    assert opener.count("/reader/feeds") == 1          # la liste des abonnements n'est téléchargée qu'une fois
+    assert opener.count("/reader/river_stories") >= 2  # mais chaque dossier est bien lu
+
+
+def test_newsblur_failed_login_is_not_retried_for_every_entry(monkeypatch):
+    opener = FakeOpener({"/api/login": {"authenticated": False}})
+    monkeypatch.setattr(NewsBlurClient, "from_env", classmethod(lambda cls: cls("u", "mauvais", opener=opener)))
+    entries = [{"name": "Le Soir", "type": "newsblur", "folder": "Soir"},
+               {"name": "Sudinfo", "type": "newsblur", "folder": "Sud"}]
+    _, report = collect(entries, SETTINGS["collect"], now=NOW, parse=fake_parse_factory())
+    assert [r["ok"] for r in report] == [False, False] and all("refusée" in r["error"] for r in report)
+    assert opener.count("/api/login") == 1             # pas de connexions répétées avec de mauvais identifiants

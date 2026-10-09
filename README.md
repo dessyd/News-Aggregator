@@ -57,6 +57,8 @@ Certains journaux (Le Soir) refusent les lectures automatiques du collecteur (40
 Une entrée `type: newsblur` de `config/feeds.yaml` lit un **dossier NewsBlur** par l'API (compte **Premium** requis : un compte gratuit n'obtient que 3 articles).
 
 1. Dans NewsBlur, mettre le ou les flux du journal dans un dossier et reporter son nom dans `folder:`.
+   **Un journal par dossier** : tous les articles lus portent le nom de l'entrée, donc un dossier qui mélangerait plusieurs journaux
+   est refusé (message « dossier mixte »). Pour n'en lire qu'un, ajouter `site: lesoir.be` (texte que doit contenir l'adresse du flux ou du site).
 2. Dépôt → *Settings → Secrets and variables → Actions* → ajouter les **secrets** `NEWSBLUR_USERNAME` et `NEWSBLUR_PASSWORD`
    (un compte NewsBlur dédié est préférable à un compte personnel). Ne jamais les écrire dans le dépôt.
 3. Passer `enabled: true` sur l'entrée. Sans identifiants, la source est signalée en échec dans les avertissements sans interrompre la revue.

@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
-from .collect import collect, fetch_source, load_feeds, sample
+from .collect import collect, fetch_source, load_feeds, sample, shared_newsblur
 from .pipeline import Pipeline
 from .render import publish, publish_test, render_compare, render_digest
 from .util import read_json, write_json
@@ -69,8 +69,10 @@ def print_usage(llm):
 def cmd_check_feeds(args, settings):
     feeds = load_feeds(CONFIG / "feeds.yaml")
     bad = 0
+    newsblur = shared_newsblur(feeds)
     for feed in feeds:
-        arts, rep = fetch_source(feed, {**settings["collect"], "max_age_hours": 24 * 365}, datetime.now(timezone.utc))
+        arts, rep = fetch_source(feed, {**settings["collect"], "max_age_hours": 24 * 365}, datetime.now(timezone.utc),
+                                 newsblur=newsblur)
         if rep["ok"]:
             print(f"OK    {feed['name']:<20} {rep['entries']:>3} entrées, {rep['with_summary']} avec extrait")
         else:

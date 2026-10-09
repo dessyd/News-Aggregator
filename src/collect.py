@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 import feedparser
 import yaml
 
-from .newsblur import fetch_newsblur
+from .newsblur import NewsBlurClient, fetch_newsblur
 from .util import article_id, is_http_url, strip_html
 
 UA = "revue-de-presse/1.0 (projet pedagogique)"
@@ -140,8 +140,16 @@ def fetch_source(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse, n
     return fetch_feed(feed, cfg, now, parse=parse)
 
 
+def shared_newsblur(feeds: list[dict], newsblur=None):
+    """Un seul client NewsBlur (une connexion, un téléchargement des abonnements) pour toutes les entrées `type: newsblur`."""
+    if newsblur is None and any(f.get("type") == "newsblur" for f in feeds):
+        return NewsBlurClient.from_env()
+    return newsblur
+
+
 def collect(feeds: list[dict], cfg: dict, now: datetime | None = None, parse=feedparser.parse, newsblur=None):
     now = now or datetime.now(timezone.utc)
+    newsblur = shared_newsblur(feeds, newsblur)
     all_articles: list[dict] = []
     reports = []
     for feed in feeds:
