@@ -86,7 +86,7 @@ Le site est aussi fermé aux outils web de Claude. Le collecteur du projet ne pe
 |---|---|---|
 | Feeder (offre gratuite) | Lit Le Soir | Pas d'accès programmatique sans plan Plus (connecteur) |
 | Inoreader | Lit Le Soir | À contrôler : fraîcheur, plafond d'articles du flux de sortie, nom du journal conservé |
-| NewsBlur | Lit Le Soir | Le flux RSS d'un dossier est inutilisable en dessous du plan Archive (voir ci-dessous) |
+| NewsBlur | Lit Le Soir, **articles du jour** | Flux RSS de dossier inutilisable sous le plan Archive ; **API utilisable en Premium** (voir « Essai de l'API NewsBlur ») |
 | Feedbin | **Anciens articles seulement** | Écarté pour Le Soir ; reste valable pour les autres sources (API incluse) |
 
 La fraîcheur des articles doit être vérifiée pour chaque lecteur : « lit Le Soir » ne garantit pas des articles du jour.
@@ -103,11 +103,57 @@ Un fichier d'import est fourni : `config/feeds.opml` (flux du projet + sept flux
 | **Google Actualités** (`news.google.com/rss/search?q=site:lesoir.be…`) | Testé : 100 entrées, source « Le Soir », HTTP 200, sans lire lesoir.be | Pas d'extrait (titre seul) ; liens redirigés par Google ; suffixe « - Le Soir » à retirer ; conditions de Google à vérifier |
 | **Feeder Plus** | Lit déjà Le Soir ; connecteur Claude (MCP) sur plan Plus ou Professional | Pas de flux de sortie ; accès programmatique à confirmer ; environ 96 $/an |
 | **Inoreader Pro** | Flux de sortie RSS, JSON ou OPML d'un dossier ou d'une étiquette ; API réservée à Pro (portail développeur), 100 requêtes par jour en lecture par défaut | Fonction de flux de sortie : Pro d'après Inoreader, sans phrase explicite ; plafond d'articles et nom des sources **non vérifiés** ; environ 90 $/an |
-| **NewsBlur** | Flux Atom d'un dossier : `/reader/folder_rss/<utilisateur>/<jeton>/<filtre>/<dossier>` (code source public) | **20 articles au maximum** (`limit: 20`), cache de 60 s ; **plan Premium Archive requis** (99 $/an) : sans lui le flux ne contient qu'un message d'erreur (*« You must have a premium archive subscription… »*), constaté le 9 octobre sur un dossier réel. API : OAuth sur demande par e-mail, ou mot de passe ; pages d'une douzaine d'articles |
+| **NewsBlur** | Flux Atom d'un dossier : `/reader/folder_rss/<utilisateur>/<jeton>/<filtre>/<dossier>` (code source public) | **20 articles au maximum** (`limit: 20`), cache de 60 s ; **plan Premium Archive requis** (99 $/an) : sans lui le flux ne contient qu'un message d'erreur (*« You must have a premium archive subscription… »*), constaté le 9 octobre sur un dossier réel. **API** (mot de passe, ou OAuth sur demande par e-mail) : **testée en Premium, 100 articles par page** (voir ci-dessous) |
 | **Feedbin** | Écarté pour Le Soir (anciens articles) | — |
 
 **Comparaison des coûts annuels** pour un flux de dossier : NewsBlur Archive 99 $, Inoreader Pro environ 90 $, Feeder Plus environ 96 $ (7,99 $/mois facturés à l'année),
-à ajouter aux environ 8 $ par mois d'API Anthropic déjà dépensés. NewsBlur Premium à 36 $/an ne suffit pas.
+à ajouter aux environ 8 $ par mois d'API Anthropic déjà dépensés. NewsBlur Premium à 36 $/an ne suffit pas **pour le flux RSS de dossier**, mais suffit **par l'API** (ci-dessous).
+
+### Essai de l'API NewsBlur (compte Premium, 9 octobre 2026)
+
+Script d'essai lancé par le responsable éditorial lui-même (le mot de passe n'a jamais été communiqué) : connexion `POST /api/login`, lecture des dossiers `GET /reader/feeds`,
+puis `GET /reader/river_stories` (`read_filter=all`, `order=newest`, `limit=100`).
+
+- **Plan** : `is_premium: True`, `is_archive: False`. Le code source de NewsBlur limite un compte gratuit à une seule page de 3 articles ; Premium ouvre la lecture par dossier.
+- **Débit** : le serveur accepte 100 articles par page ; 797 articles en 10 requêtes et 12 secondes (dossier de six flux), du 2 au 9 octobre.
+- **Le Soir** : un seul flux ajouté, `https://www.lesoir.be/rss2/9/cible_principale` (3 abonnés NewsBlur), **10 articles, tous du 9 octobre, de 09:20 à 14:59** : environ deux articles par heure.
+  Le dernier date de moins d'une heure : le flux est frais. Les titres lus portent sur l'actualité belge ; la rubrique du flux n'est pas confirmée.
+- **Champs** : titre, adresse de l'article, date, auteurs, flux d'origine (`story_feed_id`) et `story_content` sont présents. `story_content` fait en médiane 401 caractères (maximum 429) : c'est l'extrait fourni par le flux, pas le texte intégral (D7).
+  La troncature à `extrait_max_chars` doit être conservée.
+- **Horodatage** : `story_date` est donné en « heure du serveur », sans fuseau explicite. Le code utilise `story_timestamp` (époque Unix) quand il existe ; à confirmer sur un cas réel.
+- **À vérifier le lendemain matin** : les 10 articles sont une fenêtre unique, le flux ayant sans doute été ajouté le jour même. Il faut constater que NewsBlur **accumule** les nouveaux articles au fil des heures
+  (de l'ordre de 40 par jour pour ce flux). Sinon, la voie ne tient pas.
+- **Couverture** : un seul des sept flux du Soir est suivi. Les six autres (2, 10, 11, 13, 31867, 31876) restent à ajouter, et leurs rubriques à identifier d'après les titres.
+- **Authentification d'un job planifié** (choix en attente) : mot de passe du compte personnel en secret GitHub (simple, mais accès à tout le compte et secret longue durée, contraire à l'esprit de D9) ;
+  compte NewsBlur dédié (cloisonné, mais un second Premium à 36 $/an, car un compte gratuit n'obtient que 3 articles) ; OAuth, dont les identifiants s'obtiennent en écrivant au développeur.
+
+## Autres sources à tester via un lecteur (9 octobre 2026)
+
+Lecture directe depuis le collecteur du projet, une requête par site, agent utilisateur du projet :
+
+| Source | Résultat | Suite |
+|---|---|---|
+| Sudinfo | 403, `AkamaiGHost` (même protection que Le Soir) | **À tester en priorité** dans NewsBlur (ajouter le site, détection automatique du flux) |
+| BX1 | 403, Cloudflare | À tester |
+| Brussels Times | 200 mais une page HTML, pas un flux | À tester ; la bonne adresse est peut-être ailleurs |
+| RTL Info, Belga News Agency | 404 sur les adresses essayées | Trouver d'abord le bon flux (adresses essayées : suppositions, non vérifiées) |
+| Le Parisien | L'ancienne adresse est bloquée (403, Akamai), mais **`https://feeds.leparisien.fr/leparisien/rss` répond (100 entrées)** | Lisible directement |
+| La DH, L'Avenir, 7sur7, HLN, Bruzz, Le Figaro, Libération, Courrier international, Euronews FR, The Guardian | 200 avec des articles | Lisibles directement. À valider avant activation : pertinence, doublons, extraits (7sur7 sans extrait) ; l'adresse de La DH essayée est un flux Arc général, différent de celui noté « Les Sports+ » |
+
+## Autres lecteurs possibles
+
+Le point décisif est **qui va chercher le flux**. Un lecteur **hébergé** le lit depuis ses serveurs (Feeder, Inoreader, NewsBlur, Feedbin) ; un lecteur **local ou auto-hébergé**
+(Miniflux, FreshRSS, CommaFeed, Tiny Tiny RSS, NetNewsWire, Reeder) le lit depuis l'adresse de son propriétaire et se heurtera au même 403 que le collecteur.
+
+| Lecteur | Prix | API | Remarque |
+|---|---|---|---|
+| **BazQux Reader** | environ 30 $/an d'après son forum (la page officielle ne l'indique pas), essai de 30 jours | Google Reader et Fever ; 3 000 flux | Meilleur candidat de secours |
+| **The Old Reader** | gratuit jusqu'à 100 flux ; Premium environ 25 à 30 $/an (sources contradictoires) | De type Google Reader, **documentation officielle non vérifiée** | Utile en test gratuit |
+| **Feedly** | gratuit jusqu'à 100 flux | Enterprise seulement | Test de diagnostic uniquement |
+| **Readwise Reader** | environ 10 $/mois | Ne gère pas les abonnements aux flux | Ne convient pas |
+| Miniflux, FreshRSS, CommaFeed (auto-hébergés ou chez PikaPods, DINAO…) | Gratuit, ou hébergement dès environ 1 $/mois | REST, Fever | Adresses de centre de données : le blocage du Soir les vise peut-être aussi ; **pari à tester**, pas un point de départ |
+
+Tant que NewsBlur fonctionne, tester d'autres lecteurs a peu d'intérêt : BazQux puis The Old Reader ne servent que de secours si l'accumulation des articles échoue.
 
 **Raccordement technique (commun aux lecteurs à flux de sortie).** L'URL d'un flux de sortie contient un jeton secret : elle **ne doit jamais figurer dans le dépôt**
 (public, D8). Il faudrait la lire depuis un secret GitHub, via une variable d'environnement résolue dans `collect.py`, avec un test.
@@ -119,8 +165,9 @@ non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux par
 
 ## Recommandation (provisoire)
 
-Pour **Le Soir** : ne rien payer avant d'avoir fait avec **Inoreader** le test déjà fait avec NewsBlur (flux de sortie d'un dossier : nombre d'articles, fraîcheur,
-nom du journal). NewsBlur n'est pas retenu sauf besoin du plan Archive. Si Inoreader échoue, Feeder Plus reste la seule voie confirmée ; Google Actualités sert de solution d'attente.
+Pour **Le Soir** : **NewsBlur Premium par l'API** (36 $/an, déjà souscrit) est la voie la plus économique et la seule testée de bout en bout ; elle est retenue **provisoirement**, sous réserve du test
+d'accumulation des articles le lendemain matin. Une source `newsblur` est préparée sur la branche `feat/newsblur-api` (non fusionnée). Le flux RSS de dossier de NewsBlur est écarté (plan Archive, 20 articles).
+Secours, dans cet ordre : BazQux (essai de 30 jours), Inoreader Pro (flux de sortie, non testé), Feeder Plus, et Google Actualités comme solution d'attente.
 
 Commencer par **B sans modèle local** : Feeder en entrée, Claude pour toutes les étapes, et un `llm.py` prêt à accueillir d'autres fournisseurs.
 Ajouter Qwen ou Mistral plus tard, sur l'étape 1 uniquement, si la confidentialité ou l'indépendance l'exigent.
@@ -136,8 +183,10 @@ facturé 2 $ / 10 $ par million de tokens (entrée / sortie) contre 3 $ / 15 $ p
    (pas de texte intégral : paywalls, droit d'auteur) avant de s'en servir.
 3. **Objectif** : économiser, gagner en confidentialité, ou personnaliser ? La réponse écarte généralement deux options sur trois.
 4. **Fournisseur hors Anthropic** : accepter ou non un secret statique (Mistral) alors que D9 l'a évité.
-5. **Le Soir** : faut-il l'intégrer, et par quelle voie (Inoreader, Feeder Plus, Google Actualités) ? Vérifier d'abord les conditions d'utilisation du Soir
+5. **Le Soir** : faut-il l'intégrer, et par quelle voie (NewsBlur par l'API, Inoreader, Feeder Plus, Google Actualités) ? Vérifier d'abord les conditions d'utilisation du Soir
    sur la reprise de titres et d'extraits dans une page publique, même courte, et envisager de demander un accès à l'éditeur.
+6. **Authentification NewsBlur du job planifié** : compte personnel, compte dédié (second Premium) ou OAuth (voir « Essai de l'API NewsBlur »).
+7. **Couverture** : quels flux du Soir (et de Sudinfo, BX1…) ajouter dans NewsBlur, une fois l'accumulation des articles confirmée.
 
 ## Sources
 
@@ -150,3 +199,6 @@ facturé 2 $ / 10 $ par million de tokens (entrée / sortie) contre 3 $ / 15 $ p
   code source ([`views.py`](https://github.com/samuelclay/NewsBlur/blob/master/apps/reader/views.py), fonction `folder_rss_feed`, et [`urls.py`](https://github.com/samuelclay/NewsBlur/blob/master/apps/reader/urls.py)), branche principale lue le 9 octobre 2026 ;
   la production peut différer, mais le plan Archive a été confirmé par un essai réel.
 - Essais de blocage (`403`, `AkamaiGHost`) et du flux Google Actualités : session du 9 octobre 2026.
+- Autres lecteurs : BazQux ([FAQ](https://bazqux.com/faq), [forum, prix](https://discourse.bazqux.com/t/subscription-fee/94)), [Readwise Reader](https://readwise.io/pricing/reader),
+  CommaFeed ([hébergement DINAO](https://dinao.com/en/conteneur/commafeed)) ; les prix de BazQux et de The Old Reader viennent de pages tierces ou de forums, à vérifier avant tout achat.
+- Annuaire Feeder du Parisien : [feeder.co/discover/site/leparisien.fr](https://feeder.co/discover/site/leparisien.fr) (les pages Sudinfo, BX1, Brussels Times et RTL n'existent pas dans l'annuaire).
