@@ -84,9 +84,9 @@ Le site est aussi fermé aux outils web de Claude. Le collecteur du projet ne pe
 
 | Lecteur | Résultat | Remarque |
 |---|---|---|
-| Feeder (offre gratuite) | Lit Le Soir | Pas d'accès programmatique sans plan Plus (connecteur) |
-| Inoreader | Lit Le Soir | À contrôler : fraîcheur, plafond d'articles du flux de sortie, nom du journal conservé |
-| NewsBlur | Lit Le Soir, **articles du jour** | Flux RSS de dossier inutilisable sous le plan Archive ; **API utilisable en Premium** (voir « Essai de l'API NewsBlur ») |
+| Feeder (offre gratuite) | Lit Le Soir, **à jour** | Pas d'accès programmatique sans plan Plus (connecteur) |
+| Inoreader (offre gratuite) | Lit Le Soir, **à jour** (constaté le 9 octobre en fin d'après-midi) | Flux de sortie et API : Pro ; plafond d'articles et nom du journal conservé **non vérifiés** |
+| NewsBlur | Lit Le Soir **mais en retard** : doit être forcé pour se mettre à jour | Voir « Essai de l'API NewsBlur » : voie suspendue |
 | Feedbin | **Anciens articles seulement** | Écarté pour Le Soir ; reste valable pour les autres sources (API incluse) |
 
 La fraîcheur des articles doit être vérifiée pour chaque lecteur : « lit Le Soir » ne garantit pas des articles du jour.
@@ -121,8 +121,13 @@ puis `GET /reader/river_stories` (`read_filter=all`, `order=newest`, `limit=100`
 - **Champs** : titre, adresse de l'article, date, auteurs, flux d'origine (`story_feed_id`) et `story_content` sont présents. `story_content` fait en médiane 401 caractères (maximum 429) : c'est l'extrait fourni par le flux, pas le texte intégral (D7).
   La troncature à `extrait_max_chars` doit être conservée.
 - **Horodatage** : `story_date` est donné en « heure du serveur », sans fuseau explicite. Le code utilise `story_timestamp` (époque Unix) quand il existe ; à confirmer sur un cas réel.
-- **À vérifier le lendemain matin** : les 10 articles sont une fenêtre unique, le flux ayant sans doute été ajouté le jour même. Il faut constater que NewsBlur **accumule** les nouveaux articles au fil des heures
-  (de l'ordre de 40 par jour pour ce flux). Sinon, la voie ne tient pas.
+- **Retard constaté (9 octobre, 16:51 UTC)** : le dernier article vu par NewsBlur datait toujours de 14:59, soit près de deux heures sans nouvel article alors que le flux en donnait environ deux par heure
+  le matin. En comparant avec Feeder, Inoreader et la page du Soir, **seuls Feeder et Inoreader étaient à jour** : NewsBlur ne se met à jour que si l'on **force** la relecture du flux. NewsBlur sait donc lire le flux
+  (ce n'est pas un blocage), mais sa relecture automatique est trop lente pour ce flux (3 abonnés seulement).
+- **Relecture forcée par l'API** : `GET /reader/refresh_feed/<id>` exécute `feed.update(force=True)` (code source public). Elle **ne résout pas** le problème : le flux ne contient qu'une fenêtre d'une dizaine d'articles
+  (environ cinq heures de publication), donc une relecture forcée par jour au moment de la revue ne ramènerait que les dernières heures, et tout ce qui est sorti de la fenêtre serait perdu. Il faudrait des relectures
+  forcées environ toutes les heures depuis un job dédié, dépendant du cron de GitHub (déjà en retard de plusieurs heures le 9 octobre) et sollicitant NewsBlur de façon intensive.
+- **Conclusion** : voie NewsBlur **suspendue pour Le Soir** ; la branche `feat/newsblur-api` et la demande #8 restent ouvertes, sans fusion, le code étant correct mais la source non validée.
 - **Couverture** : un seul des sept flux du Soir est suivi. Les six autres (2, 10, 11, 13, 31867, 31876) restent à ajouter, et leurs rubriques à identifier d'après les titres.
 - **Authentification d'un job planifié** (choix en attente) : mot de passe du compte personnel en secret GitHub (simple, mais accès à tout le compte et secret longue durée, contraire à l'esprit de D9) ;
   compte NewsBlur dédié (cloisonné, mais un second Premium à 36 $/an, car un compte gratuit n'obtient que 3 articles) ; OAuth, dont les identifiants s'obtiennent en écrivant au développeur.
@@ -165,9 +170,11 @@ non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux par
 
 ## Recommandation (provisoire)
 
-Pour **Le Soir** : **NewsBlur Premium par l'API** (36 $/an, déjà souscrit) est la voie la plus économique et la seule testée de bout en bout ; elle est retenue **provisoirement**, sous réserve du test
-d'accumulation des articles le lendemain matin. Une source `newsblur` est préparée sur la branche `feat/newsblur-api` (non fusionnée). Le flux RSS de dossier de NewsBlur est écarté (plan Archive, 20 articles).
-Secours, dans cet ordre : BazQux (essai de 30 jours), Inoreader Pro (flux de sortie, non testé), Feeder Plus, et Google Actualités comme solution d'attente.
+Pour **Le Soir** : seuls **Feeder et Inoreader** sont à jour (constat du 9 octobre). NewsBlur est suspendu (relecture trop lente, voir plus haut) et Feedbin écarté.
+La piste à tester est **Inoreader Pro** (environ 90 $/an), qui offre l'essai gratuit de 14 jours annoncé par Inoreader (durée exacte à vérifier dans *Préférences → Facturation*) :
+mettre le flux du Soir dans un dossier, activer son **flux de sortie RSS**, puis mesurer le nombre d'articles, la fraîcheur et la conservation du nom du journal avant tout achat.
+Raccordement prévu, indépendant du fournisseur : une entrée de flux RSS ordinaire dont l'URL est lue dans une variable d'environnement secrète (`url_env`, branche `feat/url-env`).
+Secours, dans cet ordre : BazQux (essai de 30 jours), Feeder Plus (seule voie confirmée à jour, via le connecteur), et Google Actualités comme solution d'attente (titres seuls).
 
 Commencer par **B sans modèle local** : Feeder en entrée, Claude pour toutes les étapes, et un `llm.py` prêt à accueillir d'autres fournisseurs.
 Ajouter Qwen ou Mistral plus tard, sur l'étape 1 uniquement, si la confidentialité ou l'indépendance l'exigent.
@@ -185,8 +192,9 @@ facturé 2 $ / 10 $ par million de tokens (entrée / sortie) contre 3 $ / 15 $ p
 4. **Fournisseur hors Anthropic** : accepter ou non un secret statique (Mistral) alors que D9 l'a évité.
 5. **Le Soir** : faut-il l'intégrer, et par quelle voie (NewsBlur par l'API, Inoreader, Feeder Plus, Google Actualités) ? Vérifier d'abord les conditions d'utilisation du Soir
    sur la reprise de titres et d'extraits dans une page publique, même courte, et envisager de demander un accès à l'éditeur.
-6. **Authentification NewsBlur du job planifié** : compte personnel, compte dédié (second Premium) ou OAuth (voir « Essai de l'API NewsBlur »).
-7. **Couverture** : quels flux du Soir (et de Sudinfo, BX1…) ajouter dans NewsBlur, une fois l'accumulation des articles confirmée.
+6. **Voie NewsBlur** : abandon, ou reprise avec des relectures forcées fréquentes (voir « Essai de l'API NewsBlur ») ; l'authentification du job (compte personnel, compte dédié, OAuth) ne se pose que dans ce second cas.
+7. **Essai Inoreader Pro** : durée réelle de l'essai, plafond d'articles du flux de sortie, nom du journal conservé ; décision d'achat ensuite.
+8. **Couverture** : quels flux du Soir (et de Sudinfo, BX1…) suivre une fois le lecteur choisi.
 
 ## Sources
 
