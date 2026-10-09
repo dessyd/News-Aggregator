@@ -10,6 +10,7 @@ from datetime import datetime, timedelta, timezone
 import feedparser
 import yaml
 
+from .newsblur import fetch_newsblur
 from .util import article_id, is_http_url, strip_html
 
 UA = "revue-de-presse/1.0 (projet pedagogique)"
@@ -132,12 +133,19 @@ def sample(articles: list[dict], n: int) -> list[dict]:
     return out
 
 
-def collect(feeds: list[dict], cfg: dict, now: datetime | None = None, parse=feedparser.parse):
+def fetch_source(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse, newsblur=None):
+    """Aiguille vers la bonne lecture : flux RSS ordinaire, ou dossier NewsBlur (`type: newsblur`)."""
+    if feed.get("type") == "newsblur":
+        return fetch_newsblur(feed, cfg, now, client=newsblur)
+    return fetch_feed(feed, cfg, now, parse=parse)
+
+
+def collect(feeds: list[dict], cfg: dict, now: datetime | None = None, parse=feedparser.parse, newsblur=None):
     now = now or datetime.now(timezone.utc)
     all_articles: list[dict] = []
     reports = []
     for feed in feeds:
-        arts, rep = fetch_feed(feed, cfg, now, parse=parse)
+        arts, rep = fetch_source(feed, cfg, now, parse=parse, newsblur=newsblur)
         all_articles.extend(arts)
         reports.append(rep)
     articles = dedupe(all_articles, cfg["title_similarity"])

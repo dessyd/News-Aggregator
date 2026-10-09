@@ -2,7 +2,8 @@
 import json
 import re
 import sys
-from datetime import date, datetime, timezone
+import urllib.error
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
@@ -12,11 +13,13 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import src.collect
+import src.newsblur
 from src.collect import collect, dedupe, sample
 from src.llm import call_json
+from src.newsblur import NewsBlurClient, NewsBlurError, fetch_newsblur
 from src.pipeline import Pipeline
 from src.render import publish, render_compare, render_digest
-from src.util import extract_json, fr_date, normalize_url, strip_html
+from src.util import article_id, extract_json, fr_date, normalize_url, strip_html
 
 ROOT = Path(__file__).resolve().parent.parent
 SETTINGS = yaml.safe_load((ROOT / "config" / "settings.yaml").read_text(encoding="utf-8"))
@@ -94,6 +97,7 @@ NOW = datetime(2026, 10, 6, 8, 0, tzinfo=timezone.utc)
 @pytest.fixture(autouse=True)
 def no_retry_pause(monkeypatch):
     monkeypatch.setattr(src.collect, "RETRY_PAUSE", 0)
+    monkeypatch.setattr(src.newsblur, "PAUSE", 0)
 
 
 @pytest.fixture
@@ -260,3 +264,155 @@ def test_render_and_publish(tmp_path, articles):
     assert "Mardi 6 octobre 2026" in (docs / "archives.html").read_text(encoding="utf-8")
     cmp_html = render_compare(digest, digest, "main", "essai", SETTINGS)
     assert "main" in cmp_html and "essai" in cmp_html
+
+
+# ------------------------------------------------------------------ NewsBlur (API)
+NEWS = {"name": "Le Soir", "type": "newsblur", "folder": "Le Soir", "lang": "fr"}
+
+
+def story(i, hours_ago=1, **kw):
+    ts = int((NOW - timedelta(hours=hours_ago)).timestamp())
+    return {"story_title": f"Titre {i}", "story_permalink": f"http://soir.test/{i}",
+            "story_content": f"<p>Extrait <b>{i}</b> &amp; suite</p>", "story_timestamp": str(ts), **kw}
+
+
+class FakeNewsBlur:
+    """Faux client NewsBlur : `pages` est la liste des pages d'articles ; garde la trace des appels."""
+
+    def __init__(self, pages, ids=(1,), error=None):
+        self.pages, self.ids, self.error, self.calls, self.last_status = pages, list(ids), error, [], 200
+
+    def folder_feed_ids(self, folder):
+        if self.error:
+            raise self.error
+        self.calls.append(("dossier", folder))
+        return self.ids
+
+    def river_stories(self, ids, page):
+        self.calls.append(("page", page))
+        return self.pages[page - 1] if page <= len(self.pages) else []
+
+
+def test_newsblur_maps_stories_to_articles():
+    pages = [[story(1), story(2, hours_ago=40), story(3, story_permalink="javascript:alert(1)"),
+              story(4, story_title="  "), story(5, hours_ago=2, story_content="x" * 2000)]]
+    arts, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=FakeNewsBlur(pages))
+    assert [a["titre"] for a in arts] == ["Titre 1", "Titre 5"]     # trop ancien, lien dangereux, titre vide : écartés
+    first = arts[0]
+    assert first["source"] == "Le Soir" and first["lang"] == "fr"
+    assert first["extrait"] == "Extrait 1 & suite"                  # HTML nettoyé
+    assert first["url"] == "http://soir.test/1" and first["id"] == article_id(first["url"])
+    assert first["publie"] == (NOW - timedelta(hours=1)).isoformat()   # date UTC issue de story_timestamp
+    assert len(arts[1]["extrait"]) == SETTINGS["collect"]["extrait_max_chars"]   # jamais de texte intégral (D7)
+    assert rep == {"name": "Le Soir", "url": "newsblur:Le Soir", "ok": True, "entries": 5, "kept": 2,
+                   "with_summary": 2, "status": 200, "error": None}
+
+
+def test_newsblur_date_falls_back_to_story_date_as_utc():
+    s = story(1)
+    del s["story_timestamp"]
+    s["story_date"] = "2026-10-06 07:00:00"
+    arts, _ = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=FakeNewsBlur([[s]]))
+    assert arts[0]["publie"] == datetime(2026, 10, 6, 7, 0, tzinfo=timezone.utc).isoformat()
+
+
+def test_newsblur_pagination_stops_when_stories_get_too_old_or_pages_run_out(monkeypatch):
+    # une page contient un article plus vieux que la limite : la page suivante n'est pas demandée
+    cli = FakeNewsBlur([[story(1), story(2)], [story(3), story(4, hours_ago=40)], [story(5)]])
+    arts, _ = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=cli)
+    assert [c for c in cli.calls if c[0] == "page"] == [("page", 1), ("page", 2)]
+    assert [a["titre"] for a in arts] == ["Titre 1", "Titre 2", "Titre 3"]
+    # une page vide termine la lecture
+    cli = FakeNewsBlur([[story(1)]])
+    fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=cli)
+    assert [c for c in cli.calls if c[0] == "page"] == [("page", 1), ("page", 2)]
+    # plafond de pages
+    monkeypatch.setattr(src.newsblur, "MAX_PAGES", 2)
+    cli = FakeNewsBlur([[story(i)] for i in range(1, 6)])
+    fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=cli)
+    assert [c for c in cli.calls if c[0] == "page"] == [("page", 1), ("page", 2)]
+
+
+def test_newsblur_failures_are_reported_not_raised(monkeypatch):
+    arts, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW,
+                               client=FakeNewsBlur([], error=NewsBlurError("connexion refusée")))
+    assert arts == [] and not rep["ok"] and "connexion refusée" in rep["error"]
+    _, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=FakeNewsBlur([], ids=()))
+    assert not rep["ok"] and "introuvable ou vide" in rep["error"]
+    _, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW, client=FakeNewsBlur([]))
+    assert not rep["ok"] and "aucun article" in rep["error"]
+    # identifiants absents : signalé, sans appel réseau
+    monkeypatch.delenv("NEWSBLUR_USERNAME", raising=False)
+    monkeypatch.delenv("NEWSBLUR_PASSWORD", raising=False)
+    arts, rep = fetch_newsblur(NEWS, SETTINGS["collect"], NOW)
+    assert arts == [] and not rep["ok"] and "NEWSBLUR_USERNAME" in rep["error"]
+
+
+def test_collect_mixes_rss_and_newsblur_and_survives_a_newsblur_failure():
+    cli = FakeNewsBlur([[story(1), story(2)]])
+    arts, report = collect([FEEDS[0], NEWS], SETTINGS["collect"], now=NOW, parse=fake_parse_factory(), newsblur=cli)
+    assert [r["name"] for r in report] == ["A", "Le Soir"] and all(r["ok"] for r in report)
+    assert {a["source"] for a in arts} == {"A", "Le Soir"}
+    down = FakeNewsBlur([], error=NewsBlurError("HTTP 503"))
+    arts, report = collect([FEEDS[0], NEWS], SETTINGS["collect"], now=NOW, parse=fake_parse_factory(), newsblur=down)
+    assert [r["ok"] for r in report] == [True, False] and arts and {a["source"] for a in arts} == {"A"}
+
+
+class FakeHTTP:
+    status = 200
+
+    def __init__(self, data):
+        self.body = json.dumps(data).encode()
+
+    def read(self):
+        return self.body
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *exc):
+        pass
+
+
+class FakeOpener:
+    """Faux opener urllib : `routes` associe un fragment d'URL à une réponse JSON (ou à une exception)."""
+    addheaders = []
+
+    def __init__(self, routes):
+        self.routes, self.urls, self.bodies = routes, [], []
+
+    def open(self, url, data=None, timeout=0):
+        self.urls.append(url)
+        self.bodies.append(data)
+        for fragment, rep in self.routes.items():
+            if fragment in url:
+                if isinstance(rep, Exception):
+                    raise rep
+                return FakeHTTP(rep)
+        raise AssertionError(f"appel inattendu : {url}")
+
+
+def test_newsblur_client_login_folders_and_stories():
+    folders = [13, {"Belgique": [11, {"Sous-dossier": [12]}]}]
+    opener = FakeOpener({"/api/login": {"authenticated": True}, "/reader/feeds": {"folders": folders},
+                         "/reader/river_stories": {"stories": [story(1)]}})
+    client = NewsBlurClient("utilisateur", "motdepasse-secret", opener=opener)
+    assert client.folder_feed_ids("belgique") == [11, 12]            # insensible à la casse, sous-dossiers compris
+    assert client.folder_feed_ids("Inconnu") == []
+    assert client.river_stories([11, 12], 2) == [story(1)]
+    assert sum("/api/login" in u for u in opener.urls) == 1          # une seule connexion par exécution
+    assert "motdepasse-secret" not in " ".join(opener.urls)          # le mot de passe ne figure jamais dans une URL
+    stories_url = next(u for u in opener.urls if "/reader/river_stories" in u)
+    assert "feeds=11&feeds=12" in stories_url and "limit=100" in stories_url and "read_filter=all" in stories_url
+
+
+def test_newsblur_client_errors_never_reveal_credentials():
+    refused = NewsBlurClient("u", "motdepasse-secret", opener=FakeOpener({"/api/login": {"authenticated": False}}))
+    with pytest.raises(NewsBlurError) as exc:
+        refused.login()
+    assert "motdepasse-secret" not in str(exc.value)
+    http403 = urllib.error.HTTPError("https://www.newsblur.com/api/login", 403, "Forbidden", {}, None)
+    blocked = NewsBlurClient("u", "motdepasse-secret", opener=FakeOpener({"/api/login": http403}))
+    with pytest.raises(NewsBlurError, match="HTTP 403"):
+        blocked.login()
+    assert blocked.last_status == 403

@@ -19,7 +19,7 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 
 ## Carte du dépôt
 
-- `src/` : `collect.py` (RSS, nettoyage, dédoublonnage), `pipeline.py` (4 étapes, garde-fous, formats de sortie),
+- `src/` : `collect.py` (RSS, nettoyage, dédoublonnage), `newsblur.py` (source NewsBlur par API, pour les flux bloqués), `pipeline.py` (4 étapes, garde-fous, formats de sortie),
   `llm.py` (client API + extraction JSON), `render.py` (Jinja2, publication), `main.py` (CLI), `util.py`.
 - `prompts/` : consignes éditoriales (propriété du responsable éditorial). `config/` : `feeds.yaml`, `settings.yaml`.
 - `data/` : caches de collecte et essais (`data/cache/<date>`, `data/runs/<date>/<tag>`), versionnés, purgés après `retention_days`.
@@ -31,7 +31,7 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 
 ```bash
 pip install -r requirements.txt
-pytest                                                    # 14 tests, faux modèle, aucun appel réseau ni clé API
+pytest                                                    # 21 tests, faux modèle, aucun appel réseau ni clé API
 python -m src.main check-feeds                            # vérifier les flux
 python -m src.main run --limit 30 --no-publish            # essai économique, rien n'est publié
 python -m src.main replay --tag v2 --from-stage 3         # rejouer les étapes LLM sur le cache

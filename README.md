@@ -51,6 +51,18 @@ Les commentaires `<!-- ... -->` des fichiers de prompts ne sont pas envoyés au 
 
 Ensuite la revue est générée automatiquement chaque jour vers 7 h (heure de Bruxelles en été, 6 h en hiver).
 
+## Source facultative : NewsBlur (journaux dont les flux sont bloqués)
+
+Certains journaux (Le Soir) refusent les lectures automatiques du collecteur (403, protection Akamai) mais sont lus par NewsBlur.
+Une entrée `type: newsblur` de `config/feeds.yaml` lit un **dossier NewsBlur** par l'API (compte **Premium** requis : un compte gratuit n'obtient que 3 articles).
+
+1. Dans NewsBlur, mettre le ou les flux du journal dans un dossier et reporter son nom dans `folder:`.
+2. Dépôt → *Settings → Secrets and variables → Actions* → ajouter les **secrets** `NEWSBLUR_USERNAME` et `NEWSBLUR_PASSWORD`
+   (un compte NewsBlur dédié est préférable à un compte personnel). Ne jamais les écrire dans le dépôt.
+3. Passer `enabled: true` sur l'entrée. Sans identifiants, la source est signalée en échec dans les avertissements sans interrompre la revue.
+
+Choix et réserves : `design/architecture-feeder.md`.
+
 ## Boucle de travail éditoriale (sans rien installer)
 
 1. Modifier un fichier de `prompts/` directement sur GitHub (bouton crayon) et enregistrer (*commit*).

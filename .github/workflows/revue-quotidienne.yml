@@ -43,6 +43,10 @@ jobs:
 
       - name: Générer la revue
         run: python -m src.main run
+        env:
+          # Source NewsBlur (Le Soir). Facultatif : sans ces secrets, la source est signalée en échec sans interrompre la revue.
+          NEWSBLUR_USERNAME: ${{ secrets.NEWSBLUR_USERNAME }}
+          NEWSBLUR_PASSWORD: ${{ secrets.NEWSBLUR_PASSWORD }}
 
       - name: Publier (commit des pages et des données)
         run: |

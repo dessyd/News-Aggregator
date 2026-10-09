@@ -37,10 +37,15 @@ feeds:
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     lang: en
 
+  # Le Soir : lecture directe impossible (403 Akamai le 2026-10-08, y compris avec un User-Agent de navigateur,
+  # flux https://www.lesoir.be/rss2/9/cible_principale). Lu via l'API NewsBlur (compte Premium) : `folder` est le NOM DU
+  # DOSSIER NewsBlur à lire (à adapter). Identifiants dans les variables d'environnement NEWSBLUR_USERNAME et
+  # NEWSBLUR_PASSWORD (secrets GitHub), jamais dans le dépôt. Voir design/architecture-feeder.md.
   - name: Le Soir
-    url: https://www.lesoir.be/rss2/9/cible_principale
+    type: newsblur
+    folder: Le Soir
     lang: fr
-    enabled: false  # 403 Akamai (Access Denied) le 2026-10-08, y compris avec un User-Agent de navigateur
+    enabled: false  # à activer après création des secrets et confirmation de l'accumulation des articles
 
   - name: La Libre
     url: https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml
