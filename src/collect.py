@@ -18,12 +18,15 @@ RETRY_PAUSE = 3  # secondes avant la relance d'un flux
 
 
 def _lire_flux(url: str, parse):
-    """Lit un flux ; une seule relance si la 1re tentative échoue ou ne renvoie rien (pannes ponctuelles observées)."""
+    """Lit un flux ; une seule relance si la 1re tentative échoue ou ne renvoie rien (pannes ponctuelles observées).
+
+    Renvoie (résultat, exception) : l'exception levée par la lecture, ou None.
+    """
     for tentative in (1, 2):
         try:
             d, erreur = parse(url, agent=UA), None
         except Exception as exc:  # réseau, certificat, etc.
-            d, erreur = {}, str(exc)
+            d, erreur = {}, exc
         if d.get("entries") or tentative == 2:
             return d, erreur
         time.sleep(RETRY_PAUSE)
@@ -81,9 +84,15 @@ def fetch_feed(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse):
     report["status"] = d.get("status")  # statut HTTP de la dernière tentative (None si aucune réponse)
     entries = d.get("entries", []) or []
     if not entries:
-        exc = d.get("bozo_exception")
-        message = erreur or (str(exc) if exc else "aucune entrée (flux vide ou URL incorrecte)")
-        report["error"] = message.replace(url, label)   # une erreur ne doit jamais révéler l'adresse secrète
+        exc = erreur or d.get("bozo_exception")
+        if exc is None:
+            report["error"] = "aucune entrée (flux vide ou URL incorrecte)"
+        elif feed.get("url_env"):
+            # Fail-closed : le texte d'une erreur peut citer l'adresse (en entier, en partie, ou une adresse de redirection)
+            # et le rapport de collecte est public ; pour une adresse secrète, seul le type de l'erreur est conservé.
+            report["error"] = f"{label} : erreur de lecture ({type(exc).__name__})"
+        else:
+            report["error"] = str(exc)
         return [], report
 
     report["ok"] = True

@@ -327,6 +327,24 @@ def test_url_env_errors_never_contain_the_secret_url(monkeypatch, make):
     assert SECRET_URL not in rep["error"] and "env:FLUX_SECRET_URL" in rep["error"]
 
 
+@pytest.mark.parametrize("fragment", [
+    "jeton-tres-secret-123",                                                   # le jeton seul
+    "/output/jeton-tres-secret-123",                                           # le chemin seul
+    "flux.example.test/output/jeton-tres-secret-123",                          # l'adresse sans le schéma
+    "https://flux.example.test/output/jeton-tres-secret-123?format=rss",       # une variante (paramètre ajouté)
+    "https://redirection.example.test/x/jeton-tres-secret-123/flux.xml",       # une adresse de redirection
+])
+def test_url_env_errors_are_fail_closed_whatever_the_error_message_quotes(monkeypatch, fragment):
+    """Le texte d'une erreur n'est jamais recopié pour une adresse secrète : seul le type d'erreur est conservé."""
+    monkeypatch.setenv("FLUX_SECRET_URL", SECRET_URL)
+    for parse in (secret_parse(error=OSError(f"échec : {fragment}")),
+                  secret_parse(bozo=ValueError(f"XML mal formé ({fragment})"))):
+        arts, rep = fetch_feed_for_test(ENV_ENTRY, parse)
+        assert arts == [] and not rep["ok"]
+        assert "jeton-tres-secret-123" not in rep["error"] and "flux.example.test" not in rep["error"]
+        assert "env:FLUX_SECRET_URL" in rep["error"] and ("OSError" in rep["error"] or "ValueError" in rep["error"])
+
+
 def test_url_env_entry_goes_through_collect_and_stays_out_of_the_report(monkeypatch):
     monkeypatch.setenv("FLUX_SECRET_URL", SECRET_URL)
     base, secret = fake_parse_factory(), secret_parse([secret_entry(1)])

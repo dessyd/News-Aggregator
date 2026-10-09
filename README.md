@@ -66,7 +66,7 @@ Une entrée de `config/feeds.yaml` peut la lire dans une variable d'environnemen
 2. Déclarer la variable dans l'étape « Générer la revue » de `.github/workflows/revue-quotidienne.yml` : `LESOIR_FEED_URL: ${{ secrets.LESOIR_FEED_URL }}`.
    Sans cette ligne, GitHub ne transmet pas le secret au programme.
 
-Une variable absente, vide ou invalide est signalée dans les avertissements sans interrompre la revue. Le rapport de collecte et les messages d'erreur affichent `env:NOM`, jamais l'adresse.
+Une variable absente, vide ou invalide est signalée dans les avertissements sans interrompre la revue. Le rapport de collecte et les messages d'erreur affichent `env:NOM`, jamais l'adresse. Pour ces flux, le texte d'une erreur n'est **pas recopié** (il pourrait citer l'adresse ou une redirection) : seuls l'étiquette et le type d'erreur (par exemple `OSError`) sont conservés, avec le statut HTTP du rapport.
 
 ## Boucle de travail éditoriale (sans rien installer)
 
