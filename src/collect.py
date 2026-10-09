@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import difflib
+import os
 import re
 import socket
 import time
@@ -46,17 +47,43 @@ def _norm_title(title: str) -> str:
     return re.sub(r"[^\w ]+", "", title.lower()).strip()
 
 
+def _resolve_url(feed: dict) -> tuple[str, str, str | None]:
+    """Renvoie (adresse à lire, étiquette affichable, erreur de configuration).
+
+    Une entrée `url_env: NOM` lit son adresse dans la variable d'environnement NOM (secret GitHub) : l'adresse d'un flux
+    de sortie de lecteur contient un jeton et ne doit jamais figurer dans le dépôt public, ni dans le rapport de collecte.
+    L'étiquette `env:NOM` la remplace partout où l'adresse serait affichée ou enregistrée.
+    """
+    env = feed.get("url_env")
+    if env:
+        label = f"env:{env}"
+        url = os.environ.get(env, "").strip()
+        if not url:
+            return "", label, f"variable d'environnement {env} absente ou vide"
+        if not is_http_url(url):
+            return "", label, f"variable d'environnement {env} : valeur invalide (adresse http ou https attendue)"
+        return url, label, None
+    if feed.get("url"):
+        return feed["url"], feed["url"], None
+    return "", feed["name"], "ni `url` ni `url_env` dans l'entrée"
+
+
 def fetch_feed(feed: dict, cfg: dict, now: datetime, parse=feedparser.parse):
     """Renvoie (articles, rapport) pour un flux."""
-    report = {"name": feed["name"], "url": feed["url"], "ok": False, "entries": 0,
+    url, label, config_error = _resolve_url(feed)
+    report = {"name": feed["name"], "url": label, "ok": False, "entries": 0,
               "kept": 0, "with_summary": 0, "status": None, "error": None}
+    if config_error:
+        report["error"] = config_error
+        return [], report
     socket.setdefaulttimeout(25)
-    d, erreur = _lire_flux(feed["url"], parse)
+    d, erreur = _lire_flux(url, parse)
     report["status"] = d.get("status")  # statut HTTP de la dernière tentative (None si aucune réponse)
     entries = d.get("entries", []) or []
     if not entries:
         exc = d.get("bozo_exception")
-        report["error"] = erreur or (str(exc) if exc else "aucune entrée (flux vide ou URL incorrecte)")
+        message = erreur or (str(exc) if exc else "aucune entrée (flux vide ou URL incorrecte)")
+        report["error"] = message.replace(url, label)   # une erreur ne doit jamais révéler l'adresse secrète
         return [], report
 
     report["ok"] = True

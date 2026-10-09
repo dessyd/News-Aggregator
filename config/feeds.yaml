@@ -8,6 +8,8 @@
 # extraits souvent tronqués).
 #
 # Champs : name (affiché dans la revue), url, lang (fr/en/nl), enabled.
+# Au lieu de `url`, `url_env: NOM_DE_VARIABLE` lit l'adresse dans une variable d'environnement (secret GitHub) :
+# à utiliser pour l'adresse d'un flux de sortie de lecteur, qui contient un jeton et ne doit jamais figurer dans ce dépôt public.
 
 feeds:
   - name: RTBF Info

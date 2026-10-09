@@ -31,7 +31,7 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 
 ```bash
 pip install -r requirements.txt
-pytest                                                    # 14 tests, faux modèle, aucun appel réseau ni clé API
+pytest                                                    # 23 tests, faux modèle, aucun appel réseau ni clé API
 python -m src.main check-feeds                            # vérifier les flux
 python -m src.main run --limit 30 --no-publish            # essai économique, rien n'est publié
 python -m src.main replay --tag v2 --from-stage 3         # rejouer les étapes LLM sur le cache

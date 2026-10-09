@@ -260,3 +260,87 @@ def test_render_and_publish(tmp_path, articles):
     assert "Mardi 6 octobre 2026" in (docs / "archives.html").read_text(encoding="utf-8")
     cmp_html = render_compare(digest, digest, "main", "essai", SETTINGS)
     assert "main" in cmp_html and "essai" in cmp_html
+
+
+# ------------------------------------------------------------------ flux dont l'URL est secrète (url_env)
+SECRET_URL = "https://flux.example.test/output/jeton-tres-secret-123"
+ENV_ENTRY = {"name": "Flux secret", "url_env": "FLUX_SECRET_URL", "lang": "fr"}
+
+
+def secret_parse(entries=(), error=None, bozo=None):
+    """Faux feedparser pour l'URL secrète ; garde la trace des adresses réellement lues."""
+    calls = []
+
+    def parse(url, agent=None):
+        calls.append(url)
+        if error:
+            raise error
+        if bozo:
+            return feedparser.FeedParserDict({"entries": [], "bozo_exception": bozo})
+        return feedparser.FeedParserDict({"entries": list(entries), "status": 200})
+    parse.calls = calls
+    return parse
+
+
+def secret_entry(i):
+    return {"title": f"Titre secret {i}", "link": f"http://soir.test/s{i}", "summary": "Extrait",
+            "published_parsed": (2026, 10, 6, 6, 0, 0, 0, 0, 0)}
+
+
+def test_url_env_reads_the_url_from_the_environment_and_never_exposes_it(monkeypatch):
+    monkeypatch.setenv("FLUX_SECRET_URL", f"  {SECRET_URL}\n")           # espaces et fin de ligne ignorés
+    parse = secret_parse([secret_entry(1), secret_entry(2)])
+    arts, rep = fetch_feed_for_test(ENV_ENTRY, parse)
+    assert parse.calls == [SECRET_URL] and len(arts) == 2 and rep["ok"]
+    assert rep["url"] == "env:FLUX_SECRET_URL"                              # l'étiquette remplace l'adresse secrète
+    assert SECRET_URL not in json.dumps(rep) and SECRET_URL not in json.dumps(arts)
+
+
+@pytest.mark.parametrize("value", [None, "", "   "])
+def test_url_env_missing_or_empty_is_reported_without_network(monkeypatch, value):
+    monkeypatch.delenv("FLUX_SECRET_URL", raising=False)
+    if value is not None:
+        monkeypatch.setenv("FLUX_SECRET_URL", value)
+    parse = secret_parse([secret_entry(1)])
+    arts, rep = fetch_feed_for_test(ENV_ENTRY, parse)
+    assert arts == [] and not rep["ok"] and "FLUX_SECRET_URL" in rep["error"]
+    assert "absente ou vide" in rep["error"]                                 # distinct d'une valeur invalide
+    assert parse.calls == []                                                 # aucun appel réseau
+
+
+def test_url_env_invalid_value_is_rejected_without_echo(monkeypatch):
+    monkeypatch.setenv("FLUX_SECRET_URL", "ceci-n-est-pas-une-adresse-secrete")
+    parse = secret_parse([secret_entry(1)])
+    arts, rep = fetch_feed_for_test(ENV_ENTRY, parse)
+    assert arts == [] and not rep["ok"] and "invalide" in rep["error"]
+    assert "ceci-n-est-pas" not in rep["error"] and parse.calls == []
+
+
+@pytest.mark.parametrize("make", [
+    lambda: secret_parse(error=OSError(f"échec de connexion à {SECRET_URL}")),
+    lambda: secret_parse(bozo=ValueError(f"XML mal formé dans {SECRET_URL}")),
+])
+def test_url_env_errors_never_contain_the_secret_url(monkeypatch, make):
+    monkeypatch.setenv("FLUX_SECRET_URL", SECRET_URL)
+    arts, rep = fetch_feed_for_test(ENV_ENTRY, make())
+    assert arts == [] and not rep["ok"]
+    assert SECRET_URL not in rep["error"] and "env:FLUX_SECRET_URL" in rep["error"]
+
+
+def test_url_env_entry_goes_through_collect_and_stays_out_of_the_report(monkeypatch):
+    monkeypatch.setenv("FLUX_SECRET_URL", SECRET_URL)
+    base, secret = fake_parse_factory(), secret_parse([secret_entry(1)])
+    arts, report = collect([FEEDS[0], ENV_ENTRY], SETTINGS["collect"], now=NOW,
+                           parse=lambda url, agent=None: secret(url) if url == SECRET_URL else base(url))
+    assert [r["name"] for r in report] == ["A", "Flux secret"] and all(r["ok"] for r in report)
+    assert {a["source"] for a in arts} == {"A", "Flux secret"}
+    assert SECRET_URL not in json.dumps(report)                             # collect_report.json est public
+
+
+def test_feed_without_url_nor_url_env_is_reported_not_raised():
+    arts, rep = fetch_feed_for_test({"name": "Sans adresse"}, secret_parse())
+    assert arts == [] and not rep["ok"] and "url_env" in rep["error"]
+
+
+def fetch_feed_for_test(feed, parse):
+    return src.collect.fetch_feed(feed, SETTINGS["collect"], NOW, parse=parse)

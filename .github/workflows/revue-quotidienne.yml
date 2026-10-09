@@ -43,6 +43,9 @@ jobs:
 
       - name: Générer la revue
         run: python -m src.main run
+        # Adresses secrètes des flux `url_env` de config/feeds.yaml (voir README) : un secret GitHub par flux, par exemple
+        # env:
+        #   LESOIR_FEED_URL: ${{ secrets.LESOIR_FEED_URL }}
 
       - name: Publier (commit des pages et des données)
         run: |
