@@ -69,3 +69,4 @@ structurante, la plus récente en bas).
 ## À trancher
 - Liste définitive des flux (belges notamment) après `check-feeds`.
 - Modèles par étape, après vérification des identifiants disponibles.
+- Variante avec Feeder (Plus/Pro) et un LLM local ou par API (Mistral, Qwen) : trois architectures comparées dans `architecture-feeder.md` ; choix en attente (plan Feeder, accès programmatique, objectif, secret statique hors Anthropic).
