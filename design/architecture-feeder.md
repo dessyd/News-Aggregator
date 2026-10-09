@@ -74,7 +74,53 @@ Produit différent de la revue publique : une revue **personnalisée** à partir
 | Dépend d'une API Feeder | Connecteur | **Oui, à vérifier** | Connecteur |
 | Garde-fous actuels conservés | Non | **Oui** | Partiellement |
 
+## Source bloquée : Le Soir (constats du 9 octobre 2026)
+
+**Blocage.** Tous les flux de `lesoir.be` répondent `403 Access Denied` avec `server: AkamaiGHost` (protection anti-robots d'Akamai, et non Cloudflare),
+avec l'agent utilisateur du projet comme avec celui d'un navigateur ; quatre adresses essayées (`/rss`, `/rss2/9/…`, `/rss2/2/…`, `/rss/81853/…`).
+Le site est aussi fermé aux outils web de Claude. Le collecteur du projet ne peut donc pas lire Le Soir directement (`config/feeds.yaml`, flux désactivé).
+
+**Lecteurs essayés par le responsable éditorial sur ces flux :**
+
+| Lecteur | Résultat | Remarque |
+|---|---|---|
+| Feeder (offre gratuite) | Lit Le Soir | Pas d'accès programmatique sans plan Plus (connecteur) |
+| Inoreader | Lit Le Soir | À contrôler : fraîcheur, plafond d'articles du flux de sortie, nom du journal conservé |
+| NewsBlur | Lit Le Soir | Le flux RSS d'un dossier est inutilisable en dessous du plan Archive (voir ci-dessous) |
+| Feedbin | **Anciens articles seulement** | Écarté pour Le Soir ; reste valable pour les autres sources (API incluse) |
+
+La fraîcheur des articles doit être vérifiée pour chaque lecteur : « lit Le Soir » ne garantit pas des articles du jour.
+
+**Flux du Soir** (annuaire de Feeder, au 9 octobre 2026) : les identifiants 2, 9, 10, 11, 13, 31867 et 31876 répondent
+(`https://www.lesoir.be/rss2/<identifiant>/cible_principale`) ; le 31868 ne répond plus et l'ancien flux FeedBurner est arrêté.
+Aucune rubrique n'est indiquée (tous s'intitulent « Actualité - Le Soir ») : le tri de l'actualité belge se fait dans un lecteur.
+Un fichier d'import est fourni : `config/feeds.opml` (flux du projet + sept flux du Soir dans un dossier « à trier »).
+
+### Comment récupérer ces articles dans le pipeline
+
+| Voie | Constat | Limites |
+|---|---|---|
+| **Google Actualités** (`news.google.com/rss/search?q=site:lesoir.be…`) | Testé : 100 entrées, source « Le Soir », HTTP 200, sans lire lesoir.be | Pas d'extrait (titre seul) ; liens redirigés par Google ; suffixe « - Le Soir » à retirer ; conditions de Google à vérifier |
+| **Feeder Plus** | Lit déjà Le Soir ; connecteur Claude (MCP) sur plan Plus ou Professional | Pas de flux de sortie ; accès programmatique à confirmer ; environ 96 $/an |
+| **Inoreader Pro** | Flux de sortie RSS, JSON ou OPML d'un dossier ou d'une étiquette ; API réservée à Pro (portail développeur), 100 requêtes par jour en lecture par défaut | Fonction de flux de sortie : Pro d'après Inoreader, sans phrase explicite ; plafond d'articles et nom des sources **non vérifiés** ; environ 90 $/an |
+| **NewsBlur** | Flux Atom d'un dossier : `/reader/folder_rss/<utilisateur>/<jeton>/<filtre>/<dossier>` (code source public) | **20 articles au maximum** (`limit: 20`), cache de 60 s ; **plan Premium Archive requis** (99 $/an) : sans lui le flux ne contient qu'un message d'erreur (*« You must have a premium archive subscription… »*), constaté le 9 octobre sur un dossier réel. API : OAuth sur demande par e-mail, ou mot de passe ; pages d'une douzaine d'articles |
+| **Feedbin** | Écarté pour Le Soir (anciens articles) | — |
+
+**Comparaison des coûts annuels** pour un flux de dossier : NewsBlur Archive 99 $, Inoreader Pro environ 90 $, Feeder Plus environ 96 $ (7,99 $/mois facturés à l'année),
+à ajouter aux environ 8 $ par mois d'API Anthropic déjà dépensés. NewsBlur Premium à 36 $/an ne suffit pas.
+
+**Raccordement technique (commun aux lecteurs à flux de sortie).** L'URL d'un flux de sortie contient un jeton secret : elle **ne doit jamais figurer dans le dépôt**
+(public, D8). Il faudrait la lire depuis un secret GitHub, via une variable d'environnement résolue dans `collect.py`, avec un test.
+Ce changement n'est **pas réalisé** ; il serait indépendant du fournisseur choisi. À vérifier sur un exemple : le flux de sortie conserve-t-il le nom du journal d'origine
+(sinon la revue afficherait le nom du lecteur comme source) ?
+
+**Contournement exclu.** Se faire passer pour un autre robot ou piloter un navigateur automatisé pour franchir la protection d'Akamai contourne un contrôle d'accès de l'éditeur :
+non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux partenaire ou l'autorisation d'un agent utilisateur ; une liste blanche par adresse IP ne fonctionnerait pas avec les runners GitHub.
+
 ## Recommandation (provisoire)
+
+Pour **Le Soir** : ne rien payer avant d'avoir fait avec **Inoreader** le test déjà fait avec NewsBlur (flux de sortie d'un dossier : nombre d'articles, fraîcheur,
+nom du journal). NewsBlur n'est pas retenu sauf besoin du plan Archive. Si Inoreader échoue, Feeder Plus reste la seule voie confirmée ; Google Actualités sert de solution d'attente.
 
 Commencer par **B sans modèle local** : Feeder en entrée, Claude pour toutes les étapes, et un `llm.py` prêt à accueillir d'autres fournisseurs.
 Ajouter Qwen ou Mistral plus tard, sur l'étape 1 uniquement, si la confidentialité ou l'indépendance l'exigent.
@@ -90,9 +136,17 @@ facturé 2 $ / 10 $ par million de tokens (entrée / sortie) contre 3 $ / 15 $ p
    (pas de texte intégral : paywalls, droit d'auteur) avant de s'en servir.
 3. **Objectif** : économiser, gagner en confidentialité, ou personnaliser ? La réponse écarte généralement deux options sur trois.
 4. **Fournisseur hors Anthropic** : accepter ou non un secret statique (Mistral) alors que D9 l'a évité.
+5. **Le Soir** : faut-il l'intégrer, et par quelle voie (Inoreader, Feeder Plus, Google Actualités) ? Vérifier d'abord les conditions d'utilisation du Soir
+   sur la reprise de titres et d'extraits dans une page publique, même courte, et envisager de demander un accès à l'éditeur.
 
 ## Sources
 
 - [feeder.co/pricing](https://feeder.co/pricing) — offres Plus et Professional (le détail des lignes varie selon les variantes de la page : vérifier la page en ligne).
 - Outils du connecteur Feeder (MCP) observés dans la session du 9 octobre 2026.
 - Mention de l'API sur demande / Enterprise : site tiers, **non confirmé par Feeder**.
+- [Annuaire Feeder des flux de lesoir.be](https://feeder.co/discover/site/lesoir.be) — identifiants et état des flux (consulté le 9 octobre 2026, sans rubriques).
+- Inoreader : [flux de sortie](https://innoreader.com/blog/2026/01/connect-tools-and-distribute-content.html), [limites de l'API](https://InoReader.com/developers/rate-limiting), [enregistrement d'une application](https://InoReader.com/developers/register-app), [tarifs](https://inoreader.com/pricing).
+- NewsBlur : [tarifs](https://hwww.newsblur.com/pricing), [API](https://newsblur.com/api), [MacStories](https://www.macstories.net/linked/newsblur-adds-rss-feeds-for-folders/),
+  code source ([`views.py`](https://github.com/samuelclay/NewsBlur/blob/master/apps/reader/views.py), fonction `folder_rss_feed`, et [`urls.py`](https://github.com/samuelclay/NewsBlur/blob/master/apps/reader/urls.py)), branche principale lue le 9 octobre 2026 ;
+  la production peut différer, mais le plan Archive a été confirmé par un essai réel.
+- Essais de blocage (`403`, `AkamaiGHost`) et du flux Google Actualités : session du 9 octobre 2026.
