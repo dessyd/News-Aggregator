@@ -1,61 +1,37 @@
 {
   "date": "2026-10-09",
   "date_fr": "vendredi 9 octobre 2026",
-  "generated_at": "2026-10-09T09:36:52+00:00",
-  "chapeau": "Une frappe contre deux bus à Kramatorsk, en Ukraine, a fait au moins 30 morts jeudi, selon les médias cités. En Belgique, une manifestation nationale contre la politique du gouvernement fédéral a lieu à Bruxelles, tandis que des affrontements entre jeunes et police ont secoué Liège. Le prix Nobel de la paix 2026 a été attribué à la Sud-Africaine Navanethem Pillay, et 141 lycées restent fermés en France en raison d'une mobilisation d'élèves.",
+  "generated_at": "2026-10-09T11:55:35+00:00",
+  "chapeau": "Plus de 30 000 personnes ont manifesté à Bruxelles contre le gouvernement De Wever lors d'une grève nationale perturbée par des débordements, des transports réduits et des vols annulés. À Liège, une enquête est ouverte après des tirs de carabine à plomb qui auraient touché deux jeunes manifestants, tandis que le gouvernement de la Fédération Wallonie-Bruxelles a trouvé un accord sur son budget 2027. À l'international, le prix Nobel de la paix 2026 a été décerné à Navanethem Pillay, et le Pentagone a annoncé que l'exécution de Nidal Hasan serait retransmise en direct.",
   "topics": [
     {
-      "titre": "Frappe russe contre deux bus à Kramatorsk",
-      "texte": "Une frappe contre deux bus a fait 30 morts jeudi à Kramatorsk, ville du front en Ukraine, selon La Libre et Le Vif. La BBC parle d'« au moins 30 » morts, d'après des responsables, et indique que l'Ukraine accuse la Russie d'avoir visé deux véhicules bondés pour tuer le plus grand nombre possible de civils. Cette accusation est celle de Kiev, et les articles fournis ne rapportent pas de réaction de Moscou. Le Haut-Commissaire des Nations unies aux droits de l'homme, Volker Türk, s'est dit consterné par cette « frappe effroyable », selon La Libre. La BBC replace l'attaque dans un contexte de hausse des frappes meurtrières en Ukraine.",
-      "rubrique": "Monde",
-      "ids_sources": [
-        "a86bd5cf4",
-        "a26798f8c",
-        "a16c67f2b"
-      ],
-      "sources": [
-        {
-          "source": "Le Vif",
-          "titre": "Une «frappe effroyable» contre deux bus fait 30 morts en Ukraine",
-          "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/une-frappe-effroyable-contre-deux-bus-fait-30-morts-en-ukraine-546137/"
-        },
-        {
-          "source": "La Libre",
-          "titre": "L'ONU condamne la \"frappe effroyable\" contre des bus ukrainiens",
-          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/08/lonu-condamne-la-frappe-effroyable-contre-des-bus-ukrainiens-L4YWI434K5DY3GQRX5LMMER24U/"
-        },
-        {
-          "source": "BBC World",
-          "titre": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "importance": 5,
-      "score": 53,
-      "nb_articles": 3
-    },
-    {
-      "titre": "Manifestation nationale du 9 octobre en Belgique et perturbations",
-      "texte": "Une manifestation nationale contre la politique du gouvernement fédéral a démarré vendredi 9 octobre à Bruxelles depuis la gare Centrale, selon la RTBF. D'après L'Echo, les syndicats contestent notamment une hausse de la TVA et l'annualisation du temps de travail, et plusieurs dizaines de milliers de personnes sont attendues. La Libre indique que la FGTB maintient la mobilisation malgré l'appel de Georges-Louis Bouchez à la reporter, jugeant qu'il est trop tard pour négocier. Le Vif signale des perturbations dans les transports, des annulations de vols, des fermetures de recyparcs et un blocage du campus du Solbosch. Selon La Libre, la police a fait usage de gaz lacrymogène face à des centaines de jeunes vêtus de noir rassemblés à Bruxelles-Central. Une grève du secteur public est prévue lundi 12 octobre, selon la VRT.",
+      "titre": "Manifestation nationale et grève du 9 octobre en Belgique",
+      "texte": "Plus de 30 000 personnes ont manifesté à Bruxelles contre le gouvernement De Wever, selon L'Echo, lors d'une journée de grève nationale marquée par des débordements. Toujours selon L'Echo, la police a utilisé ses canons à eau face à des émeutiers. La RTBF indique que le cortège était terminé en fin de matinée, mais que des casseurs poursuivaient leurs actions au centre-ville. La Libre signale une situation tendue près des gares Centrale et du Midi, ainsi que l'interpellation d'un enfant d'une dizaine d'années. Le Vif et la RTBF font état de transports réduits, de vols annulés, de collectes perturbées à Bruxelles-Propreté et de Recyparcs fermés. La FGTB a maintenu la mobilisation malgré l'appel de Georges-Louis Bouchez à la reporter, d'après La Libre.",
       "rubrique": "Belgique",
       "ids_sources": [
-        "ae7add2eb",
         "ab917c6d0",
-        "a0df5c090",
-        "ab0b31aa0",
+        "ad04a2c24",
         "a29e5d944",
-        "aeb64bccd"
+        "a921ba084",
+        "a0df5c090",
+        "a58df4932",
+        "ab0b31aa0"
       ],
       "sources": [
         {
           "source": "RTBF Info",
-          "titre": "Direct – Manifestation nationale de ce 9 octobre : le cortège a démarré de la gare Centrale",
-          "url": "https://www.rtbf.be/article/direct-manifestation-nationale-de-ce-9-octobre-le-cortege-a-demarre-de-la-gare-centrale-11797028"
+          "titre": "Direct – Manifestation nationale de ce 9 octobre : la manifestation est terminée, mais des casseurs continuent leurs actions au centre-ville",
+          "url": "https://www.rtbf.be/article/direct-manifestation-nationale-de-ce-9-octobre-la-manifestation-est-terminee-mais-des-casseurs-continuent-leurs-actions-au-centre-ville-11797028"
         },
         {
           "source": "L'Echo",
-          "titre": "Manifestation nationale du 9 octobre: les transports en commun perturbés ce vendredi",
+          "titre": "Manifestation nationale du 9 octobre: affrontement entre police et émeutiers, les transports en commun perturbés",
           "url": "https://www.lecho.be/r/t/1/id/10694940"
+        },
+        {
+          "source": "La Libre",
+          "titre": "”Personne ne nous fera taire” : la secrétaire générale de la FGTB tacle Georges-Louis Bouchez",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/personne-ne-nous-fera-taire-la-secretaire-generale-de-la-fgtb-tacle-georges-louis-bouchez-UY2H4OINDBBKBLK72UVP7D5IP4/"
         },
         {
           "source": "Le Vif",
@@ -64,56 +40,39 @@
         },
         {
           "source": "La Libre",
-          "titre": "”Personne ne nous fera taire” : la secrétaire générale de la FGTB tacle Georges-Louis Bouchez",
-          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/personne-ne-nous-fera-taire-la-secretaire-generale-de-la-fgtb-tacle-georges-louis-bouchez-UY2H4OINDBBKBLK72UVP7D5IP4/"
-        },
-        {
-          "source": "VRT NWS (EN)",
-          "titre": "National Day of Action and public sector strike to cause disruption on Friday 9 October and Monday 12 October",
-          "url": "https://vrtnws.be/p.oL1W5xYZO"
+          "titre": "DIRECT – Grève nationale: la situation dégénère aux alentours de la gare Centrale et de celle du Midi",
+          "url": "https://www.lalibre.be/belgique/societe/2026/10/09/direct-greve-nationale-voici-les-perturbations-a-prevoir-ce-vendredi-SRGQBHAHPFBKFHEHD2TFTIGXPI/"
         },
         {
           "source": "La Libre",
-          "titre": "DIRECT-Grève nationale : des centaines de jeunes vêtus de noir se rassemblent à Bruxelles-Central, la police fait usage de gaz lacrymogène",
-          "url": "https://www.lalibre.be/belgique/societe/2026/10/09/direct-greve-nationale-voici-les-perturbations-a-prevoir-ce-vendredi-SRGQBHAHPFBKFHEHD2TFTIGXPI/"
+          "titre": "Un enfant d'une dizaine d'années interpellé par la police lors de la manifestation nationale",
+          "url": "https://www.lalibre.be/belgique/societe/2026/10/09/une-arrestation-en-marge-de-la-manifestation-nationale-fait-polemique-lachez-le-il-a-dix-ans-VTBVAUXC65F3HHDDXTIRO3EAWI/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Grève nationale à Bruxelles-Propreté : les collectes fortement perturbées et plusieurs Recypark fermés",
+          "url": "https://www.rtbf.be/article/greve-nationale-a-bruxelles-proprete-les-collectes-fortement-perturbees-et-plusieurs-recypark-fermes-11797515"
         }
       ],
-      "importance": 4,
-      "score": 45,
-      "nb_articles": 8
+      "importance": 5,
+      "score": 55,
+      "nb_articles": 10
     },
     {
-      "titre": "Mobilisation des élèves et émeutes à Liège",
-      "texte": "Des affrontements violents entre des jeunes et la police ont secoué Liège, après une mobilisation d'élèves et d'étudiants qui bloquent leurs écoles et manifestent depuis le 1er octobre, selon la RTBF. Le ministre de l'Intérieur, Bernard Quintin, a déclaré vouloir rétablir l'ordre « par tous les moyens » et a pointé la responsabilité des parents, des écoles et du mouvement antifa, rapporte Le Vif. Les antifas démentent toute instrumentalisation et renvoient la responsabilité vers le gouvernement, d'après La Libre. Le PTB et plusieurs jeunesses politiques et syndicales nient aussi toute récupération, selon Le Vif. Les syndicats d'enseignement annoncent une journée d'action le 24 novembre, d'après La Libre.",
+      "titre": "Manifestations d'élèves et violences à Liège",
+      "texte": "Une enquête a été ouverte après des tirs de carabine à plomb qui auraient touché deux jeunes manifestants lors du cortège d'élèves de jeudi à Liège, selon La Libre. D'après ce média, citant différents médias, l'un d'eux aurait déposé plainte et un procès-verbal aurait été rédigé. La RTBF indique que des élèves et étudiants bloquent leurs écoles et manifestent depuis le 1er octobre, estimant leur colère légitime et non entendue. Elle évoque aussi des vitrines brisées, des feux et des tirs de mortiers d'artifice à Liège. Le ministre de l'Intérieur, Bernard Quintin, a déclaré, selon Le Vif, vouloir rétablir l'ordre « par tous les moyens » et a pointé la responsabilité des parents, des écoles et du mouvement antifa.",
       "rubrique": "Belgique",
       "ids_sources": [
-        "a9919f1e3",
-        "afcb3836c",
-        "aa5776cfc",
-        "aaa951677",
+        "aca291acd",
         "a437064f8",
-        "ac0a3922b"
+        "ad1781cf4",
+        "aa5776cfc"
       ],
       "sources": [
         {
           "source": "La Libre",
-          "titre": "\"On se serait cru dans un film\", \"On ne pense qu’à ça\" : sous haute surveillance policière, les Liégeois encore sous le choc après les émeutes",
-          "url": "https://www.lalibre.be/belgique/enseignement/2026/10/08/on-se-serait-cru-dans-un-film-on-ne-pense-qua-ca-sous-haute-surveillance-policiere-les-liegeois-encore-sous-le-choc-apres-les-emeutes-CBLAX36WQZGGZHTP2HW2X56K7U/"
-        },
-        {
-          "source": "La Libre",
-          "titre": "Ciblés par Bernard Quintin à Liège, les Antifas répliquent : “C'est lui et son gouvernement qui incitent à la casse”",
-          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/08/cibles-par-bernard-quintin-a-liege-les-antifas-repliquent-cest-lui-et-son-gouvernement-qui-incitent-a-la-casse-OTCNBEP33RDBXITKUSB5PAGG6I/"
-        },
-        {
-          "source": "Le Vif",
-          "titre": "Emeutes étudiantes à Liège: Bernard Quintin veut rétablir l’ordre «par tous les moyens» et pointe «la responsabilité des parents, des écoles, et du mouvement antifa»",
-          "url": "https://www.levif.be/belgique/justice/emeutes-etudiantes-a-liege-bernard-quintin-veut-retablir-lordre-par-tous-les-moyens-et-pointe-la-responsabilite-des-parents-des-ecoles-et-du-mouvement-antifa/"
-        },
-        {
-          "source": "Le Vif",
-          "titre": "Le PTB noyaute-t-il la mobilisation des élèves du secondaire? «Arrêtons de crier au complot»",
-          "url": "https://www.levif.be/belgique/politique/le-ptb-noyaute-t-il-la-mobilisation-des-eleves-du-secondaire-arretons-donc-de-crier-au-complot/"
+          "titre": "Une enquête ouverte après des tirs de carabine à plomb sur de jeunes manifestants à Liège",
+          "url": "https://www.lalibre.be/belgique/enseignement/2026/10/09/une-enquete-ouverte-apres-des-tirs-de-carabine-a-plomb-sur-de-jeunes-manifestants-a-liege-T3P72MD22VGFRAYNFPCD2VJIXA/"
         },
         {
           "source": "RTBF Info",
@@ -121,63 +80,38 @@
           "url": "https://www.rtbf.be/article/notre-colere-est-legitime-et-on-ne-nous-ecoute-pas-pourquoi-les-jeunes-se-mobilisent-11797379"
         },
         {
-          "source": "La Libre",
-          "titre": "Contestation du secteur de l'enseignement: les syndicats organisent une nouvelle journée d'action le 24 novembre",
-          "url": "https://www.lalibre.be/belgique/enseignement/2026/10/09/contestation-du-secteur-de-lenseignement-les-syndicats-organisent-une-nouvelle-journee-daction-le-24-novembre-NFEZ4I3PPRBO5M6DCFWBB5VNZU/"
+          "source": "RTBF Info",
+          "titre": "Affiches, meneurs, incitations à la violence : que peut-on vraiment dire sur ceux qui influenceraient les manifestations des élèves ?",
+          "url": "https://www.rtbf.be/article/affiches-meneurs-incitations-a-la-violence-que-peut-on-vraiment-dire-sur-ceux-qui-influenceraient-les-manifestations-des-eleves-11796889"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Emeutes étudiantes à Liège: Bernard Quintin veut rétablir l’ordre «par tous les moyens» et pointe «la responsabilité des parents, des écoles, et du mouvement antifa»",
+          "url": "https://www.levif.be/belgique/justice/emeutes-etudiantes-a-liege-bernard-quintin-veut-retablir-lordre-par-tous-les-moyens-et-pointe-la-responsabilite-des-parents-des-ecoles-et-du-mouvement-antifa/"
         }
       ],
       "importance": 4,
       "score": 43,
-      "nb_articles": 8
+      "nb_articles": 6
     },
     {
-      "titre": "Colruyt en négociation avec Carrefour pour la vente de Codifrance",
-      "texte": "Colruyt est entré en négociations exclusives avec Carrefour en vue de céder Codifrance, son pôle grossiste en France, selon L'Echo. Le groupe de Hal précise que ces discussions ne préjugent pas de la conclusion d'un accord. D'après La Libre, cette activité fournit environ 3.000 magasins en France et emploie près de 380 personnes. Le quotidien évoque aussi des effets potentiels en Belgique : une vingtaine de Carrefour Market pourraient changer de mains dans le cadre de l'échange, un point présenté sous forme de question, sans confirmation de la part des parties dans les extraits disponibles.",
-      "rubrique": "Économie",
-      "ids_sources": [
-        "ab18cbdb0",
-        "ad98408dd",
-        "a418c3b9b"
-      ],
-      "sources": [
-        {
-          "source": "La Libre",
-          "titre": "Colruyt négocie la vente de Codifrance à Carrefour : une vingtaine de Carrefour Market sur le point de changer de mains en Belgique dans l'échange ?",
-          "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/09/colruyt-negocie-la-vente-de-codifrance-a-carrefour-des-carrefour-market-pourraient-ils-changer-de-mains-6N7D7DBRCFAY7EZXCFQV65R34A/"
-        },
-        {
-          "source": "L'Echo",
-          "titre": "Carrefour retenu comme repreneur potentiel du pôle grossiste français de Colruyt",
-          "url": "https://www.lecho.be/r/t/1/id/10694953"
-        },
-        {
-          "source": "La Libre",
-          "titre": "Colruyt négocie avec Carrefour la vente de son activité de gros en France",
-          "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/09/colruyt-negocie-avec-carrefour-la-vente-de-son-activite-de-gros-en-france-JVDYY5QMMFCFJEKTMATES3SD64/"
-        }
-      ],
-      "importance": 4,
-      "score": 42,
-      "nb_articles": 3
-    },
-    {
-      "titre": "Nouveau plan fédéral belge de lutte contre le cancer",
-      "texte": "Le gouvernement fédéral belge présente un nouveau Plan cancer s'étalant sur dix ans. Selon L'Echo, qui cite Le Soir, le ministre Frank Vandenbroucke est à l'origine de la présentation et le plan cible huit axes, dont la prévention, le dépistage et l'organisation des soins oncologiques. D'après la RTBF, le plan ne se limite pas aux traitements : il mise aussi sur la prévention. Les extraits fournis ne détaillent ni le budget, ni le calendrier de mise en œuvre, ni les mesures concrètes rattachées à chacun des axes.",
+      "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles et économies de la RTBF",
+      "texte": "Le gouvernement de la Fédération Wallonie-Bruxelles a trouvé un accord sur son budget 2027, qui prévoit un déficit de 1,27 milliard d'euros, selon La Libre, qui précise que l'exécutif francophone a bouclé ses négociations ce vendredi. D'après la RTBF, la chaîne publique devra réaliser 20 millions d'euros d'économies supplémentaires. La Libre évoque de son côté une contribution supplémentaire de la RTBF dans les prochaines années, sans chiffre dans les éléments fournis. La RTBF indique que le déficit devrait passer de 1,7 milliard d'euros prévu pour 2026 à un niveau que l'extrait disponible ne détaille pas.",
       "rubrique": "Belgique",
       "ids_sources": [
-        "a0458253f",
-        "a7be456a0"
+        "a0a238062",
+        "a1aacba5f"
       ],
       "sources": [
         {
-          "source": "L'Echo",
-          "titre": "Le gouvernement fédéral présente son nouveau plan de lutte contre le cancer",
-          "url": "https://www.lecho.be/r/t/1/id/10694957"
+          "source": "RTBF Info",
+          "titre": "Accord sur le budget 2027 de la FWB, la RTBF devra économiser 20 millions d’euros de plus",
+          "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593"
         },
         {
-          "source": "RTBF Info",
-          "titre": "La bataille contre le cancer se renforce : un nouveau plan fédéral pour 10 ans",
-          "url": "https://www.rtbf.be/article/la-bataille-contre-le-cancer-se-renforce-un-nouveau-plan-federal-pour-10-ans-11796930"
+          "source": "La Libre",
+          "titre": "Budget 2027 : la Fédération Wallonie-Bruxelles prévoit un déficit de 1,27 milliard d’euros",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/budget-2027-la-federation-wallonie-bruxelles-prevoit-un-deficit-de-127-milliard-deuros-AQZ2J4QSSNAUHMOVC4I42EYACE/"
         }
       ],
       "importance": 4,
@@ -185,8 +119,8 @@
       "nb_articles": 2
     },
     {
-      "titre": "Projet de loi sur les visites domiciliaires en Belgique",
-      "texte": "Le projet de loi sur les visites domiciliaires a été adopté en commission de l'Intérieur de la Chambre et doit encore être voté en séance plénière. Selon VRT NWS, le texte, rédigé par la ministre de l'Asile et de la Migration Anneleen Van Bossuyt (N-VA) et la ministre de la Justice Annelies Verlinden (CD&V), permettrait à la police, avec l'Office des étrangers, d'entrer au domicile de migrants en séjour irrégulier jugés menaçants pour l'ordre public ou la sécurité nationale. D'après Le Vif, le texte a été adopté en deuxième lecture. Malgré plusieurs amendements, les garanties entourant ces interventions suscitent de fortes critiques, y compris dans les rangs de la majorité.",
+      "titre": "Projet de loi belge sur les visites domiciliaires",
+      "texte": "Le projet de loi sur les visites domiciliaires a été adopté en deuxième lecture par la commission de l'Intérieur de la Chambre et doit encore être voté en séance plénière. Selon la VRT NWS, le texte, rédigé par la ministre de l'Asile et de la Migration Anneleen Van Bossuyt (N-VA) et la ministre de la Justice Annelies Verlinden (CD&V), permettrait à la police, avec l'Office des étrangers, d'entrer au domicile de migrants sans papiers jugés menaçants pour l'ordre public ou la sécurité nationale. D'après Le Vif, malgré plusieurs amendements, les garanties entourant ces interventions restent très critiquées, y compris au sein de la majorité.",
       "rubrique": "Politique",
       "ids_sources": [
         "a063cdd46",
@@ -209,51 +143,56 @@
       "nb_articles": 2
     },
     {
-      "titre": "Mobilisation lycéenne et interventions policières en France",
-      "texte": "Selon La Libre, 141 lycées restent fermés vendredi en France en raison d'une mobilisation d'élèves qui se poursuit malgré les discussions avec le gouvernement ; un nouveau rendez-vous est annoncé mardi. D'après Le Vif, les forces de sécurité affirment avoir réalisé 6 059 interpellations entre le 28 septembre et le 5 octobre, un chiffre qualifié d'inédit. Le ministre de l'Intérieur, Laurent Nuñez, est de plus en plus critiqué après la diffusion d'images d'adolescents blessés. Le Monde rapporte qu'un élève de 14 ans a eu la mâchoire fracturée par un tir de lance-grenade lacrymogène le 28 septembre dans le Val-d'Oise. La Libre signale par ailleurs un lycée en partie saccagé près de Bordeaux, avec plusieurs centaines de milliers d'euros de dégâts selon de premiers chiffrages.",
-      "rubrique": "Société",
+      "titre": "Écrits antisémites attribués à Jordan Bardella",
+      "texte": "Mediapart affirme avoir obtenu de nouvelles preuves reliant Jordan Bardella à des propos antisémites tenus sur Messenger. Selon Le Monde, le site d'investigation dit avoir récupéré trois autres conversations d'interlocuteurs du président du Rassemblement national, qui consolideraient le lien avec le compte Facebook incriminé. Toujours d'après Le Monde, des propos auraient été tenus simultanément dans la conversation à tonalité antisémite et sur le compte Twitter officiel de Jordan Bardella. Celui-ci conteste l'enquête et nie tout en bloc, rapporte Le Vif, qui évoque une stratégie de communication comportant des risques. Le média affirme aussi que plusieurs de ses arguments se heurtent aux faits.",
+      "rubrique": "Politique",
       "ids_sources": [
-        "a3317b165",
-        "a6b75129d",
-        "ad211ab44",
-        "a73713a75"
+        "a8f41b509",
+        "a34a84370",
+        "a5bce8472"
       ],
       "sources": [
         {
-          "source": "La Libre",
-          "titre": "France : 141 lycées restent fermés vendredi en raison de la mobilisation des élèves",
-          "url": "https://www.lalibre.be/international/europe/2026/10/09/france-141-lycees-restent-fermes-vendredi-en-raison-de-la-mobilisation-des-eleves-WDZ4WUVLTJDTHNVSGQBIDDMXRE/"
+          "source": "Le Monde",
+          "titre": "Ecrits antisémites : « Mediapart » apporte de nouvelles preuves liant Jordan Bardella aux propos tenus sur Messenger",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/09/ecrits-antisemites-mediapart-apporte-de-nouvelles-preuves-liant-jordan-bardella-aux-propos-tenus-sur-messenger_6790555_823448.html"
         },
         {
           "source": "Le Vif",
-          "titre": "Mobilisation lycéenne en France: les questions soulevées par deux semaines d’interventions policières",
-          "url": "https://www.levif.be/international/europe/france/mobilisation-lyceenne-en-france-les-questions-soulevees-par-deux-semaines-dinterventions-policieres/"
+          "titre": "«Vous mentez, je n’ai rien fait»: pourquoi la stratégie de Jordan Bardella est osée mais risquée",
+          "url": "https://www.levif.be/international/europe/france/vous-mentez-je-nai-rien-fait-pourquoi-la-strategie-de-jordan-bardella-est-osee-mais-risquee/"
         },
         {
-          "source": "Le Monde",
-          "titre": "« Ils mutilent un élève, repartent, et nous, derrière, comment fait-on ? » A Saint-Ouen-l’Aumône, le traumatisme perdure après la blessure grave d’un adolescent par un tir policier",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/09/ils-mutilent-un-eleve-repartent-et-nous-derriere-comment-fait-on-a-saint-ouen-l-aumone-le-traumatisme-perdure-apres-la-grave-blessure-d-un-adolescent-par-un-tir-policier_6790494_3224.html"
-        },
-        {
-          "source": "La Libre",
-          "titre": "Un lycée en partie saccagé près de Bordeaux, plusieurs centaines de milliers d'euros de dégâts",
-          "url": "https://www.lalibre.be/international/europe/2026/10/08/un-lycee-en-partie-saccage-pres-de-bordeaux-plusieurs-centaines-de-milliers-deuros-de-degats-2N4LSUSYLFA2VC6KTW63HJVXL4/"
+          "source": "Le Vif",
+          "titre": "Ecrits antisémites: les contre-vérités de Jordan Bardella pour se défendre contre l’enquête de «Mediapart»",
+          "url": "https://www.levif.be/international/ecrits-antisemites-les-contre-verites-de-jordan-bardella-pour-se-defendre-contre-lenquete-de-mediapart/"
         }
       ],
       "importance": 4,
-      "score": 44,
-      "nb_articles": 5
+      "score": 42,
+      "nb_articles": 3
     },
     {
       "titre": "Prix Nobel de la paix 2026 attribué à Navanethem Pillay",
-      "texte": "Le prix Nobel de la paix 2026 a été attribué à la Sud-Africaine Navanethem « Navi » Pillay, annoncé à Oslo vendredi, selon Le Vif et la RTBF. Selon Le Monde et la RTBF, la distinction la récompense « pour ses efforts en faveur de la paix et du droit international ». Les médias la présentent comme juriste (Le Vif, RTBF) ou avocate (Le Monde). La RTBF évoque dans son titre un parcours consacré à combattre l'impunité, « de l'apartheid à Gaza ». D'après Le Monde, 287 candidatures avaient été déposées cette année, dont 208 personnes physiques et 79 organisations. Quatre autres prix Nobel (médecine, physique, chimie, littérature) ont été annoncés depuis lundi, précise le quotidien.",
+      "texte": "Le prix Nobel de la paix 2026 a été décerné à la juriste sud-africaine Navanethem « Navi » Pillay, selon la RTBF, L'Echo, Le Vif et Le Monde. Âgée de 85 ans, elle a notamment été juge, haut-commissaire des Nations unies aux droits de l'homme et présidente du Tribunal pénal international pour le Rwanda, rappelle Le Monde. D'après L'Echo, le comité Nobel souligne son rôle dans la poursuite des crimes de guerre, des crimes contre l'humanité et du génocide. La RTBF évoque pour sa part un combat contre l'impunité, de l'apartheid à Gaza. Le Monde précise que la distinction intervient à l'heure où la justice est « attaquée ».",
       "rubrique": "Monde",
       "ids_sources": [
-        "a1be523b4",
         "a63580728",
+        "a476e9ee7",
+        "a1be523b4",
         "aab8269e2"
       ],
       "sources": [
+        {
+          "source": "RTBF Info",
+          "titre": "Le prix Nobel de la paix 2026 attribué à Navanethem \"Navi\" Pillay, une vie à combattre l'impunité, de l'apartheid à Gaza",
+          "url": "https://www.rtbf.be/article/le-prix-nobel-de-la-paix-2026-attribue-a-navanethem-navi-pillay-une-vie-a-combattre-l-impunite-de-l-apartheid-a-gaza-11797495"
+        },
+        {
+          "source": "L'Echo",
+          "titre": "Le prix Nobel de la paix décerné à l'avocate sud-africaine Navanethem \"Navi\" Pillay",
+          "url": "https://www.lecho.be/r/t/1/id/10694986"
+        },
         {
           "source": "Le Vif",
           "titre": "Le prix Nobel de la paix est attribué à la sud-africaine Navanethem Pillay",
@@ -265,30 +204,31 @@
           "url": "https://www.lalibre.be/international/2026/10/09/le-nobel-de-la-paix-attribue-a-la-sud-africaine-navanethem-navi-pillay-O5EYNVTWKNC53COBS7URFRGPW4/"
         },
         {
-          "source": "RTBF Info",
-          "titre": "Le prix Nobel de la paix 2026 attribué à Navanethem \"Navi\" Pillay, une vie à combattre l'impunité, de l'apartheid à Gaza",
-          "url": "https://www.rtbf.be/article/le-prix-nobel-de-la-paix-2026-attribue-a-navanethem-navi-pillay-une-vie-a-combattre-l-impunite-de-l-apartheid-a-gaza-11797495"
-        },
-        {
           "source": "Le Monde",
-          "titre": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay « pour ses efforts en faveur de la paix et du droit international »",
+          "titre": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay, à l’heure où la justice est « attaquée »",
           "url": "https://www.lemonde.fr/international/article/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay-pour-ses-efforts-en-faveur-de-la-paix-et-du-droit-international_6790542_3210.html"
         }
       ],
       "importance": 4,
-      "score": 43,
-      "nb_articles": 3
+      "score": 44,
+      "nb_articles": 4
     },
     {
-      "titre": "Exécution de Nidal Hasan par peloton d'exécution diffusée en direct",
-      "texte": "Le Pentagone a annoncé que l'exécution de Nidal Hasan par peloton d'exécution sera diffusée en direct. Selon Le Monde, le chef du Pentagone, Pete Hegseth, a déclaré que le condamné « sera fusillé par des soldats, comme il se doit » et que le public pourra y assister. Nidal Hasan est l'auteur d'une tuerie qui avait fait 13 morts sur une base militaire du Texas en 2009, selon La Libre et Le Monde. D'après la BBC, un expert juridique juge cette décision « sans précédent » et placée sur un « terrain juridique incertain ». Toujours selon Le Monde, l'ONU dénonce cette pratique comme une forme de « torture ».",
+      "titre": "Exécution de Nidal Hasan par peloton d'exécution, diffusée en direct",
+      "texte": "Le Pentagone a annoncé que l'exécution par peloton d'exécution de Nidal Hasan, auteur de la tuerie de 2009 sur une base militaire du Texas, sera retransmise en direct. Selon Le Monde, le chef du Pentagone, Pete Hegseth, a déclaré que le condamné « sera fusillé par des soldats, comme il se doit » et que le public pourra y assister. La fusillade avait fait 13 morts. Toujours d'après Le Monde, l'ONU dénonce une forme de « torture ». Pour la BBC, un juriste juge cette décision « inédite » et sur un « terrain juridique incertain ». Alonzo Lunsford, rescapé de Fort Hood, soutient la peine mais doute que le public doive pouvoir la regarder, a-t-il dit à la BBC.",
       "rubrique": "Monde",
       "ids_sources": [
-        "a7343e10e",
         "a2d00d553",
+        "a7343e10e",
+        "a176646be",
         "a02246a53"
       ],
       "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "source": "BBC World",
           "titre": "Firing squad execution to be livestreamed, Pentagon says",
@@ -306,27 +246,27 @@
         }
       ],
       "importance": 4,
-      "score": 44,
+      "score": 43,
       "nb_articles": 5
     },
     {
-      "titre": "Frappes israéliennes à Gaza malgré le cessez-le-feu",
-      "texte": "Sept personnes, dont une femme et un enfant, ont été tuées dans des frappes israéliennes à Gaza, selon La Libre, malgré le cessez-le-feu entré en vigueur en octobre. Le quotidien indique que les violences se poursuivent dans le territoire palestinien. D'après la BBC, les Palestiniens continuent de subir des frappes au quotidien, sous le titre « Every day there is killing ». Le média britannique précise que de nombreux civils vivent encore dans des camps de tentes surpeuplés et que le plan américain visant à mettre fin à la guerre est largement au point mort.",
+      "titre": "Gaza un an après le cessez-le-feu",
+      "texte": "Un an après l'entrée en vigueur du cessez-le-feu du 10 octobre 2025, négocié sous l'égide des États-Unis, Gaza reste en ruines et les violences se poursuivent. Selon Le Monde, qui s'appuie sur un reportage sur place, le territoire n'a connu ni paix ni reconstruction, et des habitants affirment que « le plan Trump n'a rien changé ». Le quotidien estime que le plan s'enlise et que la guerre menée par Israël continue. La Libre rapporte de son côté que sept personnes, dont une femme et un enfant, ont été tuées dans des frappes israéliennes, malgré la trêve entrée en vigueur en octobre.",
       "rubrique": "Monde",
       "ids_sources": [
-        "a18ff0345",
-        "a1d4d72e5"
+        "a23390616",
+        "a18ff0345"
       ],
       "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "A Gaza, un an de « cessez-le-feu » sans paix ni reconstruction, sous les bombardements : « Le plan Trump n’a rien changé »",
+          "url": "https://www.lemonde.fr/international/article/2026/10/09/a-gaza-un-an-de-cessez-le-feu-sans-paix-ni-reconstruction-sous-les-bombardements-le-plan-trump-n-a-rien-change_6790551_3210.html"
+        },
         {
           "source": "La Libre",
           "titre": "Gaza : sept morts dans des frappes israéliennes, dont une femme et un enfant",
           "url": "https://www.lalibre.be/international/moyen-orient/guerre-israel-iran/2026/10/09/gaza-sept-morts-dans-des-frappes-israeliennes-dont-une-femme-et-un-enfant-HDL2JI654VBGHBBZ6NDA3A5ARU/"
-        },
-        {
-          "source": "BBC World",
-          "titre": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "importance": 4,
@@ -334,23 +274,23 @@
       "nb_articles": 2
     },
     {
-      "titre": "La Corée du Sud rappelle son ambassadeur en Ukraine",
-      "texte": "La Corée du Sud a rappelé jeudi son ambassadeur à Kiev, dans un contexte de dégradation des relations diplomatiques avec l'Ukraine. Les deux médias n'avancent pas le même motif. Selon Le Monde, ce rappel fait suite à la publication d'informations selon lesquelles Séoul aurait envoyé du carburant à la Russie, ce qui suscite l'inquiétude en Corée du Sud. D'après la BBC, il s'inscrit dans un différend lié au transfert de deux prisonniers nord-coréens vers Séoul, révélé par Kiev, et constitue le dernier épisode d'une querelle diplomatique. Les articles fournis ne permettent pas d'établir si ces deux éléments sont liés.",
+      "titre": "Attaques contre l'aéroport de Riyad",
+      "texte": "Trois ressortissants saoudiens ont été tués dans des attaques à la roquette visant l'aéroport de Riyad, selon la BBC, qui les attribue aux Houthis et les replace dans une escalade des combats entre ce groupe soutenu par l'Iran et l'Arabie saoudite, alliée du gouvernement yéménite. La Libre, citant l'AFP, rapporte qu'au moins un avion a été gravement endommagé jeudi sur le site, quelques heures après une série d'explosions dans la capitale saoudienne. Cette information provient de deux sources briefées sur l'incident et de témoins sur place. Les extraits fournis ne permettent pas de confirmer, dans les deux articles, l'auteur des tirs ni un bilan commun.",
       "rubrique": "Monde",
       "ids_sources": [
-        "a1bddb7f7",
-        "a3d9a359c"
+        "a96e0059f",
+        "ab44bd62f"
       ],
       "sources": [
         {
-          "source": "Le Monde",
-          "titre": "En Corée du Sud, la dégradation des relations avec l’Ukraine suscite l’inquiétude",
-          "url": "https://www.lemonde.fr/international/article/2026/10/09/en-coree-du-sud-la-degradation-des-relations-avec-l-ukraine-suscite-l-inquietude_6790529_3210.html"
+          "source": "BBC World",
+          "titre": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "titre": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-          "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss"
+          "source": "La Libre",
+          "titre": "Après les explosions, un avion gravement endommagé à l'aéroport de Ryad",
+          "url": "https://www.lalibre.be/international/moyen-orient/2026/10/08/apres-les-explosions-un-avion-gravement-endommage-a-laeroport-de-ryad-DVNYLGHDVFFU3KAVCZ2E52WB3M/"
         }
       ],
       "importance": 4,
@@ -358,35 +298,125 @@
       "nb_articles": 2
     },
     {
-      "titre": "Victoire de l'AfD en Saxe-Anhalt et tensions au sein de la CDU",
-      "texte": "L'AfD a remporté les élections régionales de septembre en Saxe-Anhalt avec 43,8 % des voix, selon Le Vif, qui indique que son chef, Ulrich Siegmund, pourrait prendre la tête du Land à la mi-décembre. D'après Le Monde, plusieurs élus de la CDU de Friedrich Merz auraient voté pour un candidat d'extrême droite à la présidence du parlement régional, ce qui reste conditionnel dans l'article. Le SPD s'en indigne et invoque le contrat de coalition, qui interdit toute coopération avec l'AfD. Le Vif décrit par ailleurs le profil des 39 élus du groupe, dont des personnes condamnées pour vol ou appartenance à des mouvements néonazis interdits, un ancien cadre de la Stasi et un acteur de films X.",
-      "rubrique": "Europe",
+      "titre": "Tensions entre l'Iran et les États-Unis",
+      "texte": "L'Iran rejette toute négociation avec les États-Unis tant qu'elle se déroule sous la menace, selon la RTBF Info. Téhéran affirme que le dialogue n'a de sens et ne peut réussir que s'il repose sur le respect mutuel et sur des engagements concrets. Dans le même temps, Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat, rapporte la RTBF Info. Cette mise au point intervient après une forte hausse des cours du pétrole jeudi, liée à des informations de presse évoquant, d'après l'extrait de l'article, une possible action contre l'Iran. Les deux positions, publiées le 9 octobre, laissent la situation dans l'impasse.",
+      "rubrique": "Monde",
       "ids_sources": [
-        "a61ec0c27",
-        "a1f6f4e12"
+        "abf068458",
+        "a4c8e3e74"
       ],
       "sources": [
         {
-          "source": "Le Monde",
-          "titre": "Allemagne : après la victoire de l’AfD en Saxe-Anhalt, la CDU et la coalition au pouvoir menacées",
-          "url": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html"
+          "source": "RTBF Info",
+          "titre": "Guerre au Moyen-Orient : impasse entre l'Iran et les États-Unis, Téhéran rejette toute négociation sous la menace",
+          "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-impasse-entre-l-iran-et-les-etats-unis-teheran-rejette-toute-negociation-sous-la-menace-11797575"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Trump exclut d’attaquer l’Iran avant les élections de mi-mandat",
+          "url": "https://www.rtbf.be/article/trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat-11797382"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Prix Nobel de littérature attribué à Anne Carson",
+      "texte": "Le prix Nobel de littérature a été décerné à la poète canadienne Anne Carson, 76 ans, selon la BBC et Le Vif. D'après la BBC, qui la qualifie d'autrice « audacieuse et inventive », ses œuvres traversent souvent les frontières entre poésie, fiction et critique. Le Vif relève qu'elle devient la 19e femme lauréate sur 123 récipiendaires depuis la création du prix. Les deux articles ont été publiés le 8 octobre 2026. Les extraits fournis ne contiennent ni citation du jury ni précision sur les ouvrages distingués.",
+      "rubrique": "Culture",
+      "ids_sources": [
+        "ab68c227f",
+        "a83c7601f"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Le Vif",
-          "titre": "Acteur porno, ex-cadre de la Stasi… Les «mauvais garçons» de l’AfD qui pourraient diriger la Saxe-Anhalt en Allemagne",
-          "url": "https://www.levif.be/allemagne/acteur-porno-ex-cadre-de-la-stasi-les-mauvais-garcons-de-lafd-qui-pourraient-diriger-la-saxe-anhalt-en-allemagne/"
+          "titre": "Le Nobel de littérature décerné à Anne Carson: sur 123 lauréats depuis la création du prix, seuls 19 sont des femmes",
+          "url": "https://www.levif.be/culture/le-nobel-de-litterature-decerne-a-anne-carson-sur-123-laureats-depuis-la-creation-du-prix-seuls-19-sont-des-femmes/"
         }
       ],
       "importance": 4,
       "score": 42,
       "nb_articles": 2
+    },
+    {
+      "titre": "Documentaire « Naza » sur Gaza",
+      "texte": "Le documentaire « Naza », qui accuse Israël de tuer délibérément des civils à Gaza, sera bientôt diffusé en France et en ligne, rapporte Le Monde. Le film a reçu le prix du jury à la Mostra de Venise, où, selon le quotidien, il a été accueilli par une ovation de vingt-cinq minutes, qualifiée d'« historique ». Toujours d'après Le Monde, il a déclenché une tempête politique en Israël. Le contenu précis de ces réactions n'est pas détaillé dans les éléments disponibles. L'accusation de meurtres délibérés de civils est celle portée par le film, présentée comme telle par le journal.",
+      "rubrique": "Culture",
+      "ids_sources": [
+        "ae3e14e3e"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "« Naza », le documentaire qui accuse Israël de tuer délibérément des civils à Gaza, bientôt diffusé en France et en ligne",
+          "url": "https://www.lemonde.fr/international/article/2026/10/09/naza-le-documentaire-sur-gaza-prime-a-la-mostra-bientot-diffuse-en-france-et-en-ligne_6790538_3210.html"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
     }
   ],
   "breves": [
     {
+      "titre": "Pétrolier touché par des projectiles dans le Golfe",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Colruyt en négociation avec Carrefour pour la vente de ses activités en France",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/09/colruyt-negocie-la-vente-de-codifrance-a-carrefour-des-carrefour-market-pourraient-ils-changer-de-mains-6N7D7DBRCFAY7EZXCFQV65R34A/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Niveau record de l'épisode El Niño",
+      "url": "https://www.lalibre.be/planete/environnement/2026/10/09/lepisode-el-nino-atteint-son-niveau-record-la-valeur-annuelle-la-plus-forte-jamais-enregistree-3UNVTZI6EVDPLEWMH4SQBGWMKA/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Avertissement de Steve Eisman sur les investissements dans l'IA",
+      "url": "https://www.lalibre.be/economie/digital/2026/10/09/lavertissement-sur-lia-de-lhomme-qui-avait-vu-venir-la-crise-de-2008-toute-la-chaine-repose-sur-ces-deux-entreprises-O4FK7RLZBVGRFIXCGQBRVE6AXE/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Arrestation du fondateur du canal Telegram Rybar au Monténégro",
+      "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Victoire de l'AfD en Saxe-Anhalt et crise de la coalition allemande",
+      "url": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
       "titre": "Fusillade à Anvers",
       "url": "https://www.lalibre.be/regions/flandre/2026/10/08/fusillade-a-anvers-trois-personnes-entre-la-vie-et-la-mort-trois-suspects-arretes-7LHAG4VMOBHJDLRCSSMLWHGPSE/",
       "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Frappe contre deux bus en Ukraine",
+      "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/une-frappe-effroyable-contre-deux-bus-fait-30-morts-en-ukraine-546137/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Réforme électorale approuvée en Italie",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "importance": 4
     },
     {
@@ -396,81 +426,33 @@
       "importance": 4
     },
     {
-      "titre": "Hausse du ticket modérateur envisagée par le gouvernement",
-      "url": "https://www.levif.be/opinions/cartes-blanches/et-maintenant-le-gouvernement-voudrait-depouiller-le-patient-carte-blanche/",
-      "source": "Le Vif",
-      "importance": 4
-    },
-    {
-      "titre": "Vieillissement démographique et avenir des pensions",
-      "url": "https://www.levif.be/societe/moins-de-bebes-plus-de-vieux-nos-pensions-toujours-en-danger/",
-      "source": "Le Vif",
-      "importance": 4
-    },
-    {
-      "titre": "Budget 2027 : motion de rejet préalable des députés socialistes",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html",
-      "source": "Le Monde",
-      "importance": 4
-    },
-    {
-      "titre": "Attaques ukrainiennes contre des centres de données de Yandex",
-      "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html",
-      "source": "Le Monde",
-      "importance": 4
-    },
-    {
-      "titre": "Frappes russes sur Kyiv et départs d'habitants avant l'hiver",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "titre": "Procès au Royaume-Uni d'un médecin accusé de crimes lors du génocide rwandais",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 4
     },
     {
-      "titre": "Trump exclut une attaque contre l'Iran avant les élections de mi-mandat",
-      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/08/trump-exclut-dattaquer-liran-avant-les-elections-de-mi-mandat-IVDXS2OP6VECLO36DY7V7ZKWF4/",
-      "source": "La Libre",
-      "importance": 4
-    },
-    {
-      "titre": "Donald Trump remet une médaille scientifique à Elon Musk",
-      "url": "https://www.lecho.be/r/t/1/id/10694945",
-      "source": "L'Echo",
-      "importance": 3
-    },
-    {
-      "titre": "Prix Nobel de littérature 2026 attribué à Anne Carson",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "titre": "Mobilisation lycéenne en France",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3
     },
     {
-      "titre": "Chute d'Argenx et d'EVS à la Bourse de Bruxelles",
-      "url": "https://www.lecho.be/r/t/1/id/10694966",
-      "source": "L'Echo",
+      "titre": "Retrait du Panama et du Vietnam de la liste noire européenne des paradis fiscaux",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/09/l-ue-retire-le-panama-et-le-vietnam-de-sa-liste-noire-des-paradis-fiscaux-compte-tenu-de-progres-sur-la-transparence-financiere_6790567_3234.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Procès Ullens : récusation des juges devant la Cour de cassation",
-      "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/08/les-trois-juges-du-proces-ullens-refusent-de-se-deporter-X247LPFUNBEFHPIFJ6OIJYQUXQ/",
-      "source": "La Libre",
+      "titre": "Rappel de l'ambassadeur sud-coréen en Ukraine",
+      "url": "https://www.lemonde.fr/international/article/2026/10/09/en-coree-du-sud-la-degradation-des-relations-avec-l-ukraine-suscite-l-inquietude_6790529_3210.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Un homme blessé par balle par un agent de l'ICE à New York",
+      "titre": "Agent de l'ICE tirant sur un homme à New York",
       "url": "https://www.lalibre.be/international/amerique/2026/10/09/un-homme-blesse-par-balle-par-un-agent-de-lice-lors-dune-operation-a-new-york-une-violence-debridee-et-incontrolee-OZMOPTFSGBETNOQHV7OR73UEFU/",
       "source": "La Libre",
-      "importance": 3
-    },
-    {
-      "titre": "Jordan Bardella et les révélations sur ses écrits antisémites",
-      "url": "https://www.levif.be/international/europe/france/vous-mentez-je-nai-rien-fait-pourquoi-la-strategie-de-jordan-bardella-est-osee-mais-risquee/",
-      "source": "Le Vif",
-      "importance": 3
-    },
-    {
-      "titre": "Fermeture du consulat britannique à Jérusalem-Est",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
       "importance": 3
     }
   ],
@@ -491,13 +473,13 @@
     "usage": {
       "claude-haiku-4-5": {
         "calls": 7,
-        "input_tokens": 25576,
-        "output_tokens": 13767
+        "input_tokens": 25262,
+        "output_tokens": 13592
       },
       "claude-sonnet-5-5": {
         "calls": 14,
-        "input_tokens": 46022,
-        "output_tokens": 9286
+        "input_tokens": 43044,
+        "output_tokens": 8382
       }
     }
   },

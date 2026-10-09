@@ -1,100 +1,106 @@
 {
   "sujets": [
     {
-      "titre": "Frappe russe contre deux bus à Kramatorsk",
+      "titre": "Manifestation nationale et grève du 9 octobre en Belgique",
       "ids": [
-        "a86bd5cf4",
-        "a26798f8c",
-        "a16c67f2b"
+        "ad04a2c24",
+        "ab917c6d0",
+        "a81d3b172",
+        "ab0b31aa0",
+        "a0df5c090",
+        "a29e5d944",
+        "a921ba084",
+        "a58df4932",
+        "a6f4e61b9",
+        "aeb64bccd"
       ],
       "importance": 5,
-      "score": 53
-    },
-    {
-      "titre": "Manifestation nationale du 9 octobre en Belgique et perturbations",
-      "ids": [
-        "ae7add2eb",
-        "ab917c6d0",
-        "a0df5c090",
-        "ab0b31aa0",
-        "aeae08ec7",
-        "a6f4e61b9",
-        "aeb64bccd",
-        "a29e5d944"
-      ],
-      "importance": 4,
-      "score": 45
-    },
-    {
-      "titre": "Exécution de Nidal Hasan par peloton d'exécution diffusée en direct",
-      "ids": [
-        "a7343e10e",
-        "a2d00d553",
-        "a02246a53",
-        "a624df63d",
-        "a9336d9c1"
-      ],
-      "importance": 4,
-      "score": 44
-    },
-    {
-      "titre": "Mobilisation lycéenne et interventions policières en France",
-      "ids": [
-        "a3317b165",
-        "a6b75129d",
-        "ad211ab44",
-        "a73713a75",
-        "a3354a51d"
-      ],
-      "importance": 4,
-      "score": 44
+      "score": 55
     },
     {
       "titre": "Prix Nobel de la paix 2026 attribué à Navanethem Pillay",
       "ids": [
-        "a1be523b4",
         "a63580728",
+        "a476e9ee7",
+        "a1be523b4",
         "aab8269e2"
       ],
       "importance": 4,
-      "score": 43
+      "score": 44
     },
     {
-      "titre": "Mobilisation des élèves et émeutes à Liège",
+      "titre": "Manifestations d'élèves et violences à Liège",
       "ids": [
-        "a9919f1e3",
-        "afcb3836c",
-        "aa5776cfc",
-        "ad1781cf4",
-        "aaa951677",
+        "aca291acd",
         "a437064f8",
-        "aba029341",
-        "ac0a3922b"
+        "ad1781cf4",
+        "aa5776cfc",
+        "a6f13f572",
+        "aba029341"
       ],
       "importance": 4,
       "score": 43
     },
     {
-      "titre": "Colruyt en négociation avec Carrefour pour la vente de Codifrance",
+      "titre": "Exécution de Nidal Hasan par peloton d'exécution, diffusée en direct",
       "ids": [
-        "a418c3b9b",
-        "ab18cbdb0",
-        "ad98408dd"
+        "a176646be",
+        "a7343e10e",
+        "a2d00d553",
+        "a02246a53",
+        "a9336d9c1"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles et économies de la RTBF",
+      "ids": [
+        "a0a238062",
+        "a1aacba5f"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Nouveau plan fédéral belge de lutte contre le cancer",
+      "titre": "Prix Nobel de littérature attribué à Anne Carson",
       "ids": [
-        "a0458253f",
-        "a7be456a0"
+        "ab68c227f",
+        "a83c7601f"
       ],
       "importance": 4,
       "score": 42
     },
     {
-      "titre": "Projet de loi sur les visites domiciliaires en Belgique",
+      "titre": "Écrits antisémites attribués à Jordan Bardella",
+      "ids": [
+        "a8f41b509",
+        "a34a84370",
+        "a5bce8472"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Gaza un an après le cessez-le-feu",
+      "ids": [
+        "a23390616",
+        "a18ff0345"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Attaques contre l'aéroport de Riyad",
+      "ids": [
+        "a96e0059f",
+        "ab44bd62f"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Projet de loi belge sur les visites domiciliaires",
       "ids": [
         "a063cdd46",
         "a5b6acb89"
@@ -103,38 +109,76 @@
       "score": 42
     },
     {
-      "titre": "Frappes israéliennes à Gaza malgré le cessez-le-feu",
+      "titre": "Documentaire « Naza » sur Gaza",
       "ids": [
-        "a18ff0345",
-        "a1d4d72e5"
+        "ae3e14e3e"
       ],
       "importance": 4,
-      "score": 42
+      "score": 41
     },
     {
-      "titre": "La Corée du Sud rappelle son ambassadeur en Ukraine",
+      "titre": "Tensions entre l'Iran et les États-Unis",
       "ids": [
-        "a1bddb7f7",
-        "a3d9a359c"
+        "abf068458",
+        "a4c8e3e74"
       ],
       "importance": 4,
-      "score": 42
-    },
-    {
-      "titre": "Victoire de l'AfD en Saxe-Anhalt et tensions au sein de la CDU",
-      "ids": [
-        "a61ec0c27",
-        "a1f6f4e12"
-      ],
-      "importance": 4,
-      "score": 42
+      "score": 41
     }
   ],
   "breves": [
     {
+      "titre": "Pétrolier touché par des projectiles dans le Golfe",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Colruyt en négociation avec Carrefour pour la vente de ses activités en France",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/09/colruyt-negocie-la-vente-de-codifrance-a-carrefour-des-carrefour-market-pourraient-ils-changer-de-mains-6N7D7DBRCFAY7EZXCFQV65R34A/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Niveau record de l'épisode El Niño",
+      "url": "https://www.lalibre.be/planete/environnement/2026/10/09/lepisode-el-nino-atteint-son-niveau-record-la-valeur-annuelle-la-plus-forte-jamais-enregistree-3UNVTZI6EVDPLEWMH4SQBGWMKA/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Avertissement de Steve Eisman sur les investissements dans l'IA",
+      "url": "https://www.lalibre.be/economie/digital/2026/10/09/lavertissement-sur-lia-de-lhomme-qui-avait-vu-venir-la-crise-de-2008-toute-la-chaine-repose-sur-ces-deux-entreprises-O4FK7RLZBVGRFIXCGQBRVE6AXE/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Arrestation du fondateur du canal Telegram Rybar au Monténégro",
+      "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Victoire de l'AfD en Saxe-Anhalt et crise de la coalition allemande",
+      "url": "https://www.lemonde.fr/international/article/2026/10/09/allemagne-apres-la-victoire-de-l-afd-en-saxe-anhalt-la-cdu-et-la-coalition-au-pouvoir-menacees_6790510_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
       "titre": "Fusillade à Anvers",
       "url": "https://www.lalibre.be/regions/flandre/2026/10/08/fusillade-a-anvers-trois-personnes-entre-la-vie-et-la-mort-trois-suspects-arretes-7LHAG4VMOBHJDLRCSSMLWHGPSE/",
       "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Frappe contre deux bus en Ukraine",
+      "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/une-frappe-effroyable-contre-deux-bus-fait-30-morts-en-ukraine-546137/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Réforme électorale approuvée en Italie",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "importance": 4
     },
     {
@@ -144,81 +188,33 @@
       "importance": 4
     },
     {
-      "titre": "Hausse du ticket modérateur envisagée par le gouvernement",
-      "url": "https://www.levif.be/opinions/cartes-blanches/et-maintenant-le-gouvernement-voudrait-depouiller-le-patient-carte-blanche/",
-      "source": "Le Vif",
-      "importance": 4
-    },
-    {
-      "titre": "Vieillissement démographique et avenir des pensions",
-      "url": "https://www.levif.be/societe/moins-de-bebes-plus-de-vieux-nos-pensions-toujours-en-danger/",
-      "source": "Le Vif",
-      "importance": 4
-    },
-    {
-      "titre": "Budget 2027 : motion de rejet préalable des députés socialistes",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html",
-      "source": "Le Monde",
-      "importance": 4
-    },
-    {
-      "titre": "Attaques ukrainiennes contre des centres de données de Yandex",
-      "url": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-un-deuxieme-centre-de-donnees-de-yandex-le-google-russe-attaque-par-l-ukraine-en-48-heures_6787996_3210.html",
-      "source": "Le Monde",
-      "importance": 4
-    },
-    {
-      "titre": "Frappes russes sur Kyiv et départs d'habitants avant l'hiver",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "titre": "Procès au Royaume-Uni d'un médecin accusé de crimes lors du génocide rwandais",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 4
     },
     {
-      "titre": "Trump exclut une attaque contre l'Iran avant les élections de mi-mandat",
-      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/08/trump-exclut-dattaquer-liran-avant-les-elections-de-mi-mandat-IVDXS2OP6VECLO36DY7V7ZKWF4/",
-      "source": "La Libre",
-      "importance": 4
-    },
-    {
-      "titre": "Donald Trump remet une médaille scientifique à Elon Musk",
-      "url": "https://www.lecho.be/r/t/1/id/10694945",
-      "source": "L'Echo",
-      "importance": 3
-    },
-    {
-      "titre": "Prix Nobel de littérature 2026 attribué à Anne Carson",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "titre": "Mobilisation lycéenne en France",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3
     },
     {
-      "titre": "Chute d'Argenx et d'EVS à la Bourse de Bruxelles",
-      "url": "https://www.lecho.be/r/t/1/id/10694966",
-      "source": "L'Echo",
+      "titre": "Retrait du Panama et du Vietnam de la liste noire européenne des paradis fiscaux",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/09/l-ue-retire-le-panama-et-le-vietnam-de-sa-liste-noire-des-paradis-fiscaux-compte-tenu-de-progres-sur-la-transparence-financiere_6790567_3234.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Procès Ullens : récusation des juges devant la Cour de cassation",
-      "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/08/les-trois-juges-du-proces-ullens-refusent-de-se-deporter-X247LPFUNBEFHPIFJ6OIJYQUXQ/",
-      "source": "La Libre",
+      "titre": "Rappel de l'ambassadeur sud-coréen en Ukraine",
+      "url": "https://www.lemonde.fr/international/article/2026/10/09/en-coree-du-sud-la-degradation-des-relations-avec-l-ukraine-suscite-l-inquietude_6790529_3210.html",
+      "source": "Le Monde",
       "importance": 3
     },
     {
-      "titre": "Un homme blessé par balle par un agent de l'ICE à New York",
+      "titre": "Agent de l'ICE tirant sur un homme à New York",
       "url": "https://www.lalibre.be/international/amerique/2026/10/09/un-homme-blesse-par-balle-par-un-agent-de-lice-lors-dune-operation-a-new-york-une-violence-debridee-et-incontrolee-OZMOPTFSGBETNOQHV7OR73UEFU/",
       "source": "La Libre",
-      "importance": 3
-    },
-    {
-      "titre": "Jordan Bardella et les révélations sur ses écrits antisémites",
-      "url": "https://www.levif.be/international/europe/france/vous-mentez-je-nai-rien-fait-pourquoi-la-strategie-de-jordan-bardella-est-osee-mais-risquee/",
-      "source": "Le Vif",
-      "importance": 3
-    },
-    {
-      "titre": "Fermeture du consulat britannique à Jérusalem-Est",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
       "importance": 3
     }
   ]

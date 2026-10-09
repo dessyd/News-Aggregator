@@ -24,8 +24,8 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "ok": true,
     "entries": 35,
-    "kept": 31,
-    "with_summary": 31,
+    "kept": 32,
+    "with_summary": 32,
     "status": 200,
     "error": null
   },
@@ -35,7 +35,7 @@
     "ok": true,
     "entries": 100,
     "kept": 50,
-    "with_summary": 99,
+    "with_summary": 97,
     "status": 200,
     "error": null
   },
@@ -54,8 +54,8 @@
     "url": "https://www.levif.be/feed/",
     "ok": true,
     "entries": 50,
-    "kept": 24,
-    "with_summary": 24,
+    "kept": 21,
+    "with_summary": 21,
     "status": 200,
     "error": null
   },
