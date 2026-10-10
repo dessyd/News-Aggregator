@@ -51,6 +51,27 @@ Les commentaires `<!-- ... -->` des fichiers de prompts ne sont pas envoyés au 
 
 Ensuite la revue est générée automatiquement chaque jour vers 7 h (heure de Bruxelles en été, 6 h en hiver).
 
+## Déclenchement quotidien par cron-job.org
+
+Le cron de GitHub était retardé de plusieurs heures : `revue-quotidienne.yml` n'a plus que `workflow_dispatch`, et c'est une tâche de [cron-job.org](https://cron-job.org)
+qui l'appelle chaque jour (API GitHub `dispatches`, méthode POST, corps `{"ref":"main"}`, succès = HTTP 204).
+
+`scripts/cronjob_org.py` crée et contrôle cette tâche par l'API de cron-job.org. **Il se lance à la main**, car il demande deux secrets en saisie masquée
+(ou dans les variables `CRONJOB_API_KEY` et `GITHUB_DISPATCH_TOKEN`), qui ne sont jamais écrits sur disque ni affichés :
+
+```bash
+python3 scripts/cronjob_org.py lister                                  # tâches du compte
+python3 scripts/cronjob_org.py configurer --simuler                    # affiche la tâche sans rien écrire
+python3 scripts/cronjob_org.py configurer --heure 7 --minute 17        # crée ou met à jour (07:17 à Bruxelles, heure d'été et d'hiver)
+python3 scripts/cronjob_org.py historique                              # dernières exécutions : statut, HTTP reçu de GitHub, durée
+```
+
+- **Clé d'API cron-job.org** : console, *Settings* ; elle peut être limitée à une adresse IP (sinon, erreur 403). Limite par défaut : 100 requêtes par jour.
+- **Jeton GitHub** : *fine-grained*, limité à ce dépôt, droit *Actions : écriture*, **avec une date d'expiration** à noter : un jeton expiré fait échouer le déclenchement
+  (la routine de surveillance le signale). `configurer` vérifie que le jeton lit le workflow avant de le confier à cron-job.org ; la permission d'écriture ne sera prouvée que par le premier déclenchement.
+- `configurer` est idempotent (la tâche est retrouvée par son URL) ; à la mise à jour, Entrée à l'invite du jeton conserve celui qui est déjà enregistré.
+- L'API de cron-job.org n'a pas de « lancer maintenant » : pour tester le jeton sans attendre, lancer le workflow à la main (`gh workflow run revue-quotidienne.yml`).
+
 ## Flux dont l'adresse est secrète (`url_env`)
 
 L'adresse du flux de sortie d'un lecteur (Inoreader, par exemple) contient un jeton : elle donne accès à votre compte et ne doit **jamais** figurer dans le dépôt, qui est public.
