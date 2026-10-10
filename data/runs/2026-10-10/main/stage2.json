@@ -1,36 +1,29 @@
 {
   "sujets": [
     {
-      "titre": "Accord Trump-Poutine sur le diesel russe",
+      "titre": "Accord américain sur l'importation de diesel russe",
       "ids": [
         "a0d5adb1a",
         "ac6062414",
         "a594c9aef",
         "a2b3762f9",
         "af9d9678c",
+        "ac72f3c00",
         "a960fd645"
       ],
       "importance": 5,
       "score": 53
     },
     {
-      "titre": "Policier sanctionné de Charleroi réintégré par le Conseil d'État après le suicide d'une policière",
+      "titre": "Manifestation nationale du 9 octobre à Bruxelles",
       "ids": [
-        "a134b127f"
-      ],
-      "importance": 5,
-      "score": 51
-    },
-    {
-      "titre": "Manifestation nationale du 9 octobre à Bruxelles : arrestations et débordements",
-      "ids": [
-        "a684ae2ae",
-        "a551c8247",
         "aaffa6e94",
         "a4ca2272c",
-        "a383a4c8a",
+        "a684ae2ae",
+        "a551c8247",
         "a15a6c309",
         "a66f651ec",
+        "a383a4c8a",
         "a6188e2de",
         "a0df5c090"
       ],
@@ -38,14 +31,28 @@
       "score": 44
     },
     {
-      "titre": "Négociations budgétaires du gouvernement fédéral belge",
+      "titre": "Négociations sur le budget fédéral belge",
       "ids": [
         "aa7e9b74b",
         "a2b271145",
         "a76b031a4",
         "ae5603c53",
         "a259b91b5",
-        "ac0d66e2a"
+        "ac0d66e2a",
+        "ac9491d40"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Prix Nobel de la paix attribué à Navi Pillay et réactions de Trump",
+      "ids": [
+        "a9ce035fa",
+        "a7037dcf0",
+        "a86a51004",
+        "a1be523b4",
+        "a6704f29d",
+        "a1e8bc4bb"
       ],
       "importance": 4,
       "score": 44
@@ -71,22 +78,21 @@
       "score": 43
     },
     {
-      "titre": "Attaque projetée contre Tel Aviv par le copilote d'un vol Flydubai",
+      "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles et économies imposées à la RTBF",
       "ids": [
-        "af94a21ce",
-        "af070666f",
-        "a26619702"
+        "a0a238062",
+        "a93b7a5a1",
+        "a89a98c9c"
       ],
       "importance": 4,
       "score": 43
     },
     {
-      "titre": "Prix Nobel de la paix attribué à Navi Pillay",
+      "titre": "Attaque projetée par le copilote du vol Flydubai",
       "ids": [
-        "a86a51004",
-        "a6704f29d",
-        "a1e8bc4bb",
-        "a1be523b4"
+        "af070666f",
+        "a26619702",
+        "af94a21ce"
       ],
       "importance": 4,
       "score": 43
@@ -101,15 +107,15 @@
       "score": 42
     },
     {
-      "titre": "La FGTB menace d'une grève générale le 23 novembre",
+      "titre": "Appel Trump-Poutine et propositions de désescalade en Ukraine",
       "ids": [
-        "ac9491d40"
+        "a06748dd2"
       ],
       "importance": 4,
       "score": 41
     },
     {
-      "titre": "Indexation des salaires en janvier et plafonnement",
+      "titre": "Plafonnement de l'indexation des salaires en janvier 2027",
       "ids": [
         "a7a927602"
       ],
@@ -117,27 +123,15 @@
       "score": 41
     },
     {
-      "titre": "Appel entre Poutine et Trump sur une désescalade en Ukraine",
+      "titre": "Trump exclut d'attaquer l'Iran avant les midterms",
       "ids": [
-        "a06748dd2"
+        "a59e085a7"
       ],
       "importance": 4,
       "score": 41
     }
   ],
   "breves": [
-    {
-      "titre": "Trump exclut une attaque contre l'Iran avant les midterms",
-      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/09/trump-nordonnera-pas-dattaquer-liran-avant-les-midterms-AYPFVPEHPVHVZDEYP6OOV37RWA/",
-      "source": "La Libre",
-      "importance": 4
-    },
-    {
-      "titre": "Proposition irlandaise de réduire le budget européen 2028-2034",
-      "url": "https://www.lalibre.be/international/europe/2026/10/10/lirlande-propose-des-coupes-de-140-milliards-deuros-dans-le-budget-de-lue-LPWPDIOU45GYPKJJ3QWX4BKRDM/",
-      "source": "La Libre",
-      "importance": 4
-    },
     {
       "titre": "Tensions entre l'Éthiopie et l'Érythrée à la frontière",
       "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
@@ -151,13 +145,25 @@
       "importance": 4
     },
     {
-      "titre": "SAP rachète la start-up belge TechWolf",
-      "url": "https://www.lecho.be/r/t/1/id/10694973",
-      "source": "L'Echo",
+      "titre": "Journaliste tué au Mexique",
+      "url": "https://www.lalibre.be/international/amerique/2026/10/10/un-journaliste-tue-au-mexique-le-9e-depuis-le-debut-de-lannee-5ULZRRNLKVH7DB5H7ALIDVJKPI/",
+      "source": "La Libre",
       "importance": 4
     },
     {
-      "titre": "Violences en marge des manifestations étudiantes en Belgique",
+      "titre": "Budget européen 2028-2034 : proposition irlandaise de réduction",
+      "url": "https://www.lalibre.be/international/europe/2026/10/10/lirlande-propose-des-coupes-de-140-milliards-deuros-dans-le-budget-de-lue-LPWPDIOU45GYPKJJ3QWX4BKRDM/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Affaire de la policière de Charleroi et décision du Conseil d'État",
+      "url": "https://www.levif.be/belgique/justice/suicide-dune-policiere-a-charleroi-comment-lofficier-sanctionne-apres-des-plaintes-pour-viol-et-harcelement-obtient-gain-de-cause-au-conseil-detat-enquete/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Violences et mobilisation des jeunes en Belgique : réactions et suites",
       "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/defi-saisit-le-parquet-apres-une-publication-du-mr-stigmatisant-les-jeunes-manifestants-JJVWFOKKBVDIRORC6AQZA62G6A/",
       "source": "La Libre",
       "importance": 3
@@ -169,13 +175,7 @@
       "importance": 3
     },
     {
-      "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles et économies à la RTBF",
-      "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593",
-      "source": "RTBF Info",
-      "importance": 3
-    },
-    {
-      "titre": "Faux signalement d'une IA d'Anthropic à la police de Philadelphie",
+      "titre": "Fausse piste de police transmise par un agent IA d'Anthropic à Philadelphie",
       "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3
@@ -187,15 +187,15 @@
       "importance": 3
     },
     {
-      "titre": "Exécution du tireur de Fort Hood et question de sa retransmission",
+      "titre": "Exécution de Nidal Hasan et question de sa retransmission",
       "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "importance": 3
     },
     {
       "titre": "Katie Zacharia nommée porte-parole de la Maison-Blanche",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "url": "https://www.lalibre.be/international/amerique/2026/10/09/la-commentatrice-conservatrice-katie-zacharia-devient-la-nouvelle-porte-parole-de-donald-trump-GHHLXLLZVRGJJNMZZZMOSOQWE4/",
+      "source": "La Libre",
       "importance": 3
     },
     {
@@ -214,6 +214,12 @@
       "titre": "Qu’est-ce que le marché européen de l’électricité, dont plusieurs candidats à la présidentielle veulent sortir ?",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/10/qu-est-ce-que-le-marche-europeen-de-l-electricite-dont-plusieurs-candidats-a-la-presidentielle-veulent-sortir_6790978_4355770.html",
       "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "importance": 3
     }
   ]

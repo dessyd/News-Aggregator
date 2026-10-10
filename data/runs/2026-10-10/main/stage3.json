@@ -1,7 +1,7 @@
 [
   {
-    "titre": "Accord Trump-Poutine sur le diesel russe",
-    "texte": "Donald Trump a annoncé avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial, au prix d'une levée de certaines sanctions visant Moscou. Selon La Libre, l'opération passerait par une dérogation exceptionnelle du Trésor américain. D'après la RTBF, la Russie fournirait « immédiatement » plus de 300 000 tonnes, et la chaîne y voit une manœuvre pour faire baisser le prix du carburant avant les midterms ; la BBC avance une analyse similaire. Volodymyr Zelensky a dénoncé une décision « indigne », un « investissement dans une guerre qui doit s'arrêter », selon La Libre et la BBC. Selon La Libre, l'Allemagne dit travailler avec l'UE à de nouvelles sanctions contre Moscou.",
+    "titre": "Accord américain sur l'importation de diesel russe",
+    "texte": "Donald Trump a annoncé vendredi avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial, selon La Libre, qui précise que l'opération repose sur une dérogation exceptionnelle du Trésor américain levant des sanctions visant Moscou. La RTBF cite l'annonce d'une fourniture immédiate de plus de 300.000 tonnes et y voit une volonté de faire baisser le prix du carburant avant les élections de mi-mandat, lecture partagée par la BBC. Volodymyr Zelensky a dénoncé une décision « indigne » (La Libre) et un « investissement dans la guerre » (BBC). L'Allemagne indique travailler avec l'UE à de « nouvelles sanctions » contre la Russie, d'après La Libre.",
     "rubrique": "Monde",
     "ids_sources": [
       "a0d5adb1a",
@@ -45,50 +45,22 @@
     ],
     "importance": 5,
     "score": 53,
-    "nb_articles": 6
+    "nb_articles": 7
   },
   {
-    "titre": "Policier sanctionné de Charleroi réintégré par le Conseil d'État après le suicide d'une policière",
-    "texte": "Un officier de police de Charleroi, licencié en mars 2026, a obtenu gain de cause devant le Conseil d'État, selon une enquête du Vif. Ce haut gradé avait fait l'objet de plusieurs plaintes de collègues féminines pour viol et harcèlement. Parmi les plaignantes figurait Elisa, une policière qui a mis fin à ses jours, d'après le magazine. Après son licenciement, l'officier avait introduit un recours auprès de la haute juridiction administrative, qui vient de lui donner raison. Les extraits fournis ne précisent pas les motifs de la décision du Conseil d'État.",
+    "titre": "Manifestation nationale du 9 octobre à Bruxelles",
+    "texte": "La manifestation nationale de vendredi 9 octobre à Bruxelles a donné lieu à plus de 100 arrestations, a indiqué le bourgmestre Philippe Close (PS), cité par La Libre. La RTBF évoque des dizaines de milliers de manifestants et environ un millier de casseurs, tandis que la FGTB avance 50.000 participants, selon La Libre. Le parquet de Bruxelles a ordonné 21 mises à disposition, dont 17 mineurs et 4 majeurs. Le ministre de l'Intérieur Bernard Quintin (MR) a promis une réponse policière et pénale « à la hauteur des dégâts causés ». Selon L'Echo, le mouvement étudiant, intégré au cortège, a été affaibli par les débordements.",
     "rubrique": "Belgique",
     "ids_sources": [
-      "a134b127f"
-    ],
-    "sources": [
-      {
-        "source": "Le Vif",
-        "titre": "Suicide d’une policière à Charleroi: comment l’officier sanctionné après des plaintes pour viol et harcèlement obtient gain de cause au Conseil d’Etat (enquête)",
-        "url": "https://www.levif.be/belgique/justice/suicide-dune-policiere-a-charleroi-comment-lofficier-sanctionne-apres-des-plaintes-pour-viol-et-harcelement-obtient-gain-de-cause-au-conseil-detat-enquete/"
-      }
-    ],
-    "importance": 5,
-    "score": 51,
-    "nb_articles": 1
-  },
-  {
-    "titre": "Manifestation nationale du 9 octobre à Bruxelles : arrestations et débordements",
-    "texte": "Plus d'une centaine de personnes ont été arrêtées vendredi en marge de la manifestation nationale à Bruxelles, a indiqué le bourgmestre Philippe Close (PS), cité par La Libre. Selon la RTBF, environ un millier de casseurs étaient présents parmi des dizaines de milliers de manifestants ; la FGTB avance pour sa part le chiffre de 50.000 participants. Le parquet de Bruxelles a ensuite ordonné 21 mises à disposition, dont 17 mineurs et 4 majeurs, rapportent La Libre et L'Echo. Le ministre de l'Intérieur Bernard Quintin (MR) a promis une réponse policière et pénale « à la hauteur des dégâts causés ». D'après L'Echo, le mouvement des jeunes a été affaibli par les débordements.",
-    "rubrique": "Belgique",
-    "ids_sources": [
-      "a4ca2272c",
       "aaffa6e94",
-      "a15a6c309",
+      "a4ca2272c",
       "a684ae2ae",
       "a551c8247",
-      "a383a4c8a",
-      "a66f651ec"
+      "a15a6c309",
+      "a66f651ec",
+      "a383a4c8a"
     ],
     "sources": [
-      {
-        "source": "La Libre",
-        "titre": "Manifestation nationale : Le parquet a ordonné 21 mises à disposition, 17 mineurs concernés",
-        "url": "https://www.lalibre.be/belgique/societe/2026/10/10/manifestation-nationale-le-parquet-a-ordonne-21-mises-a-disposition-17-mineurs-concernes-2VTVK4QRWNFNBEYERRKUGWLRDY/"
-      },
-      {
-        "source": "L'Echo",
-        "titre": "Manifestation nationale: le parquet ordonne 21 mises à disposition dont 17 concernent des mineurs",
-        "url": "https://www.lecho.be/r/t/1/id/10695109"
-      },
       {
         "source": "RTBF Info",
         "titre": "Manifestation nationale du 9 octobre : plus de 100 arrestations, un millier de casseurs, des dizaines de milliers de manifestants",
@@ -101,8 +73,13 @@
       },
       {
         "source": "La Libre",
-        "titre": "Quintin promet une \"réponse à la hauteur des dégâts causés\" après la manifestation nationale : \"L'État ne se laissera jamais impressionner\"",
-        "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/quintin-promet-une-reponse-a-la-hauteur-des-degats-causes-apres-la-manifestation-nationale-letat-ne-se-laissera-jamais-impressionner-BHE5OHDOI5EJFPZC2NQBPBZX2Q/"
+        "titre": "Manifestation nationale : Le parquet a ordonné 21 mises à disposition, 17 mineurs concernés",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/10/manifestation-nationale-le-parquet-a-ordonne-21-mises-a-disposition-17-mineurs-concernes-2VTVK4QRWNFNBEYERRKUGWLRDY/"
+      },
+      {
+        "source": "L'Echo",
+        "titre": "Manifestation nationale: le parquet ordonne 21 mises à disposition dont 17 concernent des mineurs",
+        "url": "https://www.lecho.be/r/t/1/id/10695109"
       },
       {
         "source": "La Libre",
@@ -113,6 +90,11 @@
         "source": "L'Echo",
         "titre": "À Bruxelles, le mouvement des jeunes entre le marteau syndical et l'enclume des casseurs",
         "url": "https://www.lecho.be/r/t/1/id/10695018"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Quintin promet une \"réponse à la hauteur des dégâts causés\" après la manifestation nationale : \"L'État ne se laissera jamais impressionner\"",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/quintin-promet-une-reponse-a-la-hauteur-des-degats-causes-apres-la-manifestation-nationale-letat-ne-se-laissera-jamais-impressionner-BHE5OHDOI5EJFPZC2NQBPBZX2Q/"
       }
     ],
     "importance": 4,
@@ -120,23 +102,18 @@
     "nb_articles": 9
   },
   {
-    "titre": "Négociations budgétaires du gouvernement fédéral belge",
-    "texte": "Le gouvernement fédéral belge reprend samedi à 15 heures ses discussions budgétaires en comité restreint, a-t-on appris auprès du cabinet du Premier ministre, selon La Libre et Le Vif. D'après la RTBF, la dernière réunion des principaux ministres remontait à mercredi. L'Echo décrit une semaine de négociations close sans avancée notable : le blocage reste profond, mais sans crise ouverte, malgré l'urgence martelée par Bart De Wever. Le Vif rappelle que le gouvernement n'a pas de budget, alors que 10 milliards d'euros restent à trouver pour 2027. Côté réactions, le socialiste Pierre-Yves Dermagne estime, dans L'Echo, que la méthode du Premier ministre est vouée à l'échec.",
+    "titre": "Négociations sur le budget fédéral belge",
+    "texte": "Le gouvernement fédéral reprend samedi à 15 heures ses discussions budgétaires en comité restreint, a-t-on appris auprès du cabinet du Premier ministre, selon La Libre et Le Vif. Selon L'Echo, la semaine de négociations s'achève sans avancée notable : le blocage reste profond, sans crise ouverte, malgré l'urgence martelée par Bart De Wever. Le Vif rappelle qu'un effort de 10 milliards d'euros est à trouver pour 2027 et que le gouvernement n'a pas de budget, contrairement aux échéances fixées. Le chef de groupe socialiste Pierre-Yves Dermagne juge, dans L'Echo, la méthode du Premier ministre vouée à l'échec. La FGTB menace d'une grève générale le 23 novembre si trois « lignes rouges » sont franchies : indexation, TVA et travail.",
     "rubrique": "Politique",
     "ids_sources": [
-      "aa7e9b74b",
-      "a2b271145",
       "a76b031a4",
       "ae5603c53",
+      "a2b271145",
       "a259b91b5",
-      "ac0d66e2a"
+      "ac0d66e2a",
+      "ac9491d40"
     ],
     "sources": [
-      {
-        "source": "RTBF Info",
-        "titre": "Le gouvernement fédéral se réunit à 15 heures pour reprendre ses discussions budgétaires",
-        "url": "https://www.rtbf.be/article/le-gouvernement-federal-se-reunit-a-15-heures-pour-reprendre-ses-discussions-budgetaires-11798017"
-      },
       {
         "source": "L'Echo",
         "titre": "Budget fédéral: un blocage total, mais pas encore de crise ouverte",
@@ -161,6 +138,59 @@
         "source": "L'Echo",
         "titre": "Pierre-Yves Dermagne: \"Bart De Wever fait tout pour échouer\"",
         "url": "https://www.lecho.be/r/t/1/id/10695076"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "La FGTB fait planer la menace d’une grève générale fin novembre: «Les 10 milliards, vous n’irez pas les chercher dans nos poches»",
+        "url": "https://www.levif.be/belgique/social/mouvements-sociaux/la-fgtb-fait-planer-la-menace-dune-greve-generale-fin-novembre-les-10-milliards-vous-nirez-pas-les-chercher-dans-nos-poches/"
+      }
+    ],
+    "importance": 4,
+    "score": 44,
+    "nb_articles": 7
+  },
+  {
+    "titre": "Prix Nobel de la paix attribué à Navi Pillay et réactions de Trump",
+    "texte": "Le prix Nobel de la paix a été décerné à la juriste sud-africaine Navanethem « Navi » Pillay, annoncée à Oslo, selon Le Vif. D'après la BBC, elle est une ancienne juge de la Cour pénale internationale, dont le parcours en droit international va de la Birmanie à Gaza. Selon La Libre, l'attribution a été vivement critiquée par les autorités israéliennes. Vendredi, Donald Trump a déclaré n'avoir « jamais entendu parler » de la lauréate, rapportent L'Echo, La Libre et la BBC. D'après la BBC, il a exprimé ces propos lors d'un meeting et critiqué la Norvège. La Libre précise qu'il s'était déjà indigné l'an dernier de ne pas avoir reçu le prix.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a1be523b4",
+      "a86a51004",
+      "a1e8bc4bb",
+      "a6704f29d",
+      "a7037dcf0",
+      "a9ce035fa"
+    ],
+    "sources": [
+      {
+        "source": "L'Echo",
+        "titre": "Trump s'indigne de ne pas avoir été choisi pour le Nobel de la paix",
+        "url": "https://www.lecho.be/r/t/1/id/10695105"
+      },
+      {
+        "source": "La Libre",
+        "titre": "\"Idéologues radicaux\", \"Ennemis de la civilisation\" : Trump s'indigne à nouveau de ne pas avoir été choisi pour le Nobel de la paix",
+        "url": "https://www.lalibre.be/international/amerique/2026/10/10/ideologues-radicaux-ennemis-de-la-civilisation-trump-sindigne-a-nouveau-de-ne-pas-avoir-ete-choisi-pour-le-nobel-de-la-paix-Z7PQ7UUJFVEEJMVCRN62WEZEBY/"
+      },
+      {
+        "source": "BBC World",
+        "titre": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "Le prix Nobel de la paix est attribué à la sud-africaine Navanethem Pillay",
+        "url": "https://www.levif.be/international/le-prix-nobel-de-la-paix-est-attribue-a-la-sud-africaine-navanethem-pillay/"
+      },
+      {
+        "source": "La Libre",
+        "titre": "”Navi” Pillay, un prix Nobel de la paix difficile à accepter pour Trump et Netanyahou",
+        "url": "https://www.lalibre.be/international/2026/10/09/navi-pillay-un-prix-nobel-de-la-paix-difficile-a-accepter-pour-trump-et-netanyahou-SNWJYYICY5EBTKFMMS6RIEVLZY/"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+        "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "importance": 4,
@@ -169,8 +199,8 @@
   },
   {
     "titre": "Frappes russes sur Zaporijjia",
-    "texte": "Des frappes russes menées tôt samedi sur Zaporijjia, dans le sud-est de l'Ukraine, ont fait au moins onze morts, dont trois enfants, selon La Libre, qui cite le dernier bilan des autorités. Le Monde précise que ce chiffre a été annoncé sur Telegram par Mykhaïlo Semikine, chef de l'administration militaire de l'oblast. Celui-ci a indiqué que les recherches de personnes sous les décombres des bâtiments détruits se poursuivaient. Le Vif, dans un article publié plus tard dans la matinée, fait état d'au moins huit morts, dont trois enfants, un bilan inférieur à celui des deux autres médias. Le Monde évoque un bilan qui continue de s'alourdir.",
-    "rubrique": "Europe",
+    "texte": "Des frappes russes ont touché la ville de Zaporijjia, dans le sud-est de l'Ukraine, samedi matin, faisant au moins onze morts dont trois enfants, selon Le Monde et La Libre. Le bilan a évolué au fil de la journée : Le Vif évoque au moins huit morts, tandis que le titre de La Libre mentionne au moins quinze morts, un chiffre que son propre extrait ne reprend pas, celui-ci indiquant onze morts. Selon Le Monde, le chef de l'administration militaire de l'oblast, Mykhaïlo Semikine, a annoncé ce bilan sur Telegram. Il a précisé que les recherches de personnes sous les décombres des bâtiments détruits se poursuivaient.",
+    "rubrique": "Monde",
     "ids_sources": [
       "a63074c42",
       "a4c2173ed",
@@ -189,7 +219,7 @@
       },
       {
         "source": "La Libre",
-        "titre": "Guerre en Ukraine : au moins onze morts dont trois enfants dans des frappes russes",
+        "titre": "Guerre en Ukraine : au moins quinze morts dont trois enfants dans des frappes russes",
         "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/guerre-en-ukraine-au-moins-sept-morts-dont-trois-enfants-dans-des-frappes-russes-MJQUIDHXX5BC5HR23OPVPB4ZSQ/"
       },
       {
@@ -204,7 +234,7 @@
   },
   {
     "titre": "Séisme de magnitude 7,7 au Panama",
-    "texte": "Un séisme de magnitude 7,7 a frappé le Panama vendredi 9 octobre, provoquant des dégâts matériels importants. Selon La Libre, il a déclenché la panique dans la capitale et causé l'effondrement de bâtiments et de routes. Le bilan des blessés diffère selon les sources : les autorités font état d'au moins deux blessés et d'aucun mort, d'après un bilan préliminaire cité par La Libre, tandis que Le Monde évoque plusieurs dizaines de blessés. Ce dernier ajoute que le séisme a été suivi d'une centaine de répliques. D'après la BBC, des alertes au tsunami ont été émises pour les pays voisins et des vidéos de destruction circulent en ligne.",
+    "texte": "Un séisme de magnitude 7,7 a frappé le Panama vendredi 9 octobre, provoquant d'importants dégâts matériels. Selon La Libre, il a déclenché la panique dans la capitale et entraîné l'effondrement de bâtiments et de routes. Les sources divergent sur le bilan humain : les autorités font état d'au moins deux blessés et d'aucun mort selon un bilan préliminaire rapporté par La Libre, tandis que Le Monde parle de plusieurs dizaines de blessés. Le Monde indique aussi qu'une centaine de répliques ont suivi la secousse. D'après la BBC, des alertes au tsunami ont été émises pour les pays voisins et des vidéos de destructions circulent en ligne.",
     "rubrique": "Monde",
     "ids_sources": [
       "a04d90ef9",
@@ -233,20 +263,45 @@
     "nb_articles": 3
   },
   {
-    "titre": "Attaque projetée contre Tel Aviv par le copilote d'un vol Flydubai",
-    "texte": "Le copilote d'un vol Flydubai planifiait une attaque suicide contre l'aéroport de Tel Aviv, selon des informations rapportées par La Libre et Le Vif, qui évoquent une inspiration venue des attentats du 11-Septembre. D'après la BBC, le procureur général des Émirats arabes unis affirme que le copilote cherchait à faire s'écraser l'appareil sur cet aéroport. Toujours selon la BBC, les autorités émiraties allèguent qu'il aurait amorcé en Australie une « dérive vers l'extrémisme et le terrorisme ». Les articles fournis ne précisent ni le déroulement des faits ni un éventuel bilan. Ces éléments reposent sur les déclarations des autorités.",
-    "rubrique": "Monde",
+    "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles : 20 millions d'euros d'économies supplémentaires pour la RTBF",
+    "texte": "La Fédération Wallonie-Bruxelles (FWB) a conclu un accord sur son budget 2027, qui impose à la RTBF 20 millions d'euros d'économies supplémentaires, selon la RTBF, Le Vif et La Libre. D'après Le Vif, l'accord vise à ramener le déficit à 1,27 milliard d'euros en 2027, et de nouveaux investissements sont annoncés. La RTBF indique que le déficit devrait évoluer par rapport au 1,7 milliard d'euros prévu pour 2026, sans que l'extrait fourni précise le chiffre. La Libre estime que ce budget est moins dur que le précédent, sauf pour la télévision de service public.",
+    "rubrique": "Belgique",
     "ids_sources": [
-      "af94a21ce",
-      "af070666f",
-      "a26619702"
+      "a0a238062",
+      "a93b7a5a1",
+      "a89a98c9c"
     ],
     "sources": [
       {
-        "source": "BBC World",
-        "titre": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
+        "source": "RTBF Info",
+        "titre": "Accord sur le budget 2027 de la FWB, la RTBF devra économiser 20 millions d’euros de plus",
+        "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593"
       },
+      {
+        "source": "Le Vif",
+        "titre": "Budget 2027 de la FWB: la RTBF appelée à réaliser 20 millions d’euros d’économies supplémentaires",
+        "url": "https://www.levif.be/belgique/politique/communautes/federation-wallonie-bruxelles/budget-2027-de-la-fwb-la-rtbf-appelee-a-realiser-20-millions-deuros-deconomies-supplementaires/"
+      },
+      {
+        "source": "La Libre",
+        "titre": "La RTBF contrainte à des efforts budgétaires",
+        "url": "https://www.lalibre.be/culture/medias-tele/2026/10/09/la-rtbf-contrainte-a-des-efforts-budgetaires-LA4AIRSCB5FENGYC5EO2OLD4BY/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Attaque projetée par le copilote du vol Flydubai",
+    "texte": "Le copilote du vol Flydubai aurait planifié une attaque suicide contre l'aéroport de Tel Aviv, inspirée des attentats du 11-Septembre, selon Le Vif et La Libre. D'après la BBC, c'est le procureur général des Émirats arabes unis qui avance que le copilote cherchait à précipiter l'avion sur cet aéroport. Les autorités émiraties affirment également, toujours selon la BBC, que l'auteur de l'attaque aurait entamé une « dérive vers l'extrémisme et le terrorisme » en Australie. Les articles fournis ne précisent ni le déroulement des faits, ni le bilan, ni les éléments sur lesquels reposent ces allégations, qui restent des déclarations officielles.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "af070666f",
+      "a26619702",
+      "af94a21ce"
+    ],
+    "sources": [
       {
         "source": "Le Vif",
         "titre": "Le copilote du vol Flydubai planifiait une attaque suicide sur Tel Aviv inspirée du 11-Septembre",
@@ -256,6 +311,11 @@
         "source": "La Libre",
         "titre": "Vol flydubai : le co-pilote planifiait une attaque suicide sur l'aéroport de Tel Aviv",
         "url": "https://www.lalibre.be/international/moyen-orient/2026/10/09/vol-flydubai-le-co-pilote-planifiait-une-attaque-suicide-sur-laeroport-de-tel-aviv-S46BJYPWLJAJ3J4TNLRBXUJNKU/"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "importance": 4,
@@ -263,44 +323,8 @@
     "nb_articles": 3
   },
   {
-    "titre": "Prix Nobel de la paix attribué à Navi Pillay",
-    "texte": "Le prix Nobel de la paix a été décerné à la juriste sud-africaine Navanethem « Navi » Pillay, annoncé à Oslo, selon Le Vif. La Libre la présente comme récompensée pour son engagement en faveur des droits humains. La BBC rappelle son parcours, de son enfance en Afrique du Sud à son rôle dans le droit international, de la Birmanie à Gaza, et la décrit comme ancienne juge à la Cour pénale internationale. Cette attribution a été vivement critiquée par les autorités israéliennes, d'après La Libre. Lors d'un rassemblement, Donald Trump a affirmé n'avoir « jamais entendu parler » de la lauréate et a critiqué la Norvège, rapporte la BBC.",
-    "rubrique": "Monde",
-    "ids_sources": [
-      "a86a51004",
-      "a6704f29d",
-      "a1e8bc4bb",
-      "a1be523b4"
-    ],
-    "sources": [
-      {
-        "source": "BBC World",
-        "titre": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "source": "La Libre",
-        "titre": "”Navi” Pillay, un prix Nobel de la paix difficile à accepter pour Trump et Netanyahou",
-        "url": "https://www.lalibre.be/international/2026/10/09/navi-pillay-un-prix-nobel-de-la-paix-difficile-a-accepter-pour-trump-et-netanyahou-SNWJYYICY5EBTKFMMS6RIEVLZY/"
-      },
-      {
-        "source": "BBC World",
-        "titre": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-        "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "source": "Le Vif",
-        "titre": "Le prix Nobel de la paix est attribué à la sud-africaine Navanethem Pillay",
-        "url": "https://www.levif.be/international/le-prix-nobel-de-la-paix-est-attribue-a-la-sud-africaine-navanethem-pillay/"
-      }
-    ],
-    "importance": 4,
-    "score": 43,
-    "nb_articles": 4
-  },
-  {
     "titre": "Sanctions américaines contre la Cour pénale internationale",
-    "texte": "Les États-Unis ont annoncé vendredi des sanctions contre la Cour pénale internationale (CPI). Selon Le Monde, elles viseraient à empêcher le fonctionnement de la juridiction, que Washington avait auparavant menacée de démantèlement. Toujours d'après Le Monde, les autorités américaines exigent l'annulation des mandats d'arrêt pour crimes contre l'humanité délivrés contre Benyamin Nétanyahou et Yoav Gallant. La BBC rapporte que la Cour a condamné cette mesure, qu'elle qualifie d'« assaut contre l'État de droit ». Plusieurs États membres, dont le Royaume-Uni, disent « fortement désapprouver » ces sanctions, selon la BBC. Les deux médias n'emploient pas les mêmes termes : Le Monde évoque une annonce d'intention, la BBC des sanctions déjà imposées.",
+    "texte": "Les États-Unis ont annoncé vendredi des sanctions visant la Cour pénale internationale (CPI). Selon Le Monde, elles auraient pour effet d'empêcher le fonctionnement de la juridiction, après des menaces de la démanteler. Washington exige l'annulation des mandats d'arrêt pour crimes contre l'humanité délivrés contre Benyamin Nétanyahou et Yoav Gallant, d'après le quotidien, qui parle d'un ultimatum aux États membres. La BBC indique que la Cour a condamné ces mesures comme une « atteinte à l'État de droit », et que plusieurs États membres, dont le Royaume-Uni, se disent en « fort désaccord » avec ces sanctions. Les deux médias ne présentent pas ces sanctions de la même manière : Le Monde évoque une annonce d'intention, la BBC une imposition effective.",
     "rubrique": "Monde",
     "ids_sources": [
       "a4b45555b",
@@ -323,17 +347,17 @@
     "nb_articles": 2
   },
   {
-    "titre": "La FGTB menace d'une grève générale le 23 novembre",
-    "texte": "La FGTB menace d'appeler à une grève générale le 23 novembre si le gouvernement fédéral franchit trois « lignes rouges », rapporte Le Vif. Selon le média, le syndicat socialiste cible l'indexation automatique des salaires, la TVA et le droit du travail. Le syndicat prévient que, si le gouvernement dépasse ces limites, il lancera le mouvement. Le titre de l'article reprend une déclaration attribuée à la FGTB : « Les 10 milliards, vous n'irez pas les chercher dans nos poches ». Les sources fournies ne précisent ni la nature exacte des mesures envisagées par l'exécutif, ni la réaction du gouvernement.",
-    "rubrique": "Belgique",
+    "titre": "Appel Trump-Poutine et propositions de désescalade en Ukraine",
+    "texte": "Vladimir Poutine a reçu « avec compréhension » les propositions de Donald Trump visant à une « désescalade » en Ukraine, a indiqué le Kremlin samedi, cité par les agences russes et relayé par La Libre. Ces propositions américaines ont été évoquées lors d'un appel téléphonique entre les deux présidents vendredi. Selon le Kremlin, le président russe les a accueillies avec compréhension. Les extraits disponibles ne précisent ni le contenu des propositions ni la position de Washington ou de Kiev sur cet échange. Cette version des faits émane uniquement de la partie russe.",
+    "rubrique": "Monde",
     "ids_sources": [
-      "ac9491d40"
+      "a06748dd2"
     ],
     "sources": [
       {
-        "source": "Le Vif",
-        "titre": "La FGTB fait planer la menace d’une grève générale fin novembre: «Les 10 milliards, vous n’irez pas les chercher dans nos poches»",
-        "url": "https://www.levif.be/belgique/social/mouvements-sociaux/la-fgtb-fait-planer-la-menace-dune-greve-generale-fin-novembre-les-10-milliards-vous-nirez-pas-les-chercher-dans-nos-poches/"
+        "source": "La Libre",
+        "titre": "Poutine a reçu \"avec compréhension\" des propositions de Trump visant à une \"désescalade\" en Ukraine",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/poutine-a-recu-avec-comprehension-des-propositions-de-trump-visant-a-une-desescalade-en-ukraine-XVUNPHGCPVD4NJJKOXVN3EA6FU/"
       }
     ],
     "importance": 4,
@@ -341,8 +365,8 @@
     "nb_articles": 1
   },
   {
-    "titre": "Indexation des salaires en janvier et plafonnement",
-    "texte": "Les salaires devraient connaître une indexation importante pour certains employés en janvier 2027, selon Le Vif, qui s'appuie sur les dernières prévisions d'inflation. Le média précise que le plafonnement décidé par le gouvernement s'appliquera pour la première fois à cette occasion. Le Vif en conclut que les travailleurs concernés seront « doublement pénalisés », une appréciation propre au titre de l'article. Les extraits fournis ne détaillent ni le niveau de l'indexation attendue, ni le mécanisme du plafonnement, ni les catégories de salariés concernées.",
+    "titre": "Plafonnement de l'indexation des salaires en janvier 2027",
+    "texte": "Les salaires seront indexés en janvier 2027, mais le plafonnement décidé par le gouvernement s'appliquera pour la première fois à cette occasion, selon Le Vif. Le média s'appuie sur les dernières prévisions d'inflation, qui confirment, écrit-il, une indexation importante pour certains employés. Le Vif estime que les travailleurs concernés seront « doublement pénalisés » : cette appréciation est celle du média. Les extraits fournis ne précisent ni le niveau du plafond, ni les catégories de salariés touchées, ni le pourcentage d'indexation attendu.",
     "rubrique": "Économie",
     "ids_sources": [
       "a7a927602"
@@ -359,17 +383,17 @@
     "nb_articles": 1
   },
   {
-    "titre": "Appel entre Poutine et Trump sur une désescalade en Ukraine",
-    "texte": "Vladimir Poutine a reçu « avec compréhension » les propositions américaines visant une « désescalade » en Ukraine lors d'un appel téléphonique avec Donald Trump, vendredi, a indiqué le Kremlin samedi, selon La Libre, qui cite les agences russes. Cette information provient uniquement de la version du Kremlin : l'extrait fourni ne détaille ni le contenu précis des propositions américaines ni la réaction de Washington. Il ne mentionne pas non plus d'éventuelles décisions concrètes à la suite de cet échange. La formulation « avec compréhension » ne vaut pas, en elle-même, acceptation de ces propositions.",
+    "titre": "Trump exclut d'attaquer l'Iran avant les midterms",
+    "texte": "Donald Trump a déclaré qu'il n'ordonnerait pas d'attaque contre l'Iran avant les élections de mi-mandat, selon La Libre. Le président américain affirme que les États-Unis et l'Iran mènent des « discussions productives ». Le quotidien belge précise toutefois qu'un plan de bombardements à large échelle est en préparation. Cette information est rapportée par La Libre seule, sans précision dans l'extrait fourni sur l'origine du plan ni sur son calendrier. La teneur des discussions évoquées par Donald Trump n'est pas détaillée non plus.",
     "rubrique": "Monde",
     "ids_sources": [
-      "a06748dd2"
+      "a59e085a7"
     ],
     "sources": [
       {
         "source": "La Libre",
-        "titre": "Poutine a reçu \"avec compréhension\" des propositions de Trump visant à une \"désescalade\" en Ukraine",
-        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/poutine-a-recu-avec-comprehension-des-propositions-de-trump-visant-a-une-desescalade-en-ukraine-XVUNPHGCPVD4NJJKOXVN3EA6FU/"
+        "titre": "Trump n’ordonnera pas d’attaquer l’Iran avant les Midterms",
+        "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/09/trump-nordonnera-pas-dattaquer-liran-avant-les-midterms-AYPFVPEHPVHVZDEYP6OOV37RWA/"
       }
     ],
     "importance": 4,

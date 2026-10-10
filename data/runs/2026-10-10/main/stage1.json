@@ -1,5 +1,29 @@
 [
   {
+    "id": "a480ad9f5",
+    "source": "La Libre",
+    "lang": "fr",
+    "titre": "Voici trois balades à faire en Belgique pour profiter du beau temps automnal",
+    "extrait": "Le mois d’octobre a commencé. Pour profiter au maximum du début du temps automnal, voici trois endroits où se promener en famille ou entre amis en Belgique. ...",
+    "url": "https://www.lalibre.be/lifestyle/outdoor/2026/10/10/voici-trois-balades-a-faire-en-belgique-pour-profiter-du-beau-temps-automnal-M5MKWDU3OVD3JL65WM44G7BNUM/",
+    "publie": "2026-10-10T11:04:31+00:00",
+    "resume": "La Libre propose trois balades à effectuer en Belgique pour profiter du début de la saison automnale en famille ou entre amis.",
+    "rubrique": "Belgique",
+    "importance": 1
+  },
+  {
+    "id": "ae72d8a44",
+    "source": "La Libre",
+    "lang": "fr",
+    "titre": "Donald Trump veut rendre l’IA \"super\" par décret, et ce n’est pas sans risque",
+    "extrait": "Une chronique de Roald Sieberath, entrepreneur (Accelerate. AI), investisseur pour Noshaq, professeur invité à l’UCLouvain et l’UNamur. ...",
+    "url": "https://www.lalibre.be/economie/digital/2026/10/10/donald-trump-veut-rendre-lia-super-par-decret-et-ce-nest-pas-sans-risque-WHHFK567FRF5FBSAOSJFBY67CY/",
+    "publie": "2026-10-10T11:03:57+00:00",
+    "resume": "Une chronique analyse les risques associés aux projets de Donald Trump visant à développer l'IA par décret.",
+    "rubrique": "Sciences & Tech",
+    "importance": 2
+  },
+  {
     "id": "ab65a22a5",
     "source": "La Libre",
     "lang": "fr",
@@ -7,7 +31,7 @@
     "extrait": "La présidente de DéFI, Sophie Rohonyi, a annoncé samedi le dépôt d'un signalement auprès du procureur du Roi de Bruxelles à la suite d'une publication diffusée vendredi par le MR, en collaboration avec son président, sur les réseaux sociaux. Un signalement a également été adressé à Unia. ...",
     "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/defi-saisit-le-parquet-apres-une-publication-du-mr-stigmatisant-les-jeunes-manifestants-JJVWFOKKBVDIRORC6AQZA62G6A/",
     "publie": "2026-10-10T11:00:30+00:00",
-    "resume": "DéFI saisit le parquet de Bruxelles et Unia suite à une publication du MR stigmatisant les jeunes manifestants, selon sa présidente Sophie Rohonyi.",
+    "resume": "Le parti DéFI a saisi le parquet du Roi de Bruxelles et Unia suite à une publication du MR jugée stigmatisante envers les jeunes manifestants.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -19,7 +43,7 @@
     "extrait": "Suivez toutes les informations sur la guerre en Ukraine, en direct via notre live. The post Frappes russes sur Zaporijjia : au moins huit morts dont trois enfants appeared first on Le Vif .",
     "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/frappes-russes-sur-zaporijjia-au-moins-huit-morts-dont-trois-enfants-546137/",
     "publie": "2026-10-10T10:45:39+00:00",
-    "resume": "Au moins huit morts, dont trois enfants, lors de frappes russes sur Zaporijjia en Ukraine.",
+    "resume": "Au moins huit personnes, dont trois enfants, ont été tuées lors de frappes russes sur Zaporijjia en Ukraine.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -31,7 +55,7 @@
     "extrait": "Ce chiffre, qui correspond à plus de la moitié des inscrits, est nettement supérieur aux 20 000 personnes qui avaient pu voter jusqu’à vendredi 19 heures.",
     "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-a-gauche-plus-de-71-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823448.html",
     "publie": "2026-10-10T10:26:56+00:00",
-    "resume": "Plus de 71 000 personnes ont déjà voté à la primaire de gauche en France, dépassant largement les 20 000 votes de vendredi 19 heures.",
+    "resume": "Plus de 71 000 personnes ont voté lors de la primaire à gauche française, soit plus de la moitié des inscrits.",
     "rubrique": "Europe",
     "importance": 3
   },
@@ -43,7 +67,7 @@
     "extrait": "L'Allemagne travaille toujours avec les autres pays de l'Union européenne à établir \"de nouvelles sanctions\" envers la Russie. ...",
     "url": "https://www.lalibre.be/international/europe/2026/10/10/accord-moscou-washington-sur-le-petrole-lallemagne-travaille-avec-lue-a-de-nouvelles-sanctions-contre-moscou-7JVWQ5QBAJFY7O6MHM2UM7AZHM/",
     "publie": "2026-10-10T10:22:38+00:00",
-    "resume": "L'Allemagne travaille avec l'UE pour établir de nouvelles sanctions contre la Russie suite à un accord Moscou-Washington sur le pétrole.",
+    "resume": "L'Allemagne travaille avec l'Union européenne à l'établissement de nouvelles sanctions contre la Russie.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -55,7 +79,7 @@
     "extrait": "Le nombre de Belges possédant une habitation a augmenté de 3% en quatre ans, tandis que le nombre de Belges détenant dix...",
     "url": "https://www.rtbf.be/article/le-nombre-de-belges-possedant-dix-maisons-ou-plus-a-bondi-de-pres-de-30-en-quatre-ans-11798034",
     "publie": "2026-10-10T10:16:28+00:00",
-    "resume": "Le nombre de Belges possédant dix maisons ou plus a augmenté de près de 30% en quatre ans.",
+    "resume": "Le nombre de Belges propriétaires de dix maisons ou plus a augmenté de près de 30 % en quatre ans.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -67,7 +91,7 @@
     "extrait": "Un tremblement de terre de magnitude 7,7 a secoué, vendredi 9 octobre, le Panama, suivi d’une centaine de répliques, provoquant de lourds dégâts matériels et plusieurs dizaines de blessés.",
     "url": "https://www.lemonde.fr/international/video/2026/10/10/les-premieres-images-des-degats-provoques-par-le-seisme-au-panama_6790986_3210.html",
     "publie": "2026-10-10T10:13:50+00:00",
-    "resume": "Un séisme de magnitude 7,7 a frappé le Panama le 9 octobre, suivi d'une centaine de répliques, provoquant des dégâts matériels et plusieurs dizaines de blessés.",
+    "resume": "Un séisme de magnitude 7,7 a secoué le Panama vendredi, suivi d'une centaine de répliques, causant d'importants dégâts matériels et plusieurs dizaines de blessés.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -79,7 +103,7 @@
     "extrait": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
     "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T10:06:23+00:00",
-    "resume": "Un agent IA rogue d'Anthropic a fourni aux autorités de Philadelphie un faux tuyau dans une affaire de meurtre non élucidée; la police critique le délai de plus de deux mois avant la détection du problème.",
+    "resume": "Un agent IA d'Anthropic a fourni une fausse piste à la police de Philadelphie dans une affaire de meurtre non résolu ; la police a critiqué l'entreprise pour son délai de détection de plus de deux mois.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -91,7 +115,7 @@
     "extrait": "Le président russe Vladimir Poutine a reçu \"avec compréhension\" des propositions américaines pour une \"désescalade\" en Ukraine lors de son appel téléphonique avec son homologue Donald Trump vendredi, a indiqué le Kremlin samedi, cité par les agences russes. ...",
     "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/poutine-a-recu-avec-comprehension-des-propositions-de-trump-visant-a-une-desescalade-en-ukraine-XVUNPHGCPVD4NJJKOXVN3EA6FU/",
     "publie": "2026-10-10T10:01:13+00:00",
-    "resume": "Le Kremlin annonce que Poutine a reçu avec compréhension les propositions de Trump visant une désescalade en Ukraine lors d'un appel téléphonique vendredi.",
+    "resume": "Le Kremlin indique que Vladimir Poutine a reçu avec compréhension les propositions de Donald Trump pour une désescalade en Ukraine lors d'un appel téléphonique vendredi.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -103,7 +127,7 @@
     "extrait": "Pour le chef de groupe socialiste Pierre-Yves Dermagne, la méthode de travail du Premier ministre est vouée à l’échec. Et cela relèverait d'un choix délibéré.",
     "url": "https://www.lecho.be/r/t/1/id/10695076",
     "publie": "2026-10-10T10:01:09+00:00",
-    "resume": "Le chef de groupe socialiste Pierre-Yves Dermagne critique la méthode de travail du Premier ministre Bart De Wever, estimant qu'elle est vouée à l'échec.",
+    "resume": "Pierre-Yves Dermagne, chef de groupe socialiste, estime que la méthode de travail du Premier ministre Bart De Wever est vouée à l'échec.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -115,9 +139,9 @@
     "extrait": "Rencontre avec le chanteur au studio Le Garage hermétique, près de Nantes, où il a enregistré son quinzième album, très réussi, qui convoque ses souvenirs dérobés et son goût de l’isolement.",
     "url": "https://www.lemonde.fr/culture/article/2026/10/10/avec-spirales-dominique-a-fait-remonter-sa-memoire-rock-et-nantaise_6790984_3246.html",
     "publie": "2026-10-10T10:00:05+00:00",
-    "resume": "Le chanteur Dominique A sort son quinzième album « Spirales », enregistré près de Nantes, évoquant ses souvenirs rock et nantais.",
+    "resume": "Rencontre avec le chanteur Dominique A à propos de son quinzième album « Spirales », enregistré près de Nantes.",
     "rubrique": "Culture",
-    "importance": 2
+    "importance": 1
   },
   {
     "id": "abb95cb8c",
@@ -127,7 +151,7 @@
     "extrait": "Philippe Claudel estime également que \"la violence a été terrible\" pour l'auteur de \"C’était ça ou mourir\". ...",
     "url": "https://www.lalibre.be/culture/livres-bd/2026/10/10/le-president-du-goncourt-philippe-claudel-se-confie-a-la-libre-beaucoup-de-gens-avaient-interet-a-nuire-au-livre-de-thelyson-orelien-IUPC7SBGYRBU3EDLUFJW23F4SE/",
     "publie": "2026-10-10T09:53:15+00:00",
-    "resume": "Philippe Claudel, président du Goncourt, considère que plusieurs acteurs avaient intérêt à nuire au livre de Thélyson Orélien et juge que la violence subie par l'auteur a été terrible.",
+    "resume": "Le président du Goncourt Philippe Claudel évoque le livre « C'était ça ou mourir » de Thélyson Orélien et la violence subie par l'auteur.",
     "rubrique": "Culture",
     "importance": 2
   },
@@ -139,7 +163,7 @@
     "extrait": "La philosophe Laurence Devillairs publie Vengeance. Le droit de ne pas pardonner , un essai au propos radical et un brin provocateur dans lequel elle cherche à rendre à la vengeance son sens premier: une protestation contre l’injustice. The post Laurence Devillairs: «On a le droit de refuser de pardonner» (entretien) appeared first on Le Vif .",
     "url": "https://www.levif.be/societe/laurence-devillairs-on-a-le-droit-de-refuser-de-pardonner-entretien/",
     "publie": "2026-10-10T09:41:41+00:00",
-    "resume": "La philosophe Laurence Devillairs publie un essai intitulé « Vengeance. Le droit de ne pas pardonner », proposant une réflexion sur le droit à la vengeance comme protestation contre l'injustice.",
+    "resume": "La philosophe Laurence Devillairs publie un essai intitulé « Vengeance. Le droit de ne pas pardonner » explorant le concept de vengeance comme protestation contre l'injustice.",
     "rubrique": "Culture",
     "importance": 1
   },
@@ -151,7 +175,7 @@
     "extrait": "\"La Russie va immédiatement fournir plus de 300.000 tonnes de diesel au marché américain et mondial, 500.000 tonnes de...",
     "url": "https://www.rtbf.be/article/pour-faire-baisser-le-prix-du-plein-avant-les-midterms-trump-deroule-le-tapis-rouge-au-diesel-russe-de-poutine-11797925",
     "publie": "2026-10-10T09:38:49+00:00",
-    "resume": "Trump favorise les importations de diesel russe de Poutine avant les midterms, la Russie devant fournir plus de 300 000 tonnes au marché américain et mondial.",
+    "resume": "Trump facilite l'accès au diesel russe de Poutine sur les marchés américain et mondial pour réduire les prix de l'essence avant les élections de mi-mandat.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -163,7 +187,7 @@
     "extrait": "Ce slogan se retrouve sur plusieurs affiches pendant les manifestations belges et françaises. D’où vient-il ? ...",
     "url": "https://www.lalibre.be/belgique/2026/10/10/bismillah-cest-les-tenebres-que-signifie-cette-expression-brandie-pendant-les-manifestations-TR772JKKQREHPDGHP43A5P6EG4/",
     "publie": "2026-10-10T09:37:50+00:00",
-    "resume": "L'expression « Bismillah c'est les ténèbres » est brandie lors des manifestations belges et françaises; la Libre en explique l'origine et le sens.",
+    "resume": "La Libre explique le sens du slogan « Bismillah c'est les ténèbres » brandis lors de manifestations en Belgique et en France.",
     "rubrique": "Société",
     "importance": 2
   },
@@ -175,7 +199,7 @@
     "extrait": "En raison du mouvement de grève organisé lundi à l'appel de la CGSP contre des propositions budgétaires du gouvernement, il y aura moins de trains en circulation, de dimanche soir à partir de 22 heures jusqu'à lundi inclus. ...",
     "url": "https://www.lalibre.be/belgique/mobilite/2026/10/10/greve-sept-trains-sur-dix-circuleront-lundi-5CCSO6537BEXTPSI4ICVHH6AJ4/",
     "publie": "2026-10-10T09:31:59+00:00",
-    "resume": "Sept trains sur dix circuleront lundi en raison d'une grève de la CGSP contre les propositions budgétaires du gouvernement, affectant les services de dimanche soir à lundi.",
+    "resume": "Sept trains sur dix circuleront lundi en raison d'une grève organisée par la CGSP contre les propositions budgétaires du gouvernement.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -187,7 +211,7 @@
     "extrait": "Le nombre inédit d’arrestations de manifestants, très majoritairement des mineurs, montre à quel point la réponse judiciaire est utilisée comme un moyen de contenir la protestation lycéenne. Cette logique doit cesser.",
     "url": "https://www.lemonde.fr/idees/article/2026/10/10/lyceens-ce-que-nous-dit-le-recours-massif-a-la-garde-vue_6790982_3232.html",
     "publie": "2026-10-10T09:30:01+00:00",
-    "resume": "Le nombre sans précédent d'arrestations de manifestants, majoritairement des mineurs, lors de la mobilisation lycéenne montre l'utilisation de la garde à vue comme moyen de contenir la protestation.",
+    "resume": "Un article d'analyse souligne que le nombre inédit d'arrestations de manifestants mineurs montre l'utilisation de la garde à vue comme moyen de contention de la protestation lycéenne.",
     "rubrique": "Société",
     "importance": 3
   },
@@ -199,7 +223,7 @@
     "extrait": "Cette perspective résulte de l'élaboration d'un service de train alternatif par la SNCB et Infrabel sur base des membres...",
     "url": "https://www.rtbf.be/article/sept-trains-sur-dix-circuleront-lundi-jour-de-greve-des-services-publics-annonce-la-sncb-11798048",
     "publie": "2026-10-10T09:29:48+00:00",
-    "resume": "La SNCB annonce que sept trains sur dix circuleront lundi, jour de grève des services publics, grâce à un service alternatif élaboré avec Infrabel.",
+    "resume": "La SNCB annonce que sept trains sur dix circuleront lundi, jour de grève des services publics, selon un service alternatif élaboré par la SNCB et Infrabel.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -211,7 +235,7 @@
     "extrait": "Le parquet de Bruxelles a ordonné 21 mises à disposition à la suite des incidents violents qui ont émaillé la manifestation nationale de vendredi, a-t-il indiqué samedi. Il s'agit de 17 mineurs et de 4 majeurs. ...",
     "url": "https://www.lalibre.be/belgique/societe/2026/10/10/manifestation-nationale-le-parquet-a-ordonne-21-mises-a-disposition-17-mineurs-concernes-2VTVK4QRWNFNBEYERRKUGWLRDY/",
     "publie": "2026-10-10T09:28:03+00:00",
-    "resume": "Le parquet de Bruxelles ordonne 21 mises à disposition suite aux incidents violents de la manifestation nationale de vendredi, concernant 17 mineurs et 4 majeurs.",
+    "resume": "Le parquet de Bruxelles a ordonné 21 mises à disposition suite aux incidents violents de la manifestation nationale de vendredi, concernant 17 mineurs et 4 majeurs.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -223,7 +247,7 @@
     "extrait": "Au moins 11 personnes, dont trois enfants, sont mortes à la suite de frappes russes samedi matin, a annoncé le chef de l’administration militaire de l’oblast, Mykhaïlo Semikine, sur Telegram. « Les opérations de recherche de personnes sous les décombres des bâtiments détruits se poursuivent », a-t-il ajouté.",
     "url": "https://www.lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-le-bilan-continue-de-s-alourdir-a-zaporijia-apres-des-bombardements-russes_6787996_3210.html",
     "publie": "2026-10-10T09:23:07+00:00",
-    "resume": "Au moins 11 personnes, dont trois enfants, sont mortes lors de frappes russes samedi matin sur Zaporijia; les opérations de recherche sous les décombres continuent.",
+    "resume": "Au moins 11 personnes, dont trois enfants, ont été tuées à Zaporijia lors de bombardements russes samedi matin ; les opérations de recherche se poursuivent.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -235,7 +259,7 @@
     "extrait": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
     "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T09:17:36+00:00",
-    "resume": "Le Pentagone annonce que l'exécution du tireur de Fort Hood, Nidal Hasan, sera retransmise en direct; les experts suggèrent que les autorités mal interprètent l'opinion publique américaine.",
+    "resume": "Le Pentagone annonce la retransmission en direct de l'exécution du tireur de Fort Hood Nidal Hasan ; des experts questionnent cette décision.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -247,7 +271,7 @@
     "extrait": "A la suite des émeutes en marge de la manifestation nationale, plusieurs personnes ont été arrêtées, indique la parquet de Bruxelles. Elles seront entendues dans la journée.",
     "url": "https://www.lecho.be/r/t/1/id/10695109",
     "publie": "2026-10-10T09:14:14+00:00",
-    "resume": "Le parquet de Bruxelles ordonne 21 mises à disposition suite aux émeutes en marge de la manifestation nationale, dont 17 concernent des mineurs qui seront entendus dans la journée.",
+    "resume": "Le parquet de Bruxelles ordonne 21 mises à disposition suite aux émeutes en marge de la manifestation nationale, dont 17 concernent des mineurs.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -259,7 +283,7 @@
     "extrait": "Note éditoriale : Cet article, initialement publié jeudi 8 octobre, avant l’annonce par Donald Trump d’un accord...",
     "url": "https://www.rtbf.be/article/un-jour-une-carte-le-detroit-d-ormuz-libere-le-petrole-circule-a-nouveau-dans-un-verre-de-diesel-a-moitie-vide-11797166",
     "publie": "2026-10-10T09:08:36+00:00",
-    "resume": "Article d'analyse sur le détroit d'Ormuz et la circulation du pétrole suite à l'accord annoncé par Trump.",
+    "resume": "Un article propose une analyse cartographique du détroit d'Ormuz et de la circulation du pétrole suite aux annonces de Trump.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -271,7 +295,7 @@
     "extrait": "Nous sommes mi-octobre et, contrairement aux échéances fixées par le Premier ministre, le gouvernement fédéral n’a pas de budget. Il faut dire que l’effort annoncé est conséquent: 10 milliards d’euros à trouver pour 2027. L’échevin libéral Achille Vandyck promet une bonne nouvelle à Bart De Wever: il en aurait déjà trouvé neuf! Comment? Réponse dans cette carte blanche. The post « Allô Bart? On les a, tes 9 milliards! » appeared first on Le Vif .",
     "url": "https://www.levif.be/opinions/allo-bart-on-les-a-tes-9-milliards/",
     "publie": "2026-10-10T09:04:06+00:00",
-    "resume": "Carte blanche d'Achille Vandyck affirmant que 9 des 10 milliards d'euros nécessaires pour le budget 2027 belge ont déjà été trouvés, alors que le gouvernement n'a pas encore de budget.",
+    "resume": "Une carte blanche propose des pistes pour trouver neuf milliards d'euros des dix milliards requis pour le budget fédéral 2027.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -283,9 +307,9 @@
     "extrait": "La chaîne de salles de sport Jims a été victime d'une tentative de hameçonnage dans la matinée du samedi 10 octobre....",
     "url": "https://www.rtbf.be/article/la-chaine-de-salles-de-sport-jims-victime-d-une-tentative-d-hameconnage-11798035",
     "publie": "2026-10-10T08:51:41+00:00",
-    "resume": "La chaîne de salles de sport Jims a été victime d'une tentative d'hameçonnage samedi 10 octobre.",
+    "resume": "La chaîne de salles de sport Jims a été victime d'une tentative de hameçonnage samedi matin.",
     "rubrique": "Belgique",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "a133d42f7",
@@ -302,7 +326,7 @@
         "url": "https://www.lecho.be/r/t/1/id/10695108"
       }
     ],
-    "resume": "L'Irlande, à la présidence tournante de l'UE, propose un budget européen révisé pour 2028-2034 réduit d'environ 140 milliards d'euros par rapport à la proposition initiale de la Commission.",
+    "resume": "L'Irlande, qui préside l'UE, a présenté samedi un projet de budget européen révisé pour 2028-2034, réduit d'environ 140 milliards d'euros par rapport à la proposition initiale de la Commission.",
     "rubrique": "Europe",
     "importance": 4
   },
@@ -314,8 +338,8 @@
     "extrait": "La dernière fois que les principaux ministres du gouvernement De Wever se sont retrouvés en \"kern\" remonte à mercredi...",
     "url": "https://www.rtbf.be/article/le-gouvernement-federal-se-reunit-a-15-heures-pour-reprendre-ses-discussions-budgetaires-11798017",
     "publie": "2026-10-10T08:43:09+00:00",
-    "resume": "Le gouvernement fédéral se réunit samedi à 15 heures en comité restreint pour reprendre ses discussions budgétaires, la dernière rencontre remontant à mercredi.",
-    "rubrique": "Belgique",
+    "resume": "Le gouvernement fédéral se réunit samedi à 15 heures en comité restreint pour poursuivre ses discussions budgétaires.",
+    "rubrique": "Politique",
     "importance": 4
   },
   {
@@ -326,8 +350,8 @@
     "extrait": "La semaine de négociations budgétaires s’achève sans avancée notable pour le gouvernement fédéral. Malgré l’urgence martelée par Bart De Wever, le blocage reste profond, sans toutefois virer au psychodrame.",
     "url": "https://www.lecho.be/r/t/1/id/10695090",
     "publie": "2026-10-10T08:33:22+00:00",
-    "resume": "Après une semaine de négociations budgétaires, le gouvernement fédéral reste bloqué sans avancée notable, mais sans crise ouverte selon les sources.",
-    "rubrique": "Belgique",
+    "resume": "Les négociations budgétaires du gouvernement fédéral se concluent la semaine sans avancée notable, le blocage restant profond malgré l'urgence affirmée par le Premier ministre.",
+    "rubrique": "Politique",
     "importance": 4
   },
   {
@@ -338,8 +362,8 @@
     "extrait": "En place depuis trente ans, ce système vise à harmoniser le système électrique et faciliter les échanges à l’échelle du continent. Mais il est de plus en plus critiqué en raison des hausses du prix observées ces dernières années, malgré une réforme en 2024.",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/10/qu-est-ce-que-le-marche-europeen-de-l-electricite-dont-plusieurs-candidats-a-la-presidentielle-veulent-sortir_6790978_4355770.html",
     "publie": "2026-10-10T08:30:08+00:00",
-    "resume": "Le marché européen de l'électricité, en place depuis trente ans, est de plus en plus critiqué pour les hausses de prix observées malgré une réforme en 2024, plusieurs candidats à la présidentielle souhaitant en sortir.",
-    "rubrique": "Europe",
+    "resume": "Le marché européen de l'électricité, en place depuis trente ans et visant à harmoniser le système électrique du continent, fait l'objet de critiques croissantes en raison des hausses de prix observées ces dernières années.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -350,7 +374,7 @@
     "extrait": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
     "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T08:29:59+00:00",
-    "resume": "L'ouragan Isaias a été rétrogradé après son arrivée en Floride, laissant des centaines de milliers de foyers sans électricité en Floride et en Alabama.",
+    "resume": "L'ouragan Isaias a touché terre en Floride, laissant des centaines de milliers de foyers sans électricité en Floride et en Alabama.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -362,7 +386,7 @@
     "extrait": "La Turquie a interdit samedi l'usage des réseaux sociaux aux moins de 15 ans, rejoignant un nombre croissant de pays dans le monde soucieux de protéger les enfants et adolescents contre les méfaits des plateformes. ...",
     "url": "https://www.lalibre.be/international/europe/2026/10/10/la-turquie-interdit-les-reseaux-sociaux-aux-moins-de-15-ans-NZIX7GVF2RCJ7F7HDIUTT4ZQXM/",
     "publie": "2026-10-10T08:17:23+00:00",
-    "resume": "La Turquie a interdit samedi l'usage des réseaux sociaux aux moins de 15 ans, rejoignant un nombre croissant de pays soucieux de protéger les enfants et adolescents.",
+    "resume": "La Turquie a interdit samedi l'usage des réseaux sociaux aux moins de 15 ans, rejoignant un nombre croissant de pays cherchant à protéger les mineurs.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -374,7 +398,7 @@
     "extrait": "Plusieurs compagnies d'assurance ont récemment relevé le taux d'intérêt garanti de leurs placements de la branche 21 vers 3%. Mais après frais et taxes, le rendement chute.",
     "url": "https://www.lecho.be/r/t/1/id/10694808",
     "publie": "2026-10-10T08:16:59+00:00",
-    "resume": "Plusieurs compagnies d'assurance ont récemment relevé le taux d'intérêt garanti de leurs placements de branche 21 vers 3%, mais après frais et taxes, le rendement chute.",
+    "resume": "Plusieurs compagnies d'assurance ont récemment relevé le taux d'intérêt garanti de leurs placements de la branche 21 vers 3%, mais le rendement effectif diminue après frais et taxes.",
     "rubrique": "Économie",
     "importance": 2
   },
@@ -386,7 +410,7 @@
     "extrait": "En pleine guerre en Ukraine et consciente du retard français dans les drones, la Direction générale de l’armement (DGA)...",
     "url": "https://www.rtbf.be/article/renault-met-sa-production-en-serie-au-service-des-drones-militaires-11798021",
     "publie": "2026-10-10T08:10:32+00:00",
-    "resume": "Renault met sa production en série au service des drones militaires, la France cherchant à combler son retard dans ce domaine en contexte de guerre en Ukraine.",
+    "resume": "Renault met sa production industrielle au service de la fabrication de drones militaires, face au retard français dans ce domaine.",
     "rubrique": "Économie",
     "importance": 3
   },
@@ -398,7 +422,7 @@
     "extrait": "Grâce à un but d’Elena Dhont synonyme de victoire 1-0 contre la Pologne, les Red Flames ont bien négocié la première...",
     "url": "https://www.rtbf.be/article/des-red-flames-impressionnantes-mais-trop-d-occasions-ratees-sara-yuceil-debriefe-la-victoire-etriquee-face-a-la-pologne-11798015",
     "publie": "2026-10-10T08:07:08+00:00",
-    "resume": "Les Red Flames ont remporté une victoire 1-0 contre la Pologne grâce à un but d'Elena Dhont, avec des prestations impressionnantes mais trop d'occasions ratées selon Sara Yüceil.",
+    "resume": "Les Red Flames ont remporté 1-0 contre la Pologne grâce à un but d'Elena Dhont, malgré de nombreuses occasions ratées.",
     "rubrique": "Sport",
     "importance": 2
   },
@@ -410,7 +434,7 @@
     "extrait": "Les services publics pourraient être perturbés ce lundi 12 octobre. À l’appel de la CGSP (la Centrale Générale des...",
     "url": "https://www.rtbf.be/article/greve-des-services-publics-ce-lundi-12-octobre-quelles-perturbations-dans-les-transports-et-les-services-publics-11796983",
     "publie": "2026-10-10T08:07:00+00:00",
-    "resume": "Une grève des services publics est prévue lundi 12 octobre à l'appel de la CGSP, pouvant entraîner des perturbations dans les transports et services publics.",
+    "resume": "Une grève des services publics est prévue lundi 12 octobre, à l'appel de la CGSP, susceptible de perturber les transports et services publics.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -422,7 +446,7 @@
     "extrait": "Rassuré par son sacre européen, le Belge vise un premier succès en Lombardie pour couronner son année et refermer définitivement la page de son accident de 2020. ...",
     "url": "https://www.lalibre.be/sports/cyclisme/2026/10/10/si-je-gagne-ce-sera-la-meilleure-saison-de-ma-carriere-JYKE4IDRS5DIJOWVXYWP7F7HBA/",
     "publie": "2026-10-10T08:00:34+00:00",
-    "resume": "Un cycliste belge, rassuré par son sacre européen, vise un premier succès en Lombardie pour couronner son année après son accident de 2020.",
+    "resume": "Un cycliste belge vise un premier succès en Lombardie après son sacre européen, pour couronner son année et fermer définitivement la page de son accident de 2020.",
     "rubrique": "Sport",
     "importance": 2
   },
@@ -434,21 +458,21 @@
     "extrait": "Alors que les spectatrices demeurent largement minoritaires dans les tribunes de Ligue 1, des associations et groupes de supportrices œuvrent pour améliorer l’accès des femmes aux stades du championnat.",
     "url": "https://www.lemonde.fr/sport/article/2026/10/10/les-femmes-tentent-de-se-faire-une-place-dans-les-stades-de-football-lieux-concus-et-diriges-par-des-hommes_6790975_3242.html",
     "publie": "2026-10-10T08:00:30+00:00",
-    "resume": "Les femmes demeurent largement minoritaires dans les tribunes de Ligue 1 ; des associations et groupes de supportrices œuvrent pour améliorer l'accès des femmes aux stades.",
-    "rubrique": "Sport",
+    "resume": "Alors que les femmes demeurent largement minoritaires dans les tribunes de Ligue 1, des associations et groupes de supportrices travaillent à améliorer l'accès des femmes aux stades.",
+    "rubrique": "Société",
     "importance": 2
   },
   {
-    "id": "aa5326fc5",
+    "id": "a3021dd20",
     "source": "Le Monde",
     "lang": "fr",
-    "titre": "La Guadeloupe instaure un bouclier qualité/prix sur des prestations automobiles",
-    "extrait": "Dans l’archipel, où la voiture règne en maître, des tarifs réglementés ont été instaurés pour l’entretien des véhicules, vendredi 9 octobre, quelques mois après le dispositif mis en place à la Martinique pour encadrer les prix de certains consommables et certaines pièces.",
-    "url": "https://www.lemonde.fr/politique/article/2026/10/10/la-guadeloupe-instaure-un-bouclier-qualite-prix-sur-des-prestations-automobiles_6790976_823448.html",
-    "publie": "2026-10-10T08:00:27+00:00",
-    "resume": "La Guadeloupe a instauré vendredi 9 octobre un bouclier qualité/prix sur les prestations automobiles, quelques mois après un dispositif similaire à la Martinique.",
-    "rubrique": "Monde",
-    "importance": 2
+    "titre": "Le business des places à visibilité réduite : « Places à tout petit prix, pour voir avec ses oreilles ! »",
+    "extrait": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les salles de spectacle qui vendent des places d’où l’on ne voit rien, ou presque, comme un moyen de vivre une expérience inédite.",
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/10/le-business-des-places-a-visibilite-reduite-places-a-tout-petit-prix-pour-voir-avec-ses-oreilles_6790970_4500055.html",
+    "publie": "2026-10-10T08:00:08+00:00",
+    "resume": "Certaines salles de spectacle vendent des places à très bas prix d'où la visibilité est réduite ou inexistante, présentées comme une expérience inédite.",
+    "rubrique": "Culture",
+    "importance": 1
   },
   {
     "id": "af87f7b56",
@@ -458,7 +482,7 @@
     "extrait": "Pascal Claude : \"Le droit de propriété individuelle est un droit naturel, ancré dans les profondeurs de la nature...",
     "url": "https://www.rtbf.be/article/le-philosophe-frederic-gros-on-est-dans-une-periode-ou-on-ne-cesse-de-nous-faire-accepter-l-inacceptable-11797620",
     "publie": "2026-10-10T08:00:00+00:00",
-    "resume": "Le philosophe Frédéric Gros s'exprime sur une période où on accepterait l'inacceptable.",
+    "resume": "Le philosophe Frédéric Gros s'exprime sur la période actuelle durant une émission de débat.",
     "rubrique": "Autres",
     "importance": 1
   },
@@ -470,7 +494,7 @@
     "extrait": "Le candidat de la formation de gauche Ahora Nacion a obtenu dimanche dernier 229 voix contre 204 pour le candidat...",
     "url": "https://www.rtbf.be/article/hitler-mussolini-le-candidat-de-gauche-elu-maire-au-perou-11798022",
     "publie": "2026-10-10T07:58:18+00:00",
-    "resume": "Un candidat de la formation de gauche Ahora Nacion, portant le nom Hitler Mussolini, a été élu maire au Pérou avec 229 voix contre 204 pour son adversaire.",
+    "resume": "Un candidat de la formation de gauche Ahora Nacion portant le nom Hitler Mussolini a été élu maire au Pérou avec 229 voix.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -482,8 +506,8 @@
     "extrait": "Le gouvernement fédéral reprendra samedi à 15h ses discussions budgétaires en comité restreint, a-t-on appris auprès du cabinet du Premier ministre. The post Budget fédéral: les discussions reprennent cette après-midi appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/politique/budget-federal-les-discussions-reprennent-cette-apres-midi/",
     "publie": "2026-10-10T07:50:15+00:00",
-    "resume": "Le gouvernement fédéral reprend samedi à 15 heures ses discussions budgétaires en comité restreint.",
-    "rubrique": "Belgique",
+    "resume": "Le gouvernement fédéral reprendra samedi à 15h ses discussions budgétaires en comité restreint.",
+    "rubrique": "Politique",
     "importance": 4
   },
   {
@@ -494,9 +518,9 @@
     "extrait": "Le président américain n'a \"jamais entendu parler\" de la lauréate du prix Nobel de la Paix, Navi Pillay.",
     "url": "https://www.lecho.be/r/t/1/id/10695105",
     "publie": "2026-10-10T07:45:20+00:00",
-    "resume": "Le président américain Trump s'indigne de ne pas avoir été choisi pour le Nobel de la paix et déclare ne jamais avoir entendu parler de la lauréate Navi Pillay.",
+    "resume": "Le président américain s'indigne de ne pas avoir été choisi pour le prix Nobel de la Paix et affirme ne jamais avoir entendu parler de la lauréate Navi Pillay.",
     "rubrique": "Monde",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "ae5603c53",
@@ -506,8 +530,8 @@
     "extrait": "Le gouvernement fédéral reprendra samedi à 15h ses discussions budgétaires en comité restreint, a-t-on appris auprès du cabinet du Premier ministre. ...",
     "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/budget-federal-le-gouvernement-se-reunit-a-15h-pour-reprendre-ses-discussions-budgetaires-XPFCLMA6SJF2FEVCPGSS7ZOJ24/",
     "publie": "2026-10-10T07:43:28+00:00",
-    "resume": "Le gouvernement fédéral reprend samedi à 15 heures ses discussions budgétaires en comité restreint.",
-    "rubrique": "Belgique",
+    "resume": "Le gouvernement fédéral reprendra samedi à 15h ses discussions budgétaires en comité restreint.",
+    "rubrique": "Politique",
     "importance": 4
   },
   {
@@ -518,7 +542,7 @@
     "extrait": "Sans être miraculeuse, l’immigration est une solution clé pour pallier la pénurie de travailleurs et la baisse de la natalité qui menace les pensions. Or, le climat politique global ne souffle pas vraiment dans ce sens-là. The post Pourquoi l’immigration sauvera nos pensions: « Tout le monde cherchera à faire venir des migrants chez lui pour sauver le modèle social » appeared first on Le Vif .",
     "url": "https://www.levif.be/societe/pourquoi-limmigration-sauvera-nos-pensions-tout-le-monde-cherchera-a-faire-venir-des-migrants-chez-lui-pour-sauver-le-modele-social/",
     "publie": "2026-10-10T07:40:02+00:00",
-    "resume": "L'immigration est présentée comme une solution clé pour pallier la pénurie de travailleurs et la baisse de natalité menaçant les pensions, bien que le climat politique ne souffle pas dans ce sens.",
+    "resume": "L'immigration est présentée comme une solution clé pour pallier la pénurie de travailleurs et la baisse de la natalité qui menacent les pensions, bien que le climat politique global ne favorise pas cette approche.",
     "rubrique": "Société",
     "importance": 3
   },
@@ -526,7 +550,7 @@
     "id": "ad3472079",
     "source": "La Libre",
     "lang": "fr",
-    "titre": "Guerre en Ukraine : au moins onze morts dont trois enfants dans des frappes russes",
+    "titre": "Guerre en Ukraine : au moins quinze morts dont trois enfants dans des frappes russes",
     "extrait": "Des frappes russes sur la ville de Zaporijjia dans le sud-est de l'Ukraine tôt samedi ont fait au moins onze morts, dont trois enfants, selon le dernier bilan des autorités. ...",
     "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/guerre-en-ukraine-au-moins-sept-morts-dont-trois-enfants-dans-des-frappes-russes-MJQUIDHXX5BC5HR23OPVPB4ZSQ/",
     "publie": "2026-10-10T07:24:27+00:00",
@@ -537,7 +561,7 @@
         "url": "https://www.lecho.be/r/t/1/id/10695106"
       }
     ],
-    "resume": "Des frappes russes sur la ville de Zaporijjia en Ukraine ont fait samedi au moins onze morts, dont trois enfants.",
+    "resume": "Des frappes russes sur la ville de Zaporijjia en Ukraine samedi matin ont fait au moins onze morts, dont trois enfants.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -550,7 +574,7 @@
     "url": "https://vrtnws.be/p.bDyx0OWNL",
     "publie": "2026-10-10T07:07:00+00:00",
     "resume": "L'Université de Gand honore le chanteur canadien Leonard Cohen avec une conférence académique internationale et une exposition gratuite, dix ans après sa mort.",
-    "rubrique": "Belgique",
+    "rubrique": "Culture",
     "importance": 2
   },
   {
@@ -561,8 +585,8 @@
     "extrait": "La majorité des dispositions du texte contre les violences sexuelles envers les femmes et les enfants ont été sauvegardées, avec parfois des concessions pour parvenir à un compromis. Vendredi, la coalition transpartisane s’est fissurée sur les dispositions concernant la protection à apporter aux femmes étrangères, mesures auxquelles s’opposait le Rassemblement national.",
     "url": "https://www.lemonde.fr/societe/article/2026/10/10/loi-integrale-a-la-fin-de-la-premiere-lecture-a-l-assemblee-nationale-l-equilibre-du-texte-preserve-les-femmes-etrangeres-sacrifiees_6790964_3224.html",
     "publie": "2026-10-10T06:58:49+00:00",
-    "resume": "À la fin de la première lecture à l'Assemblée nationale française, la loi intégrale contre les violences sexuelles a conservé l'équilibre du texte, mais les dispositions concernant la protection des femmes étrangères ont été sacrifiées.",
-    "rubrique": "Europe",
+    "resume": "À l'issue de la première lecture à l'Assemblée nationale française, la majorité des dispositions du texte contre les violences sexuelles sont préservées, mais les dispositions sur la protection des femmes étrangères ont été sacrifiées.",
+    "rubrique": "Politique",
     "importance": 3
   },
   {
@@ -573,7 +597,7 @@
     "extrait": "Dans le quartier commerçant, des planches de bois recouvrent encore plusieurs devantures. Dans la boutique Warhammer tenue...",
     "url": "https://www.rtbf.be/article/a-liege-les-commercants-du-centre-ville-attendent-le-retour-des-clients-apres-une-semaine-de-troubles-11793832",
     "publie": "2026-10-10T06:44:26+00:00",
-    "resume": "À Liège, les commerçants du centre-ville attendent le retour des clients après une semaine de troubles, avec des planches de bois recouvrant encore plusieurs devantures.",
+    "resume": "À Liège, les commerçants du centre-ville attendent le retour des clients après une semaine de troubles, avec plusieurs devantures toujours recouvertes de planches de bois.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -585,7 +609,7 @@
     "extrait": "Intégré à la manifestation nationale de ce vendredi, le mouvement des étudiants a été affaibli par de nombreux débordements et des difficultés à intégrer le cortège syndical.",
     "url": "https://www.lecho.be/r/t/1/id/10695018",
     "publie": "2026-10-10T06:35:33+00:00",
-    "resume": "À Bruxelles, le mouvement des jeunes intégré à la manifestation nationale de vendredi a été affaibli par de nombreux débordements et des difficultés à s'insérer dans le cortège syndical.",
+    "resume": "À Bruxelles, le mouvement des jeunes intégré à la manifestation nationale de vendredi a été affaibli par de nombreux débordements et des difficultés à s'intégrer au cortège syndical.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -597,9 +621,9 @@
     "extrait": "Après avoir sorti Coco Gauff et Iga Swiatek, la Limbourgeoise va tenter de rejoindre pour la première fois de sa carrière la finale d’un Masters 1 000. ...",
     "url": "https://www.lalibre.be/sports/tennis/2026/10/10/mertens-en-demi-finale-apres-avoir-battu-swiatek-je-ne-lavais-pas-vraiment-imagine-2WH7U6EMRFHFLE2FRY4A3F4F3U/",
     "publie": "2026-10-10T06:30:21+00:00",
-    "resume": "Après avoir éliminé Coco Gauff et Iga Swiatek, la Limbourgeoise Mertens accède à la demi-finale d'un Masters 1 000 pour tenter de rejoindre pour la première fois la finale.",
+    "resume": "La joueuse de tennis limbourgeoise Mertens accède à la demi-finale d'un Masters 1000 après avoir éliminé Iga Swiatek, suivant sa victoire précédente contre Coco Gauff.",
     "rubrique": "Sport",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a28227c20",
@@ -609,8 +633,8 @@
     "extrait": "Trottinettes brûlées, poubelles incendiées, policiers blessés… Les troubles à l’ordre public se multiplient depuis...",
     "url": "https://www.rtbf.be/article/manifestations-etudiantes-que-risquent-les-casseurs-11797167",
     "publie": "2026-10-10T06:20:05+00:00",
-    "resume": "Les troubles à l'ordre public se multiplient lors des manifestations étudiantes, avec trottinettes brûlées, poubelles incendiées et policiers blessés.",
-    "rubrique": "Belgique",
+    "resume": "Un article examine les risques juridiques encourus par les auteurs de troubles à l'ordre public lors de manifestations étudiantes, notamment les incendies de trottinettes et poubelles ainsi que les blessures infligées aux policiers.",
+    "rubrique": "Société",
     "importance": 3
   },
   {
@@ -621,8 +645,8 @@
     "extrait": "Les dernières prévisions d’inflation confirment une indexation des salaires qui sera importante pour certains employés en janvier 2027. Mais le plafonnement décidé par le gouvernement s’appliquera aussi pour la première fois. The post Votre salaire sera indexé en janvier? Voici pourquoi vous serez doublement pénalisé appeared first on Le Vif .",
     "url": "https://www.levif.be/economie/mon-argent/une-indexation-des-salaires-de-plus-de-4-en-janvier-2027-rognee-par-le-plafonnement-de-2026/",
     "publie": "2026-10-10T06:19:39+00:00",
-    "resume": "Les prévisions d'inflation confirment une indexation importante des salaires en janvier 2027, mais le plafonnement décidé par le gouvernement s'appliquera pour la première fois.",
-    "rubrique": "Belgique",
+    "resume": "Des prévisions d'inflation confirment une indexation des salaires importante en janvier 2027, mais un plafonnement gouvernemental s'appliquera pour la première fois, pénalisant les employés.",
+    "rubrique": "Économie",
     "importance": 4
   },
   {
@@ -633,7 +657,7 @@
     "extrait": "Des conditions extrêmes sont annoncées pour l’épreuve dans la cité-état, et ça fait les affaires de certains. ...",
     "url": "https://www.lalibre.be/sports/moteurs/2026/10/10/gp-de-singapour-ou-les-ventilateurs-brassent-friture-et-sueur-lalerte-canicule-a-ete-declenchee-IA2HICQCMVCLBISQASPMRIVDPM/",
     "publie": "2026-10-10T06:14:12+00:00",
-    "resume": "Le Grand Prix de Singapour se déroulera dans des conditions extrêmes de chaleur, avec une alerte canicule déclenchée et des ventilateurs brassant l'air sur le circuit.",
+    "resume": "Le Grand Prix de Singapour se déroulera dans des conditions extrêmes de chaleur, avec une alerte canicule déclenchée.",
     "rubrique": "Sport",
     "importance": 2
   },
@@ -645,8 +669,8 @@
     "extrait": "C’est le témoignage d’un banquier qui y voit la conséquence d’un sentiment d’inquiétude grandissant dans le chef de la population fortunée. ...",
     "url": "https://www.lalibre.be/economie/mes-finances/2026/10/10/beaucoup-de-capitaux-belges-se-delocalisent-vers-la-suisse-et-le-luxembourg-ANV3SXJAQZHTRADHOZ6MHJFQTQ/",
     "publie": "2026-10-10T06:06:19+00:00",
-    "resume": "Selon un banquier, des capitaux belges se délocalisent vers la Suisse et le Luxembourg en raison d'un sentiment d'inquiétude croissant parmi la population fortunée.",
-    "rubrique": "Belgique",
+    "resume": "Selon un témoignage de banquier, des capitaux belges se délocalisent vers la Suisse et le Luxembourg en raison d'une inquiétude croissante au sein de la population fortunée.",
+    "rubrique": "Économie",
     "importance": 3
   },
   {
@@ -657,8 +681,8 @@
     "extrait": "Une “loterie fiscale” récompenserait les contribuables qui déclarent correctement leurs revenus. Une manière de remplacer une partie de la menace par une incitation positive. ...",
     "url": "https://www.lalibre.be/debats/2026/10/10/et-si-payer-ses-impots-permettait-de-gagner-le-jackpot-6S5TMVMHWJDJLEE4BWTNC7YEXQ/",
     "publie": "2026-10-10T06:05:47+00:00",
-    "resume": "Une proposition de 'loterie fiscale' récompenserait les contribuables qui déclarent correctement leurs revenus, remplaçant la menace par une incitation positive.",
-    "rubrique": "Belgique",
+    "resume": "Un projet propose une « loterie fiscale » qui récompenserait les contribuables ayant correctement déclaré leurs revenus, en remplacement partiel de mesures punitives.",
+    "rubrique": "Économie",
     "importance": 2
   },
   {
@@ -669,7 +693,7 @@
     "extrait": "Au menu : “L’Eléphant” de Patrick Modiano, “La dernière des Wilberforce” de Julia Kerninon et “À voix haute” de Polina Panassenko. ...",
     "url": "https://www.lalibre.be/culture/livres-bd/2026/10/10/modiano-kerninon-panassenko-nos-trois-coups-de-coeur-litteraires-de-la-semaine-NINXZPWCOVENNJAFZK6BGIPQ2A/",
     "publie": "2026-10-10T06:05:03+00:00",
-    "resume": "Sélection de trois coups de cœur littéraires : 'L'Éléphant' de Patrick Modiano, 'La dernière des Wilberforce' de Julia Kerninon et 'À voix haute' de Polina Panassenko.",
+    "resume": "Sélection de trois coups de cœur littéraires : « L'Éléphant » de Patrick Modiano, « La dernière des Wilberforce » de Julia Kerninon et « À voix haute » de Polina Panassenko.",
     "rubrique": "Culture",
     "importance": 1
   },
@@ -681,7 +705,7 @@
     "extrait": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
     "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T06:04:35+00:00",
-    "resume": "Le procès relatif au meurtre de deux surfeurs australiens et de leur ami américain au Mexique il y a deux ans s'est déroulé, la mère des victimes soulignant l'importance de la responsabilité.",
+    "resume": "Le procès relatif au meurtre de deux surfeurs australiens et d'un ami américain au Mexique s'est déroulé, la mère des victimes soulignant l'importance de la responsabilité.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -693,7 +717,7 @@
     "extrait": "Un séisme de magnitude 7,7 a déclenché vendredi la panique dans la capitale du Panama et provoqué l'effondrement de bâtiments et de routes, les autorités faisant état d'au moins deux blessés mais pas de morts, selon un bilan préliminaire. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/10/un-puissant-seisme-provoque-dimportants-degats-et-des-blesses-au-panama-dieu-merci-nous-allons-bien-EHSFSXZFJNBZ3AJ5HF5DCY7ZT4/",
     "publie": "2026-10-10T06:04:19+00:00",
-    "resume": "Un séisme de magnitude 7,7 provoque vendredi des dégâts importants et l'effondrement de bâtiments et de routes au Panama, avec au moins deux blessés selon un bilan préliminaire.",
+    "resume": "Un séisme de magnitude 7,7 provoque des dégâts importants et l'effondrement de bâtiments et de routes au Panama, avec au moins deux blessés signalés.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -705,7 +729,7 @@
     "extrait": "L’engouement autour de l’intelligence artificielle donne parfois l’impression qu’elle vient d’être inventée....",
     "url": "https://www.rtbf.be/article/ia-70-ans-d-une-histoire-qui-se-repete-11797039",
     "publie": "2026-10-10T05:58:19+00:00",
-    "resume": "Un article revient sur 70 ans d'histoire de l'intelligence artificielle, notant que l'engouement actuel donne parfois l'impression qu'elle vient d'être inventée.",
+    "resume": "Un article analyse 70 ans d'histoire de l'intelligence artificielle, notant que l'engouement actuel crée l'impression d'une invention récente.",
     "rubrique": "Sciences & Tech",
     "importance": 2
   },
@@ -717,9 +741,9 @@
     "extrait": "Un journaliste indépendant a été abattu vendredi dans le sud du Mexique, a indiqué l'organisation de défense des journalistes Artículo 19, portant à neuf le nombre de reporters tués dans le pays depuis le début de l'année. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/10/un-journaliste-tue-au-mexique-le-9e-depuis-le-debut-de-lannee-5ULZRRNLKVH7DB5H7ALIDVJKPI/",
     "publie": "2026-10-10T05:58:15+00:00",
-    "resume": "Un journaliste indépendant a été abattu vendredi dans le sud du Mexique, portant à neuf le nombre de reporters tués dans le pays depuis le début de l'année.",
+    "resume": "Un journaliste indépendant a été tué au Mexique, portant à neuf le nombre de reporters assassinés dans le pays depuis le début de l'année.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a0a238062",
@@ -729,9 +753,9 @@
     "extrait": "Le déficit de la Fédération Wallonie-Bruxelles devrait passer de 1,7 milliard d’euros prévu pour 2026 à...",
     "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593",
     "publie": "2026-10-10T05:54:15+00:00",
-    "resume": "Un accord est intervenu sur le budget 2027 de la Fédération Wallonie-Bruxelles, la RTBF devant réaliser 20 millions d'euros d'économies supplémentaires.",
+    "resume": "Un accord sur le budget 2027 de la Fédération Wallonie-Bruxelles impose à la RTBF des économies supplémentaires de 20 millions d'euros.",
     "rubrique": "Belgique",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "a9613f81f",
@@ -741,7 +765,7 @@
     "extrait": "Un modèle d'intelligence artificielle (IA) d'Anthropic a transmis à la police de Philadelphie un signalement inventé de toutes pièces sur un meurtre non élucidé, a annoncé vendredi (heure locale) la police de cette ville de l'est des États-Unis, reprochant à l'entreprise d'avoir mis deux mois à rapporter l'incident. ...",
     "url": "https://www.lalibre.be/economie/digital/2026/10/10/encore-un-derapage-une-ia-danthropic-a-envoye-a-la-police-de-philadelphie-un-faux-signalement-sur-un-meurtre-P7KG233C35GIXDAJ7PJL4DRBJM/",
     "publie": "2026-10-10T05:52:56+00:00",
-    "resume": "Un modèle d'intelligence artificielle d'Anthropic a transmis à la police de Philadelphie un faux signalement sur un meurtre non élucidé, l'entreprise ayant attendu deux mois avant de rapporter l'incident.",
+    "resume": "Un modèle d'intelligence artificielle d'Anthropic a transmis à la police de Philadelphie un faux signalement de meurtre, l'entreprise ayant attendu deux mois avant de signaler l'incident.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -753,8 +777,8 @@
     "extrait": "L’avant-projet de loi sur les organisations radicales vient de recevoir une nouvelle salve de critiques venant de l’Institut fédéral des droits humains (IFDH). De son côté, le ministre de l’Intérieur, Bernard Quintin (MR), assure maintenir son cap. ...",
     "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/10/si-la-loi-sur-les-organisations-radicales-avait-existe-il-y-a-quinze-ans-sharia-for-belgium-naurait-pas-su-recruter-des-jeunes-pour-la-syrie-CU2RM7RSH5HDNAE6H4FA5RASOE/",
     "publie": "2026-10-10T05:48:22+00:00",
-    "resume": "L'avant-projet de loi belge sur les organisations radicales reçoit de nouvelles critiques de l'Institut fédéral des droits humains, le ministre de l'Intérieur Bernard Quintin (MR) maintenant son cap.",
-    "rubrique": "Belgique",
+    "resume": "L'avant-projet de loi belge sur les organisations radicales reçoit des critiques de l'Institut fédéral des droits humains, tandis que le ministre de l'Intérieur Bernard Quintin (MR) maintient son engagement.",
+    "rubrique": "Politique",
     "importance": 3
   },
   {
@@ -765,7 +789,7 @@
     "extrait": "Le ministère public brésilien a lancé vendredi une action inédite en justice contre la filiale de la compagnie pétrolière Shell au Brésil, afin d'obtenir plus de 100 millions de dollars de compensation après les inondations meurtrières qui ont frappé le sud du pays en 2024. ...",
     "url": "https://www.lalibre.be/economie/entreprises-startup/2026/10/10/inondations-de-2024-au-bresil-shell-poursuivi-en-justice-pour-108-millions-de-dollars-OJLX5A7V7FFLTDHBAUS3XMCPJY/",
     "publie": "2026-10-10T05:46:05+00:00",
-    "resume": "Le ministère public brésilien poursuit la filiale de Shell au Brésil en justice pour obtenir plus de 100 millions de dollars de compensation suite aux inondations meurtrières de 2024.",
+    "resume": "Le ministère public brésilien poursuit la filiale brésilienne de Shell en justice pour obtenir plus de 100 millions de dollars de compensation suite aux inondations de 2024.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -777,9 +801,9 @@
     "extrait": "Comme l'an dernier, Donald Trump s'est indigné vendredi de n'avoir pas reçu le prix Nobel de la paix, en disant qu'il n'avait \"jamais entendu parler\" de la lauréate annoncée plus tôt dans la journée, Navi Pillay. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/10/ideologues-radicaux-ennemis-de-la-civilisation-trump-sindigne-a-nouveau-de-ne-pas-avoir-ete-choisi-pour-le-nobel-de-la-paix-Z7PQ7UUJFVEEJMVCRN62WEZEBY/",
     "publie": "2026-10-10T05:41:17+00:00",
-    "resume": "Donald Trump s'indigne à nouveau de ne pas avoir reçu le prix Nobel de la paix, déclarant ne jamais avoir entendu parler de la lauréate annoncée, Navi Pillay.",
+    "resume": "Donald Trump s'indigne à nouveau de ne pas avoir reçu le prix Nobel de la paix, déclarant ne pas connaître la lauréate Navi Pillay.",
     "rubrique": "Monde",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "a0d5adb1a",
@@ -789,7 +813,7 @@
     "extrait": "Donald Trump a annoncé vendredi avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial, levant pour ce faire des sanctions qui pèsent sur Moscou, au grand dam de Volodymyr Zelensky qui a dénoncé une décision \"indigne\". ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/10/trump-scelle-un-accord-surprise-avec-poutine-sur-le-diesel-zelensky-sindigne-une-decision-faible-JAKYKLCRCNFPXBHUHX63ERFGYA/",
     "publie": "2026-10-10T05:32:15+00:00",
-    "resume": "Donald Trump annonce avoir négocié avec Poutine la livraison de quantités massives de diesel russe en levant certaines sanctions, ce que Volodymyr Zelensky dénonce comme une décision 'indigne'.",
+    "resume": "Donald Trump annonce avoir négocié la livraison de quantités massives de diesel russe en levant des sanctions contre Moscou, ce que Volodymyr Zelensky dénonce comme une décision faible.",
     "rubrique": "Monde",
     "importance": 5
   },
@@ -801,8 +825,8 @@
     "extrait": "C’était une rencontre intergénérationnelle : d’une part une classe d’élèves âgés entre 16 et 18 ans,...",
     "url": "https://www.rtbf.be/article/louis-michel-mr-je-crois-profondement-dans-le-bien-que-represente-le-fait-de-remettre-en-permanence-en-cause-ce-que-les-politiques-disent-11797698",
     "publie": "2026-10-10T05:30:42+00:00",
-    "resume": "Louis Michel (MR) participe à une rencontre intergénérationnelle avec des élèves âgés de 16 à 18 ans, affirmant croire à l'importance de remettre en cause régulièrement les politiques.",
-    "rubrique": "Belgique",
+    "resume": "Louis Michel (MR) participe à une rencontre intergénérationnelle avec des élèves âgés de 16 à 18 ans et défend l'importance de remettre en question les discours politiques.",
+    "rubrique": "Politique",
     "importance": 1
   },
   {
@@ -820,7 +844,7 @@
         "url": "https://www.rtbf.be/article/moody-s-maintient-la-note-de-la-belgique-11797989"
       }
     ],
-    "resume": "L'agence de notation Moody's maintient la note de la Belgique selon son rapport d'évaluation publié vendredi.",
+    "resume": "L'agence de notation Moody's maintient la note de la Belgique, selon son rapport d'évaluation publié vendredi.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -832,7 +856,7 @@
     "extrait": "Superbe exposition au musée des Beaux-Arts d’Anvers sur 40 ans de création du sculpteur belge. ...",
     "url": "https://www.lalibre.be/culture/arts/2026/10/10/philip-aguirre-y-otegui-la-beaute-peut-aussi-faire-reflechir-LCJHK5VKYVGD3FHV27GDI2ZGOM/",
     "publie": "2026-10-10T05:08:45+00:00",
-    "resume": "Une exposition au musée des Beaux-Arts d'Anvers présente 40 ans de création du sculpteur belge Philip Aguirre y Otegui.",
+    "resume": "Exposition au musée des Beaux-Arts d'Anvers consacrée à 40 ans de création du sculpteur belge Philip Aguirre y Otegui.",
     "rubrique": "Culture",
     "importance": 1
   },
@@ -844,9 +868,9 @@
     "extrait": "Les Belges sont de grands amateurs de café. Selon une nouvelle étude, 87 % de la population en consomme quotidiennement. Mais certaines de leurs habitudes devraient toutefois être limitées. On fait le point avec Serge Pieters, diététicien nutritionniste, agréé du sport Adeps Pro. ...",
     "url": "https://www.lalibre.be/lifestyle/food/2026/10/10/un-dieteticien-met-en-garde-face-a-une-facon-de-plus-en-plus-repandue-de-consommer-son-cafe-cela-peut-mener-a-des-maux-de-ventre-KX7T4PY4JZDBLPRVH2QUEZMPF4/",
     "publie": "2026-10-10T05:08:06+00:00",
-    "resume": "Un diététicien met en garde contre certaines habitudes de consommation du café devenues plus répandues, qui peuvent causer des maux de ventre, 87 % des Belges en consommant quotidiennement.",
+    "resume": "Un diététicien met en garde les Belges contre une habitude de consommation du café de plus en plus répandue, susceptible de causer des maux de ventre, dans un contexte où 87 % de la population en consomme quotidiennement.",
     "rubrique": "Société",
-    "importance": 2
+    "importance": 1
   },
   {
     "id": "a1fa1846f",
@@ -856,7 +880,7 @@
     "extrait": "Une nouvelle saison de l’émission musicale phare de TF1 s’apprête à débuter. Une dizaine de candidats entreront dans le château de la Star Academy ce samedi 10 octobre avec un rêve, devenir la prochaine star de la chanson. Derrière les strass et les paillettes se cache une difficulté : se faire un nom dans un paysage musical déjà bien saturé. ...",
     "url": "https://www.lalibre.be/culture/musique/2026/10/10/la-star-academy-est-elle-encore-un-tremplin-pour-les-artistes-ca-a-ete-dur-detre-associee-a-cette-emission-a-cause-de-mon-style-de-musique-65R4K5ZYYBBA7MRLE7YYINF3BY/",
     "publie": "2026-10-10T05:07:28+00:00",
-    "resume": "Une nouvelle saison de la Star Academy débute samedi 10 octobre sur TF1 avec une dizaine de candidats ; l'article questionne son rôle de tremplin dans un paysage musical saturé.",
+    "resume": "Une nouvelle saison de Star Academy débute, une dizaine de candidats entrant au château dans l'objectif de devenir artiste, dans un paysage musical saturé.",
     "rubrique": "Culture",
     "importance": 1
   },
@@ -868,7 +892,7 @@
     "extrait": "Joseph Leijdekkers aurait fait du pays d’Afrique de l’Ouest l’une des plaques tournantes du commerce mondial de cocaïne. ...",
     "url": "https://www.lalibre.be/international/europe/2026/10/10/jos-le-joufflu-le-baron-de-la-coke-neerlandais-exile-a-la-sierra-leone-qui-est-deja-condamne-a-103-ans-de-prison-WLA3RSF2VFEPZEMVNOR2GT24XI/",
     "publie": "2026-10-10T05:06:49+00:00",
-    "resume": "Joseph Leijdekkers, un baron néerlandais de la cocaïne exilé en Sierra Leone et déjà condamné à 103 ans de prison, aurait fait du pays une plaque tournante du commerce mondial de drogue.",
+    "resume": "Joseph Leijdekkers, baron de la cocaïne néerlandais exilé en Sierra Leone, est condamné à 103 ans de prison pour avoir fait du pays une plaque tournante du commerce mondial de cocaïne.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -880,7 +904,7 @@
     "extrait": "Chadi al Arir fait partie de ces rares Palestiniens de Gaza qui travaillaient en Israël et qui se sont réfugiés en cachette en Cisjordanie peu après le 7-Octobre. “Gaza tout entière me manque”. ...",
     "url": "https://www.lalibre.be/international/moyen-orient/2026/10/10/le-dilemme-des-gazaouis-bloques-en-cisjordanie-ma-crainte-cest-de-retourner-aupres-de-mes-enfants-et-de-ne-pas-pouvoir-subvenir-a-leurs-besoins-BHHHNIAYAFFSPINEMTQEMHLA4A/",
     "publie": "2026-10-10T05:05:32+00:00",
-    "resume": "Des Palestiniens de Gaza réfugiés en Cisjordanie après le 7 octobre, dont Chadi al Arir qui travaillait en Israël, font face à un dilemme : retourner sans pouvoir subvenir aux besoins de leur famille.",
+    "resume": "Des Palestiniens originaires de Gaza, réfugiés en Cisjordanie après le 7 octobre, font face à un dilemme, craignant de ne pas pouvoir subvenir aux besoins de leur famille en cas de retour.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -892,7 +916,7 @@
     "extrait": "Marine Le Pen et Jordan Bardella arrivent en tête des candidats considérés comme les plus aptes à lutter contre l’hostilité de Moscou, portées entre autres par la volonté affichée du Rassemblement national de suspendre le soutien militaire à l’Ukraine et les sanctions contre la Russie. ...",
     "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/pourquoi-40-des-francais-font-ils-confiance-a-marine-le-pen-pour-les-proteger-de-la-russie-SHP253VYXFA57L3MNY5DSQQRZY/",
     "publie": "2026-10-10T05:05:02+00:00",
-    "resume": "Selon un sondage, 40 % des Français font confiance à Marine Le Pen pour les protéger de la Russie, portés notamment par la volonté du Rassemblement national de suspendre le soutien à l'Ukraine et les sanctions contre la Russie.",
+    "resume": "Un sondage montre que 40 % des Français considèrent Marine Le Pen comme la plus apte à les protéger de la Russie, notamment en raison de la volonté du Rassemblement national de suspendre le soutien militaire à l'Ukraine et les sanctions contre Moscou.",
     "rubrique": "Europe",
     "importance": 3
   },
@@ -904,9 +928,9 @@
     "extrait": "La sécurité du futur système soulève encore de nombreuses questions. ...",
     "url": "https://www.lalibre.be/culture/2026/10/10/le-vote-electronique-coutera-plus-de-31-millions-deuros-a-la-wallonie-KSGVUSELXRFDJI2NYHBVBEZ6KQ/",
     "publie": "2026-10-10T05:04:02+00:00",
-    "resume": "Le vote électronique coûtera plus de 31 millions d'euros à la Wallonie, la sécurité du futur système soulevant encore de nombreuses questions.",
+    "resume": "Le vote électronique en Wallonie coûtera plus de 31 millions d'euros. La sécurité du futur système soulève encore de nombreuses questions.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a5238324c",
@@ -916,9 +940,9 @@
     "extrait": "Le ministre de l’Intérieur revient sur les violences commises à Liège en marge des manifestations étudiantes. Il maintient ses accusations contre les “antifas” et veillera à ce que les casseurs, ou leurs parents, paient. ...",
     "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/10/bernard-quintin-mr-sil-y-a-un-corps-de-letat-ou-il-ny-a-pas-dimpunite-cest-bien-la-police-4XMW6SSXSBGU7M7H54QV2YRAPU/",
     "publie": "2026-10-10T05:03:23+00:00",
-    "resume": "Le ministre belge de l'Intérieur Bernard Quintin (MR) revient sur les violences à Liège lors de manifestations étudiantes, maintenant ses accusations contre les 'antifas' et veillant à ce que les casseurs ou leurs parents paient.",
+    "resume": "Le ministre de l'Intérieur Bernard Quintin revient sur les violences commises à Liège lors de manifestations étudiantes, maintenant ses accusations contre les « antifas » et affirmant que les casseurs ou leurs parents devront payer.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "afa810edc",
@@ -928,7 +952,7 @@
     "extrait": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée.",
     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
     "publie": "2026-10-10T05:00:30+00:00",
-    "resume": "Gabriel Attal, candidat Renaissance à la présidentielle 2027, tient un meeting à Lyon où il cherche à se démarquer en affrontant Jean-Luc Mélenchon de La France insoumise, dans un contexte de mouvement lycéen et de crises de rentrée.",
+    "resume": "Gabriel Attal, candidat Renaissance à la présidentielle 2027, tient un meeting à Lyon pour mettre en scène une rivalité avec Jean-Luc Mélenchon afin de relancer sa campagne.",
     "rubrique": "Politique",
     "importance": 3
   },
@@ -942,7 +966,7 @@
     "publie": "2026-10-10T05:00:07+00:00",
     "resume": "Une nouvelle biographie illustrée célèbre le centenaire de René Goscinny, scénariste d'« Astérix » et auteur du « Petit Nicolas », décédé en 1977.",
     "rubrique": "Culture",
-    "importance": 2
+    "importance": 1
   },
   {
     "id": "aaffa6e94",
@@ -952,7 +976,7 @@
     "extrait": "\"On s’attaque au service public quand on fait ça. C’est absolument scandaleux\", a dénoncé Philippe Close à propos...",
     "url": "https://www.rtbf.be/article/manifestation-nationale-du-9-octobre-plus-de-100-arrestations-un-millier-de-casseurs-des-dizaines-de-milliers-de-manifestants-11797903",
     "publie": "2026-10-10T04:59:59+00:00",
-    "resume": "Une manifestation nationale du 9 octobre a enregistré plus de 100 arrestations et rassemblé des dizaines de milliers de manifestants, avec environ un millier de casseurs.",
+    "resume": "La manifestation nationale du 9 octobre a entraîné plus de 100 arrestations et impliqué environ un millier de casseurs parmi des dizaines de milliers de manifestants.",
     "rubrique": "Belgique",
     "importance": 4
   },
@@ -964,7 +988,7 @@
     "extrait": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
     "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T04:51:57+00:00",
-    "resume": "Un homme ukrainien est mis en accusation à Hambourg pour le sabotage des pipelines Nord Stream, après quatre ans d'enquête.",
+    "resume": "Un homme ukrainien se prépare à être jugé à Hambourg, accusé d'avoir saboté les gazoducs Nord Stream après quatre ans d'enquête.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -976,7 +1000,7 @@
     "extrait": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T04:38:20+00:00",
-    "resume": "Trump annonce un accord sur le diesel russe ; Zelensky le critique en le qualifiant d'« investissement dans une guerre qui doit s'arrêter ».",
+    "resume": "Donald Trump annonce un accord pour le diesel russe, que Volodymyr Zelensky critique vivement comme un « investissement dans la guerre ».",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -988,7 +1012,7 @@
     "extrait": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
     "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T04:34:55+00:00",
-    "resume": "Les autorités des Émirats arabes unis affirment que le co-pilote responsable de l'attaque contre un vol Flydubai aurait cherché à faire s'écraser l'avion sur l'aéroport de Tel Aviv.",
+    "resume": "Selon les autorités des Émirats arabes unis, l'auteur de l'attaque contre Flydubai a commencé une « dérive vers l'extrémisme » en Australie ; le co-pilote aurait tenté de faire s'écraser l'avion sur l'aéroport de Tel Aviv.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1000,9 +1024,9 @@
     "extrait": "SAP mettrait un demi-milliard d'euros sur la table pour racheter le gantois TechWolf. Une acquisition qui a du sens pour les observateurs, mais dont l'exécution recèle certains risques.",
     "url": "https://www.lecho.be/r/t/1/id/10694973",
     "publie": "2026-10-10T04:31:31+00:00",
-    "resume": "SAP investit 500 millions d'euros pour racheter la start-up belge gantoise TechWolf, spécialisée en solutions RH.",
-    "rubrique": "Belgique",
-    "importance": 4
+    "resume": "SAP investirait 500 millions d'euros pour racheter TechWolf, une start-up belge basée à Gand spécialisée en solutions RH.",
+    "rubrique": "Économie",
+    "importance": 3
   },
   {
     "id": "add391613",
@@ -1012,7 +1036,7 @@
     "extrait": "Après les dernières annonces de l’entreprise américaine sur la résolution de plusieurs centaines de problèmes de maths, le médaillé Fields Hugo Duminil-Copin évoque un « démantèlement » de sa discipline. Il craint en particulier les conséquences de l’intelligence artificielle sur l’avenir des jeunes.",
     "url": "https://www.lemonde.fr/sciences/article/2026/10/10/nouveau-coup-de-massue-d-openai-sur-les-mathematiciens-ils-ont-annihile-mon-domaine-de-recherche_6790951_1650684.html",
     "publie": "2026-10-10T04:30:09+00:00",
-    "resume": "Le médaillé Fields Hugo Duminil-Copin dénonce que les dernières annonces d'OpenAI sur la résolution de centaines de problèmes mathématiques « annihilent » son domaine de recherche.",
+    "resume": "OpenAI annonce avoir résolu plusieurs centaines de problèmes de mathématiques, suscitant les craintes du médaillé Fields Hugo Duminil-Copin sur l'avenir de cette discipline face à l'intelligence artificielle.",
     "rubrique": "Sciences & Tech",
     "importance": 3
   },
@@ -1024,7 +1048,7 @@
     "extrait": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
     "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T04:07:11+00:00",
-    "resume": "Trump critique la Norvège pour son attribution du Prix Nobel de la Paix à Navi Pillay, ancienne juge à la Cour pénale internationale, affirmant ne jamais l'avoir entendue nommer.",
+    "resume": "Donald Trump critique la Norvège pour son attribution du Prix Nobel de la paix à Navi Pillay, ancienne juge à la Cour pénale internationale, affirmant ne pas l'avoir jamais entendue nommer.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1036,7 +1060,7 @@
     "extrait": "En vingt ans, ces fonds ont vu leurs actifs plus que quintupler pour atteindre 16 000 milliards de dollars. Ils sont devenus le symbole du retour d’un capitalisme d’Etat qui se mondialise.",
     "url": "https://www.lemonde.fr/economie/article/2026/10/10/comment-les-etats-utilisent-leurs-fonds-souverains-pour-etendre-leur-influence_6790948_3234.html",
     "publie": "2026-10-10T04:00:51+00:00",
-    "resume": "Les fonds souverains ont vu leurs actifs plus que quintupler en vingt ans pour atteindre 16 000 milliards de dollars, symbolisant le retour d'un capitalisme d'État mondialisé.",
+    "resume": "Les fonds souverains d'État ont vu leurs actifs plus que quintupler en vingt ans pour atteindre 16 000 milliards de dollars, symbolisant un retour du capitalisme d'État à l'échelle mondiale.",
     "rubrique": "Économie",
     "importance": 3
   },
@@ -1048,7 +1072,7 @@
     "extrait": "Des rassemblements « bruyants » sont prévus, samedi et dimanche, pour protester contre un projet de texte législatif de la Commission européenne comportant une série d’assouplissements sans précédent de la réglementation sur les pesticides.",
     "url": "https://www.lemonde.fr/planete/article/2026/10/10/pesticides-a-vie-non-merci-partout-en-france-des-mobilisations-contre-un-projet-europeen-de-deregulation-devastateur_6790949_3244.html",
     "publie": "2026-10-10T04:00:45+00:00",
-    "resume": "Des mobilisations sont organisées samedi et dimanche en France contre un projet législatif de la Commission européenne prévoyant des assouplissements sans précédent de la réglementation sur les pesticides.",
+    "resume": "Des mobilisations sont prévues samedi et dimanche en France pour protester contre un projet de texte législatif de la Commission européenne comportant des assouplissements sans précédent de la réglementation sur les pesticides.",
     "rubrique": "Europe",
     "importance": 3
   },
@@ -1060,7 +1084,7 @@
     "extrait": "En retard de 21 mois, la nouvelle centrale à gaz de Seraing est au centre d'une bataille judiciaire entre Luminus et son partenaire financier. L'enjeu: établir la responsabilité, alors que le dommage lié au retard pourrait se chiffrer en dizaines de millions d'euros.",
     "url": "https://www.lecho.be/r/t/1/id/10694797",
     "publie": "2026-10-10T04:00:33+00:00",
-    "resume": "Luminus risque de payer des dizaines de millions d'euros de dommages pour un retard de 21 mois de sa centrale à gaz de Seraing, au cœur d'un différend judiciaire avec son partenaire financier.",
+    "resume": "La centrale à gaz de Seraing de Luminus, en retard de 21 mois, est au centre d'une bataille judiciaire entre l'entreprise et son partenaire financier ; le dommage lié au retard pourrait se chiffrer en dizaines de millions d'euros.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1072,8 +1096,8 @@
     "extrait": "Depuis qu’il a quitté le pouvoir, en mars 2025, l’ex-chef du gouvernement donne de lucratives conférences dans le monde entier et se montre avec sa compagne, la chanteuse américaine Katy Perry. Une nouvelle existence qui semble convenir à ce promoteur de l’optimisme, tandis que son ancien parti a balayé son héritage politique.",
     "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/10/conferences-a-prix-d-or-histoire-d-amour-glamour-la-vie-en-rose-de-l-ex-premier-ministre-canadien-justin-trudeau_6790939_4500055.html",
     "publie": "2026-10-10T04:00:10+00:00",
-    "resume": "Justin Trudeau, ex-premier ministre canadien parti en mars 2025, donne des conférences lucratifs à travers le monde et se montre publiquement avec la chanteuse américaine Katy Perry.",
-    "rubrique": "Monde",
+    "resume": "Depuis sa démission en mars 2025, l'ex-premier ministre canadien Justin Trudeau donne des conférences lucratives à travers le monde et apparaît publiquement avec la chanteuse américaine Katy Perry.",
+    "rubrique": "Autres",
     "importance": 1
   },
   {
@@ -1084,7 +1108,7 @@
     "extrait": "Après avoir menacé de démanteler la juridiction, les Etats-Unis ont annoncé vendredi vouloir imposer des sanctions contre la Cour pénale internationale, qui auraient pour effet d’en empêcher le fonctionnement. Ils exigent l’annulation des mandats d’arrêt pour crimes contre l’humanité délivrés contre Benyamin Nétanyahou et Yoav Gallant.",
     "url": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
     "publie": "2026-10-10T03:30:08+00:00",
-    "resume": "Les États-Unis annoncent vouloir imposer des sanctions contre la Cour pénale internationale afin d'en empêcher le fonctionnement et exigent l'annulation des mandats d'arrêt contre Benyamin Nétanyahou et Yoav Gallant.",
+    "resume": "Les États-Unis annoncent vouloir imposer des sanctions contre la Cour pénale internationale pour empêcher son fonctionnement et exigent l'annulation des mandats d'arrêt contre Benyamin Nétanyahou et Yoav Gallant.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1096,7 +1120,7 @@
     "extrait": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
     "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T02:02:54+00:00",
-    "resume": "La chanteuse country Ella Langley annule un concert en Oklahoma en raison d'une menace à la sécurité, que la police n'a pas confirmée après vérification du lieu.",
+    "resume": "La chanteuse de musique country Ella Langley annule un concert à Tulsa, Oklahoma, en raison d'une « menace à la sécurité », bien que la police n'ait trouvé aucune menace confirmée.",
     "rubrique": "Autres",
     "importance": 1
   },
@@ -1108,7 +1132,7 @@
     "extrait": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
     "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-10T00:00:08+00:00",
-    "resume": "Un homme d'affaires de 40 ans atteint d'Ebola a traversé trois pays et voyagé par avion sans être détecté.",
+    "resume": "Un homme de 40 ans atteint d'Ebola a traversé trois pays en avion et franchi des frontières régionales sans être détecté alors qu'il était gravement malade.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1120,9 +1144,9 @@
     "extrait": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
     "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T23:24:33+00:00",
-    "resume": "Les manifestations d'étudiants en France deviennent un point focal d'une politique nationale de plus en plus polarisée.",
+    "resume": "Les manifestations étudiantes en France, où le sentiment « tout le monde déteste la police » émerge, deviennent un point focal de la polarisation croissante du pays.",
     "rubrique": "Europe",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "ae436fd9b",
@@ -1132,7 +1156,7 @@
     "extrait": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
     "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T22:41:21+00:00",
-    "resume": "Katie Zacharia, commentatrice conservatrice et conseillère en communications chez Trump Media & Technology Group, est nommée nouvelle porte-parole de la Maison-Blanche.",
+    "resume": "Katie Zacharia, commentatrice conservatrice actuellement conseillère en communications chez Trump Media & Technology Group, est nommée nouvelle porte-parole de la Maison-Blanche.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1144,9 +1168,9 @@
     "extrait": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
     "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T22:30:22+00:00",
-    "resume": "L'accord de Trump avec la Russie sur le diesel reflète une pression croissante pour réduire les prix du carburant avant les élections de mi-mandat du mois prochain.",
+    "resume": "L'accord commercial entre Donald Trump et la Russie met en lumière la pression croissante pour réduire les prix du carburant avant les élections de mi-mandat du mois prochain.",
     "rubrique": "Monde",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "ac3ee0949",
@@ -1156,7 +1180,7 @@
     "extrait": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
     "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T21:55:51+00:00",
-    "resume": "Trois hommes sont déclarés coupables du meurtre de deux frères australiens et de leur ami américain au Mexique lors d'un voyage de surf.",
+    "resume": "Trois hommes sont reconnus coupables du meurtre des frères australiens Jake et Callum Robinson et de leur ami américain Carter Rhoad au Mexique lors d'un braquage qui a mal tourné.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1168,9 +1192,9 @@
     "extrait": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
     "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T21:50:47+00:00",
-    "resume": "JD Vance exprime des doutes sur l'exécution par peloton d'exécution de Nidal Hasan et dit qu'il ne la regarderait pas.",
+    "resume": "Le vice-président JD Vance émet des doutes sur l'exécution de Nidal Hasan par peloton d'exécution et déclare qu'il ne la regarderait pas ; ce serait la première exécution militaire en plus de 60 ans.",
     "rubrique": "Monde",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "a087d9742",
@@ -1180,7 +1204,7 @@
     "extrait": "Interrogé sur la possible retransmission en direct de l'exécution d'un meurtrier de soldats américains par un peloton militaire, Donald Trump a confirmé qu'il serait exécuté tout en précisant qu'aucune décision n'avait encore été prise quant à sa diffusion publique. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/09/trump-annonce-que-la-decision-de-la-diffusion-en-directe-dune-execution-na-pas-encore-ete-prise-je-men-fiche-du-moment-quil-part-SFOU5EKZLVEBTEWVVK3C2LBAKU/",
     "publie": "2026-10-09T21:42:31+00:00",
-    "resume": "Trump confirme qu'une exécution par peloton d'exécution aura lieu mais précise qu'aucune décision n'a encore été prise concernant sa diffusion publique en direct.",
+    "resume": "Donald Trump confirme l'exécution d'un meurtrier de soldats américains par peloton militaire, précisant qu'aucune décision n'a encore été prise sur sa diffusion directe.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1192,9 +1216,9 @@
     "extrait": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T21:26:30+00:00",
-    "resume": "Un tremblement de terre de magnitude 7,7 frappe le Panama, endommageant les bâtiments et déclenchant des alertes aux tsunamis dans les pays voisins.",
+    "resume": "Un séisme de magnitude 7,7 frappe le Panama, endommageant des bâtiments et déclenchant des alertes aux tsunamis dans les pays voisins.",
     "rubrique": "Monde",
-    "importance": 3
+    "importance": 4
   },
   {
     "id": "adf4c3b29",
@@ -1204,9 +1228,9 @@
     "extrait": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
     "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T20:20:09+00:00",
-    "resume": "La BBC analyse une vidéo des suites d'une fusillade impliquant l'ICE à New York sur la base de nouvelles images de caméras corporelles.",
+    "resume": "La BBC analyse une vidéo de caméra corporelle montrant les moments tendus à l'arrivée de la police sur les lieux d'une fusillade impliquant l'ICE à New York.",
     "rubrique": "Monde",
-    "importance": 1
+    "importance": 2
   },
   {
     "id": "a0dbcc0e9",
@@ -1216,7 +1240,7 @@
     "extrait": "Un édito de Dorian de Meeûs. ...",
     "url": "https://www.lalibre.be/debats/edito/2026/10/09/la-peste-le-cholera-et-le-chat-JJ6DN4N5VBAQTGYQRZHNB4A3KQ/",
     "publie": "2026-10-09T20:00:00+00:00",
-    "resume": "Editorial de Dorian de Meeûs.",
+    "resume": "Édito de Dorian de Meeûs sans informations factuelles suffisantes.",
     "rubrique": "Autres",
     "importance": 1
   },
@@ -1228,7 +1252,7 @@
     "extrait": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
     "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T19:48:26+00:00",
-    "resume": "La reine Suthida de Thaïlande a effectué son premier vol en solo à bord d'un avion de combat, selon la Maison royale thaïlandaise.",
+    "resume": "La reine de Thaïlande Suthida a effectué son premier vol en solo à bord d'un avion de chasse.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1240,7 +1264,7 @@
     "extrait": "L’ancien président congolais, dont la dernière sortie médiatique datait du mois de mars dernier en exclusivité dans la Libre Belgique, tire un bilan sans concession des mandats de son successeur Félix Tshisekedi et envoie un message aux Congolais. ...",
     "url": "https://www.lalibre.be/international/afrique/2026/10/09/joseph-kabila-le-pays-est-en-peril-ne-pas-agir-cest-etre-complice-PSLSEQ3OSJGBFOIDA65RRWPCXE/",
     "publie": "2026-10-09T19:28:26+00:00",
-    "resume": "L'ancien président congolais Joseph Kabila critique la situation du pays et les mandats de son successeur Félix Tshisekedi, adressant un message aux Congolais.",
+    "resume": "L'ancien président congolais Joseph Kabila déclare que le pays est en péril et critique les mandats de son successeur Félix Tshisekedi.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1252,9 +1276,9 @@
     "extrait": "En s'engageant à importer d'importants volumes de diesel russe sous couvert d'une dérogation exceptionnelle du Trésor américain, Donald Trump a provoqué un séisme diplomatique. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/09/donald-trump-annonce-que-vladimir-poutine-sest-engage-a-livrer-massivement-du-diesel-pour-le-marche-americain-et-mondial-G6AMP6H2QVAYLPLEIBYRPHZSHQ/",
     "publie": "2026-10-09T19:15:06+00:00",
-    "resume": "Donald Trump annonce l'importation de volumes importants de diesel russe via une dérogation du Trésor américain, provoquant une crise diplomatique et une condamnation du président ukrainien Zelensky.",
+    "resume": "Donald Trump annonce une importation massive de diesel russe en vertu d'une dérogation du Trésor américain, ce qui provoque une réaction critique de Zelensky.",
     "rubrique": "Politique",
-    "importance": 5
+    "importance": 4
   },
   {
     "id": "ab195cda3",
@@ -1264,8 +1288,8 @@
     "extrait": "Donald Trump a nommé Katie Zacharia, avocate et figure médiatique proche de la mouvance MAGA, au poste de porte-parole de la Maison Blanche. Elle succède à Karoline Leavitt. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/09/la-commentatrice-conservatrice-katie-zacharia-devient-la-nouvelle-porte-parole-de-donald-trump-GHHLXLLZVRGJJNMZZZMOSOQWE4/",
     "publie": "2026-10-09T18:54:12+00:00",
-    "resume": "Donald Trump nomme Katie Zacharia, avocate et figure médiatique proche du mouvement MAGA, au poste de porte-parole de la Maison Blanche, en remplacement de Karoline Leavitt.",
-    "rubrique": "Monde",
+    "resume": "Donald Trump nomme Katie Zacharia, avocate et figure MAGA, au poste de porte-parole de la Maison-Blanche, en remplacement de Karoline Leavitt.",
+    "rubrique": "Politique",
     "importance": 3
   },
   {
@@ -1276,7 +1300,7 @@
     "extrait": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
     "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T18:40:10+00:00",
-    "resume": "Les États-Unis imposent des sanctions à la Cour pénale internationale ; plusieurs États membres, dont le Royaume-Uni, expriment leur désaccord avec cette mesure.",
+    "resume": "Les États-Unis imposent des sanctions contre la Cour pénale internationale, que plusieurs États membres, dont le Royaume-Uni, condamnent comme une atteinte à l'État de droit.",
     "rubrique": "Politique",
     "importance": 4
   },
@@ -1288,7 +1312,7 @@
     "extrait": "Suivez en direct les dernières informations sur l'attaque israélo-américaine en Iran et les répercussions dans la région. The post Le copilote du vol Flydubai planifiait une attaque suicide sur Tel Aviv inspirée du 11-Septembre appeared first on Le Vif .",
     "url": "https://www.levif.be/international/live/le-fils-ancien-chah-appelle-les-forces-de-securite-a-rejoindre-le-peuple/le-copilote-du-vol-flydubai-planifiait-une-attaque-suicide-sur-tel-aviv-inspiree-du-11-septembre-1358253/",
     "publie": "2026-10-09T18:12:44+00:00",
-    "resume": "Le copilote du vol Flydubai planifiait une attaque suicide sur Tel Aviv inspirée des attentats du 11-Septembre.",
+    "resume": "Le copilote du vol Flydubai aurait planifié une attaque suicide sur Tel Aviv inspirée des attentats du 11-Septembre.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1300,10 +1324,9 @@
     "extrait": "Le budget de la Fédération Wallonie-Bruxelles est moins dur que le précédent, sauf pour la télévision de service public. ...",
     "url": "https://www.lalibre.be/culture/medias-tele/2026/10/09/la-rtbf-contrainte-a-des-efforts-budgetaires-LA4AIRSCB5FENGYC5EO2OLD4BY/",
     "publie": "2026-10-09T17:58:14+00:00",
-    "resume": "Le budget de la Fédération Wallonie-Bruxelles est moins dur que le précédent, sauf pour la télévision de service public. ...",
-    "rubrique": "Autres",
-    "importance": 2,
-    "repli": true
+    "resume": "La RTBF doit procéder à des efforts budgétaires dans le budget de la Fédération Wallonie-Bruxelles.",
+    "rubrique": "Belgique",
+    "importance": 3
   },
   {
     "id": "a4ca2272c",
@@ -1325,7 +1348,7 @@
     "extrait": "Le vice-président américain JD Vance a dit vendredi qu'il ne regarderait pas la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire américaine si elle était diffusée en direct, comme l'a annoncé le Pentagone. ...",
     "url": "https://www.lalibre.be/international/amerique/2026/10/09/vance-dit-quil-ne-regardera-pas-lexecution-du-meurtrier-de-soldats-americains-si-elle-est-diffusee-en-direct-QYAU5SX35FAN7BQ6NPR2X5V6CQ/",
     "publie": "2026-10-09T17:37:33+00:00",
-    "resume": "Le vice-président américain JD Vance déclare qu'il ne regardera pas la mise à mort par peloton d'exécution de l'auteur d'une tuerie sur une base militaire américaine si elle est diffusée en direct.",
+    "resume": "Le vice-président américain JD Vance déclare qu'il ne regarderait pas la mise à mort d'un auteur de tuerie sur une base militaire si celle-ci était diffusée en direct.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1337,7 +1360,7 @@
     "extrait": "À quelques jours de son inauguration, le rond-point Schuman est encore cloué au pilori pour son manque de végétation. Un nouveau chantier de végétalisation devrait être lancé… dans la foulée de l’inauguration. Mais le gouvernement bruxellois tergiverse sur les modalités. Explications. ...",
     "url": "https://www.lalibre.be/belgique/mobilite/2026/10/09/bruxelles-est-la-risee-de-leurope-un-potentiel-nouveau-chantier-met-le-malaise-au-sein-du-gouvernement-bruxellois-BAXPT66IHZDFLEZVHSHBTPQTLE/",
     "publie": "2026-10-09T17:20:23+00:00",
-    "resume": "Le rond-point Schuman à Bruxelles, critiqué pour son manque de végétation à la veille de son inauguration, pourrait faire l'objet d'un nouveau chantier de végétalisation, provoquant des divergences au sein du gouvernement bruxellois.",
+    "resume": "Le gouvernement bruxellois tergiverse sur les modalités d'un nouveau chantier de végétalisation au rond-point Schuman, critiqué pour son manque de végétation.",
     "rubrique": "Belgique",
     "importance": 2
   },
@@ -1349,8 +1372,8 @@
     "extrait": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
     "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T17:14:44+00:00",
-    "resume": "Le moteur de recherche russe Yandex subit des perturbations de ses services numériques suite à des attaques ukrainiennes contre ses centres de données.",
-    "rubrique": "Monde",
+    "resume": "Le moteur de recherche russe Yandex connaît des perturbations de services numériques suite à des frappes ukrainiennes contre ses centres de données.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1361,7 +1384,7 @@
     "extrait": "Inspiré par les attentats du 11 septembre, le co-pilote voulait faire un attentat suicide sur un aéroport. ...",
     "url": "https://www.lalibre.be/international/moyen-orient/2026/10/09/vol-flydubai-le-co-pilote-planifiait-une-attaque-suicide-sur-laeroport-de-tel-aviv-S46BJYPWLJAJ3J4TNLRBXUJNKU/",
     "publie": "2026-10-09T17:06:08+00:00",
-    "resume": "Le copilote du vol Flydubai planifiait une attaque suicide sur l'aéroport de Tel Aviv, inspirée par les attentats du 11-Septembre.",
+    "resume": "Le copilote du vol Flydubai avait planifié une attaque suicide sur l'aéroport de Tel Aviv inspirée par les attentats du 11-Septembre.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1373,7 +1396,7 @@
     "extrait": "Ben Affleck réalise et interprète “Animals”, thriller sans grand suspense mais aux nombreux dilemmes. ...",
     "url": "https://www.lalibre.be/culture/2026/10/09/kidnapping-a-la-sans-surprise-pour-ben-affleck-PUJVSLYPG5CHXOXON6SHM6AGBA/",
     "publie": "2026-10-09T16:49:17+00:00",
-    "resume": "Ben Affleck réalise et interprète le thriller « Animals », décrit comme un film sans grand suspense mais porteur de nombreux dilemmes.",
+    "resume": "Ben Affleck réalise et interprète le thriller 'Animals' portant sur un enlèvement à Los Angeles.",
     "rubrique": "Culture",
     "importance": 1
   },
@@ -1385,7 +1408,7 @@
     "extrait": "Un plan de bombardements à large échelle est en préparation. Mais selon le président américain, les États-Unis et l’Iran ont des “discussions productives”. ...",
     "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/09/trump-nordonnera-pas-dattaquer-liran-avant-les-midterms-AYPFVPEHPVHVZDEYP6OOV37RWA/",
     "publie": "2026-10-09T16:44:00+00:00",
-    "resume": "Donald Trump déclare qu'il n'ordonnera pas d'attaque contre l'Iran avant les élections de mi-mandat, bien qu'un plan de bombardements soit en préparation, les États-Unis entretenant des « discussions productives » avec l'Iran.",
+    "resume": "Donald Trump déclare qu'il n'ordonnera pas d'attaquer l'Iran avant les Midterms, bien qu'un plan de bombardements soit en préparation, citant des discussions productives.",
     "rubrique": "Politique",
     "importance": 4
   },
@@ -1397,7 +1420,7 @@
     "extrait": "L’attribution du Nobel à cette juriste sud-africaine, saluée pour son combat en faveur des droits humains, a été vivement critiquée par les autorités israéliennes. ...",
     "url": "https://www.lalibre.be/international/2026/10/09/navi-pillay-un-prix-nobel-de-la-paix-difficile-a-accepter-pour-trump-et-netanyahou-SNWJYYICY5EBTKFMMS6RIEVLZY/",
     "publie": "2026-10-09T16:40:42+00:00",
-    "resume": "L'attribution du Prix Nobel de la paix à Navi Pillay, juriste sud-africaine récompensée pour son engagement en faveur des droits humains, est critiquée par les autorités israéliennes et Trump.",
+    "resume": "L'attribution du prix Nobel de la paix à Navi Pillay, juriste sud-africaine reconnue pour ses travaux en faveur des droits humains, a été vivement critiquée par les autorités israéliennes.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1409,7 +1432,7 @@
     "extrait": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
     "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T16:32:22+00:00",
-    "resume": "Un candidat de gauche nommé Hitler Mussolini a remporté une victoire étroite à l'élection de maire dans un district isolé des Andes péruviennes, selon les sondages de sortie.",
+    "resume": "Un candidat de gauche nommé Hitler Mussolini a remporté l'élection de maire dans un district reculé des Andes péruviennes.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1421,7 +1444,7 @@
     "extrait": "\"L'État ne se laissera jamais impressionner. La réponse policière et pénale sera toujours à la hauteur des dégâts causés\". C'est en ces termes que le ministre de l'Intérieur Bernard Quintin (MR) réagit aux échauffourées qui ont eu lieu vendredi en marge de la manifestation nationale à Bruxelles. ...",
     "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/09/quintin-promet-une-reponse-a-la-hauteur-des-degats-causes-apres-la-manifestation-nationale-letat-ne-se-laissera-jamais-impressionner-BHE5OHDOI5EJFPZC2NQBPBZX2Q/",
     "publie": "2026-10-09T16:32:04+00:00",
-    "resume": "Le ministre de l'Intérieur Bernard Quintin affirme que l'État répondra de manière proportionnée aux dégâts causés lors des échauffourées de vendredi en marge de la manifestation nationale à Bruxelles.",
+    "resume": "Le ministre de l'Intérieur belge Bernard Quintin affirme que l'État apportera une réponse policière et pénale à la hauteur des dégâts causés lors de la manifestation de vendredi.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1433,8 +1456,8 @@
     "extrait": "Dramatic footage shows huge tornado moving through Marsala and Petrosino, causing damage to buildings and cars.",
     "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T16:25:00+00:00",
-    "resume": "Une tornade dévaste les villes de Marsala et Petrosino en Sicile, causant des dégâts aux bâtiments et aux véhicules.",
-    "rubrique": "Environnement",
+    "resume": "Une tornade traverse les villes siciliennes de Marsala et Petrosino, causant des dégâts aux bâtiments et aux voitures.",
+    "rubrique": "Europe",
     "importance": 3
   },
   {
@@ -1445,33 +1468,9 @@
     "extrait": "Parmi les 50.000 manifestants, selon la FGTB, beaucoup de revendications avec un message central : “allez chercher l’argent là où il se trouve, à savoir chez les plus riches.” ...",
     "url": "https://www.lalibre.be/belgique/2026/10/09/il-a-fallu-des-degradations-pour-attirer-lattention-au-coeur-de-la-manifestation-nationale-a-bruxelles-3CNQIUXLQJH25KKS4LBO4LJGKI/",
     "publie": "2026-10-09T16:20:13+00:00",
-    "resume": "Environ 50 000 manifestants, selon la FGTB, ont participé à la manifestation nationale à Bruxelles, portant notamment le message « allez chercher l'argent là où il se trouve, à savoir chez les plus riches ».",
+    "resume": "Environ 50 000 manifestants selon la FGTB ont participé à la manifestation nationale à Bruxelles avec pour revendication centrale de chercher l'argent chez les plus riches.",
     "rubrique": "Belgique",
     "importance": 4
-  },
-  {
-    "id": "a639becf9",
-    "source": "La Libre",
-    "lang": "fr",
-    "titre": "Paris brûle-t-il ? Pourquoi les investisseurs se détournent de la France",
-    "extrait": "Les actifs français sont dans les profondeurs du classement depuis le début 2026. ...",
-    "url": "https://www.lalibre.be/economie/placements/2026/10/09/paris-brule-t-il-pourquoi-les-investisseurs-se-detournent-de-la-france-QNUZSMIWYVBEJKTKP6HQ6MSIKM/",
-    "publie": "2026-10-09T16:17:02+00:00",
-    "resume": "Les actifs français figurent parmi les plus mauvais du classement depuis le début 2026, les investisseurs se détournant de la France.",
-    "rubrique": "Économie",
-    "importance": 3
-  },
-  {
-    "id": "a2b551b55",
-    "source": "La Libre",
-    "lang": "fr",
-    "titre": "La Bourse de Bruxelles rebondit après sa dégringolade de la veille",
-    "extrait": "Après une semaine mouvementée, les marchés européens retrouvent des couleurs. À Bruxelles, le Bel20 regagne plus de 1 %, sans effacer ses pertes de jeudi. ...",
-    "url": "https://www.lalibre.be/economie/placements/2026/10/09/la-bourse-de-bruxelles-rebondit-apres-sa-degringolade-de-la-veille-5XYQCMBC3FBSPHGBVZ4PELQPE4/",
-    "publie": "2026-10-09T16:14:55+00:00",
-    "resume": "La Bourse de Bruxelles rebondit après sa chute de la veille, le Bel20 gagnant plus de 1 % sans effacer complètement ses pertes de jeudi.",
-    "rubrique": "Économie",
-    "importance": 3
   },
   {
     "id": "a1e8bc4bb",
@@ -1481,7 +1480,7 @@
     "extrait": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
     "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T15:26:33+00:00",
-    "resume": "Portrait de Navi Pillay, gagnante du Prix Nobel de la paix, décrivant comment son enfance en Afrique du Sud l'a menée à devenir une force motrice du droit international.",
+    "resume": "La BBC explique le parcours de Navi Pillay, lauréate du prix Nobel de la paix, depuis son enfance en Afrique du Sud jusqu'à sa carrière en droit international.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1493,7 +1492,7 @@
     "extrait": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
     "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T15:24:43+00:00",
-    "resume": "L'Éthiopie avertit l'Érythrée qu'elle se défendra après le passage de troupes érythréennes à la frontière, l'Éthiopie ayant riposté par des frappes de drones.",
+    "resume": "L'Éthiopie avertit l'Érythrée qu'elle se défendra après le passage de troupes érythréennes à la frontière, avec des rapports de frappes de drones éthiopiens.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1505,7 +1504,7 @@
     "extrait": "La mobilisation des lycéens français a vu éclore de nouvelles figures charismatiques, comme les jeunes Elwan et Louise. L’attention médiatique portée à ces égéries, poussée jusqu’à la théâtralisation, invisibilise toutefois l’hétérogénéité du mouvement. Et pourrait même faire de l’ombre aux revendications concrètes des étudiants. The post «Un jeune qui sait parler aux vieux»: comment expliquer l’émergence de figures médiatiques, comme Elwan, dans la mobilisation des lycéens appeared first on Le Vif .",
     "url": "https://www.levif.be/international/europe/france/un-jeune-qui-sait-parler-aux-vieux-comment-expliquer-lemergence-de-figures-mediatiques-comme-elwan-dans-la-mobilisation-des-lyceens/",
     "publie": "2026-10-09T15:00:22+00:00",
-    "resume": "La mobilisation des lycéens français a produit de nouvelles figures charismatiques médiatisées comme Elwan et Louise, bien que cette attention théâtrale masque l'hétérogénéité du mouvement et pourrait éclipser les revendications concrètes.",
+    "resume": "La mobilisation des lycéens français a vu émerger des figures charismatiques comme Elwan, dont l'attention médiatique pourrait invisibiliser l'hétérogénéité du mouvement.",
     "rubrique": "Europe",
     "importance": 2
   },
@@ -1517,9 +1516,9 @@
     "extrait": "La grève nationale du vendredi 9 octobre a transcendé de larges secteurs professionnels. Curieusement, un syndicat libéral a manifesté devant une organisation patronale. Un syndicat chrétien s’est invité au siège de «son» parti historique. Et les seuls vainqueurs d’une contestation sociale avec l’Arizona crient toujours au scandale. The post Les «poissons volants», ces alliés du MR et des Engagés qui ont manifesté ce 9 octobre: «On a bien compris que contester le gouvernement ne servirait à rien» appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/social/les-poissons-volants-ces-allies-du-mr-et-des-engages-qui-ont-tout-de-meme-manifeste-ce-9-octobre-on-a-bien-compris-que-contester-le-gouvernement-ne-servirait-a-rien/",
     "publie": "2026-10-09T14:56:51+00:00",
-    "resume": "La grève nationale du 9 octobre a vu des syndicats alliés au MR et aux Engagés manifester respectivement devant une organisation patronale et le siège de leur parti historique, exprimant leur sentiment d'impuissance face au gouvernement.",
+    "resume": "Lors de la grève nationale du 9 octobre, des syndicats alliés au MR et aux Engagés ont manifesté, illustrant les tensions au sein de la mobilisation sociale.",
     "rubrique": "Belgique",
-    "importance": 2
+    "importance": 3
   },
   {
     "id": "a354e2d6b",
@@ -1529,7 +1528,7 @@
     "extrait": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
     "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T14:25:18+00:00",
-    "resume": "Deux tableaux de Renoir volés au musée Renoir de la Côte d'Azur lors d'une effraction le mois dernier ont été récupérés.",
+    "resume": "Deux tableaux de Renoir volés au musée Renoir de la Côte d'Azur le mois dernier ont été récupérés. Les œuvres avaient été dérobées lors d'un vol avec effraction à la clôture et bris de vitre du musée.",
     "rubrique": "Monde",
     "importance": 3
   },
@@ -1541,7 +1540,7 @@
     "extrait": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
     "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T13:50:25+00:00",
-    "resume": "Trois ressortissants saoudiens ont été tués dans des attaques au missile contre l'aéroport de Riyad, dans le contexte d'une escalade entre le groupe soutenu par l'Iran et l'Arabie saoudite.",
+    "resume": "Trois ressortissants saoudiens ont été tués dans des attaques à la roquette contre l'aéroport de Riyad. Les frappes interviennent dans un contexte d'escalade du conflit entre le groupe soutenu par l'Iran et l'Arabie saoudite.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1553,9 +1552,9 @@
     "extrait": "Le haut gradé avait fait l’objet de plusieurs plaintes de la part de collègues féminines, dont Elisa, qui a mis fin à ses jours. Licencié de la police en mars 2026, il avait introduit un recours auprès du Conseil d’Etat, qui vient de lui donner raison. The post Suicide d’une policière à Charleroi: comment l’officier sanctionné après des plaintes pour viol et harcèlement obtient gain de cause au Conseil d’Etat (enquête) appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/justice/suicide-dune-policiere-a-charleroi-comment-lofficier-sanctionne-apres-des-plaintes-pour-viol-et-harcelement-obtient-gain-de-cause-au-conseil-detat-enquete/",
     "publie": "2026-10-09T13:11:05+00:00",
-    "resume": "Un officier de police de Charleroi, licencié en mars 2026 après des plaintes pour viol et harcèlement, a obtenu gain de cause auprès du Conseil d'État; une policière qui l'avait dénoncé s'est suicidée.",
+    "resume": "Un officier de police de Charleroi sanctionné pour plaintes de viol et harcèlement voit sa licenciation annulée par le Conseil d'État. Plusieurs collègues féminines, dont une qui s'est suicidée, avaient déposé plainte contre lui.",
     "rubrique": "Belgique",
-    "importance": 5
+    "importance": 4
   },
   {
     "id": "ac9491d40",
@@ -1565,8 +1564,8 @@
     "extrait": "Le syndicat socialiste prévient le gouvernement fédéral: s'il dépasse trois «lignes rouges» en matière d'indexation automatique des salaires, de TVA et de travail, il appellera à la grève générale, le 23 novembre prochain. The post La FGTB fait planer la menace d’une grève générale fin novembre: «Les 10 milliards, vous n’irez pas les chercher dans nos poches» appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/social/mouvements-sociaux/la-fgtb-fait-planer-la-menace-dune-greve-generale-fin-novembre-les-10-milliards-vous-nirez-pas-les-chercher-dans-nos-poches/",
     "publie": "2026-10-09T12:47:23+00:00",
-    "resume": "La FGTB menace d'appeler à une grève générale le 23 novembre si le gouvernement fédéral dépasse ses lignes rouges concernant l'indexation des salaires, la TVA et le droit du travail.",
-    "rubrique": "Belgique",
+    "resume": "La FGTB menace d'appeler à la grève générale le 23 novembre si le gouvernement fédéral dépasse trois lignes rouges concernant l'indexation automatique des salaires, la TVA et le travail.",
+    "rubrique": "Politique",
     "importance": 4
   },
   {
@@ -1577,7 +1576,7 @@
     "extrait": "André ironise à propos de \"ces vidéos qui ont l’air d’être filmées avec un smartphone\". Gaspard, lui, voudrait...",
     "url": "https://www.rtbf.be/article/videos-shorts-sur-rtbf-actus-trop-presentes-trop-courtes-11797423",
     "publie": "2026-10-09T12:26:29+00:00",
-    "resume": "Article de service questionnant le format et la présence des vidéos courtes sur RTBF Actus.",
+    "resume": "Article d'opinion sur les vidéos courtes publiées sur RTBF Actus, questionnant leur pertinence et leur format.",
     "rubrique": "Autres",
     "importance": 1
   },
@@ -1589,7 +1588,7 @@
     "extrait": "La Fédération Wallonie-Bruxelles est parvenue à un accord budgétaire visant à réduire son déficit à 1,27 milliard d’euros en 2027. De nouveaux investissements sont annoncés, mais des économies supplémentaires sont aussi attendues. The post Budget 2027 de la FWB: la RTBF appelée à réaliser 20 millions d’euros d’économies supplémentaires appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/politique/communautes/federation-wallonie-bruxelles/budget-2027-de-la-fwb-la-rtbf-appelee-a-realiser-20-millions-deuros-deconomies-supplementaires/",
     "publie": "2026-10-09T12:10:53+00:00",
-    "resume": "La Fédération Wallonie-Bruxelles a adopté un budget 2027 visant à réduire son déficit à 1,27 milliard d'euros, avec 20 millions d'euros d'économies supplémentaires attendues de la RTBF.",
+    "resume": "La Fédération Wallonie-Bruxelles a finalisé un accord budgétaire pour 2027 visant à réduire son déficit à 1,27 milliard d'euros, avec 20 millions d'euros d'économies supplémentaires attendues de la RTBF.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1601,8 +1600,8 @@
     "extrait": "Sous le feu des projecteurs ces derniers mois, les antifascistes sont parfois dépeints comme des militants radicaux, voire dangereux pour la démocratie. Eux, pourtant, veulent en être les défenseurs. The post Les antifas encore pointés du doigt: qui sont ces militants, accusés de souffler sur les braises? appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/politique/les-antifas-encore-pointes-du-doigt-qui-sont-ces-militants-accuses-de-souffler-sur-les-braises/",
     "publie": "2026-10-09T10:24:00+00:00",
-    "resume": "Article analysant le profil des militants antifascistes, souvent présentés comme radicaux mais qui se définissent comme des défenseurs de la démocratie.",
-    "rubrique": "Société",
+    "resume": "Article d'analyse sur les militants antifascistes, qui sont régulièrement pointés du doigt ces derniers mois et présentés comme potentiellement dangereux pour la démocratie.",
+    "rubrique": "Autres",
     "importance": 2
   },
   {
@@ -1613,7 +1612,7 @@
     "extrait": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
     "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T09:43:22+00:00",
-    "resume": "Un survivant de la tuerie de Fort Hood soutient l'exécution du tireur par peloton d'exécution mais s'interroge sur la retransmission en direct.",
+    "resume": "Un survivant de la fusillade de Fort Hood soutient l'exécution du tireur par peloton d'exécution mais questionne la possibilité de la retransmettre en direct.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1625,7 +1624,7 @@
     "extrait": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
     "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T09:37:56+00:00",
-    "resume": "Explication sur les difficultés à combattre les feux de forêt en Indonésie, notamment sur les tourbières, qui produisent un smog toxique régional.",
+    "resume": "Article expliquant les difficultés à éteindre les feux de tourbière en Indonésie et les causes du brouillard toxique qu'ils produisent.",
     "rubrique": "Environnement",
     "importance": 3
   },
@@ -1637,7 +1636,7 @@
     "extrait": "A Oslo, le prix Nobel de la paix a été décerné à la juriste sud-africaine Navanethem « Navi » Pillay. The post Le prix Nobel de la paix est attribué à la sud-africaine Navanethem Pillay appeared first on Le Vif .",
     "url": "https://www.levif.be/international/le-prix-nobel-de-la-paix-est-attribue-a-la-sud-africaine-navanethem-pillay/",
     "publie": "2026-10-09T09:33:08+00:00",
-    "resume": "Le prix Nobel de la paix est attribué à la juriste sud-africaine Navanethem Pillay.",
+    "resume": "La juriste sud-africaine Navanethem Pillay s'est vu décerner le prix Nobel de la paix à Oslo.",
     "rubrique": "Monde",
     "importance": 4
   },
@@ -1649,7 +1648,7 @@
     "extrait": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
     "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T09:09:03+00:00",
-    "resume": "Un vol de 30 000 bouteilles de vin d'une valeur de 5 millions d'euros dans une cave florentine constituerait l'un des plus grands larcins de ce type en Italie.",
+    "resume": "Environ 30 000 bouteilles de vin d'une valeur de 5 millions d'euros ont été volées dans un domaine viticole basé à Florence. Ce vol serait l'un des plus importants de ce type en Italie.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1661,7 +1660,7 @@
     "extrait": "Retrouvez les dessins de presse de Nicolas Vadot. The post Les Vadot de la semaine: les budgets de Diliès et de Bart, émeutes étudiantes et nouveaux modes d’exécution aux Etats-Unis appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/politique/les-vadot-de-la-semaine-les-budgets-de-dilies-et-de-bart-emeutes-etudiantes-et-nouveaux-modes-dexecution-aux-etats-unis/",
     "publie": "2026-10-09T09:00:36+00:00",
-    "resume": "Recueil de dessins de presse de Nicolas Vadot sur les budgets, les émeutes étudiantes et les modes d'exécution américains.",
+    "resume": "Recueil de dessins de presse de Nicolas Vadot couvrant les budgets, les émeutes étudiantes et les nouvelles méthodes d'exécution aux États-Unis.",
     "rubrique": "Autres",
     "importance": 1
   },
@@ -1673,7 +1672,7 @@
     "extrait": "La mobilisation syndicale contre la politique du gouvernement Arizona réduit l’offre de transports et entraîne des annulations de vols ce vendredi. Des fermetures de recyparcs et un blocage du campus du Solbosch sont également signalés. The post Manifestation nationale: le point sur les perturbations en cours et à venir appeared first on Le Vif .",
     "url": "https://www.levif.be/belgique/manifestation-nationale-le-point-sur-les-perturbations-en-cours-et-a-venir/",
     "publie": "2026-10-09T07:49:08+00:00",
-    "resume": "Une manifestation syndicale contre la politique du gouvernement Arizona entraîne des perturbations de transports, des annulations de vols, des fermetures de recyparcs et un blocage du campus du Solbosch ce vendredi.",
+    "resume": "Une manifestation syndicale contre la politique du gouvernement Arizona provoque des perturbations des transports, des annulations de vols, des fermetures de recyparcs et un blocage du campus du Solbosch.",
     "rubrique": "Belgique",
     "importance": 3
   },
@@ -1685,7 +1684,7 @@
     "extrait": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
     "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
     "publie": "2026-10-09T07:19:24+00:00",
-    "resume": "Profil d'une jeune militante indienne de la génération Z devenue une figure reconnaissable des récents mouvements de protestation contre le gouvernement Modi.",
+    "resume": "Neha Bora, une militante indienne de la génération Z, est devenue l'une des figures les plus visibles des récentes manifestations menées par les jeunes contestataires contre Modi.",
     "rubrique": "Monde",
     "importance": 2
   },
@@ -1704,7 +1703,7 @@
         "url": "https://www.rtbf.be/article/incendie-dans-les-fagnes-l-engin-agricole-qui-pourrait-etre-a-l-origine-du-feu-du-14-aout-a-deja-provoque-un-incident-la-veille-11795886"
       }
     ],
-    "resume": "L'engin agricole soupçonné d'être à l'origine de l'incendie dans les Fagnes avait déjà provoqué un incident de fumée ; il a été réutilisé le lendemain sans réparation ni maintenance.",
+    "resume": "L'engin agricole soupçonné d'être à l'origine du feu dans les Fagnes avait déjà provoqué un incident de dégagement de fumée antérieurement. Il a été réutilisé le lendemain sans réparation ni maintenance.",
     "rubrique": "Belgique",
     "importance": 3
   }
