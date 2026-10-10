@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Revue de presse — flux du projet + Le Soir</title>
+    <dateCreated>Fri, 09 Oct 2026 15:05:10 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Belgique" title="Belgique">
+      <outline type="rss" text="RTBF Info" title="RTBF Info" xmlUrl="https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml" />
+      <outline type="rss" text="La Libre" title="La Libre" xmlUrl="https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml" />
+      <outline type="rss" text="L'Echo" title="L'Echo" xmlUrl="https://www.lecho.be/rss/actualite.xml" />
+      <outline type="rss" text="Le Vif" title="Le Vif" xmlUrl="https://www.levif.be/feed/" />
+      <outline type="rss" text="VRT NWS (EN)" title="VRT NWS (EN)" xmlUrl="https://www.vrt.be/vrtnws/en.rss.articles.xml" />
+    </outline>
+    <outline text="France et international" title="France et international">
+      <outline type="rss" text="Le Monde" title="Le Monde" xmlUrl="https://www.lemonde.fr/rss/une.xml" />
+      <outline type="rss" text="France 24" title="France 24" xmlUrl="https://www.france24.com/fr/rss" />
+      <outline type="rss" text="RFI" title="RFI" xmlUrl="https://www.rfi.fr/fr/rss" />
+      <outline type="rss" text="franceinfo" title="franceinfo" xmlUrl="https://www.franceinfo.fr/titres.rss" />
+      <outline type="rss" text="BBC World" title="BBC World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" />
+    </outline>
+    <outline text="Le Soir (à trier)" title="Le Soir (à trier)">
+      <outline type="rss" text="Le Soir – flux 2" title="Le Soir – flux 2" xmlUrl="https://www.lesoir.be/rss2/2/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 9" title="Le Soir – flux 9" xmlUrl="https://www.lesoir.be/rss2/9/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 10" title="Le Soir – flux 10" xmlUrl="https://www.lesoir.be/rss2/10/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 11" title="Le Soir – flux 11" xmlUrl="https://www.lesoir.be/rss2/11/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 13" title="Le Soir – flux 13" xmlUrl="https://www.lesoir.be/rss2/13/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 31867" title="Le Soir – flux 31867" xmlUrl="https://www.lesoir.be/rss2/31867/cible_principale" />
+      <outline type="rss" text="Le Soir – flux 31876" title="Le Soir – flux 31876" xmlUrl="https://www.lesoir.be/rss2/31876/cible_principale" />
+    </outline>
+  </body>
+</opml>
