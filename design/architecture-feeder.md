@@ -120,14 +120,15 @@ puis `GET /reader/river_stories` (`read_filter=all`, `order=newest`, `limit=100`
   Le dernier date de moins d'une heure : le flux est frais. Les titres lus portent sur l'actualité belge ; la rubrique du flux n'est pas confirmée.
 - **Champs** : titre, adresse de l'article, date, auteurs, flux d'origine (`story_feed_id`) et `story_content` sont présents. `story_content` fait en médiane 401 caractères (maximum 429) : c'est l'extrait fourni par le flux, pas le texte intégral (D7).
   La troncature à `extrait_max_chars` doit être conservée.
-- **Horodatage** : `story_date` est donné en « heure du serveur », sans fuseau explicite. Le code utilise `story_timestamp` (époque Unix) quand il existe ; à confirmer sur un cas réel.
+- **Horodatage** : `story_date` est donné en « heure du serveur », sans fuseau explicite. Le code de la branche `feat/newsblur-api` utilise `story_timestamp` (époque Unix) quand il existe ; la concordance avec `story_date` a été constatée sur un cas réel.
 - **Retard constaté (9 octobre, 16:51 UTC)** : le dernier article vu par NewsBlur datait toujours de 14:59, soit près de deux heures sans nouvel article alors que le flux en donnait environ deux par heure
   le matin. En comparant avec Feeder, Inoreader et la page du Soir, **seuls Feeder et Inoreader étaient à jour** : NewsBlur ne se met à jour que si l'on **force** la relecture du flux. NewsBlur sait donc lire le flux
   (ce n'est pas un blocage), mais sa relecture automatique est trop lente pour ce flux (3 abonnés seulement).
 - **Relecture forcée par l'API** : `GET /reader/refresh_feed/<id>` exécute `feed.update(force=True)` (code source public). Elle **ne résout pas** le problème : le flux ne contient qu'une fenêtre d'une dizaine d'articles
   (environ cinq heures de publication), donc une relecture forcée par jour au moment de la revue ne ramènerait que les dernières heures, et tout ce qui est sorti de la fenêtre serait perdu. Il faudrait des relectures
   forcées environ toutes les heures depuis un job dédié, dépendant du cron de GitHub (déjà en retard de plusieurs heures le 9 octobre) et sollicitant NewsBlur de façon intensive.
-- **Conclusion** : voie NewsBlur **suspendue pour Le Soir** ; la branche `feat/newsblur-api` et la demande #8 restent ouvertes, sans fusion, le code étant correct mais la source non validée.
+- **Conclusion** : voie NewsBlur **suspendue pour Le Soir**. Le code (client d'API, `fetch_newsblur`, refus des dossiers mixtes, 13 tests) est correct mais la source n'est pas validée : il est **conservé dans la branche
+  `feat/newsblur-api`**, sans fusion. La demande #8 a été **fermée le 10 octobre 2026** et cette documentation reportée séparément ; la branche pourra être reprise si NewsBlur redevient utile, pour ce journal ou un autre.
 - **Couverture** : un seul des sept flux du Soir est suivi. Les six autres (2, 10, 11, 13, 31867, 31876) restent à ajouter, et leurs rubriques à identifier d'après les titres.
 - **Authentification d'un job planifié** (choix en attente) : mot de passe du compte personnel en secret GitHub (simple, mais accès à tout le compte et secret longue durée, contraire à l'esprit de D9) ;
   compte NewsBlur dédié (cloisonné, mais un second Premium à 36 $/an, car un compte gratuit n'obtient que 3 articles) ; OAuth, dont les identifiants s'obtiennent en écrivant au développeur.
@@ -158,12 +159,12 @@ Le point décisif est **qui va chercher le flux**. Un lecteur **hébergé** le l
 | **Readwise Reader** | environ 10 $/mois | Ne gère pas les abonnements aux flux | Ne convient pas |
 | Miniflux, FreshRSS, CommaFeed (auto-hébergés ou chez PikaPods, DINAO…) | Gratuit, ou hébergement dès environ 1 $/mois | REST, Fever | Adresses de centre de données : le blocage du Soir les vise peut-être aussi ; **pari à tester**, pas un point de départ |
 
-Tant que NewsBlur fonctionne, tester d'autres lecteurs a peu d'intérêt : BazQux puis The Old Reader ne servent que de secours si l'accumulation des articles échoue.
+NewsBlur étant suspendu pour Le Soir, les autres lecteurs redeviennent des pistes : Inoreader (à jour d'après l'essai), puis BazQux et The Old Reader en secours (voir « Recommandation »).
 
 **Raccordement technique (commun aux lecteurs à flux de sortie).** L'URL d'un flux de sortie contient un jeton secret : elle **ne doit jamais figurer dans le dépôt**
-(public, D8). Il faudrait la lire depuis un secret GitHub, via une variable d'environnement résolue dans `collect.py`, avec un test.
-Ce changement n'est **pas réalisé** ; il serait indépendant du fournisseur choisi. À vérifier sur un exemple : le flux de sortie conserve-t-il le nom du journal d'origine
-(sinon la revue afficherait le nom du lecteur comme source) ?
+(public, D8). **Réalisé (demande #9, fusionnée le 9 octobre 2026)** : une entrée de `config/feeds.yaml` peut porter `url_env: NOM`, l'adresse étant lue dans une variable d'environnement
+(secret GitHub) ; le rapport de collecte n'affiche que `env:NOM`, et le texte d'une erreur n'est jamais recopié pour ces flux (seul le type d'erreur l'est). Indépendant du fournisseur choisi.
+**À vérifier sur un vrai flux de sortie** : qu'il conserve le nom du journal d'origine (sinon la revue afficherait le nom du lecteur comme source), et que les liens des articles ne contiennent pas eux-mêmes le jeton.
 
 **Contournement exclu.** Se faire passer pour un autre robot ou piloter un navigateur automatisé pour franchir la protection d'Akamai contourne un contrôle d'accès de l'éditeur :
 non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux partenaire ou l'autorisation d'un agent utilisateur ; une liste blanche par adresse IP ne fonctionnerait pas avec les runners GitHub.
@@ -173,7 +174,7 @@ non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux par
 Pour **Le Soir** : seuls **Feeder et Inoreader** sont à jour (constat du 9 octobre). NewsBlur est suspendu (relecture trop lente, voir plus haut) et Feedbin écarté.
 La piste à tester est **Inoreader Pro** (environ 90 $/an), qui offre l'essai gratuit de 14 jours annoncé par Inoreader (durée exacte à vérifier dans *Préférences → Facturation*) :
 mettre le flux du Soir dans un dossier, activer son **flux de sortie RSS**, puis mesurer le nombre d'articles, la fraîcheur et la conservation du nom du journal avant tout achat.
-Raccordement prévu, indépendant du fournisseur : une entrée de flux RSS ordinaire dont l'URL est lue dans une variable d'environnement secrète (`url_env`, branche `feat/url-env`).
+Raccordement, indépendant du fournisseur et **déjà disponible** : une entrée de flux RSS ordinaire dont l'URL est lue dans une variable d'environnement secrète (`url_env`, fusionné par la demande #9).
 Secours, dans cet ordre : BazQux (essai de 30 jours), Feeder Plus (seule voie confirmée à jour, via le connecteur), et Google Actualités comme solution d'attente (titres seuls).
 
 Commencer par **B sans modèle local** : Feeder en entrée, Claude pour toutes les étapes, et un `llm.py` prêt à accueillir d'autres fournisseurs.
