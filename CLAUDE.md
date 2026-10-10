@@ -26,12 +26,13 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 - `docs/` : **sortie générée** servie par GitHub Pages. Ne pas éditer à la main. Ne pas y ranger de documentation de conception (voir `design/`).
 - `design/` : documents de conception et gabarit de carnet de bord.
 - `.github/workflows/` : `revue-quotidienne.yml` (déclenché par cron-job.org via l'API `dispatches`) et `essai-prompts.yml` (essais manuels).
+- `scripts/` : `cronjob_org.py`, configuration et historique de la tâche cron-job.org (à lancer à la main : il demande des secrets, voir le README).
 
 ## Commandes
 
 ```bash
 pip install -r requirements.txt
-pytest                                                    # 28 tests, faux modèle, aucun appel réseau ni clé API
+pytest                                                    # 42 tests, faux modèle, aucun appel réseau ni clé API
 python -m src.main check-feeds                            # vérifier les flux
 python -m src.main run --limit 30 --no-publish            # essai économique, rien n'est publié
 python -m src.main replay --tag v2 --from-stage 3         # rejouer les étapes LLM sur le cache
@@ -63,5 +64,5 @@ Fédération d'identité Claude ↔ GitHub Actions en service sur `revue-quotidi
 la valeur fait échouer l'échange). La règle de fédération ne doit **pas** imposer `event_name` (tous les lancements, cron-job.org compris, = `workflow_dispatch`).
 Pages : source **GitHub Actions** (et non « branche `main` / `/docs` ») ; chaque workflow a un job `deploy` (`upload-pages-artifact` + `deploy-pages` sur `docs/`),
 car `POST /pages/builds` est refusé (403) avec `GITHUB_TOKEN` et les pushs du bot ne déclenchent pas de construction. Validé en lancement manuel le 2026-10-08 ;
-le cron de GitHub (retards de plusieurs heures) a été retiré au profit de cron-job.org, à configurer.
+le cron de GitHub (retards de plusieurs heures) a été retiré au profit de cron-job.org, à configurer (script `scripts/cronjob_org.py`, voir le README).
 Prochaines étapes : valider les autres flux avec `check-feeds`, constater le premier déclenchement par cron-job.org, lancer un essai de prompts, puis itérer sur les prompts.
