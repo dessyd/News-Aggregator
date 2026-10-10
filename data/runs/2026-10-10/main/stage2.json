@@ -1,0 +1,220 @@
+{
+  "sujets": [
+    {
+      "titre": "Accord Trump-Poutine sur le diesel russe",
+      "ids": [
+        "a0d5adb1a",
+        "ac6062414",
+        "a594c9aef",
+        "a2b3762f9",
+        "af9d9678c",
+        "a960fd645"
+      ],
+      "importance": 5,
+      "score": 53
+    },
+    {
+      "titre": "Policier sanctionné de Charleroi réintégré par le Conseil d'État après le suicide d'une policière",
+      "ids": [
+        "a134b127f"
+      ],
+      "importance": 5,
+      "score": 51
+    },
+    {
+      "titre": "Manifestation nationale du 9 octobre à Bruxelles : arrestations et débordements",
+      "ids": [
+        "a684ae2ae",
+        "a551c8247",
+        "aaffa6e94",
+        "a4ca2272c",
+        "a383a4c8a",
+        "a15a6c309",
+        "a66f651ec",
+        "a6188e2de",
+        "a0df5c090"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Négociations budgétaires du gouvernement fédéral belge",
+      "ids": [
+        "aa7e9b74b",
+        "a2b271145",
+        "a76b031a4",
+        "ae5603c53",
+        "a259b91b5",
+        "ac0d66e2a"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Frappes russes sur Zaporijjia",
+      "ids": [
+        "a63074c42",
+        "a4c2173ed",
+        "ad3472079"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Séisme de magnitude 7,7 au Panama",
+      "ids": [
+        "a04d90ef9",
+        "a2f005f1f",
+        "a43c553fc"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Attaque projetée contre Tel Aviv par le copilote d'un vol Flydubai",
+      "ids": [
+        "af94a21ce",
+        "af070666f",
+        "a26619702"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Prix Nobel de la paix attribué à Navi Pillay",
+      "ids": [
+        "a86a51004",
+        "a6704f29d",
+        "a1e8bc4bb",
+        "a1be523b4"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Sanctions américaines contre la Cour pénale internationale",
+      "ids": [
+        "a4b45555b",
+        "a4a93d4d6"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "La FGTB menace d'une grève générale le 23 novembre",
+      "ids": [
+        "ac9491d40"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Indexation des salaires en janvier et plafonnement",
+      "ids": [
+        "a7a927602"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Appel entre Poutine et Trump sur une désescalade en Ukraine",
+      "ids": [
+        "a06748dd2"
+      ],
+      "importance": 4,
+      "score": 41
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Trump exclut une attaque contre l'Iran avant les midterms",
+      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/09/trump-nordonnera-pas-dattaquer-liran-avant-les-midterms-AYPFVPEHPVHVZDEYP6OOV37RWA/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Proposition irlandaise de réduire le budget européen 2028-2034",
+      "url": "https://www.lalibre.be/international/europe/2026/10/10/lirlande-propose-des-coupes-de-140-milliards-deuros-dans-le-budget-de-lue-LPWPDIOU45GYPKJJ3QWX4BKRDM/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Tensions entre l'Éthiopie et l'Érythrée à la frontière",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Attaques houthies contre l'aéroport de Riyad",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "SAP rachète la start-up belge TechWolf",
+      "url": "https://www.lecho.be/r/t/1/id/10694973",
+      "source": "L'Echo",
+      "importance": 4
+    },
+    {
+      "titre": "Violences en marge des manifestations étudiantes en Belgique",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/defi-saisit-le-parquet-apres-une-publication-du-mr-stigmatisant-les-jeunes-manifestants-JJVWFOKKBVDIRORC6AQZA62G6A/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Mobilisation lycéenne en France",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/10/lyceens-ce-que-nous-dit-le-recours-massif-a-la-garde-vue_6790982_3232.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Budget 2027 de la Fédération Wallonie-Bruxelles et économies à la RTBF",
+      "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Faux signalement d'une IA d'Anthropic à la police de Philadelphie",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Grève des services publics du lundi 12 octobre",
+      "url": "https://www.lalibre.be/belgique/mobilite/2026/10/10/greve-sept-trains-sur-dix-circuleront-lundi-5CCSO6537BEXTPSI4ICVHH6AJ4/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Exécution du tireur de Fort Hood et question de sa retransmission",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Katie Zacharia nommée porte-parole de la Maison-Blanche",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Primaire à gauche : plus de 71 000 personnes ont déjà voté, selon la commission d’organisation",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-a-gauche-plus-de-71-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823448.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Le nombre de Belges possédant dix maisons ou plus a bondi de près de 30% en quatre ans",
+      "url": "https://www.rtbf.be/article/le-nombre-de-belges-possedant-dix-maisons-ou-plus-a-bondi-de-pres-de-30-en-quatre-ans-11798034",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Qu’est-ce que le marché européen de l’électricité, dont plusieurs candidats à la présidentielle veulent sortir ?",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/10/qu-est-ce-que-le-marche-europeen-de-l-electricite-dont-plusieurs-candidats-a-la-presidentielle-veulent-sortir_6790978_4355770.html",
+      "source": "Le Monde",
+      "importance": 3
+    }
+  ]
+}
