@@ -25,7 +25,7 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 - `data/` : caches de collecte et essais (`data/cache/<date>`, `data/runs/<date>/<tag>`), versionnés, purgés après `retention_days`.
 - `docs/` : **sortie générée** servie par GitHub Pages. Ne pas éditer à la main. Ne pas y ranger de documentation de conception (voir `design/`).
 - `design/` : documents de conception et gabarit de carnet de bord.
-- `.github/workflows/` : `revue-quotidienne.yml` (cron) et `essai-prompts.yml` (essais manuels).
+- `.github/workflows/` : `revue-quotidienne.yml` (déclenché par cron-job.org via l'API `dispatches`) et `essai-prompts.yml` (essais manuels).
 
 ## Commandes
 
@@ -60,8 +60,8 @@ Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variable
 Squelette complet, testé avec un faux modèle. Première revue réelle le 2026-10-07 (6 flux, 135 articles, 12 sujets, aucun avertissement).
 Fédération d'identité Claude ↔ GitHub Actions en service sur `revue-quotidienne.yml` (validée) et `essai-prompts.yml`
 (converti, **pas encore lancé**) ; variables de dépôt `ANTHROPIC_*` créées (sans retour chariot final : un `\r` collé avec
-la valeur fait échouer l'échange). La règle de fédération ne doit **pas** imposer `event_name` (cron = `schedule`, lancements manuels = `workflow_dispatch`).
+la valeur fait échouer l'échange). La règle de fédération ne doit **pas** imposer `event_name` (tous les lancements, cron-job.org compris, = `workflow_dispatch`).
 Pages : source **GitHub Actions** (et non « branche `main` / `/docs` ») ; chaque workflow a un job `deploy` (`upload-pages-artifact` + `deploy-pages` sur `docs/`),
 car `POST /pages/builds` est refusé (403) avec `GITHUB_TOKEN` et les pushs du bot ne déclenchent pas de construction. Validé en lancement manuel le 2026-10-08 ;
-cron 05:17 UTC pas encore observé.
-Prochaines étapes : valider les autres flux avec `check-feeds`, constater le premier cron, lancer un essai de prompts, puis itérer sur les prompts.
+le cron de GitHub (retards de plusieurs heures) a été retiré au profit de cron-job.org, à configurer.
+Prochaines étapes : valider les autres flux avec `check-feeds`, constater le premier déclenchement par cron-job.org, lancer un essai de prompts, puis itérer sur les prompts.
