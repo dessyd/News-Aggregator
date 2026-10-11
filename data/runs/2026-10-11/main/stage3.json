@@ -1,0 +1,368 @@
+[
+  {
+    "titre": "Négociations budgétaires du gouvernement fédéral belge",
+    "texte": "Le kern s'est achevé samedi soir sans accord sur le budget fédéral, ont confirmé plusieurs sources à l'agence Belga, citée par Le Vif. Réuni à 15h, le comité restreint a vu les grandes lignes proposées par Bart De Wever se heurter, selon La Libre, aux résistances de tous les partis sur la TVA, la sécurité sociale et les économies publiques. D'après L'Echo, le MR reste catégorique contre toute hausse de la TVA. La Libre indique qu'il n'y aura pas de « State of Union » mardi. Plus tôt dans la journée, Maxime Prévot a déclaré, selon la RTBF, que le plus grand problème était « peut-être bien Georges-Louis Bouchez ».",
+    "rubrique": "Politique",
+    "ids_sources": [
+      "a0828b4e5",
+      "a2ed82cf6",
+      "a1cfb2cdb",
+      "aae7bbcfd",
+      "a063430f0"
+    ],
+    "sources": [
+      {
+        "source": "L'Echo",
+        "titre": "Le MR bloque sur la TVA, le kern se termine sans accord sur le budget",
+        "url": "https://www.lecho.be/r/t/1/id/10695121"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Budget fédéral : toujours pas d’accord au sein du gouvernement, la TVA au cœur des tensions",
+        "url": "https://www.rtbf.be/article/budget-federal-toujours-pas-d-accord-au-sein-du-gouvernement-la-tva-au-c-ur-des-tensions-11798216"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Le kern se termine sans accord budgétaire : il n’y aura pas de “State of Union” mardi",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/le-kern-se-termine-sans-accord-budgetaire-il-ny-aura-pas-de-state-of-union-mardi-7LDX7Z7FEZFKPDYHXAFVOY5JYU/"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "Budget fédéral: le kern se termine sans accord",
+        "url": "https://www.levif.be/belgique/budget-federal-le-kern-se-termine-sans-accord/"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Budget fédéral : \"Le plus grand problème, ce n'est certainement pas BDW ni la TVA, mais peut-être bien Georges-Louis Bouchez\", assène Maxime Prévot",
+        "url": "https://www.rtbf.be/article/budget-federal-le-plus-grand-probleme-ce-n-est-certainement-pas-bdw-ni-la-tva-mais-peut-etre-bien-georges-louis-bouchez-assene-maxime-prevot-11798136"
+      }
+    ],
+    "importance": 5,
+    "score": 54,
+    "nb_articles": 10
+  },
+  {
+    "titre": "Accord américano-russe sur le diesel et réactions européennes",
+    "texte": "Donald Trump a annoncé vendredi avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial, en levant pour cela des sanctions visant Moscou, rapporte La Libre. Le président ukrainien Volodymyr Zelensky juge cette décision « indigne ». Selon La Libre et la RTBF, l'Union européenne estime que suspendre ces sanctions donne à Moscou « davantage de revenus pour faire la guerre ». D'après La Libre, l'Allemagne indique de son côté continuer à travailler avec les autres pays de l'UE à l'élaboration de « nouvelles sanctions » contre la Russie, à la suite de cet accord sur le pétrole.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a0d5adb1a",
+      "a4613cab9",
+      "a960fd645"
+    ],
+    "sources": [
+      {
+        "source": "La Libre",
+        "titre": "Trump scelle un accord surprise avec Poutine sur le diesel : \"Un moyen de faire la guerre\", estime l'UE",
+        "url": "https://www.lalibre.be/international/amerique/2026/10/10/trump-scelle-un-accord-surprise-avec-poutine-sur-le-diesel-zelensky-sindigne-une-decision-faible-JAKYKLCRCNFPXBHUHX63ERFGYA/"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Guerre en Ukraine : pour l'UE, lever les sanctions sur le diesel aide l'effort de guerre russe",
+        "url": "https://www.rtbf.be/article/guerre-en-ukraine-pour-l-ue-lever-les-sanctions-sur-le-diesel-aide-l-effort-de-guerre-russe-11798142"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Accord Moscou-Washington sur le pétrole : l'Allemagne travaille avec l'UE \"à de nouvelles sanctions\" contre Moscou",
+        "url": "https://www.lalibre.be/international/europe/2026/10/10/accord-moscou-washington-sur-le-petrole-lallemagne-travaille-avec-lue-a-de-nouvelles-sanctions-contre-moscou-7JVWQ5QBAJFY7O6MHM2UM7AZHM/"
+      }
+    ],
+    "importance": 5,
+    "score": 52,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Attaque contre l'aéroport de Riyad attribuée aux Houthis",
+    "texte": "Une attaque contre l'aéroport de Riyad a fait douze morts et plus de 300 blessés samedi, selon Le Monde et la BBC, qui la décrivent comme imputée aux Houthis. D'après Le Monde, citant l'autorité saoudienne de l'aviation civile, les victimes comptent quatre Saoudiens et huit étrangers, dont un Américain ; le journal parle de l'attaque la plus meurtrière dans le royaume depuis plus de dix ans. La BBC indique que des responsables saoudiens et américains accusent les Houthis, qui n'ont pas commenté. La RTBF notait en début de journée que Riyad n'avait pas confirmé l'attaque. L'Echo rapporte la suspension des opérations de l'aéroport et une évaluation américaine d'éventuelles frappes. Le Vif évoque un tir de missile, dans le contexte d'une attaque israélo-américaine en Iran.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "ae4256e63",
+      "a0660d05a",
+      "a184487e4",
+      "a3772116c",
+      "a97d815c3"
+    ],
+    "sources": [
+      {
+        "source": "BBC World",
+        "titre": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "Arabie saoudite : douze morts et plus de 300 blessés dans une attaque contre l’aéroport de Riyad imputée aux houthistes",
+        "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html"
+      },
+      {
+        "source": "L'Echo",
+        "titre": "Attaque des Houthis contre l'aéroport de Ryad qui suspend ses opérations",
+        "url": "https://www.lecho.be/r/t/1/id/10695119"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "Des blessés à l’aéroport de Ryad après un tir de missile",
+        "url": "https://www.levif.be/international/live/le-fils-ancien-chah-appelle-les-forces-de-securite-a-rejoindre-le-peuple/des-blesses-a-laeroport-de-ryad-apres-un-tir-de-missile-1358253/"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Une attaque imputée aux Houthis contre l'aéroport de Ryad fait des dizaines de blessés",
+        "url": "https://www.rtbf.be/article/une-attaque-imputee-aux-houthis-contre-l-aeroport-de-ryad-fait-des-dizaines-de-blesses-11798168"
+      }
+    ],
+    "importance": 4,
+    "score": 46,
+    "nb_articles": 6
+  },
+  {
+    "titre": "Trump réclame un nouveau président en Ukraine",
+    "texte": "Donald Trump a déclaré qu'il était « temps pour l'Ukraine d'avoir un nouveau président », après des critiques de Volodymyr Zelensky. Selon la BBC, ce dernier avait dénoncé un accord russo-américain sur le diesel, qui aiderait Moscou à financer la guerre. La Libre évoque aussi la condamnation par Trump des frappes ukrainiennes sur les raffineries russes. D'après la RTBF, le président américain suggère à Kiev de se doter d'un dirigeant « qui peut parvenir à un accord ». Samedi, rapporte Le Monde, il a affirmé que la Russie aimerait conclure un accord et que Zelensky « ne veut pas » en conclure. L'Echo indique que la Russie a salué cette déclaration.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a8fd63513",
+      "afded9392",
+      "ac7573fcb",
+      "aa7742afb",
+      "a389aca2b"
+    ],
+    "sources": [
+      {
+        "source": "BBC World",
+        "titre": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "L'Echo",
+        "titre": "Trump veut un nouveau président en Ukraine, la Russie applaudit",
+        "url": "https://www.lecho.be/r/t/1/id/10695124"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Guerre en Ukraine : furieux contre Zelensky, Trump veut un nouveau président en Ukraine",
+        "url": "https://www.rtbf.be/article/guerre-en-ukraine-furieux-contre-zelensky-trump-veut-un-nouveau-president-en-ukraine-11798233"
+      },
+      {
+        "source": "La Libre",
+        "titre": "\"Il a intérêt à arrêter\" : furieux contre Zelensky, Trump affirme qu'\"il est temps pour l'Ukraine d'avoir un nouveau président\"",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/trump-affirme-quil-est-temps-pour-lukraine-davoir-un-nouveau-president-5A46WAFTZNBHHNI3HYVO5WALBM/"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que Vladimir Poutine « aimerait voir un règlement » avec Kiev",
+        "url": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html"
+      }
+    ],
+    "importance": 4,
+    "score": 45,
+    "nb_articles": 6
+  },
+  {
+    "titre": "Frappes russes sur Zaporijjia",
+    "texte": "Des frappes russes sur Zaporijjia, dans le sud-est de l'Ukraine, ont fait au moins 20 morts, dont des enfants, selon la BBC, qui cite Volodymyr Zelensky et évoque une attaque à la bombe planante. Le bilan a évolué au fil de la journée : La Libre rapportait d'abord au moins onze morts, dont trois enfants, d'après les autorités, puis 15 morts. Samedi, Volodymyr Zelensky a dénoncé ces frappes comme le « merci » de Moscou après l'accord avec Washington sur des livraisons de diesel, selon la BBC et La Libre. Emmanuel Macron lui a exprimé sa « solidarité » face aux attaques en cours, rapporte Le Vif.",
+    "rubrique": "Europe",
+    "ids_sources": [
+      "a146f2c9c",
+      "ad3472079",
+      "a3e947dbe",
+      "af193fd29"
+    ],
+    "sources": [
+      {
+        "source": "BBC World",
+        "titre": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Guerre en Ukraine : au moins quinze morts dont trois enfants dans des frappes russes",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/guerre-en-ukraine-au-moins-sept-morts-dont-trois-enfants-dans-des-frappes-russes-MJQUIDHXX5BC5HR23OPVPB4ZSQ/"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Les frappes russes sur l'Ukraine sont le \"merci\" de Moscou pour l'accord avec Washington sur le pétrole",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/les-frappes-russes-sur-lukraine-sont-le-merci-de-moscou-pour-laccord-avec-washington-sur-le-petrole-OAZ3Y2EJO5F7TIAJPG4HA42YIQ/"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "Macron a exprimé sa « solidarité » à Zelensky « face aux attaques en cours »",
+        "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/macron-a-exprime-sa-solidarite-a-zelensky-face-aux-attaques-en-cours-546137/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 4
+  },
+  {
+    "titre": "Manifestation nationale du 9 octobre en Belgique et suites",
+    "texte": "La manifestation nationale du 9 octobre en Belgique a donné lieu à plus de 100 arrestations, à environ un millier de casseurs et à des dizaines de milliers de participants, selon les autorités citées par la RTBF. Le bourgmestre de Bruxelles, Philippe Close, a dénoncé une attaque contre le service public. D'après La Libre, le parquet de Bruxelles a ordonné samedi 21 mises à disposition, dont 17 mineurs et 4 majeurs. La présidente de DéFI, Sophie Rohonyi, a signalé au procureur du Roi et à Unia une publication du MR jugée stigmatisante envers les jeunes manifestants. Le Vif s'est penché sur les militants antifascistes, accusés de radicalisme mais qui se présentent comme des défenseurs de la démocratie.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "aaffa6e94",
+      "a684ae2ae",
+      "ab65a22a5",
+      "a091af21b"
+    ],
+    "sources": [
+      {
+        "source": "RTBF Info",
+        "titre": "Manifestation nationale du 9 octobre : plus de 100 arrestations, un millier de casseurs, des dizaines de milliers de manifestants",
+        "url": "https://www.rtbf.be/article/manifestation-nationale-du-9-octobre-plus-de-100-arrestations-un-millier-de-casseurs-des-dizaines-de-milliers-de-manifestants-11797903"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Manifestation nationale : Le parquet a ordonné 21 mises à disposition, 17 mineurs concernés",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/10/manifestation-nationale-le-parquet-a-ordonne-21-mises-a-disposition-17-mineurs-concernes-2VTVK4QRWNFNBEYERRKUGWLRDY/"
+      },
+      {
+        "source": "La Libre",
+        "titre": "DéFI saisit le parquet après une publication du MR stigmatisant les jeunes manifestants",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/10/defi-saisit-le-parquet-apres-une-publication-du-mr-stigmatisant-les-jeunes-manifestants-JJVWFOKKBVDIRORC6AQZA62G6A/"
+      },
+      {
+        "source": "Le Vif",
+        "titre": "Les antifas encore pointés du doigt: qui sont ces militants, accusés de souffler sur les braises des manifs étudiantes?",
+        "url": "https://www.levif.be/belgique/politique/les-antifas-encore-pointes-du-doigt-qui-sont-ces-militants-accuses-de-souffler-sur-les-braises-des-manifs-etudiantes/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 4
+  },
+  {
+    "titre": "Séisme de magnitude 7,7 au Panama",
+    "texte": "Un séisme de magnitude 7,7 a frappé le Panama vendredi, sans faire de mort à ce stade. Selon La Libre, il a provoqué la panique dans la capitale ainsi que l'effondrement de bâtiments et de routes ; les autorités faisaient alors état, dans un bilan préliminaire, d'au moins deux blessés. Le Monde, dans un article publié plus tard, rapporte que les autorités évoquent une trentaine de blessés légers et continuent d'évaluer les dégâts. Le journal indique que plus d'une centaine de répliques ont été enregistrées depuis le tremblement de terre, ce qui pousse certains habitants à dormir dehors par précaution. Les deux bilans de blessés diffèrent selon la date de publication.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a986fb389",
+      "a2f005f1f"
+    ],
+    "sources": [
+      {
+        "source": "Le Monde",
+        "titre": "Après le séisme de magnitude 7,7 au Panama, l’heure du déblaiement et la crainte de nouvelles secousses",
+        "url": "https://www.lemonde.fr/planete/article/2026/10/11/apres-le-seisme-de-magnitude-7-7-au-panama-l-heure-du-deblaiement-et-la-crainte-de-nouvelles-repliques_6791129_3244.html"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Un puissant séisme provoque d'importants dégâts et des blessés au Panama : \"Dieu merci, nous allons bien\"",
+        "url": "https://www.lalibre.be/international/amerique/2026/10/10/un-puissant-seisme-provoque-dimportants-degats-et-des-blesses-au-panama-dieu-merci-nous-allons-bien-EHSFSXZFJNBZ3AJ5HF5DCY7ZT4/"
+      }
+    ],
+    "importance": 4,
+    "score": 42,
+    "nb_articles": 2
+  },
+  {
+    "titre": "Mouvement lycéen et tensions sociales en France",
+    "texte": "Le mouvement lycéen s'impose dans le débat public français, entre contestation de la police et crispations politiques. Selon la BBC, ces mobilisations sont devenues un point focal d'une vie politique de plus en plus polarisée. Selon Le Monde, l'avocate d'un lycéen amputé d'une main à Lens affirme que son client « dément avoir ramassé la grenade » et « nie toute participation à des violences », et le présente comme « la victime ». Toujours selon Le Monde, Gabriel Attal, devancé par Jean-Luc Mélenchon chez les 18-24 ans, a présenté à Lyon un « pacte pour la jeunesse ». Le quotidien replace ces événements dans un contexte de crises multiples : dette, pouvoir d'achat, logement, chômage.",
+    "rubrique": "Société",
+    "ids_sources": [
+      "a0d4a5beb",
+      "a14b0b0f7",
+      "a822a4b50",
+      "a634476c5"
+    ],
+    "sources": [
+      {
+        "source": "Le Monde",
+        "titre": "Le lycéen amputé d’une main à Lens « dément avoir ramassé la grenade » et « nie toute participation à des violences », affirme son avocate",
+        "url": "https://www.lemonde.fr/societe/article/2026/10/10/le-lyceen-ampute-d-une-main-a-lens-dement-avoir-ramasse-la-grenade-et-nie-toute-participation-a-des-violences-affirme-son-avocate_6791026_3224.html"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "Présidentielle 2027 : en raison du mouvement lycéen, Gabriel Attal réajuste son programme et défend un « pacte pour la jeunesse »",
+        "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
+      },
+      {
+        "source": "BBC World",
+        "titre": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "Du monde agricole aux lycées, la France à bout de nerfs",
+        "url": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html"
+      }
+    ],
+    "importance": 4,
+    "score": 42,
+    "nb_articles": 4
+  },
+  {
+    "titre": "Proposition de budget européen 2028-2034 de la présidence irlandaise",
+    "texte": "L'Irlande, qui exerce la présidence tournante de l'UE, a présenté samedi un projet de budget européen révisé pour 2028-2034, réduit d'environ 140 milliards d'euros par rapport à la proposition initiale de la Commission, selon La Libre. L'Echo évoque pour sa part une réduction des dépenses de 8 %. Toujours d'après L'Echo, l'Allemagne, les Pays-Bas et la Suède ont déjà rejeté ce texte. Le quotidien présente cette contre-proposition comme une tentative de concilier les positions très hétérogènes des 27 États membres.",
+    "rubrique": "Europe",
+    "ids_sources": [
+      "a70f4d146",
+      "a133d42f7"
+    ],
+    "sources": [
+      {
+        "source": "L'Echo",
+        "titre": "La proposition de budget raboté de 8% pour l'UE déjà recalée par l'Allemagne, les Pays-Bas et la Suède",
+        "url": "https://www.lecho.be/r/t/1/id/10695108"
+      },
+      {
+        "source": "La Libre",
+        "titre": "L’Irlande propose des coupes de 140 milliards d’euros dans le budget de l’UE",
+        "url": "https://www.lalibre.be/international/europe/2026/10/10/lirlande-propose-des-coupes-de-140-milliards-deuros-dans-le-budget-de-lue-LPWPDIOU45GYPKJJ3QWX4BKRDM/"
+      }
+    ],
+    "importance": 4,
+    "score": 42,
+    "nb_articles": 2
+  },
+  {
+    "titre": "Appel entre Trump et Poutine sur une désescalade en Ukraine",
+    "texte": "Vladimir Poutine a reçu « avec compréhension » les propositions de Donald Trump visant une « désescalade » en Ukraine, a indiqué le Kremlin samedi, selon La Libre, qui cite les agences russes. Les deux dirigeants se sont entretenus par téléphone vendredi. Cette formulation émane des autorités russes : l'article fourni ne précise ni le contenu détaillé des propositions américaines, ni la version de Washington sur l'échange, ni d'éventuelles décisions prises à l'issue de l'appel.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a06748dd2"
+    ],
+    "sources": [
+      {
+        "source": "La Libre",
+        "titre": "Poutine a reçu \"avec compréhension\" des propositions de Trump visant à une \"désescalade\" en Ukraine",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/10/poutine-a-recu-avec-comprehension-des-propositions-de-trump-visant-a-une-desescalade-en-ukraine-XVUNPHGCPVD4NJJKOXVN3EA6FU/"
+      }
+    ],
+    "importance": 4,
+    "score": 41,
+    "nb_articles": 1
+  },
+  {
+    "titre": "Intensification des frappes russes sur les infrastructures civiles ukrainiennes",
+    "texte": "La Russie intensifie ses frappes sur les villes et les infrastructures civiles ukrainiennes, selon Le Vif. Le média explique que, faute de percées décisives sur le front, Vladimir Poutine chercherait à paralyser l'Ukraine. Cette analyse relève de l'interprétation de la stratégie russe et non d'un fait établi par des déclarations officielles citées dans l'article. D'après Le Vif, la population ukrainienne s'attend à un hiver « de survie ». Le titre de l'article évoque une « nouvelle facette » du conflit, présentée comme « très difficile à supporter ». Les éléments fournis ne précisent ni le bilan des frappes, ni les zones touchées, ni leur calendrier.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "ac3d7b17e"
+    ],
+    "sources": [
+      {
+        "source": "Le Vif",
+        "titre": "La Russie change de stratégie pour paralyser l’Ukraine: «Cette nouvelle facette s’annonce très difficile à supporter»",
+        "url": "https://www.levif.be/international/ukraine/la-russie-change-de-strategie-pour-paralyser-lukraine-cette-nouvelle-facette-sannonce-tres-difficile-a-supporter/"
+      }
+    ],
+    "importance": 4,
+    "score": 41,
+    "nb_articles": 1
+  },
+  {
+    "titre": "Indexation des salaires en janvier et plafonnement",
+    "texte": "Les salaires seront indexés de manière importante pour certains employés en janvier 2027, mais le plafonnement décidé par le gouvernement s'appliquera pour la première fois à cette occasion, selon Le Vif. Le média s'appuie sur les dernières prévisions d'inflation, qui confirment une indexation notable pour une partie des travailleurs. Selon Le Vif, cette combinaison place les salariés concernés dans une situation de double pénalisation, l'indexation étant limitée par le nouveau mécanisme. L'article ne précise pas, dans l'extrait disponible, le taux d'indexation attendu ni les modalités exactes du plafonnement ni les catégories de salariés touchées.",
+    "rubrique": "Économie",
+    "ids_sources": [
+      "a7a927602"
+    ],
+    "sources": [
+      {
+        "source": "Le Vif",
+        "titre": "Votre salaire sera indexé en janvier? Voici pourquoi vous serez doublement pénalisé",
+        "url": "https://www.levif.be/economie/mon-argent/une-indexation-des-salaires-de-plus-de-4-en-janvier-2027-rognee-par-le-plafonnement-de-2026/"
+      }
+    ],
+    "importance": 4,
+    "score": 41,
+    "nb_articles": 1
+  }
+]

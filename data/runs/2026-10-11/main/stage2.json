@@ -1,0 +1,224 @@
+{
+  "sujets": [
+    {
+      "titre": "Négociations budgétaires du gouvernement fédéral belge",
+      "ids": [
+        "a0828b4e5",
+        "a063430f0",
+        "a2ed82cf6",
+        "a1cfb2cdb",
+        "aae7bbcfd",
+        "a7fa8af7f",
+        "a76b031a4",
+        "ae5603c53",
+        "ac0d66e2a",
+        "a259b91b5"
+      ],
+      "importance": 5,
+      "score": 54
+    },
+    {
+      "titre": "Accord américano-russe sur le diesel et réactions européennes",
+      "ids": [
+        "a0d5adb1a",
+        "a4613cab9",
+        "a960fd645"
+      ],
+      "importance": 5,
+      "score": 52
+    },
+    {
+      "titre": "Attaque contre l'aéroport de Riyad attribuée aux Houthis",
+      "ids": [
+        "ae4256e63",
+        "a0660d05a",
+        "a1b1c2f93",
+        "a3772116c",
+        "a97d815c3",
+        "a184487e4"
+      ],
+      "importance": 4,
+      "score": 46
+    },
+    {
+      "titre": "Trump réclame un nouveau président en Ukraine",
+      "ids": [
+        "a8fd63513",
+        "abfb42042",
+        "a389aca2b",
+        "ac7573fcb",
+        "afded9392",
+        "aa7742afb"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Frappes russes sur Zaporijjia",
+      "ids": [
+        "a146f2c9c",
+        "ad3472079",
+        "a3e947dbe",
+        "af193fd29"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Manifestation nationale du 9 octobre en Belgique et suites",
+      "ids": [
+        "aaffa6e94",
+        "a684ae2ae",
+        "ab65a22a5",
+        "a091af21b"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Séisme de magnitude 7,7 au Panama",
+      "ids": [
+        "a986fb389",
+        "a2f005f1f"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Mouvement lycéen et tensions sociales en France",
+      "ids": [
+        "a0d4a5beb",
+        "a14b0b0f7",
+        "a822a4b50",
+        "a634476c5"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Proposition de budget européen 2028-2034 de la présidence irlandaise",
+      "ids": [
+        "a70f4d146",
+        "a133d42f7"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Appel entre Trump et Poutine sur une désescalade en Ukraine",
+      "ids": [
+        "a06748dd2"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Intensification des frappes russes sur les infrastructures civiles ukrainiennes",
+      "ids": [
+        "ac3d7b17e"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Indexation des salaires en janvier et plafonnement",
+      "ids": [
+        "a7a927602"
+      ],
+      "importance": 4,
+      "score": 41
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Accord sur le budget 2027 de la Fédération Wallonie-Bruxelles",
+      "url": "https://www.rtbf.be/article/accord-sur-le-budget-2027-de-la-fwb-la-rtbf-devra-economiser-20-millions-d-euros-de-plus-11797593",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Procès Nord Stream à Hambourg",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Enquête des Émirats sur l'attaque du co-pilote de Flydubai",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Patient atteint d'Ebola ayant voyagé dans trois pays sans être détecté",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Cisjordanie : décisions de justice non appliquées pour les Palestiniens",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Passage de la tempête Isaias aux États-Unis",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Grève des services publics du lundi 12 octobre en Belgique",
+      "url": "https://www.lecho.be/r/t/1/id/10695111",
+      "source": "L'Echo",
+      "importance": 3
+    },
+    {
+      "titre": "Faux signalement d'une IA d'Anthropic à la police de Philadelphie",
+      "url": "https://www.levif.be/societe/quand-lia-fait-de-faux-signalement-a-la-police-concernant-un-meurtre-non-elucide/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Treize étudiants de Gaza sans solution d'évacuation après le kern",
+      "url": "https://www.rtbf.be/article/pas-de-solution-pour-les-treize-etudiants-de-gaza-prevot-deplore-le-chantage-du-mr-11798210",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Primaire de la gauche française",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Décès d'un militaire belge lors d'un exercice dans les Pyrénées",
+      "url": "https://www.lalibre.be/belgique/societe/2026/10/10/drame-dans-les-pyrenees-un-militaire-belge-a-perdu-la-vie-les-paroles-de-theo-francken-QYCEHW2UJ5GBTFQPCVBGGGJOXY/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Manifestation de la jeunesse contre Modi à Delhi",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/11/des-scientifiques-etablissent-la-liste-des-17-principales-menaces-pesant-sur-la-sante-humaine-d-ici-a-2100_6791095_3244.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Des milliers de manifestants propalestiniens dans les rues, de Londres et à Berlin en passant par Bruxelles",
+      "url": "https://www.rtbf.be/article/des-milliers-de-manifestants-propalestiniens-dans-les-rues-de-londres-et-a-berlin-en-passant-par-bruxelles-11798243",
+      "source": "RTBF Info",
+      "importance": 3
+    }
+  ]
+}
