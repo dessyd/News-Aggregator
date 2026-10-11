@@ -169,6 +169,27 @@ NewsBlur étant suspendu pour Le Soir, les autres lecteurs redeviennent des pist
 **Contournement exclu.** Se faire passer pour un autre robot ou piloter un navigateur automatisé pour franchir la protection d'Akamai contourne un contrôle d'accès de l'éditeur :
 non retenu. La voie légitime est de demander à l'éditeur (Rossel) un flux partenaire ou l'autorisation d'un agent utilisateur ; une liste blanche par adresse IP ne fonctionnerait pas avec les runners GitHub.
 
+## Fonctions natives d'Inoreader et de Feeder face à ce dépôt (10 octobre 2026)
+
+Question : les résumés par IA des lecteurs rendraient-ils le pipeline inutile ? **Non** : ils résument article par article, alors que le dépôt regroupe par sujet entre journaux.
+Les lecteurs restent utiles comme **sources** (accès à Le Soir), pas comme remplaçants. Constats tirés de pages publiques et d'articles de presse spécialisée,
+**non vérifiés par un essai sur nos comptes** ; les plans et les quotas changent souvent.
+
+| Ce que fait le dépôt | Inoreader | Feeder |
+|---|---|---|
+| **Résumé par article** (étape 1, avec rubrique et importance) | Oui, à la demande (bouton « Summarize », *Inoreader Intelligence*, mars 2025) ; invite prédéfinie ou personnalisée ; 1 million de jetons par mois. Ni rubrique ni importance automatiques | Oui, à la demande (bouton ampoule) : 2 par jour en gratuit, **10 en Plus**, 60 en Professional |
+| **Regroupement par sujet** entre journaux (étape 2) | Non : les articles restent classés par flux ou dossier | Non |
+| **Synthèse d'un sujet** à partir de plusieurs sources (étape 3) | Non : un résumé ne porte que sur un article | Non |
+| **Chapeau du jour** (étape 4) | Approché par le *digest e-mail* avec résumé IA et invite personnalisée sur un dossier (août 2025) ; réservé aux plans Team et Custom d'après une source, plan Pro **non confirmé** ; les flux très actifs rendent le digest trop long | Résumés par e-mail attribués au plan Plus par un seul avis tiers, **non confirmé par Feeder** ; pas de digest quotidien tout fait |
+| **Consignes éditoriales** versionnées (`prompts/`) | Partiel : invites personnalisées, hors du dépôt | Non |
+| **Garde-fous** (pas d'URL générée, identifiants cités, repli contrôlé, tests avec `FakeLLM`) | Aucun contrôle sur le modèle ni sur le format | Aucun |
+| **Publication** sur GitHub Pages | Non : résultat dans le lecteur ou par e-mail | Non |
+
+**Ce que le dépôt ne remplace pas chez eux** : l'accès à Le Soir (voie principale de la section « Source bloquée »), la lecture au quotidien (étoiles, non lus) et les règles de filtrage.
+
+**Conséquence** : garder le pipeline pour la synthèse et utiliser un lecteur comme source. Remplacer le pipeline par les fonctions natives supprimerait le contrôle éditorial et les garde-fous,
+pour un résultat par article. À vérifier avant tout abonnement : le plan Inoreader donnant accès au digest IA et au flux de sortie, et les quotas de résumés.
+
 ## Recommandation (provisoire)
 
 Pour **Le Soir** : seuls **Feeder et Inoreader** sont à jour (constat du 9 octobre). NewsBlur est suspendu (relecture trop lente, voir plus haut) et Feedbin écarté.
@@ -210,4 +231,5 @@ facturé 2 $ / 10 $ par million de tokens (entrée / sortie) contre 3 $ / 15 $ p
 - Essais de blocage (`403`, `AkamaiGHost`) et du flux Google Actualités : session du 9 octobre 2026.
 - Autres lecteurs : BazQux ([FAQ](https://bazqux.com/faq), [forum, prix](https://discourse.bazqux.com/t/subscription-fee/94)), [Readwise Reader](https://readwise.io/pricing/reader),
   CommaFeed ([hébergement DINAO](https://dinao.com/en/conteneur/commafeed)) ; les prix de BazQux et de The Old Reader viennent de pages tierces ou de forums, à vérifier avant tout achat.
+- Fonctions IA : Inoreader ([Intelligence, mars 2025](https://alternativeto.net/news/2025/3/inoreader-introduces-inoreader-intelligence-with-ai-powered-article-summaries), [digests avec résumés IA, août 2025](https://alternativeto.net/news/2025/8/inoreader-updates-email-digests-with-drag-and-drop-editor-and-ai-summaries), [limites des digests](https://numericcitizen.me/inoreaders-new-email-digest-feature-promise-and-limitations/)) ; Feeder ([fonctions IA](https://feeder.co/help/account/ai-features/), [lecteurs avec résumés IA](https://feeder.co/knowledge-base/rss-basics/rss-reader-ai-summaries/)), consultés le 10 octobre 2026.
 - Annuaire Feeder du Parisien : [feeder.co/discover/site/leparisien.fr](https://feeder.co/discover/site/leparisien.fr) (les pages Sudinfo, BX1, Brussels Times et RTL n'existent pas dans l'annuaire).
