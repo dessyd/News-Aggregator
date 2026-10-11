@@ -39,10 +39,11 @@ feeds:
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     lang: en
 
+  # Le Soir : le flux direct est bloqué par Akamai (403 le 2026-10-08, y compris avec un User-Agent de navigateur).
+  # On lit le flux de sortie d'un dossier Inoreader (plan Pro) ne contenant que Le Soir ; son adresse, qui contient un jeton, est un secret (voir README).
   - name: Le Soir
-    url: https://www.lesoir.be/rss2/9/cible_principale
+    url_env: LESOIR_FEED_URL
     lang: fr
-    enabled: false  # 403 Akamai (Access Denied) le 2026-10-08, y compris avec un User-Agent de navigateur
 
   - name: La Libre
     url: https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml
