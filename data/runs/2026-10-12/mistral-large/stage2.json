@@ -1,0 +1,259 @@
+{
+  "sujets": [
+    {
+      "titre": "Cessez-le-feu énergétique annoncé entre la Russie et l'Ukraine",
+      "ids": [
+        "a56500ecd",
+        "abb1cf726",
+        "af3e8718b",
+        "ac9af33e8",
+        "ab9c2963f",
+        "a551382d9",
+        "a64af3444",
+        "a2034ba73",
+        "a440b0556",
+        "a3bd52fd2",
+        "aacc125f9",
+        "a613d99a6"
+      ],
+      "importance": 5,
+      "score": 57
+    },
+    {
+      "titre": "Impasse sur le budget fédéral belge et report du discours de De Wever",
+      "ids": [
+        "ab639d3eb",
+        "a673bba57",
+        "ae7a459bf",
+        "ae5271aa2",
+        "a152a1151",
+        "ad72dccba",
+        "a91a5ce71",
+        "a846f7fcc",
+        "afb415382",
+        "a0828b4e5",
+        "acc4d58ef",
+        "a7228705a",
+        "a52dd259b",
+        "a2d24fbf7",
+        "a1b1f47ce"
+      ],
+      "importance": 5,
+      "score": 55
+    },
+    {
+      "titre": "Attaques houthistes contre l'aéroport de Riyad en Arabie saoudite",
+      "ids": [
+        "a94ba709b",
+        "aa4f40d79",
+        "a0c60185c",
+        "aba1c99dd",
+        "aa59ce780",
+        "ae66dbca8",
+        "ac9467409",
+        "a495bd24c",
+        "a9296b796",
+        "a692d903a",
+        "adf09945c"
+      ],
+      "importance": 4,
+      "score": 46
+    },
+    {
+      "titre": "Projet d'attentat contre le Premier ministre polonais Donald Tusk",
+      "ids": [
+        "a1c5b126c",
+        "a3566ee1d",
+        "aa6e6e592",
+        "a43b98c83",
+        "a572c828c",
+        "affe2a342",
+        "a1e07a59c"
+      ],
+      "importance": 4,
+      "score": 46
+    },
+    {
+      "titre": "Raphaël Glucksmann remporte la primaire de la gauche pour la présidentielle 2027",
+      "ids": [
+        "a679c2bd0",
+        "a05eb5524",
+        "ae050fd47",
+        "a19c7d5f5",
+        "af775a607",
+        "af5c46faa"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Marche pour le climat à Bruxelles",
+      "ids": [
+        "a161c8329",
+        "ac1a10399",
+        "aa3dfcd09",
+        "ae921e59c",
+        "aec171a6d",
+        "a289d062c",
+        "a8cb2742d",
+        "af6536b95"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Grève dans les services publics et sur le rail en Belgique",
+      "ids": [
+        "aeaa16ccf",
+        "a104b2f99",
+        "a96027494",
+        "a8d77c3ab",
+        "af087cfec"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Accord sur le budget wallon présenté par le gouvernement Dolimont",
+      "ids": [
+        "a8978fb61",
+        "ae608a20d",
+        "a6b3d5183"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Opération chirurgicale du pape Léon XIV pour un nodule au poumon",
+      "ids": [
+        "a0db1cf89",
+        "a803425f1",
+        "aedf4467c"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Minimes impliqués dans des violences lors d'une manifestation remis en liberté",
+      "ids": [
+        "a41f25380",
+        "a11476426",
+        "a64769d83"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Controverse sur l'interpellation des manifestants masqués par Bernard Quintin",
+      "ids": [
+        "a0ec6f785",
+        "a4774ada3",
+        "a824eb171"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Visite d'État du roi Philippe et de la reine Mathilde au Kazakhstan",
+      "ids": [
+        "a46e6b0f5",
+        "a106819a6",
+        "ad89903c9"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Naufrage de migrants au large de Djibouti",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Manifestations de jeunes en Inde contre la réforme des listes électorales",
+      "url": "https://www.lalibre.be/international/2026/10/12/modi-et-la-commission-electorale-nous-volent-le-droit-de-vote-en-inde-aussi-la-jeunesse-est-dans-la-rue-et-ne-desarme-pas-GBSACLMHRVB2LFRAF5KEGVFK6A/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Guerre hybride russe aux frontières des pays Baltes via les migrants",
+      "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/12/comment-moscou-utilise-les-migrants-pour-destabiliser-les-pays-baltes-cest-une-guerre-hybride-MY2Y5DSHANC5BIMB3VK5EPL5OI/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Report des élections législatives palestiniennes",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/apres-vingt-ans-sans-election-les-palestiniens-de-nouveau-prives-de-scrutin_6792176_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Inondations au Népal",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Étudiants gazaouis en attente de venir étudier en Belgique",
+      "url": "https://www.lesoir.be/776149/article/2026-10-11/etudiants-gazouis-nous-sommes-devenus-une-monnaie-dechange",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Manœuvres de Trump pour les élections de mi-mandat américaines",
+      "url": "https://www.rtbf.be/article/midterms-2026-diesel-russe-cheques-et-regles-electorales-les-multiples-man-uvres-de-trump-pour-faire-gagner-son-camp-11798548",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Trump critique Zelensky et évoque un règlement avec Poutine",
+      "url": "https://www.lesoir.be/776106/article/2026-10-11/trump-sen-prend-zelensky-et-affirme-que-poutine-veut-un-reglement-avec-lukraine",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Décès d'une étudiante belge de 18 ans au Mexique",
+      "url": "https://www.lesoir.be/776148/article/2026-10-11/une-belge-de-18-ans-decedee-lors-de-son-echange-etudiant-au-mexique",
+      "source": "Le Soir",
+      "importance": 3
+    },
+    {
+      "titre": "Controverse sur l'accord Trump-Poutine concernant le diesel russe",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Tensions entre Trump et les médias américains",
+      "url": "https://www.lalibre.be/international/amerique/2026/10/11/etats-unis-cinq-grandes-chaines-de-television-visees-par-une-enquete-apres-un-boycott-de-la-maison-blanche-ND47TNU7NZDLXETRKUS7CUDVFI/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Record de dons pour CAP48",
+      "url": "https://www.rtbf.be/article/nouveau-record-battu-pour-cap48-avec-9-211-000-euros-recoltes-11798493",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Crise des lycées en France et ministre Edouard Geffray",
+      "url": "https://www.lalibre.be/international/europe/2026/10/12/qui-est-edouard-geffray-lhomme-au-centre-de-la-crise-des-lycees-en-france-3KVJUMJV25E45BBA27EFJTI35U/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Attaques ukrainiennes contre Yandex en Russie",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Match Union Saint-Gilloise - OHL et perte de la première place",
+      "url": "https://www.lesoir.be/776207/article/2026-10-11/sept-blesses-une-carte-rouge-et-la-perte-de-la-premiere-place-lunion-cassee-dans",
+      "source": "Le Soir",
+      "importance": 3
+    }
+  ]
+}

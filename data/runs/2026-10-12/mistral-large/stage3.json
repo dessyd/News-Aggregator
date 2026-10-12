@@ -1,0 +1,469 @@
+[
+  {
+    "titre": "Cessez-le-feu énergétique annoncé entre la Russie et l'Ukraine",
+    "texte": "Donald Trump a annoncé sur son réseau social un accord entre la Russie et l'Ukraine pour suspendre les frappes contre leurs infrastructures énergétiques mutuelles, sans en préciser les modalités. Volodymyr Zelensky a déclaré à Axios ne pas en avoir été informé, tout en se disant prêt à accepter ce cessez-le-feu si Moscou en faisait autant, rapporte Le Soir. Selon la BBC, la Russie n'a pas réagi à cette annonce, qui a surpris Kiev. Les sources divergent sur le caractère effectif de cet accord : Trump affirme qu'il est conclu, tandis que Zelensky indique n'en avoir pas été informé et que Moscou reste silencieux.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a56500ecd",
+      "abb1cf726",
+      "ab9c2963f",
+      "a551382d9",
+      "a64af3444",
+      "a2034ba73"
+    ],
+    "sources": [
+      {
+        "source": "L'Echo",
+        "titre": "Un cessez-le-feu énergétique entre la Russie et l'Ukraine?",
+        "url": "https://www.lecho.be/r/t/1/id/10695136"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Trump assure que la Russie et l’Ukraine ont conclu « un cessez-le-feu énergétique », Zelensky dément mais pourrait accepter",
+        "url": "https://www.lesoir.be/776176/article/2026-10-11/trump-assure-que-la-russie-et-lukraine-ont-conclu-un-cessez-le-feu-energetique"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Cessez-le-feu énergétique : Zelensky dit ne pas être au courant mais prêt à l’accepter",
+        "url": "https://www.lesoir.be/776184/article/2026-10-11/cessez-le-feu-energetique-zelensky-dit-ne-pas-etre-au-courant-mais-pret"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Watch: What's behind Trump's energy ceasefire claim?",
+        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le diesel russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
+        "url": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html"
+      }
+    ],
+    "importance": 5,
+    "score": 57,
+    "nb_articles": 12
+  },
+  {
+    "titre": "Impasse sur le budget fédéral belge et report du discours de De Wever",
+    "texte": "Faute d'accord au sein du gouvernement sur le budget fédéral, le Premier ministre Bart De Wever a reporté son discours sur l'état de l'Union prévu mardi à la Chambre, selon Le Vif, Le Soir, L'Echo et la RTBF. Les négociations se poursuivent dans les prochains jours, mais le ministre des Finances Vincent Van Peteghem a qualifié la situation d'« extrêmement grave » (Le Soir). Le Premier ministre a par ailleurs exclu le recours aux douzièmes provisoires, une option écartée selon L'Echo et Le Vif.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "ab639d3eb",
+      "a673bba57",
+      "ae7a459bf",
+      "a152a1151",
+      "ad72dccba",
+      "a91a5ce71",
+      "a846f7fcc"
+    ],
+    "sources": [
+      {
+        "source": "Le Vif",
+        "titre": "Budget fédéral : De Wever reporte le discours à la Chambre et exclut les douzièmes provisoires",
+        "url": "https://www.levif.be/belgique/politique/budget-federal-de-wever-reporte-le-discours-a-la-chambre-et-exclut-les-douziemes-provisoires/"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "De Wever ne prononcera pas le discours sur l’état de l’union mardi",
+        "url": "https://www.lesoir.be/776220/article/2026-10-11/de-wever-ne-prononcera-pas-le-discours-sur-letat-de-lunion-mardi"
+      },
+      {
+        "source": "L'Echo",
+        "titre": "Budget fédéral: Bart De Wever acte l'impasse et reporte son discours sur l'état de l'Union",
+        "url": "https://www.lecho.be/r/t/1/id/10695146"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Blocage sur le budget fédéral : Bart De Wever ne prononcera pas le discours sur l'état de l'Union mardi",
+        "url": "https://www.rtbf.be/article/blocage-sur-le-budget-federal-bart-de-wever-ne-prononcera-pas-le-discours-sur-l-etat-de-l-union-mardi-11798596"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Comment le week-end budgétaire de l’Arizona a tourné au fiasco",
+        "url": "https://www.lesoir.be/776223/article/2026-10-11/comment-le-week-end-budgetaire-de-larizona-tourne-au-fiasco"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Budget fédéral : « La situation est extrêmement grave », avertit Vincent Van Peteghem",
+        "url": "https://www.lesoir.be/776213/article/2026-10-11/budget-federal-la-situation-est-extremement-grave-avertit-vincent-van-peteghem"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Pas d’accord budgétaire d’ici mardi : quel impact pour les citoyens ?",
+        "url": "https://www.rtbf.be/article/pas-d-accord-budgetaire-d-ici-mardi-quel-impact-pour-les-citoyens-11798358"
+      }
+    ],
+    "importance": 5,
+    "score": 55,
+    "nb_articles": 15
+  },
+  {
+    "titre": "Attaques houthistes contre l'aéroport de Riyad en Arabie saoudite",
+    "texte": "L'aéroport de Riyad a été visé par une nouvelle attaque houthiste, faisant au moins un mort et onze blessés selon la BBC, au lendemain de frappes qui ont fait entre 12 et 13 morts selon les sources. Les rebelles houthistes du Yémen, soutenus par l'Iran d'après la BBC, ont revendiqué ces « opérations d'envergure » contre des infrastructures saoudiennes, une escalade inédite depuis le début de la guerre au Yémen en 2014, selon Le Monde et la RTBF. Le bilan des victimes varie selon les médias : Le Monde évoque 13 morts dans les frappes précédentes, tandis que La Libre et Le Soir citent 12 morts et 309 blessés. La BBC souligne que ces attaques fragilisent la réputation de stabilité du royaume saoudien.",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a94ba709b",
+      "aa4f40d79",
+      "a0c60185c",
+      "aa59ce780",
+      "ac9467409",
+      "a495bd24c"
+    ],
+    "sources": [
+      {
+        "source": "Le Monde",
+        "titre": "Arabie saoudite : un mort dans une nouvelle attaque sur l’aéroport de Riyad, au lendemain de frappes houthistes qui ont fait 13 morts",
+        "url": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html"
+      },
+      {
+        "source": "BBC World",
+        "titre": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Arabie saoudite : les Houthis revendiquent plusieurs frappes contre l'aéroport de Ryad, au lendemain d'une attaque meurtrière",
+        "url": "https://www.rtbf.be/article/arabie-saoudite-les-houthis-revendiquent-plusieurs-frappes-contre-l-aeroport-de-ryad-au-lendemain-d-une-attaque-meurtriere-11798505"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Guerre au Moyen-Orient : deux nouvelles explosions entendues à Ryad",
+        "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/11/guerre-au-moyen-orient-deux-nouvelles-explosions-entendues-a-ryad-QWW5AHXKORCPDFMJYC7PC66BIU/"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Une nouvelle attaque contre l’aéroport de Ryad provoque un incendie",
+        "url": "https://www.lesoir.be/776180/article/2026-10-11/une-nouvelle-attaque-contre-laeroport-de-ryad-provoque-un-incendie"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Attaque contre l’aéroport de Ryad en Arabie saoudite : le bilan s’alourdit à 12 morts et 309 blessés",
+        "url": "https://www.lesoir.be/776100/article/2026-10-11/attaque-contre-laeroport-de-ryad-en-arabie-saoudite-le-bilan-salourdit-12-morts"
+      }
+    ],
+    "importance": 4,
+    "score": 46,
+    "nb_articles": 11
+  },
+  {
+    "titre": "Projet d'attentat contre le Premier ministre polonais Donald Tusk",
+    "texte": "La police polonaise a arrêté un homme accusé d'avoir projeté un attentat visant à assassiner le Premier ministre Donald Tusk et le ministre de la Défense Wladyslaw Kosiniak-Kamysz, selon la porte-parole du ministère de l'Intérieur citée par l'AFP (La Libre). La BBC précise que la police a reçu des informations crédibles sur de possibles attaques contre les deux responsables. Le Monde indique que les services de renseignement ont révélé ce projet, tandis que la RTBF et Le Soir rapportent qu'une réunion d'urgence a été convoquée. Le porte-parole du ministre-coordinateur des services spéciaux a déclaré que l'affaire était traitée « avec le plus grand sérieux » (Le Monde).",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a1c5b126c",
+      "a3566ee1d",
+      "aa6e6e592",
+      "a43b98c83",
+      "a572c828c",
+      "a1e07a59c"
+    ],
+    "sources": [
+      {
+        "source": "La Libre",
+        "titre": "La Pologne arrête un suspect en lien avec une tentative d'attentat contre le Premier ministre",
+        "url": "https://www.lalibre.be/international/europe/2026/10/11/la-pologne-arrete-un-suspect-en-lien-avec-une-tentative-dattentat-contre-le-premier-ministre-JIDU5VZ3KVCAPLAH4QZ566RPXU/"
+      },
+      {
+        "source": "BBC World",
+        "titre": "Poland detains man suspected of planning assassination of PM Tusk",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Monde",
+        "titre": "En Pologne, Donald Tusk et son ministre de la défense visés par un projet de tentative d’assassinat",
+        "url": "https://www.lemonde.fr/international/article/2026/10/11/en-pologne-donald-tusk-et-son-ministre-de-la-defense-vises-par-un-projet-de-tentative-d-assassinat_6792039_3210.html"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Pologne : Donald Tusk et le ministre de la Défense visés par une \"possible tentative d’assassinat",
+        "url": "https://www.lalibre.be/international/europe/2026/10/11/pologne-donald-tusk-et-le-ministre-de-la-defense-vises-par-une-possible-tentative-dassassinat-NN5OQXH5RRFIXOHPNQFFKLEQ6Y/"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Un suspect arrêté en lien avec une tentative d’assassinat contre le Premier ministre polonais",
+        "url": "https://www.lesoir.be/776187/article/2026-10-11/un-suspect-arrete-en-lien-avec-une-tentative-dassassinat-contre-le-premier"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Pologne : réunion d’urgence après de \"possibles tentatives d’assassinat\" contre le Premier ministre et le ministre de la Défense",
+        "url": "https://www.rtbf.be/article/pologne-reunion-d-urgence-apres-de-possibles-tentatives-d-assassinat-contre-le-premier-ministre-et-le-ministre-de-la-defense-11798412"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "« Possibles tentatives d’assassinat » contre le Premier ministre et le ministre de la Défense polonais",
+        "url": "https://www.lesoir.be/776139/article/2026-10-11/possibles-tentatives-dassassinat-contre-le-premier-ministre-et-le-ministre-de-la"
+      }
+    ],
+    "importance": 4,
+    "score": 46,
+    "nb_articles": 7
+  },
+  {
+    "titre": "Raphaël Glucksmann remporte la primaire de la gauche pour la présidentielle 2027",
+    "texte": "Raphaël Glucksmann, coprésident de Place publique, a remporté dès le premier tour la primaire de la gauche sociale-démocrate pour l'élection présidentielle française de 2027, selon plusieurs médias. D'après La Libre, il a été élu avec 66 % des voix. Le Monde précise qu'il a revendiqué la « rupture avec le macronisme » et la fin de « l'hégémonie de Jean-Luc Mélenchon sur la gauche », tout en assurant que l'« extrême droite » reste son principal adversaire. Selon la RTBF, cette désignation marque une première historique pour le PS, qui n'aura pas de candidat issu de ses rangs. Le Soir souligne que François Hollande pourrait revenir en cas de faiblesse de sa campagne.",
+    "rubrique": "Politique",
+    "ids_sources": [
+      "a679c2bd0",
+      "af5c46faa",
+      "af775a607",
+      "ae050fd47"
+    ],
+    "sources": [
+      {
+        "source": "Le Monde",
+        "titre": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, au défi de mettre la famille sociale-démocrate en ordre de bataille",
+        "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Raphaël Glucksmann : après l’investiture, le plus dur est à venir",
+        "url": "https://www.lesoir.be/776202/article/2026-10-11/raphael-glucksmann-apres-linvestiture-le-plus-dur-est-venir"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Présidentielle française : Glucksmann désigné dès le premier tour comme le candidat de la gauche sociale-démocrate",
+        "url": "https://www.rtbf.be/article/presidentielle-francaise-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate-11798550"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Raphaël Glucksmann élu candidat à la présidentielle de la gauche avec 66% : \"Je suis le candidat qui pourra battre l'extrême droite\"",
+        "url": "https://www.lalibre.be/international/europe/elections-france/2026/10/11/raphael-glucksmann-elu-candidat-a-la-presidentielle-de-la-gauche-sociale-democrate-des-le-premier-tour-7R6KVEADNVCPFJRGTSY664OXWE/"
+      }
+    ],
+    "importance": 4,
+    "score": 45,
+    "nb_articles": 6
+  },
+  {
+    "titre": "Marche pour le climat à Bruxelles",
+    "texte": "Des dizaines de milliers de personnes ont défilé dimanche à Bruxelles pour la Marche pour le climat 2026, selon les médias belges. Les estimations de participation varient : entre 45 000 et 60 000 selon Le Soir, 45 000 selon la police et 60 000 selon les organisateurs d'après La Libre, tandis que la RTBF évoque près de 50 000 manifestants. Organisée par la Coalition Climat, la manifestation visait à dénoncer l'insuffisance des actions du gouvernement fédéral belge et de la Commission européenne en matière climatique, selon la RTBF. Le départ a eu lieu vers 14h30 du boulevard Roi Albert II.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "a161c8329",
+      "aa3dfcd09",
+      "ae921e59c",
+      "aec171a6d"
+    ],
+    "sources": [
+      {
+        "source": "Le Soir",
+        "titre": "Climat : des dizaines de milliers de manifestants réclament une action plus déterminée du gouvernement",
+        "url": "https://www.lesoir.be/776209/article/2026-10-11/climat-des-dizaines-de-milliers-de-manifestants-reclament-une-action-plus"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Forts du succès de leur manifestation, les “Marcheurs pour le climat” veulent ressusciter la cause environnementale",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/11/forts-du-succes-de-leur-manifestation-les-marcheurs-pour-le-climat-veulent-ressusciter-la-cause-environnementale-AICDOEUG3BDEZMJ2CRYYWUL34A/"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Près de 50.000 manifestants à la Marche pour le climat à Bruxelles : \"Le gouvernement fédéral et la Commission européenne font beaucoup trop peu\"",
+        "url": "https://www.rtbf.be/article/pres-de-50-000-manifestants-a-la-marche-pour-le-climat-a-bruxelles-le-gouvernement-federal-et-la-commission-europeenne-font-beaucoup-trop-peu-11798455"
+      },
+      {
+        "source": "La Libre",
+        "titre": "La Marche pour le Climat 2026 a rassemblé 60.000 participants selon les organisateurs (PHOTOS)",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/11/la-marche-pour-le-climat-2026-a-commence-a-bruxelles-FHMBW75ZGFAPPOQMOCXSMGU7UI/"
+      }
+    ],
+    "importance": 4,
+    "score": 45,
+    "nb_articles": 8
+  },
+  {
+    "titre": "Grève dans les services publics et sur le rail en Belgique",
+    "texte": "Une grève nationale des services publics et sur le rail est organisée ce lundi 12 octobre en Belgique, à l'appel de la CGSP et du syndicat socialiste, contre les propositions budgétaires du gouvernement. Selon La Libre, la grève ferroviaire a débuté dimanche soir à 22h00, avec sept trains sur dix qui devraient circuler lundi. Le Soir et la RTBF annoncent d'importantes perturbations dans les transports en commun, les écoles et les services publics, les syndicats dénonçant le sous-financement des services publics.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "aeaa16ccf",
+      "a104b2f99",
+      "a96027494",
+      "a8d77c3ab",
+      "af087cfec"
+    ],
+    "sources": [
+      {
+        "source": "Le Soir",
+        "titre": "Grève dans les services publics : le point sur les perturbations",
+        "url": "https://www.lesoir.be/776241/article/2026-10-12/greve-dans-les-services-publics-le-point-sur-les-perturbations"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Début de la grève sur le rail, sept trains sur dix circuleront lundi",
+        "url": "https://www.lalibre.be/belgique/2026/10/11/debut-de-la-greve-sur-le-rail-sept-trains-sur-dix-circuleront-lundi-35EZCPZSGNHIRGZZ5HP2TH25BY/"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Grève nationale ce lundi : à quoi faut-il s’attendre dans les transports et les services publics ?",
+        "url": "https://www.lesoir.be/776177/article/2026-10-11/greve-nationale-ce-lundi-quoi-faut-il-sattendre-dans-les-transports-et-les"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Grève ce lundi 12 octobre : le point sur les perturbations attendues secteur par secteur",
+        "url": "https://www.lesoir.be/776113/article/2026-10-11/greve-ce-lundi-12-octobre-le-point-sur-les-perturbations-attendues-secteur-par"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Grève des services publics ce lundi 12 octobre : quelles perturbations dans les transports et les services publics ?",
+        "url": "https://www.rtbf.be/article/greve-des-services-publics-ce-lundi-12-octobre-quelles-perturbations-dans-les-transports-et-les-services-publics-11796983"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 5
+  },
+  {
+    "titre": "Accord sur le budget wallon présenté par le gouvernement Dolimont",
+    "texte": "Le gouvernement wallon d'Adrien Dolimont présentera lundi à 10h30 son accord budgétaire pour l'année prochaine, a annoncé dimanche son cabinet. Selon la RTBF, les ministres régionaux ont travaillé trois semaines sur ce budget, tandis que La Libre évoque des arbitrages menés dans un climat de contraintes financières croissantes pour les pouvoirs publics.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "a8978fb61",
+      "ae608a20d",
+      "a6b3d5183"
+    ],
+    "sources": [
+      {
+        "source": "Le Soir",
+        "titre": "Le gouvernement wallon présentera son accord budgétaire ce lundi",
+        "url": "https://www.lesoir.be/776156/article/2026-10-11/le-gouvernement-wallon-presentera-son-accord-budgetaire-ce-lundi"
+      },
+      {
+        "source": "RTBF Info",
+        "titre": "Accord sur le budget wallon : le gouvernement Dolimont le présentera lundi",
+        "url": "https://www.rtbf.be/article/accord-sur-le-budget-wallon-le-gouvernement-dolimont-le-presentera-lundi-11798422"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Budget wallon: le gouvernement Dolimont présentera son accord lundi",
+        "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/11/budget-wallon-le-gouvernement-dolimont-presentera-son-accord-lundi-EJE2OQMR4FERJCOKNML4QZNS6E/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Opération chirurgicale du pape Léon XIV pour un nodule au poumon",
+    "texte": "Le pape Léon XIV, âgé de 71 ans, doit subir une opération chirurgicale après la découverte d'un nodule au poumon, selon la BBC World. Le souverain pontife a annoncé cette intervention « dans les prochains jours » à l'issue de la prière de l'Angélus, dimanche au Vatican, rapporte La Libre. Selon Le Soir, le nodule a été identifié lors de récents examens de santé, détecté « à un stade très précoce » et « bien localisé ».",
+    "rubrique": "Monde",
+    "ids_sources": [
+      "a0db1cf89",
+      "a803425f1",
+      "aedf4467c"
+    ],
+    "sources": [
+      {
+        "source": "BBC World",
+        "titre": "Pope Leo to have surgery after lump found on lung",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Le pape va être opéré d’un nodule au poumon « dans les prochains jours »",
+        "url": "https://www.lesoir.be/776147/article/2026-10-11/le-pape-va-etre-opere-dun-nodule-au-poumon-dans-les-prochains-jours"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Le pape Léon XIV va se faire opérer \"dans les prochains jours\"",
+        "url": "https://www.lalibre.be/international/europe/2026/10/11/le-pape-leon-xiv-va-se-faire-operer-dans-les-prochains-jours-JTEQRBMMUBB5LATROT6DZRX7FQ/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Minimes impliqués dans des violences lors d'une manifestation remis en liberté",
+    "texte": "Seize mineurs soupçonnés de faits graves lors de la manifestation du 9 octobre ont été remis en liberté faute de places en Institution publique de protection de la jeunesse (IPPJ), selon la RTBF et Le Soir. Le parquet avait requis le placement de huit d'entre eux, au vu de la gravité des faits reprochés. Le parquet de Bruxelles alerte par ailleurs sur le manque de moyens de la justice des mineurs, les solutions d'accompagnement étant également débordées avec des centaines de jeunes en attente de prise en charge, d'après La Libre.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "a41f25380",
+      "a11476426",
+      "a64769d83"
+    ],
+    "sources": [
+      {
+        "source": "RTBF Info",
+        "titre": "Manifestation du 9 octobre : 16 mineurs soupçonnés de faits graves remis en liberté faute de places en IPPJ",
+        "url": "https://www.rtbf.be/article/manifestation-du-9-octobre-16-mineurs-soupconnes-de-faits-graves-remis-en-liberte-faute-de-places-en-ippj-11798376"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Des mineurs soupçonnés de violences lors de la manifestation du 9 octobre remis en liberté faute de places en IPPJ",
+        "url": "https://www.lesoir.be/776133/article/2026-10-11/des-mineurs-soupconnes-de-violences-lors-de-la-manifestation-du-9-octobre-remis"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Violences lors de la manifestation nationale : des mineurs remis en liberté faute de places en IPPJ",
+        "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/11/violences-lors-de-la-manifestation-du-9-octobre-a-bruxelles-16-mineurs-remis-en-liberte-faute-de-places-en-ippj-KMJLH4U2SVH5LKFGDCEEXH5MTQ/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Controverse sur l'interpellation des manifestants masqués par Bernard Quintin",
+    "texte": "Le ministre de l'Intérieur Bernard Quintin souhaite que les manifestants masqués soient interpellés avant même d'avoir commis des faits délictueux, selon L'Echo. Cette mesure provoque une vive réaction des syndicats de police, qui ont déposé un préavis de grève du 23 octobre au 2 novembre. Le Soir rapporte que la police dénonce une décision « dictatoriale », tandis que La Libre précise que les syndicats contestent également des changements dans l'organisation des services, susceptibles de réduire le repos des policiers.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "a0ec6f785",
+      "a4774ada3",
+      "a824eb171"
+    ],
+    "sources": [
+      {
+        "source": "L'Echo",
+        "titre": "Bernard Quintin veut l'interpellation des manifestants masqués",
+        "url": "https://www.lecho.be/r/t/1/id/10695128"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "La police dépose un préavis de grève pour dénoncer une décision « dictatoriale » de Bernard Quintin",
+        "url": "https://www.lesoir.be/776134/article/2026-10-11/la-police-depose-un-preavis-de-greve-pour-denoncer-une-decision-dictatoriale-de"
+      },
+      {
+        "source": "La Libre",
+        "titre": "\"Un ministre s’essuie les pieds sur la législation\" : les syndicats de police annoncent un préavis de grève",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/11/un-ministre-sessuie-les-pieds-sur-la-legislation-les-syndicats-de-police-annoncent-un-preavis-de-greve-42FAOVVUPRELDBO37AYH7FXIF4/"
+      }
+    ],
+    "importance": 4,
+    "score": 43,
+    "nb_articles": 3
+  },
+  {
+    "titre": "Visite d'État du roi Philippe et de la reine Mathilde au Kazakhstan",
+    "texte": "Le roi Philippe et la reine Mathilde sont arrivés dimanche soir à Astana pour une visite d'État de trois jours, la première d'une délégation belge en Asie centrale. Selon Le Soir, il s'agit également d'une première pour un monarque européen, le couple royal étant à la tête d'une délégation de 110 personnes. D'après La Libre, l'avion royal a atterri peu avant 20h30, heure locale.",
+    "rubrique": "Belgique",
+    "ids_sources": [
+      "a46e6b0f5",
+      "a106819a6",
+      "ad89903c9"
+    ],
+    "sources": [
+      {
+        "source": "Le Soir",
+        "titre": "Philippe et Mathilde viennent d’arriver au Kazakhstan pour une visite d’Etat historique (photos)",
+        "url": "https://www.lesoir.be/776192/article/2026-10-11/philippe-et-mathilde-viennent-darriver-au-kazakhstan-pour-une-visite-detat"
+      },
+      {
+        "source": "La Libre",
+        "titre": "Le couple royal a atterri dimanche au Kazakhstan pour une visite d'Etat de trois jours",
+        "url": "https://www.lalibre.be/belgique/societe/2026/10/11/le-couple-royal-a-atterri-dimanche-au-kazakhstan-pour-une-visite-detat-de-trois-jours-6HSPK2XIW5AMLLAE5S2W6WJAEA/"
+      },
+      {
+        "source": "Le Soir",
+        "titre": "Philippe et Mathilde en visite d’Etat au Kazakhstan, une première pour un monarque européen",
+        "url": "https://www.lesoir.be/776104/article/2026-10-11/philippe-et-mathilde-en-visite-detat-au-kazakhstan-une-premiere-pour-un-monarque"
+      }
+    ],
+    "importance": 4,
+    "score": 42,
+    "nb_articles": 3
+  }
+]
