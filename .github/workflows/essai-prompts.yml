@@ -26,9 +26,31 @@ on:
       limit:
         description: "Nombre max d'articles à l'étape 1 (vide = tous ; utile pour économiser)"
         required: false
-      modeles:
-        description: "Modèles de l'essai (vide = settings.yaml). Ex. mistral-small-latest, ou 1=mistral-small-latest,2=mistral-large-latest"
+      # Modèles proposés : à tenir à jour (identifiants Anthropic et Mistral, ils évoluent).
+      modele_etape1:
+        description: "Modèle de l'étape 1 — résumés (modèle léger)"
         required: false
+        default: "défaut (settings.yaml)"
+        type: choice
+        options: ["défaut (settings.yaml)", "mistral-small-2603", "mistral-large-4", "claude-haiku-4-5", "claude-sonnet-5-5"]
+      modele_etape2:
+        description: "Modèle de l'étape 2 — regroupement"
+        required: false
+        default: "défaut (settings.yaml)"
+        type: choice
+        options: ["défaut (settings.yaml)", "mistral-small-2603", "mistral-large-4", "claude-haiku-4-5", "claude-sonnet-5-5"]
+      modele_etape3:
+        description: "Modèle de l'étape 3 — rédaction"
+        required: false
+        default: "défaut (settings.yaml)"
+        type: choice
+        options: ["défaut (settings.yaml)", "mistral-small-2603", "mistral-large-4", "claude-haiku-4-5", "claude-sonnet-5-5"]
+      modele_etape4:
+        description: "Modèle de l'étape 4 — chapeau"
+        required: false
+        default: "défaut (settings.yaml)"
+        type: choice
+        options: ["défaut (settings.yaml)", "mistral-small-2603", "mistral-large-4", "claude-haiku-4-5", "claude-sonnet-5-5"]
 
 permissions:
   id-token: write
@@ -72,7 +94,10 @@ jobs:
           DAY: ${{ inputs.date }}
           BASE_TAG: ${{ inputs.base_tag }}
           LIMIT: ${{ inputs.limit }}
-          MODELES: ${{ inputs.modeles }}
+          MODELE_1: ${{ inputs.modele_etape1 }}
+          MODELE_2: ${{ inputs.modele_etape2 }}
+          MODELE_3: ${{ inputs.modele_etape3 }}
+          MODELE_4: ${{ inputs.modele_etape4 }}
           # Clé API Mistral (secret de dépôt), utilisée seulement si un modèle Mistral est demandé.
           # Sans effet sur la fédération Anthropic (seule ANTHROPIC_API_KEY la masquerait).
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
@@ -80,6 +105,12 @@ jobs:
           ARGS=(--tag "$TAG" --from-stage "$FROM_STAGE" --base-tag "$BASE_TAG" --publish-test)
           [ -n "$DAY" ] && ARGS+=(--date "$DAY")
           [ -n "$LIMIT" ] && ARGS+=(--limit "$LIMIT")
+          # Étapes dont le modèle diffère de settings.yaml -> --modeles "1=nom,3=nom"
+          MODELES=""
+          for N in 1 2 3 4; do
+            M="MODELE_$N"; M="${!M}"
+            case "$M" in ""|défaut*) ;; *) MODELES="${MODELES:+$MODELES,}$N=$M" ;; esac
+          done
           [ -n "$MODELES" ] && ARGS+=(--modeles "$MODELES")
           python -m src.main replay "${ARGS[@]}"
           CARGS=(--a "$BASE_TAG" --b "$TAG" --publish-test)
@@ -87,6 +118,7 @@ jobs:
           python -m src.main compare "${CARGS[@]}"
           {
             echo "### Essai « $TAG » terminé"
+            echo "Modèles modifiés : ${MODELES:-aucun (settings.yaml)}"
             echo "Les pages d'essai sont dans le dossier \`docs/tests/\` (publiées par GitHub Pages sous \`/tests/\`)."
           } >> "$GITHUB_STEP_SUMMARY"
 

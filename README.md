@@ -126,10 +126,14 @@ Anthropic (seule une `ANTHROPIC_API_KEY` la masquerait).
 **2. Lancer un essai.** Onglet *Actions* → « Essai de prompts » → *Run workflow* :
 - nom de l'essai : par exemple `mistral` ;
 - étape : **1** (tout rejouer) ;
-- champ « Modèles de l'essai » :
-  - `mistral-small-latest` → le même modèle pour les quatre étapes ;
-  - `1=mistral-small-latest,2=mistral-large-latest,3=mistral-large-latest,4=mistral-large-latest` → un modèle par étape ;
-  - `1=mistral-small-latest` → Mistral pour l'étape 1 seulement, Claude (settings.yaml) pour les suivantes.
+- une liste déroulante par étape (« Modèle de l'étape 1 » à « Modèle de l'étape 4 ») ; « défaut (settings.yaml) »
+  garde le modèle de la revue publiée. Exemples :
+  - tout Mistral : `mistral-small-2603` à l'étape 1, `mistral-large-4` aux étapes 2 à 4 ;
+  - hybride : `mistral-small-2603` à l'étape 1, « défaut » ailleurs (Claude pour les étapes suivantes).
+
+La liste des modèles proposés se trouve dans `.github/workflows/essai-prompts.yml` (clé `options` de chaque étape) :
+y ajouter un identifiant suffit pour le proposer. En ligne de commande, l'option équivalente est
+`--modeles "1=mistral-small-2603,2=mistral-large-4"` (ou un seul nom pour les quatre étapes).
 
 Pour un premier passage, renseigner aussi un nombre d'articles réduit (par exemple 30). Vérifier les identifiants de
 modèles disponibles dans la documentation Mistral : ils évoluent. Si la clé manque, l'essai s'arrête aussitôt sans rien publier.
