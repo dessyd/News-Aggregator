@@ -1,0 +1,238 @@
+{
+  "sujets": [
+    {
+      "titre": "Crise politique et blocage budgétaire en Belgique",
+      "ids": [
+        "ad72dccba",
+        "a673bba57",
+        "ae7a459bf",
+        "a152a1151",
+        "a91a5ce71",
+        "a94ba709b",
+        "a96027494",
+        "a8dff7af1",
+        "a803425f1",
+        "aedf4467c",
+        "a52dd259b",
+        "a7228705a",
+        "acc4d58ef",
+        "a8d77c3ab",
+        "af087cfec"
+      ],
+      "importance": 5,
+      "score": 56
+    },
+    {
+      "titre": "Annonce controversée d'un cessez-le-feu énergétique entre la Russie et l'Ukraine par Donald Trump",
+      "ids": [
+        "a2034ba73",
+        "a551382d9",
+        "a440b0556",
+        "a613d99a6",
+        "a56500ecd",
+        "abb1cf726",
+        "a45e826d8",
+        "a3bd52fd2",
+        "aacc125f9"
+      ],
+      "importance": 5,
+      "score": 56
+    },
+    {
+      "titre": "Tentatives d'assassinat contre le Premier ministre polonais Donald Tusk et son ministre de la Défense",
+      "ids": [
+        "a1c5b126c",
+        "aa7aedb7e",
+        "a3566ee1d",
+        "a572c828c",
+        "affe2a342",
+        "a1e07a59c"
+      ],
+      "importance": 5,
+      "score": 55
+    },
+    {
+      "titre": "Attaques des Houthis contre l'aéroport de Ryad en Arabie saoudite",
+      "ids": [
+        "a0c60185c",
+        "aba1c99dd",
+        "a9296b796",
+        "a495bd24c",
+        "ae66dbca8"
+      ],
+      "importance": 5,
+      "score": 54
+    },
+    {
+      "titre": "Naufrage meurtrier de migrants au large de Djibouti",
+      "ids": [
+        "a75b455db",
+        "ac98f99cc"
+      ],
+      "importance": 5,
+      "score": 52
+    },
+    {
+      "titre": "Marche pour le climat à Bruxelles",
+      "ids": [
+        "a161c8329",
+        "ac1a10399",
+        "aa3dfcd09",
+        "a289d062c",
+        "aec171a6d",
+        "ae921e59c"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Élection de Raphaël Glucksmann comme candidat de la gauche sociale-démocrate pour la présidentielle française 2027",
+      "ids": [
+        "a05eb5524",
+        "ae050fd47",
+        "a19c7d5f5",
+        "af775a607",
+        "af6536b95"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Accord budgétaire wallon présenté par le gouvernement Dolimont",
+      "ids": [
+        "a8978fb61",
+        "ae608a20d",
+        "a6b3d5183"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Grève nationale dans les services publics en Belgique",
+      "ids": [
+        "aeaa16ccf",
+        "a104b2f99"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Manifestations et tensions en Inde contre les réformes électorales",
+      "ids": [
+        "aa846a6bf"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Guerre hybride aux frontières des pays Baltes : accusations contre la Russie et la Biélorussie",
+      "ids": [
+        "a84c441d4"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Visite d'État du roi Philippe et de la reine Mathilde au Kazakhstan",
+      "ids": [
+        "a46e6b0f5",
+        "a106819a6",
+        "ad95a025c"
+      ],
+      "importance": 3,
+      "score": 32
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Budget fédéral : De Wever reporte le discours à la Chambre et exclut les douzièmes provisoires",
+      "url": "https://www.levif.be/belgique/politique/budget-federal-de-wever-reporte-le-discours-a-la-chambre-et-exclut-les-douziemes-provisoires/",
+      "source": "Le Vif",
+      "importance": 5
+    },
+    {
+      "titre": "En Pologne, Donald Tusk et son ministre de la défense visés par un projet de tentative d’assassinat",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/en-pologne-donald-tusk-et-son-ministre-de-la-defense-vises-par-un-projet-de-tentative-d-assassinat_6792039_3210.html",
+      "source": "Le Monde",
+      "importance": 5
+    },
+    {
+      "titre": "Un suspect arrêté en lien avec une tentative d’assassinat contre le Premier ministre polonais",
+      "url": "https://www.lesoir.be/776187/article/2026-10-11/un-suspect-arrete-en-lien-avec-une-tentative-dassassinat-contre-le-premier",
+      "source": "Le Soir",
+      "importance": 5
+    },
+    {
+      "titre": "Guerre en Ukraine : Zelensky dit ne pas être au courant du cessez-le-feu énergétique annoncé par Trump, mais est prêt à l’accepter",
+      "url": "https://www.rtbf.be/article/guerre-en-ukraine-zelensky-dit-ne-pas-etre-au-courant-du-cessez-le-feu-energetique-annonce-par-trump-mais-est-pret-a-l-accepter-11798509",
+      "source": "RTBF Info",
+      "importance": 5
+    },
+    {
+      "titre": "Cessez-le-feu énergétique : Zelensky dit ne pas être au courant mais prêt à l’accepter",
+      "url": "https://www.lesoir.be/776184/article/2026-10-11/cessez-le-feu-energetique-zelensky-dit-ne-pas-etre-au-courant-mais-pret",
+      "source": "Le Soir",
+      "importance": 5
+    },
+    {
+      "titre": "Après vingt ans sans élection, les Palestiniens de nouveau privés de scrutin",
+      "url": "https://www.lemonde.fr/international/article/2026/10/11/apres-vingt-ans-sans-election-les-palestiniens-de-nouveau-prives-de-scrutin_6792176_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Watch: What's behind Trump's energy ceasefire claim?",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Midterms 2026 : diesel russe, chèques et règles électorales… Les multiples manœuvres de Trump pour faire gagner son camp",
+      "url": "https://www.rtbf.be/article/midterms-2026-diesel-russe-cheques-et-regles-electorales-les-multiples-man-uvres-de-trump-pour-faire-gagner-son-camp-11798548",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Le “deal” controversé entre Trump et Poutine sur le diesel : quel impact sur les prix des carburants ?",
+      "url": "https://www.lalibre.be/economie/2026/10/11/le-deal-controverse-entre-trump-et-poutine-sur-le-diesel-quel-impact-sur-les-prix-des-carburants-IAWP24E2TVEY7NXL5JCZB63LGY/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Raphaël Glucksmann élu candidat à la présidentielle de la gauche avec 66% : \"Je suis le candidat qui pourra battre l'extrême droite\"",
+      "url": "https://www.lalibre.be/international/europe/elections-france/2026/10/11/raphael-glucksmann-elu-candidat-a-la-presidentielle-de-la-gauche-sociale-democrate-des-le-premier-tour-7R6KVEADNVCPFJRGTSY664OXWE/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Guerre au Moyen-Orient : deux nouvelles explosions entendues à Ryad",
+      "url": "https://www.lalibre.be/international/moyen-orient/iran/2026/10/11/guerre-au-moyen-orient-deux-nouvelles-explosions-entendues-a-ryad-QWW5AHXKORCPDFMJYC7PC66BIU/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Une nouvelle attaque contre l’aéroport de Ryad provoque un incendie",
+      "url": "https://www.lesoir.be/776180/article/2026-10-11/une-nouvelle-attaque-contre-laeroport-de-ryad-provoque-un-incendie",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Qui sont les Houthis, le groupe yéménite responsable d’une attaque mortelle contre l’aéroport de Riyad ?",
+      "url": "https://www.lesoir.be/776181/article/2026-10-11/qui-sont-les-houthis-le-groupe-yemenite-responsable-dune-attaque-mortelle-contre",
+      "source": "Le Soir",
+      "importance": 4
+    }
+  ]
+}
