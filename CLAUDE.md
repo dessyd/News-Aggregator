@@ -42,7 +42,8 @@ python -m src.main compare --a main --b v2                # comparaison côte à
 
 En local, la clé API se fournit via `ANTHROPIC_API_KEY` (via un gestionnaire de secrets, par exemple 1Password CLI : `op run -- python -m src.main ...`). Ne jamais la committer.
 Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variables de dépôt `vars.ANTHROPIC_*`, voir D9). Ne jamais ajouter `ANTHROPIC_API_KEY` aux workflows : elle masquerait la fédération.
-Essais Mistral (D10) : secret de dépôt `MISTRAL_API_KEY`, transmis seulement au workflow d'essai ; un nom de modèle
+Essais Mistral (D10) : secret de dépôt `MISTRAL_API_KEY`, transmis seulement au workflow d'essai, où le modèle de chaque étape
+se choisit dans une liste déroulante (à tenir à jour dans `essai-prompts.yml`) ; un nom de modèle
 commençant par `mistral`, `magistral`, `ministral`… part chez Mistral, tout autre chez Anthropic.
 
 ## Règles à respecter

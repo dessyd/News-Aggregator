@@ -389,7 +389,7 @@ def test_parse_modeles_overrides_without_touching_settings():
     assert mixed["stage1"] == "mistral-small-latest" and mixed["stage3"] == "mistral-large-latest"
     assert mixed["stage2"] == base["stage2"] and mixed["stage4"] == base["stage4"]
     assert SETTINGS["models"] == base
-    for bad in ("5=x", "1=", "1:x,2=y"):
+    for bad in ("5=x", "1=", "1:x,2=y", "2", "1=2", "1=mistral small"):
         with pytest.raises(ValueError):
             parse_modeles(bad, base)
 

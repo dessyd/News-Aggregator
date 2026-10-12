@@ -67,14 +67,22 @@ def parse_modeles(spec: str | None, models: dict) -> dict:
     if not spec:
         return out
     if "=" not in spec:
+        _check_model_name(spec)
         return {k: spec for k in out}
     for part in filter(None, (x.strip() for x in spec.split(","))):
         stage, sep, name = part.partition("=")
         stage, name = stage.strip(), name.strip()
         if not sep or not name or f"stage{stage}" not in out:
             raise ValueError(f"--modeles : élément invalide « {part} » (attendu : 1=nom, 2=nom, 3=nom ou 4=nom)")
+        _check_model_name(name)
         out[f"stage{stage}"] = name
     return out
+
+
+def _check_model_name(name: str):
+    """Un identifiant de modèle contient au moins une lettre et aucun espace (« 2 » est refusé)."""
+    if not any(c.isalpha() for c in name) or any(c.isspace() for c in name):
+        raise ValueError(f"--modeles : « {name} » n'est pas un identifiant de modèle valide")
 
 
 def make_llm(settings: dict):
