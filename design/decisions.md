@@ -66,7 +66,19 @@ structurante, la plus récente en bas).
   sinon) ; le préfixe de sujet et `repository`/`ref` suffisent. Les variables `vars.*` ne doivent contenir ni retour chariot
   ni espace final. L'usage local reste possible avec une clé API.
 
+## D10 — Essais avec Mistral par aiguillage sur le nom du modèle
+- **Date** : 2026-10-12
+- **Justification** : comparer un second fournisseur sur le même corpus figé (D4), sans toucher à la revue quotidienne
+  ni ajouter de dépendance. Le fournisseur se déduit du nom du modèle (`provider_for` dans `src/llm.py`), ce qui permet
+  aussi de panacher les étapes (par exemple l'étape 1, la plus volumineuse, chez Mistral).
+- **Conséquences** : appel REST direct à `https://api.mistral.ai/v1/chat/completions` avec `urllib` (bibliothèque standard ;
+  le SDK `mistralai` a changé d'interface entre versions majeures), mode JSON activé, relances sur 429 et erreurs serveur.
+  Les clients sont créés au premier appel : un essai 100 % Mistral ne sollicite pas la fédération Anthropic.
+  Mistral ne proposant pas de fédération d'identité avec GitHub, la clé est un **secret statique** `MISTRAL_API_KEY`
+  (exception assumée à D9, limitée au workflow d'essai, lancé à la main). Surcharge des modèles par `replay --modeles`
+  et par le champ « Modèles de l'essai » du workflow ; `config/settings.yaml` reste la référence de la revue publiée.
+
 ## À trancher
 - Liste définitive des flux (belges notamment) après `check-feeds`.
-- Modèles par étape, après vérification des identifiants disponibles.
+- Modèles par étape, après vérification des identifiants disponibles (et, le cas échéant, après les essais Mistral, D10).
 - Variante avec Feeder (Plus/Pro) et un LLM local ou par API (Mistral, Qwen) : trois architectures comparées dans `architecture-feeder.md` ; choix en attente (plan Feeder, accès programmatique, objectif, secret statique hors Anthropic).

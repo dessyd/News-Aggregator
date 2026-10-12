@@ -362,3 +362,109 @@ def test_feed_without_url_nor_url_env_is_reported_not_raised():
 
 def fetch_feed_for_test(feed, parse):
     return src.collect.fetch_feed(feed, SETTINGS["collect"], NOW, parse=parse)
+
+
+# ------------------------------------------------------------------ fournisseurs (Mistral)
+import io
+import urllib.error
+
+import src.llm
+from src.llm import LLM, provider_for
+from src.main import parse_modeles
+
+
+def test_provider_is_deduced_from_the_model_name():
+    for name in ("mistral-small-latest", "mistral-large-latest", "Magistral-medium-latest", "ministral-8b-latest"):
+        assert provider_for(name) == "mistral"
+    for name in ("claude-haiku-4-5", "claude-sonnet-5-5", "m"):
+        assert provider_for(name) == "anthropic"
+
+
+def test_parse_modeles_overrides_without_touching_settings():
+    base = dict(SETTINGS["models"])
+    assert parse_modeles(None, base) == base
+    assert parse_modeles("  ", base) == base
+    assert set(parse_modeles("mistral-small-latest", base).values()) == {"mistral-small-latest"}
+    mixed = parse_modeles("1=mistral-small-latest, 3=mistral-large-latest", base)
+    assert mixed["stage1"] == "mistral-small-latest" and mixed["stage3"] == "mistral-large-latest"
+    assert mixed["stage2"] == base["stage2"] and mixed["stage4"] == base["stage4"]
+    assert SETTINGS["models"] == base
+    for bad in ("5=x", "1=", "1:x,2=y"):
+        with pytest.raises(ValueError):
+            parse_modeles(bad, base)
+
+
+class _Resp(io.BytesIO):
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *a):
+        return False
+
+
+def _mistral_ok(content='{"ok": true}', tin=12, tout=5):
+    return _Resp(json.dumps({"choices": [{"message": {"content": content}}],
+                             "usage": {"prompt_tokens": tin, "completion_tokens": tout}}).encode())
+
+
+def test_mistral_call_shape_usage_and_no_anthropic_client(monkeypatch):
+    monkeypatch.setenv("MISTRAL_API_KEY", "cle-de-test")
+    sent = []
+
+    def fake_urlopen(req, timeout):
+        sent.append(req)
+        return _mistral_ok()
+    monkeypatch.setattr(src.llm.urllib.request, "urlopen", fake_urlopen)
+    llm = LLM(temperature=None)
+    assert call_json(llm, "mistral-small-latest", "consignes", "données", 100) == {"ok": True}
+    body = json.loads(sent[0].data)
+    assert sent[0].full_url == src.llm.MISTRAL_URL
+    assert sent[0].get_header("Authorization") == "Bearer cle-de-test"
+    assert body["messages"] == [{"role": "system", "content": "consignes"}, {"role": "user", "content": "données"}]
+    assert body["response_format"] == {"type": "json_object"} and body["max_tokens"] == 100
+    assert "temperature" not in body
+    assert llm.usage == {"mistral-small-latest": {"calls": 1, "input_tokens": 12, "output_tokens": 5}}
+    assert llm._anthropic is None  # un essai 100 % Mistral ne sollicite pas la fédération Anthropic
+
+
+def test_mistral_retries_on_rate_limit_then_succeeds(monkeypatch):
+    monkeypatch.setenv("MISTRAL_API_KEY", "cle-de-test")
+    monkeypatch.setattr(src.llm.time, "sleep", lambda s: None)
+    calls = []
+
+    def fake_urlopen(req, timeout):
+        calls.append(1)
+        if len(calls) < 3:
+            raise urllib.error.HTTPError(req.full_url, 429, "Too Many Requests", {"Retry-After": "1"}, io.BytesIO(b"{}"))
+        return _mistral_ok()
+    monkeypatch.setattr(src.llm.urllib.request, "urlopen", fake_urlopen)
+    assert LLM().complete("mistral-small-latest", "s", "u", 10) == '{"ok": true}'
+    assert len(calls) == 3
+
+
+def test_mistral_errors_are_explicit_and_never_leak_the_key(monkeypatch):
+    monkeypatch.delenv("MISTRAL_API_KEY", raising=False)
+    with pytest.raises(RuntimeError, match="MISTRAL_API_KEY"):
+        LLM().complete("mistral-small-latest", "s", "u", 10)
+
+    monkeypatch.setenv("MISTRAL_API_KEY", "cle-secrete-123")
+
+    def refused(req, timeout):
+        raise urllib.error.HTTPError(req.full_url, 401, "Unauthorized", {},
+                                     io.BytesIO(b'{"message": "Unauthorized"}'))
+    monkeypatch.setattr(src.llm.urllib.request, "urlopen", refused)
+    with pytest.raises(RuntimeError) as err:
+        LLM().complete("mistral-small-latest", "s", "u", 10)
+    assert "401" in str(err.value) and "cle-secrete-123" not in str(err.value)
+
+
+def test_replay_stops_early_when_a_mistral_model_lacks_its_key(monkeypatch, tmp_path, capsys):
+    import src.main
+    (tmp_path / "cache" / "2026-10-06").mkdir(parents=True)
+    (tmp_path / "cache" / "2026-10-06" / "articles.json").write_text("[]", encoding="utf-8")
+    monkeypatch.setattr(src.main, "DATA", tmp_path)
+    monkeypatch.delenv("MISTRAL_API_KEY", raising=False)
+    monkeypatch.setattr(src.main, "make_llm", lambda s: pytest.fail("aucun appel au modèle attendu"))
+    assert src.main.main(["replay", "--date", "2026-10-06", "--tag", "m", "--modeles", "mistral-small-latest"]) == 1
+    assert "MISTRAL_API_KEY" in capsys.readouterr().out
+    assert not (tmp_path / "runs").exists()

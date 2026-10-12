@@ -3,11 +3,13 @@
   python -m src.main check-feeds
   python -m src.main run [--limit 30] [--no-publish] [--tag main] [--reuse-cache]
   python -m src.main replay --date AAAA-MM-JJ --tag essai1 [--from-stage 2] [--base-tag main] [--publish-test]
+                             [--modeles "mistral-small-latest" | "1=mistral-small-latest,2=mistral-large-latest"]
   python -m src.main compare --date AAAA-MM-JJ --a main --b essai1 [--publish-test]
 """
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
 import sys
 from datetime import date, datetime, timedelta, timezone
@@ -52,6 +54,27 @@ def cleanup(settings: dict, day: date):
                     shutil.rmtree(p)
             except ValueError:
                 continue
+
+
+def parse_modeles(spec: str | None, models: dict) -> dict:
+    """Surcharge des modèles pour un essai, sans toucher à config/settings.yaml.
+
+    « nom » seul : le même modèle pour les quatre étapes ;
+    « 1=nom,3=autre » : seulement les étapes citées, les autres gardent settings.yaml.
+    """
+    out = dict(models)
+    spec = (spec or "").strip()
+    if not spec:
+        return out
+    if "=" not in spec:
+        return {k: spec for k in out}
+    for part in filter(None, (x.strip() for x in spec.split(","))):
+        stage, sep, name = part.partition("=")
+        stage, name = stage.strip(), name.strip()
+        if not sep or not name or f"stage{stage}" not in out:
+            raise ValueError(f"--modeles : élément invalide « {part} » (attendu : 1=nom, 2=nom, 3=nom ou 4=nom)")
+        out[f"stage{stage}"] = name
+    return out
 
 
 def make_llm(settings: dict):
@@ -147,6 +170,20 @@ def cmd_replay(args, settings):
         print(f"Essai de référence introuvable : {runs / args.base_tag}")
         return 1
 
+    try:
+        models = parse_modeles(args.modeles, settings["models"])
+    except ValueError as exc:
+        print(exc)
+        return 1
+    if models != settings["models"]:
+        settings = {**settings, "models": models}
+        print("Modèles de l'essai : " + ", ".join(f"{k[-1]}={v}" for k, v in models.items()))
+    from .llm import provider_for
+    if any(provider_for(m) == "mistral" for m in models.values()) and not os.environ.get("MISTRAL_API_KEY", "").strip():
+        # Arrêt immédiat plutôt qu'une revue entièrement dégradée publiée comme essai.
+        print("Modèle Mistral demandé mais MISTRAL_API_KEY absente (secret de dépôt ou variable locale) : arrêt.")
+        return 1
+
     llm = make_llm(settings)
     outdir = runs / tag
     pipe = Pipeline(settings, PROMPTS, llm, outdir, day)
@@ -196,6 +233,8 @@ def main(argv=None) -> int:
     p.add_argument("--base-tag", default="main", help="essai dont on reprend les étapes précédentes")
     p.add_argument("--limit", type=int)
     p.add_argument("--publish-test", action="store_true")
+    p.add_argument("--modeles", help="surcharge des modèles pour cet essai : « nom » (toutes les étapes) "
+                                     "ou « 1=nom,2=nom » (étapes citées) ; settings.yaml n'est pas modifié")
 
     p = sub.add_parser("compare", help="compare deux essais côte à côte")
     p.add_argument("--date")
