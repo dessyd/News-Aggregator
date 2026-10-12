@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
   "date_fr": "lundi 12 octobre 2026",
-  "generated_at": "2026-10-12T06:43:44+00:00",
+  "generated_at": "2026-10-12T06:57:11+00:00",
   "chapeau": "",
   "topics": [],
   "breves": [],
@@ -22,9 +22,9 @@
     "usage": {}
   },
   "warnings": [
-    "Étape 1 : un lot de 25 articles a échoué (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwtZsHLStgh9AhuDgqjx'})",
-    "Étape 1 : un lot de 5 articles a échoué (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwtZsJpsYvUg7zupfPyf'})",
+    "Étape 1 : un lot de 5 articles a échoué (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwubLycaSFzcJx7VwP2w'})",
+    "Étape 1 : un lot de 25 articles a échoué (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwubM2bktZhQyVvNCoGt'})",
     "Étape 1 : 30 article(s) sans résumé du modèle (repli sur l'extrait)",
-    "Étape 2 : regroupement impossible (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwtZtaV2E224C3Y8yDLi'}) ; repli sur les articles d'importance ≥ 4"
+    "Étape 2 : regroupement impossible (Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: 2'}, 'request_id': 'req_011CfwubNKjphH3K7boSaQG8'}) ; repli sur les articles d'importance ≥ 4"
   ]
 }
