@@ -34,6 +34,10 @@ models:
 
 llm:
   temperature: null            # null = valeur par défaut du modèle (certains modèles refusent ce paramètre)
+  # Modèles Mistral : raisonnement (« none », « high » ; null = défaut du modèle). Mistral Large 4 raisonne par défaut :
+  # la trace consomme le budget max_tokens et peut tronquer le JSON. « none » = conditions comparables à Claude
+  # (utilisé ici sans réflexion étendue).
+  mistral_reasoning_effort: none
   workers: 4                   # appels simultanés
   batch_size: 25               # articles par appel à l'étape 1
   max_tokens_stage1: 4096

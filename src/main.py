@@ -79,7 +79,8 @@ def parse_modeles(spec: str | None, models: dict) -> dict:
 
 def make_llm(settings: dict):
     from .llm import LLM
-    return LLM(temperature=settings["llm"].get("temperature"))
+    return LLM(temperature=settings["llm"].get("temperature"),
+               mistral_reasoning_effort=settings["llm"].get("mistral_reasoning_effort"))
 
 
 def print_usage(llm):

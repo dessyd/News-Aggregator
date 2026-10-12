@@ -77,6 +77,9 @@ structurante, la plus récente en bas).
   Mistral ne proposant pas de fédération d'identité avec GitHub, la clé est un **secret statique** `MISTRAL_API_KEY`
   (exception assumée à D9, limitée au workflow d'essai, lancé à la main). Surcharge des modèles par `replay --modeles`
   et par le champ « Modèles de l'essai » du workflow ; `config/settings.yaml` reste la référence de la revue publiée.
+  Raisonnement Mistral (`llm.mistral_reasoning_effort`, `none` par défaut) : avec le raisonnement, la réponse est une liste
+  de morceaux (trace + texte) et la trace consomme `max_tokens` (premier essai Large 4 : JSON tronqué) ; `none` rapproche
+  les conditions de celles de Claude, utilisé sans réflexion étendue.
 
 ## À trancher
 - Liste définitive des flux (belges notamment) après `check-feeds`.

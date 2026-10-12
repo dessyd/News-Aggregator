@@ -33,8 +33,9 @@ class LLM:
     Chaque client n'est créé qu'au premier appel qui le concerne : un essai 100 % Mistral ne sollicite pas la fédération.
     """
 
-    def __init__(self, temperature=None, max_retries: int = 4):
+    def __init__(self, temperature=None, max_retries: int = 4, mistral_reasoning_effort=None):
         self.temperature = temperature
+        self.mistral_reasoning_effort = mistral_reasoning_effort
         self.max_retries = max_retries
         self.usage: dict[str, dict[str, int]] = {}
         self._lock = threading.Lock()
@@ -85,8 +86,10 @@ class LLM:
         }
         if self.temperature is not None:
             body["temperature"] = self.temperature
+        if self.mistral_reasoning_effort:
+            body["reasoning_effort"] = self.mistral_reasoning_effort
         data = self._post_mistral(body, key)
-        text = data["choices"][0]["message"]["content"] or ""
+        text = _mistral_text(data["choices"][0]["message"].get("content"))
         usage = data.get("usage") or {}
         return text, int(usage.get("prompt_tokens", 0)), int(usage.get("completion_tokens", 0))
 
@@ -114,6 +117,17 @@ class LLM:
                     continue
                 raise RuntimeError(f"API Mistral injoignable ({exc.reason})") from None
         raise RuntimeError("API Mistral : relances épuisées")  # pragma: no cover
+
+
+def _mistral_text(content) -> str:
+    """Texte de la réponse. Avec le raisonnement activé, Mistral renvoie une liste de morceaux :
+    {"type": "thinking", ...} (trace de raisonnement, ignorée) et {"type": "text", "text": ...} (réponse)."""
+    if isinstance(content, str):
+        return content
+    if isinstance(content, list):
+        return "".join(c.get("text", "") for c in content
+                       if isinstance(c, dict) and c.get("type") == "text")
+    return ""
 
 
 def _retry_delay(retry_after, attempt: int) -> float:

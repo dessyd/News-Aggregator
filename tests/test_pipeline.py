@@ -468,3 +468,22 @@ def test_replay_stops_early_when_a_mistral_model_lacks_its_key(monkeypatch, tmp_
     assert src.main.main(["replay", "--date", "2026-10-06", "--tag", "m", "--modeles", "mistral-small-latest"]) == 1
     assert "MISTRAL_API_KEY" in capsys.readouterr().out
     assert not (tmp_path / "runs").exists()
+
+
+def test_mistral_reasoning_chunks_keep_only_the_answer(monkeypatch):
+    monkeypatch.setenv("MISTRAL_API_KEY", "cle-de-test")
+    sent = []
+    content = [{"type": "thinking", "thinking": [{"type": "text", "text": "je réfléchis {pas du JSON"}]},
+               {"type": "text", "text": '{"ok": '}, {"type": "text", "text": "true}"}]
+
+    def fake_urlopen(req, timeout):
+        sent.append(json.loads(req.data))
+        return _Resp(json.dumps({"choices": [{"message": {"content": content}}],
+                                 "usage": {"prompt_tokens": 1, "completion_tokens": 1}}).encode())
+    monkeypatch.setattr(src.llm.urllib.request, "urlopen", fake_urlopen)
+    llm = LLM(mistral_reasoning_effort="none")
+    assert call_json(llm, "mistral-large-4", "s", "u", 10) == {"ok": True}
+    assert sent[0]["reasoning_effort"] == "none"
+    sent.clear()
+    LLM().complete("mistral-large-4", "s", "u", 10)
+    assert "reasoning_effort" not in sent[0]  # non configuré : paramètre absent, défaut du modèle
