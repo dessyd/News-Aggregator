@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-12",
+  "date_fr": "lundi 12 octobre 2026",
+  "generated_at": "2026-10-12T06:51:02+00:00",
+  "chapeau": "",
+  "topics": [],
+  "breves": [],
+  "stats": {
+    "articles": 30,
+    "sujets": 0,
+    "sources": 8,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "mistral-large-4",
+      "stage2": "mistral-large-4",
+      "stage3": "mistral-large-4",
+      "stage4": "mistral-large-4"
+    },
+    "prompts": "d40c9b52",
+    "usage": {
+      "mistral-large-4": {
+        "calls": 3,
+        "input_tokens": 8250,
+        "output_tokens": 12249
+      }
+    }
+  },
+  "warnings": [
+    "Étape 1 : un lot de 5 articles a échoué ('list' object has no attribute 'strip')",
+    "Étape 1 : un lot de 25 articles a échoué ('list' object has no attribute 'strip')",
+    "Étape 1 : 30 article(s) sans résumé du modèle (repli sur l'extrait)",
+    "Étape 2 : regroupement impossible ('list' object has no attribute 'strip') ; repli sur les articles d'importance ≥ 4"
+  ]
+}
