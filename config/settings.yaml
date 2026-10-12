@@ -24,6 +24,8 @@ collect:
 # Anthropic (https://docs.claude.com/en/docs/about-claude/models) : ils évoluent.
 # Étape 1 = beaucoup de petits textes -> modèle léger/économique.
 # Étapes 2 à 4 = regroupement et rédaction -> modèle plus capable.
+# Un nom commençant par « mistral », « magistral », « ministral »... est envoyé à l'API Mistral (MISTRAL_API_KEY) ;
+# pour un essai, préférer l'option --modeles de « replay » à une modification de ce fichier (voir README).
 models:
   stage1: claude-haiku-4-5
   stage2: claude-sonnet-5-5

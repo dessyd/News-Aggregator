@@ -107,16 +107,46 @@ Une variable absente, vide ou invalide est signalée dans les avertissements san
 Chaque essai archive les prompts utilisés, les sorties de chaque étape (`data/runs/<date>/<essai>/stage*.json`)
 et la revue finale, ce qui permet de justifier chaque choix éditorial.
 
+## Essayer Mistral au lieu de Claude
+
+Le fournisseur se déduit du nom du modèle : un nom commençant par `mistral`, `magistral`, `ministral`, etc. part chez
+Mistral, tout autre nom chez Anthropic. On peut donc tout confier à Mistral ou panacher les étapes.
+La revue quotidienne n'est pas concernée : l'essai se fait avec « Essai de prompts », sur les mêmes articles que `main`.
+
+**1. Enregistrer la clé API Mistral (une seule fois).** Créer une clé dans la console Mistral (*API Keys*), puis :
+- Dépôt → *Settings → Secrets and variables → Actions* → onglet **Secrets** (pas *Variables*) → *New repository secret*
+  → nom `MISTRAL_API_KEY`, valeur = la clé → *Add secret* ;
+- ou en ligne de commande (saisie masquée) : `gh secret set MISTRAL_API_KEY --repo dessyd/News-Aggregator`
+  (avec 1Password : `op read "op://<coffre>/<élément>/<champ>" | gh secret set MISTRAL_API_KEY --repo dessyd/News-Aggregator`).
+
+Un secret n'est jamais affiché, ni dans l'interface ni dans les journaux. Le workflow n'étant lancé qu'à la main,
+seules les personnes ayant les droits d'écriture sur le dépôt peuvent s'en servir. Cette clé ne gêne pas la fédération
+Anthropic (seule une `ANTHROPIC_API_KEY` la masquerait).
+
+**2. Lancer un essai.** Onglet *Actions* → « Essai de prompts » → *Run workflow* :
+- nom de l'essai : par exemple `mistral` ;
+- étape : **1** (tout rejouer) ;
+- champ « Modèles de l'essai » :
+  - `mistral-small-latest` → le même modèle pour les quatre étapes ;
+  - `1=mistral-small-latest,2=mistral-large-latest,3=mistral-large-latest,4=mistral-large-latest` → un modèle par étape ;
+  - `1=mistral-small-latest` → Mistral pour l'étape 1 seulement, Claude (settings.yaml) pour les suivantes.
+
+Pour un premier passage, renseigner aussi un nombre d'articles réduit (par exemple 30). Vérifier les identifiants de
+modèles disponibles dans la documentation Mistral : ils évoluent. Si la clé manque, l'essai s'arrête aussitôt sans rien publier.
+Les modèles utilisés et la consommation de jetons sont enregistrés dans `data/runs/<date>/<essai>/digest.json`.
+
 ## Utilisation en local (optionnel)
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 export ANTHROPIC_API_KEY=...            # local uniquement (GitHub Actions utilise la fédération) ; ou via 1Password CLI : op run -- python -m src.main ...
+export MISTRAL_API_KEY=...              # seulement pour les essais avec un modèle Mistral
 
 python -m src.main check-feeds                          # tester les flux
 python -m src.main run --limit 30 --no-publish          # essai économique, rien n'est publié
 python -m src.main replay --tag v2 --from-stage 3       # rejouer à partir de l'étape 3
+python -m src.main replay --tag mistral --limit 30 --modeles mistral-small-latest   # essai avec Mistral
 python -m src.main compare --a main --b v2              # comparaison côte à côte
 pytest                                                  # tests (aucun appel API)
 ```

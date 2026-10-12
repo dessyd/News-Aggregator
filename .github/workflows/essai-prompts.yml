@@ -26,6 +26,9 @@ on:
       limit:
         description: "Nombre max d'articles à l'étape 1 (vide = tous ; utile pour économiser)"
         required: false
+      modeles:
+        description: "Modèles de l'essai (vide = settings.yaml). Ex. mistral-small-latest, ou 1=mistral-small-latest,2=mistral-large-latest"
+        required: false
 
 permissions:
   id-token: write
@@ -69,10 +72,15 @@ jobs:
           DAY: ${{ inputs.date }}
           BASE_TAG: ${{ inputs.base_tag }}
           LIMIT: ${{ inputs.limit }}
+          MODELES: ${{ inputs.modeles }}
+          # Clé API Mistral (secret de dépôt), utilisée seulement si un modèle Mistral est demandé.
+          # Sans effet sur la fédération Anthropic (seule ANTHROPIC_API_KEY la masquerait).
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         run: |
           ARGS=(--tag "$TAG" --from-stage "$FROM_STAGE" --base-tag "$BASE_TAG" --publish-test)
           [ -n "$DAY" ] && ARGS+=(--date "$DAY")
           [ -n "$LIMIT" ] && ARGS+=(--limit "$LIMIT")
+          [ -n "$MODELES" ] && ARGS+=(--modeles "$MODELES")
           python -m src.main replay "${ARGS[@]}"
           CARGS=(--a "$BASE_TAG" --b "$TAG" --publish-test)
           [ -n "$DAY" ] && CARGS+=(--date "$DAY")

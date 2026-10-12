@@ -20,7 +20,7 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 ## Carte du dépôt
 
 - `src/` : `collect.py` (RSS, nettoyage, dédoublonnage), `pipeline.py` (4 étapes, garde-fous, formats de sortie),
-  `llm.py` (client API + extraction JSON), `render.py` (Jinja2, publication), `main.py` (CLI), `util.py`.
+  `llm.py` (clients Anthropic et Mistral, aiguillés par le nom du modèle, + extraction JSON), `render.py` (Jinja2, publication), `main.py` (CLI), `util.py`.
 - `prompts/` : consignes éditoriales (propriété du responsable éditorial). `config/` : `feeds.yaml`, `settings.yaml`.
 - `data/` : caches de collecte et essais (`data/cache/<date>`, `data/runs/<date>/<tag>`), versionnés, purgés après `retention_days`.
 - `docs/` : **sortie générée** servie par GitHub Pages. Ne pas éditer à la main. Ne pas y ranger de documentation de conception (voir `design/`).
@@ -32,15 +32,18 @@ Puis rendu HTML statique (`templates/`) publié dans `docs/` (GitHub Pages). Dé
 
 ```bash
 pip install -r requirements.txt
-pytest                                                    # 42 tests, faux modèle, aucun appel réseau ni clé API
+pytest                                                    # 48 tests, faux modèle, aucun appel réseau ni clé API
 python -m src.main check-feeds                            # vérifier les flux
 python -m src.main run --limit 30 --no-publish            # essai économique, rien n'est publié
 python -m src.main replay --tag v2 --from-stage 3         # rejouer les étapes LLM sur le cache
+python -m src.main replay --tag mistral --modeles mistral-small-latest   # essai avec Mistral (MISTRAL_API_KEY requise)
 python -m src.main compare --a main --b v2                # comparaison côte à côte
 ```
 
 En local, la clé API se fournit via `ANTHROPIC_API_KEY` (via un gestionnaire de secrets, par exemple 1Password CLI : `op run -- python -m src.main ...`). Ne jamais la committer.
 Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variables de dépôt `vars.ANTHROPIC_*`, voir D9). Ne jamais ajouter `ANTHROPIC_API_KEY` aux workflows : elle masquerait la fédération.
+Essais Mistral (D10) : secret de dépôt `MISTRAL_API_KEY`, transmis seulement au workflow d'essai ; un nom de modèle
+commençant par `mistral`, `magistral`, `ministral`… part chez Mistral, tout autre chez Anthropic.
 
 ## Règles à respecter
 
@@ -52,7 +55,7 @@ Sur GitHub Actions, pas de clé : fédération d'identité (jeton OIDC, variable
 - **Dégradation contrôlée** : une étape qui échoue doit se replier et ajouter un avertissement, jamais interrompre la revue.
 - **Pas de scraping du texte intégral** (paywalls, droit d'auteur) : on travaille sur titre + extrait des flux.
 - **Tests** : tout changement de pipeline ou de collecte s'accompagne d'un test avec `FakeLLM` (`tests/test_pipeline.py`).
-- **Identifiants de modèles** (`config/settings.yaml`) : à vérifier dans la documentation Anthropic, ils évoluent.
+- **Identifiants de modèles** (`config/settings.yaml`, `--modeles`) : à vérifier dans la documentation Anthropic ou Mistral, ils évoluent.
 - **Flux** (`config/feeds.yaml`) : seule l'URL RTBF a été validée ; les autres sont à contrôler avec `check-feeds`.
 - GitHub Pages est public : n'y publier que des synthèses courtes avec liens, page en `noindex`.
 
