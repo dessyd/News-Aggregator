@@ -1,0 +1,227 @@
+{
+  "sujets": [
+    {
+      "titre": "Budget wallon 2027 : annonces et réactions",
+      "ids": [
+        "adfc833f5",
+        "a7e1267c2",
+        "a33629bb9",
+        "a7790e7be",
+        "ac9196fa0",
+        "af5d47d00",
+        "a5f79c24f",
+        "a052b33b0",
+        "a42c28244",
+        "aaa4f516b"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Grève nationale du secteur public en Belgique",
+      "ids": [
+        "a2bdd4fdb",
+        "ad18a0fff",
+        "afe678579",
+        "add02bea8",
+        "a10800a87",
+        "aba871503",
+        "a0e849a83"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Négociations budgétaires de l'Arizona et report du discours de De Wever",
+      "ids": [
+        "a6526e410",
+        "acc526ef8",
+        "af70625cd",
+        "afb415382"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
+      "ids": [
+        "ac146a77e",
+        "ac7ebe991",
+        "aa4832d0a",
+        "a1c11be3c",
+        "afa8a0659",
+        "a65326f10"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Projet d'importation de diesel russe par les États-Unis",
+      "ids": [
+        "a6d7451fc",
+        "afc4dcfb7",
+        "a62d4d05f"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Tirs dans un collège d'Aubagne",
+      "ids": [
+        "a59f8f65c",
+        "a2fd94bdf",
+        "a1cac67fa"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Déclarations du chef militaire de l'OTAN",
+      "ids": [
+        "a7aab0e55",
+        "a02ceeb8d",
+        "a4b6dcf2c"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "RDC : Kabila et le M23 créent le Front pour la refondation de la nation",
+      "ids": [
+        "a32a3b207",
+        "ab76cf297"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Cessez-le-feu énergétique en Ukraine",
+      "ids": [
+        "a410eece1",
+        "ab7a10f86",
+        "a18a7416e",
+        "a9be4e47b"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Report des élections palestiniennes et critiques de l'Autorité palestinienne",
+      "ids": [
+        "ae36723ad",
+        "aef6c7ecf"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Crise au sein de la CDU et de la coalition de Merz",
+      "ids": [
+        "af22a8af3",
+        "a5638de87"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Suspension de l'aide flamande de 318 millions à ArcelorMittal",
+      "ids": [
+        "a2dbb72f4"
+      ],
+      "importance": 4,
+      "score": 41
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Le FMI pointe un décrochage de l'économie française",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Hausse des tarifs de l'énergie depuis le 1er octobre",
+      "url": "https://www.rtbf.be/article/nouveaux-tarifs-energie-depuis-le-1er-octobre-10-cents-le-kwh-de-gaz-un-prix-jamais-vu-pour-un-contrat-fixe-700-euros-en-plus-par-an-11793285",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Explosion dans le nord d'Israël",
+      "url": "https://www.lesoir.be/776328/article/2026-10-12/une-vingtaine-de-blesses-apres-une-explosion-dans-le-nord-disrael",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "22e paquet de sanctions européennes contre la Russie",
+      "url": "https://www.lesoir.be/776128/article/2026-10-11/leurope-va-t-elle-indefiniment-continuer-etrangler-leconomie-de-guerre-russe",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Mesures européennes envisagées sur la mobilité des Russes dans l'UE",
+      "url": "https://www.lalibre.be/international/europe/2026/10/12/les-europeens-envisagent-de-reduire-la-mobilite-des-russes-dans-lunion-F3IQYGBFSBGLNKTCURUK2YAELI/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Tensions près de la gare du Midi à Bruxelles",
+      "url": "https://www.levif.be/belgique/politique/regions/bruxelles/vives-tensions-pres-de-la-gare-du-midi-apres-des-appels-aux-rassemblements-sur-les-reseaux-sociaux-9-mineurs-interpelles/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : vignette et fiscalité automobile",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/la-fiscalite-automobile-sera-plus-chere-pour-de-nombreux-wallons-6MTKFTANXRCLNOV27JVKQO6SYQ/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Élections américaines de mi-mandat 2026",
+      "url": "https://www.rtbf.be/article/midterms-2026-diesel-russe-cheques-et-regles-electorales-les-multiples-man-uvres-de-trump-pour-faire-gagner-son-camp-11798548",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Cyberattaque contre les frigos de supermarchés français",
+      "url": "https://www.lesoir.be/776418/article/2026-10-12/des-frigos-de-centaines-de-supermarches-francais-rechauffes-par-des",
+      "source": "Le Soir",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : « job bonus » pour les travailleurs",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/pouvoir-dachat-le-gouvernement-wallon-prevoit-un-job-bonus-entre-50-et-500-euros-par-an-LBQPGOK3H5D4PJTXWRHKJYRVZQ/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : révision des droits de succession",
+      "url": "https://www.lalibre.be/culture/politique/2026/10/12/en-wallonie-les-droits-de-successions-seront-revus-mais-pas-de-maniere-aussi-genereuse-que-prevu-WB2FOFOYOVH55KLYX6ID2RXO2U/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Boucle du Hainaut : décision du gouvernement wallon sur le tracé",
+      "url": "https://www.lalibre.be/economie/conjoncture/2026/10/12/le-gouvernement-wallon-a-tranche-dans-le-dossier-de-la-boucle-du-hainaut-8-km-sur-85-km-seront-enterres-7LHDBCTU6RHEZLCWZRJ342XB4A/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Taxe de circulation à Bruxelles : entrée en vigueur prévue le 1er juillet 2027",
+      "url": "https://www.rtbf.be/article/a-bruxelles-la-nouvelle-taxe-de-circulation-devrait-entrer-en-vigueur-le-1er-juillet-2027-11799066",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Raphaël Glucksmann, candidat de la gauche à la présidentielle française",
+      "url": "https://www.levif.be/international/europe/france/raphael-glucksmann-elu-candidat-a-gauche-pour-lelection-presidentielle-2027-en-france-voici-tous-les-noms-deja-confirmes/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Perquisition au domicile d'Ilhan Omar",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "date": "2026-10-13",
+  "date_fr": "mardi 13 octobre 2026",
+  "generated_at": "2026-10-13T04:48:57+00:00",
+  "chapeau": "En Belgique, le gouvernement wallon a présenté son budget 2027, visant l'équilibre en 2029, tandis qu'une grève dans les services publics a perturbé le pays lundi. Bart De Wever ne prononcera pas son discours sur l'état de l'union mardi, faute d'accord budgétaire au sein de l'Arizona. À l'international, les Houthis ont frappé l'aéroport de Riyad, le projet américain d'importer du diesel russe suscite la controverse à Washington et la Russie est accusée de poursuivre ses frappes sur l'énergie ukrainienne malgré l'annonce d'un cessez-le-feu par Donald Trump.",
+  "topics": [
+    {
+      "titre": "Budget wallon 2027 : annonces et réactions",
+      "texte": "Le gouvernement wallon MR-Les Engagés a dévoilé lundi son budget 2027, avec pour cap un retour à l'équilibre en 2029. Selon Le Soir, il prévoit 1,3 milliard d'euros d'économies en trois ans, tout en préservant les allocations familiales et en instaurant une prime pour les travailleurs. L'Echo et La Libre évoquent pour leur part 400 millions d'économies en 2027, la plupart non détaillées à ce stade selon La Libre ; L'Echo note que le déficit se creuse en 2027. Le Soir cite des économies dans les organismes publics, les maisons de repos et le fonds des communes. L'opposition PS-PTB-Ecolo dénonce « un enfumage », et la FGTB, selon la RTBF, juge le budget « à bout de souffle ».",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "a33629bb9",
+        "adfc833f5",
+        "a7e1267c2",
+        "a7790e7be",
+        "af5d47d00",
+        "a052b33b0"
+      ],
+      "sources": [
+        {
+          "source": "L'Echo",
+          "titre": "Édito | En Wallonie, les miracles budgétaires n’existent pas",
+          "url": "https://www.lecho.be/r/t/1/id/10695346"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Présenté avec habileté, le budget wallon pèsera néanmoins sur les portefeuilles",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/presente-avec-habilete-le-budget-wallon-pesera-neanmoins-sur-les-portefeuilles-RB5R6VIWKZGSZGUACRA4MY6PUI/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Budget wallon : 1,3 milliard d’économies en trois ans pour arriver à l’équilibre en 2029",
+          "url": "https://www.lesoir.be/776403/article/2026-10-12/budget-wallon-13-milliard-deconomies-en-trois-ans-pour-arriver-lequilibre-en"
+        },
+        {
+          "source": "La Libre",
+          "titre": "\"Un enfumage qui cache une avalanche de mauvaises nouvelle\" : l'opposition vent debout contre le budget wallon",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/un-enfumage-qui-cache-une-avalanche-de-mauvaises-nouvelle-lopposition-vent-debout-contre-le-budget-wallon-CBQHJMRTCJDXNFSPS33DW5YSZE/"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Budget wallon : \"enfumage\" du gouvernement dénonce l'opposition, un budget \"à bout de souffle\" selon la FGTB",
+          "url": "https://www.rtbf.be/article/budget-wallon-enfumage-du-gouvernement-denonce-l-opposition-un-budget-a-bout-de-souffle-selon-la-fgtb-11798955"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Budget wallon : ce qu’il faut retenir des mesures annoncées par le gouvernement Dolimont",
+          "url": "https://www.lesoir.be/776332/article/2026-10-12/budget-wallon-ce-quil-faut-retenir-des-mesures-annoncees-par-le-gouvernement"
+        }
+      ],
+      "importance": 4,
+      "score": 45,
+      "nb_articles": 10
+    },
+    {
+      "titre": "Grève nationale du secteur public en Belgique",
+      "texte": "Une grève dans les services publics a perturbé la Belgique ce lundi 12 octobre, trois jours après une manifestation à Bruxelles. Selon Le Soir, elle vise à dénoncer le sous-financement des services publics et de nouvelles mesures budgétaires. Le Vif évoque un appel de la CGSP, suivi notamment à la SNCB, à la Stib et chez bpost, tandis que la VRT parle d'une action du syndicat socialiste ACOD. D'après la RTBF, la manifestation de vendredi a rassemblé 30.000 personnes. À Bruxelles, selon un porte-parole de la Stib cité par la VRT, bus et métros circulaient avec des temps d'attente doublés. La Libre indique que le trafic ferroviaire a repris normalement après 24 heures de grève.",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "a2bdd4fdb",
+        "ad18a0fff",
+        "afe678579",
+        "add02bea8",
+        "aba871503",
+        "a0e849a83"
+      ],
+      "sources": [
+        {
+          "source": "Le Vif",
+          "titre": "Journée de grève nationale: de bpost à la SNCB, le point sur les perturbations",
+          "url": "https://www.levif.be/belgique/social/mouvements-sociaux/journee-de-greve-nationale-a-linitiative-de-bpost-a-la-sncb-le-point-sur-les-perturbations/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Grève nationale : le point sur les perturbations secteur par secteur en Belgique",
+          "url": "https://www.lesoir.be/776241/article/2026-10-12/greve-nationale-le-point-sur-les-perturbations-secteur-par-secteur-en-belgique"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Grève des services publics : forte mobilisation de nombreux secteurs contre les économies annoncées",
+          "url": "https://www.rtbf.be/article/greve-des-services-publics-forte-mobilisation-de-nombreux-secteurs-contre-les-economies-annoncees-11798656"
+        },
+        {
+          "source": "VRT NWS (EN)",
+          "titre": "Strike action across the public sector",
+          "url": "https://vrtnws.be/p.LNDkn0d9M"
+        },
+        {
+          "source": "VRT NWS (EN)",
+          "titre": "Public sector strike hits buses and trams in Brussels",
+          "url": "https://vrtnws.be/p.NvXb0EqAO"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Le trafic ferroviaire reprend normalement après 24 heures de grève",
+          "url": "https://www.lalibre.be/belgique/mobilite/2026/10/12/le-trafic-ferroviaire-reprend-normalement-apres-24-heures-de-greve-445P775V65E37GLGMMBFHKUEVA/"
+        }
+      ],
+      "importance": 4,
+      "score": 45,
+      "nb_articles": 7
+    },
+    {
+      "titre": "Négociations budgétaires de l'Arizona et report du discours de De Wever",
+      "texte": "Bart De Wever ne prononcera pas mardi son discours sur l'état de l'union à la Chambre, faute d'accord au sein de la coalition Arizona sur le budget pluriannuel. Selon VRT NWS, son cabinet l'a annoncé dimanche, après une journée d'entretiens bilatéraux avec les partenaires de la majorité. La Libre y voit un échec politique pour le Premier ministre, tout en indiquant que la majorité espère toujours éviter le régime des douzièmes provisoires, une solution restant possible d'ici à la fin octobre. Le Vif évoque un leadership remis en question, y compris au sein de la coalition. La RTBF a consulté des notes sur les pistes qui bloquent : TVA, soins de santé, indexation et croissance.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "a6526e410",
+        "acc526ef8",
+        "af70625cd",
+        "afb415382"
+      ],
+      "sources": [
+        {
+          "source": "Le Vif",
+          "titre": "Sabotage ou manque de leadership? Pourquoi Bart De Wever rate toutes les négociations de l’Arizona",
+          "url": "https://www.levif.be/belgique/politique/sabotage-ou-manque-de-leadership-pourquoi-bart-de-wever-rate-toutes-les-negociations-de-larizona/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Pas (encore) de crise au fédéral: \"Une solution est possible d’ici à la fin octobre\"",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/pas-encore-de-crise-au-federal-une-solution-est-possible-dici-a-la-fin-octobre-P6QAWKI645HGNNNHRVTM5J46VQ/"
+        },
+        {
+          "source": "VRT NWS (EN)",
+          "titre": "No State of the Union on Tuesday as De Wever struggles to draft multi-year budget",
+          "url": "https://vrtnws.be/p.11vEKVJOe"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "TVA, soins de santé, indexation, croissance… Ces pistes budgétaires qui tétanisent l’Arizona",
+          "url": "https://www.rtbf.be/article/tva-soins-de-sante-indexation-croissance-ces-pistes-budgetaires-qui-tetanisent-l-arizona-11798403"
+        }
+      ],
+      "importance": 4,
+      "score": 44,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Suspension de l'aide flamande de 318 millions à ArcelorMittal",
+      "texte": "Le gouvernement flamand suspend une injection de capital de 318 millions d'euros destinée à la décarbonation de l'usine sidérurgique d'ArcelorMittal à Gand, rapporte L'Echo. Cette aide devait accompagner un investissement du groupe de plusieurs milliards d'euros. Selon le média, ArcelorMittal estime que le contexte n'est pas mûr pour lancer cet investissement. L'Echo parle d'une mise en pause de l'aide, sans préciser dans les éléments fournis la durée de cette suspension ni les conditions de sa levée éventuelle.",
+      "rubrique": "Économie",
+      "ids_sources": [
+        "a2dbb72f4"
+      ],
+      "sources": [
+        {
+          "source": "L'Echo",
+          "titre": "Le gouvernement flamand suspend une aide de 318 millions d'euros à ArcelorMittal",
+          "url": "https://www.lecho.be/r/t/1/id/10695343"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Attaques des Houthis contre l'Arabie saoudite",
+      "texte": "Les Houthis ont frappé l'aéroport international de Riyad et un autre site, une escalade significative selon la BBC, qui évoque 13 morts. Le Vif indique que le bilan des frappes contre l'aéroport, revendiquées par les Houthis, s'est alourdi. La BBC a diffusé des images de surveillance de l'impact d'un missile, survenu samedi. Un ministre saoudien a promis une réponse « sérieuse », rapporte la BBC. D'après Le Monde, Riyad réclame le soutien de Washington, jusqu'ici sans succès, tandis que les Houthis menacent d'une riposte « douloureuse » en cas d'intervention américaine. La BBC souligne que leurs frappes de précision et leurs tactiques de guérilla compliquent la riposte saoudienne.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ac146a77e",
+        "ac7ebe991",
+        "a1c11be3c",
+        "afa8a0659",
+        "a65326f10"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Monde",
+          "titre": "Frappes en Arabie saoudite : les houthistes du Yémen promettent une riposte « douloureuse » en cas d’intervention américaine",
+          "url": "https://www.lemonde.fr/international/article/2026/10/13/frappes-en-arabie-saoudite-les-houthistes-du-yemen-promettent-une-riposte-douloureuse-en-cas-d-intervention-americaine_6792876_3210.html"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Le bilan des frappes contre l’aéroport de Ryad, revendiquées par les Houthis, s’alourdit",
+          "url": "https://www.levif.be/international/live/le-fils-ancien-chah-appelle-les-forces-de-securite-a-rejoindre-le-peuple/le-bilan-des-frappes-contre-laeroport-de-ryad-revendiquees-par-les-houthis-salourdit-1358253/"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+          "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Why is it so hard to fight the Houthis?",
+          "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 44,
+      "nb_articles": 6
+    },
+    {
+      "titre": "Cessez-le-feu énergétique en Ukraine",
+      "texte": "Six sites énergétiques ukrainiens ont été frappés par la Russie depuis l'annonce par Donald Trump d'un cessez-le-feu sur les infrastructures énergétiques, affirme Volodymyr Zelensky, cité par la BBC. Selon le média britannique, Kiev dénonce la poursuite des frappes malgré cette annonce. Toujours d'après la BBC, le président ukrainien laisserait entendre qu'il accepterait une telle trêve, tandis que la Russie s'est peu exprimée. Le Kremlin a de son côté déclaré que la Russie n'observerait un cessez-le-feu que le jour des élections en Ukraine, rapporte Le Vif. La BBC souligne que les Ukrainiens affrontent un nouvel hiver marqué par des coupures d'électricité.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a410eece1",
+        "ab7a10f86",
+        "a18a7416e",
+        "a9be4e47b"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "La Russie observera uniquement un cessez-le-feu le jour des élections en Ukraine, dit le Kremlin",
+          "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/la-russie-observera-uniquement-un-cessez-le-feu-le-jour-des-elections-en-ukraine-dit-le-kremlin-546137/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Projet d'importation de diesel russe par les États-Unis",
+      "texte": "Le projet de Donald Trump d'importer du diesel russe, malgré les sanctions occidentales visant Moscou, suscite une vive controverse à Washington. Selon la BBC, des parlementaires républicains comme démocrates critiquent l'accord, annoncé quelques semaines avant les élections de mi-mandat. Le Monde évoque la « fureur » de nombreux élus et situe l'annonce à trois semaines du scrutin, dans un contexte où le président multiplierait les annonces pour éviter une déconvenue électorale. Le Vif avance que l'accord laisse entrevoir des intérêts financiers privés, de nouvelles concessions à Moscou et une menace pour le renseignement américain fourni à Kiev, sans que ces points soient détaillés dans les extraits disponibles.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a6d7451fc",
+        "afc4dcfb7",
+        "a62d4d05f"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
+          "url": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Trump faces growing backlash over plans to import diesel from Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "«Trump joue pour Poutine, il est désespéré»: les intérêts insoupçonnés derrière le deal entre la Russie et les Etats-Unis",
+          "url": "https://www.levif.be/international/trump-joue-pour-poutine-il-est-desespere-les-interets-insoupconnes-derriere-le-deal-entre-la-russie-et-les-etats-unis/"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "RDC : Kabila et le M23 créent le Front pour la refondation de la nation",
+      "texte": "L'ex-président congolais Joseph Kabila et le groupe M23 ont créé un mouvement politico-militaire, le Front pour la refondation de la nation (FRN), dont Kabila devient président, selon la RTBF. Le texte fondateur cité par la chaîne indique : « Est créé un mouvement politico-militaire Front pour la refondation de la nation (FRN) ». D'après La Libre, qui confirme la prise de tête de Joseph Kabila, ce dernier avait expliqué vendredi soir que Félix Tshisekedi avait enterré toutes les voies de négociation. Les extraits fournis ne précisent ni les objectifs détaillés du mouvement ni la réaction des autorités congolaises.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a32a3b207",
+        "ab76cf297"
+      ],
+      "sources": [
+        {
+          "source": "RTBF Info",
+          "titre": "RDC : l'ex-président Joseph Kabila et le groupe M23 s'unissent dans un mouvement politico-militaire",
+          "url": "https://www.rtbf.be/article/rdc-l-ex-president-joseph-kabila-et-le-groupe-m23-s-unissent-dans-un-mouvement-politico-militaire-11799147"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Joseph Kabila prend la tête du Front pour la Refondation de la Nation",
+          "url": "https://www.lalibre.be/international/afrique/2026/10/12/rdc-lex-president-joseph-kabila-et-le-groupe-m23-sunissent-dans-un-mouvement-politico-militaire-OWGN2F7DSJECROKPM44TZX45CE/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Report des élections palestiniennes et critiques de l'Autorité palestinienne",
+      "texte": "Les élections palestiniennes sont à nouveau reportées, les autorités palestiniennes invoquant les mesures israéliennes, selon la RTBF Info. Le média relève que les Palestiniens n'ont pas pu choisir leurs représentants sur l'ensemble des territoires depuis vingt ans, et s'interroge sur la nature de cette justification : réalité ou prétexte. De son côté, La Libre revient sur la reconnaissance de l'État de Palestine par Emmanuel Macron il y a un an. Le quotidien pose la question des institutions chargées d'exercer effectivement l'autorité et de l'État reconnu par la France, dans un texte consacré à la corruption reprochée à l'Autorité palestinienne.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ae36723ad",
+        "aef6c7ecf"
+      ],
+      "sources": [
+        {
+          "source": "RTBF Info",
+          "titre": "Les élections palestiniennes une nouvelle fois reportées \"à cause des mesures israéliennes\" : réalité ou prétexte ?",
+          "url": "https://www.rtbf.be/article/les-elections-palestiniennes-une-nouvelle-fois-reportees-a-cause-des-mesures-israeliennes-realite-ou-pretexte-11798936"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Autorité palestinienne : corruption de l’autorité ou autorité de corruption?",
+          "url": "https://www.lalibre.be/debats/opinions/2026/10/12/autorite-palestinienne-corruption-de-lautorite-ou-autorite-de-corruption-XZL3QSZWXNBHTOXXZ6OSLWIQYM/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Déclarations du chef militaire de l'OTAN",
+      "texte": "Le général américain Alexus Grynkewich, commandant en chef des forces alliées de l'OTAN, a affirmé à Varsovie que l'Alliance ne peut pas être attaquée par surprise, selon Le Monde. Son discours visait à rassurer les citoyens des pays membres face aux menaces russes, en réaffirmant l'engagement des États-Unis. Selon La Libre, il a déclaré que l'Alliance est prête à se battre « dès ce soir », en dépit d'annonces de Donald Trump que le quotidien décrit comme un rapprochement avec Moscou. D'après Le Soir, il a présenté une « théorie de la victoire » selon laquelle toute attaque contre les membres de l'OTAN serait rendue « totalement vaine ».",
+      "rubrique": "Europe",
+      "ids_sources": [
+        "a7aab0e55",
+        "a02ceeb8d",
+        "a4b6dcf2c"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Pour le chef des forces alliées de l’OTAN, « il est impossible que l’Alliance soit attaquée par surprise »",
+          "url": "https://www.lemonde.fr/international/article/2026/10/12/pour-le-chef-des-forces-alliees-de-l-otan-il-est-impossible-que-l-alliance-soit-attaquee-par-surprise_6792765_3210.html"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Alexandrus Grynkewich, Commandant en chef de l’Otan: \"Nous sommes prêts à nous battre dès ce soir\"",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/12/alexandrus-grynkewich-commandant-en-chef-de-lotan-nous-sommes-prets-a-nous-battre-des-ce-soir-AP6RILHJVZFABARFNAVPUE7U5Q/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "« Si on nous attaque, nous nous battrons » : le chef militaire de l’Otan présente sa « théorie de la victoire »",
+          "url": "https://www.lesoir.be/776368/article/2026-10-12/si-nous-attaque-nous-nous-battrons-le-chef-militaire-de-lotan-presente-sa"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Crise au sein de la CDU et de la coalition de Merz",
+      "texte": "La coalition du chancelier allemand Friedrich Merz est fragilisée par la démission soudaine, lundi, de la ministre du Travail Bärbel Bas, également codirigeante du Parti social-démocrate. Selon La Libre, elle se dit victime d'attaques venues des rangs conservateurs au sein du gouvernement. Le même jour, toujours d'après La Libre, la CDU du chancelier était en mode « réunion de crise » après les revers électoraux de septembre. Le quotidien décrit un parti fracturé sur le fond, la forme et la ligne à adopter envers l'extrême droite. Les premières réponses de la direction lundi pourraient ne pas suffire à rétablir la confiance, estime La Libre.",
+      "rubrique": "Europe",
+      "ids_sources": [
+        "af22a8af3",
+        "a5638de87"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "Les chrétiens-démocrates allemands du chancelier Merz sont divisés sur presque tous les sujets: \"C'est la crise la plus grave jamais vécue par la CDU\"",
+          "url": "https://www.lalibre.be/international/europe/2026/10/13/les-chretiens-democrates-allemands-du-chancelier-merz-sont-divises-sur-presque-tous-les-sujets-cest-la-crise-la-plus-grave-jamais-vecue-par-la-cdu-HAOFLIP5YJGCLOYJ3COYE5YD6M/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Allemagne: départ surprise de la ministre du Travail, la coalition de Merz fragilisée",
+          "url": "https://www.lalibre.be/international/europe/2026/10/12/allemagne-depart-surprise-de-la-ministre-du-travail-la-coalition-de-merz-fragilisee-AJH4IU5FDZHD7IJKZY4E4OPJLQ/"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Tirs dans un collège d'Aubagne",
+      "texte": "Un élève de 14 ans a été interpellé après avoir tiré sur le principal et une professeure du collège Joseph-Lakanal d'Aubagne, selon Le Monde, Le Soir et la BBC. D'après Le Monde et Le Soir, l'adolescent était armé d'un fusil de chasse, que le quotidien français dit avoir été introduit dans l'enceinte de l'établissement. La BBC évoque un principal et un enseignant blessés, tandis que les deux autres médias parlent d'une professeure. Le Monde précise que le mobile reste à établir et rapporte un témoignage d'élève : « Maman, il y a un tueur dans le collège ». Les articles fournis ne donnent pas d'indication sur l'état de santé des victimes.",
+      "rubrique": "Société",
+      "ids_sources": [
+        "a59f8f65c",
+        "a2fd94bdf",
+        "a1cac67fa"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Pupil arrested after two teachers shot at French school",
+          "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Monde",
+          "titre": "A Aubagne, un élève tire sur un principal et une professeure : « Maman, il y a un tueur dans le collège »",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/12/maman-il-y-a-un-tueur-dans-le-college-a-aubagne-un-eleve-tire-sur-un-principal-et-une-professeure_6792800_3224.html"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "France : un collégien tire sur son principal et une professeure avec un fusil de chasse",
+          "url": "https://www.lesoir.be/776281/article/2026-10-12/france-un-collegien-tire-sur-son-principal-et-une-professeure-avec-un-fusil-de"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 3
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Le FMI pointe un décrochage de l'économie française",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Hausse des tarifs de l'énergie depuis le 1er octobre",
+      "url": "https://www.rtbf.be/article/nouveaux-tarifs-energie-depuis-le-1er-octobre-10-cents-le-kwh-de-gaz-un-prix-jamais-vu-pour-un-contrat-fixe-700-euros-en-plus-par-an-11793285",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Explosion dans le nord d'Israël",
+      "url": "https://www.lesoir.be/776328/article/2026-10-12/une-vingtaine-de-blesses-apres-une-explosion-dans-le-nord-disrael",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "22e paquet de sanctions européennes contre la Russie",
+      "url": "https://www.lesoir.be/776128/article/2026-10-11/leurope-va-t-elle-indefiniment-continuer-etrangler-leconomie-de-guerre-russe",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Mesures européennes envisagées sur la mobilité des Russes dans l'UE",
+      "url": "https://www.lalibre.be/international/europe/2026/10/12/les-europeens-envisagent-de-reduire-la-mobilite-des-russes-dans-lunion-F3IQYGBFSBGLNKTCURUK2YAELI/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Tensions près de la gare du Midi à Bruxelles",
+      "url": "https://www.levif.be/belgique/politique/regions/bruxelles/vives-tensions-pres-de-la-gare-du-midi-apres-des-appels-aux-rassemblements-sur-les-reseaux-sociaux-9-mineurs-interpelles/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : vignette et fiscalité automobile",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/la-fiscalite-automobile-sera-plus-chere-pour-de-nombreux-wallons-6MTKFTANXRCLNOV27JVKQO6SYQ/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Élections américaines de mi-mandat 2026",
+      "url": "https://www.rtbf.be/article/midterms-2026-diesel-russe-cheques-et-regles-electorales-les-multiples-man-uvres-de-trump-pour-faire-gagner-son-camp-11798548",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Cyberattaque contre les frigos de supermarchés français",
+      "url": "https://www.lesoir.be/776418/article/2026-10-12/des-frigos-de-centaines-de-supermarches-francais-rechauffes-par-des",
+      "source": "Le Soir",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : « job bonus » pour les travailleurs",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/12/pouvoir-dachat-le-gouvernement-wallon-prevoit-un-job-bonus-entre-50-et-500-euros-par-an-LBQPGOK3H5D4PJTXWRHKJYRVZQ/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Budget wallon : révision des droits de succession",
+      "url": "https://www.lalibre.be/culture/politique/2026/10/12/en-wallonie-les-droits-de-successions-seront-revus-mais-pas-de-maniere-aussi-genereuse-que-prevu-WB2FOFOYOVH55KLYX6ID2RXO2U/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Boucle du Hainaut : décision du gouvernement wallon sur le tracé",
+      "url": "https://www.lalibre.be/economie/conjoncture/2026/10/12/le-gouvernement-wallon-a-tranche-dans-le-dossier-de-la-boucle-du-hainaut-8-km-sur-85-km-seront-enterres-7LHDBCTU6RHEZLCWZRJ342XB4A/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Taxe de circulation à Bruxelles : entrée en vigueur prévue le 1er juillet 2027",
+      "url": "https://www.rtbf.be/article/a-bruxelles-la-nouvelle-taxe-de-circulation-devrait-entrer-en-vigueur-le-1er-juillet-2027-11799066",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Raphaël Glucksmann, candidat de la gauche à la présidentielle française",
+      "url": "https://www.levif.be/international/europe/france/raphael-glucksmann-elu-candidat-a-gauche-pour-lelection-presidentielle-2027-en-france-voici-tous-les-noms-deja-confirmes/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Perquisition au domicile d'Ilhan Omar",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    }
+  ],
+  "stats": {
+    "articles": 189,
+    "sujets": 12,
+    "sources": 8,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "claude-haiku-4-5",
+      "stage2": "claude-sonnet-5-5",
+      "stage3": "claude-sonnet-5-5",
+      "stage4": "claude-sonnet-5-5"
+    },
+    "prompts": "d40c9b52",
+    "usage": {
+      "claude-haiku-4-5": {
+        "calls": 8,
+        "input_tokens": 30296,
+        "output_tokens": 16509
+      },
+      "claude-sonnet-5-5": {
+        "calls": 14,
+        "input_tokens": 49128,
+        "output_tokens": 9942
+      }
+    }
+  },
+  "warnings": []
+}
