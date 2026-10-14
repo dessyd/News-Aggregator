@@ -1,0 +1,230 @@
+{
+  "sujets": [
+    {
+      "titre": "Policier tué à Jette lors d'une intervention",
+      "ids": [
+        "a82161221",
+        "ad85e7a4d",
+        "a55725d8d",
+        "a12407686",
+        "a31975ff0",
+        "ab5745cae",
+        "a7a0be0e8",
+        "a2169af8b",
+        "a0a8612ec"
+      ],
+      "importance": 5,
+      "score": 55
+    },
+    {
+      "titre": "Opération du pape Léon XIV : le nodule retiré était cancéreux",
+      "ids": [
+        "a3ba9283b",
+        "a05344f73",
+        "a5fb33119",
+        "ac4a04c4c",
+        "ada696c53",
+        "a81182db8",
+        "aef63d1a2",
+        "a6046ffbb"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Frappe russe sur une centrale électrique de Kiev",
+      "ids": [
+        "af7c02a1a",
+        "a515fc0ab",
+        "a6f978aa5",
+        "a3061cfa4"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Budget fédéral : reprise des bilatérales par Bart De Wever",
+      "ids": [
+        "a996b9914",
+        "aee3c267e",
+        "a0585f52d",
+        "a51c97bfa"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Rentrée parlementaire sans budget : critiques de l'opposition à la Chambre",
+      "ids": [
+        "a306ca9ec",
+        "a0a3cb554",
+        "ae67655b5",
+        "a0a80e9d6",
+        "af5ad2688",
+        "a6526e410"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Réforme de la TVA dans les négociations budgétaires fédérales",
+      "ids": [
+        "a575ba7eb",
+        "a939cb5b8",
+        "aaeebcaa9"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Réforme du secondaire inférieur par la ministre Glatigny",
+      "ids": [
+        "a31ffa57e",
+        "a2af0f91f",
+        "acb5a484f"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Missiles houthis et frappes de la coalition entre l'Arabie saoudite et le Yémen",
+      "ids": [
+        "aa8608ca9",
+        "a91da9aa2",
+        "a6bbb8ad8"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Bank of America condamnée à une amende de 1,2 milliard de dollars",
+      "ids": [
+        "aaeba6a92",
+        "a3f8eb777"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Ligue des champions : victoire du Club de Bruges à l'Inter Milan (3-4)",
+      "ids": [
+        "a70100361",
+        "a1fb7dd14",
+        "a9b77e374"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Négociations d'adhésion de l'Ukraine et d'autres candidats à l'UE",
+      "ids": [
+        "aab8c775a",
+        "a9b046ce0"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Marchés : recul de la tech et gaz européen au plus haut depuis 2022",
+      "ids": [
+        "a2e6b27e5",
+        "a54b67053",
+        "a111222f4"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Avertissements du chef du MI5 sur la Russie, l'Iran et l'IA",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Marché immobilier belge : ventes en baisse et prix en hausse",
+      "url": "https://vrtnws.be/p.xZW1dENbD",
+      "source": "VRT NWS (EN)",
+      "importance": 4
+    },
+    {
+      "titre": "Homme tué par balle à Ixelles",
+      "url": "https://www.lesoir.be/776605/article/2026-10-13/ce-que-lon-sait-de-lhomme-tue-par-balle-lundi-soir-ixelles",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Marine Le Pen et les recettes économiques de Macron",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Procès à Allemagne d'un Ukrainien accusé du sabotage de Nord Stream",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Complot présumé contre le Premier ministre polonais Donald Tusk",
+      "url": "https://www.lalibre.be/international/europe/2026/10/13/en-pologne-le-suspect-dans-le-complot-visant-a-assassiner-le-premier-ministre-etait-en-possession-dengins-explosifs-artisanaux-Q66GEDU76BEHFOKDL7A74BOENI/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Élections législatives en Israël",
+      "url": "https://www.rtbf.be/article/elections-legislatives-en-israel-un-referendum-pour-ou-contre-benjamin-netanyahou-11799304",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Joseph Kabila prend la tête de la rébellion M23",
+      "url": "https://www.lesoir.be/776630/article/2026-10-13/kabila-prend-la-tete-de-la-rebellion-m23-une-guerre-civile-pourrait-se-propager",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Condamnation de Duane Davis pour le meurtre de Tupac Shakur",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/meurtre-de-tupac-shakur-duane-keffe-d-davis-condamne-a-quarante-ans-de-prison-minimum_6793214_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Mouvement lycéen en France",
+      "url": "https://www.levif.be/international/europe/france/en-france-le-mouvement-lyceen-gagne-les-universites-90-des-facs-sont-bloquees-ou-fermees/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Université Cornell : suspension des fêtes des fraternités après une accusation de viol collectif",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/affaire-de-viol-collectif-a-l-universite-de-cornell-l-etablissement-suspend-les-fetes-des-fraternites-ces-associations-etudiantes-masculines_6793247_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Limogeage de Kimberly Guilfoyle, ambassadrice américaine en Grèce",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-kimberly-guilfoyle-et-katie-zacharia-deux-femmes-de-pouvoir-a-l-epreuve-de-la-presidence-trump_6793281_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "OpenAI : arrestation d'un employé soupçonné d'avoir posé un micro",
+      "url": "https://www.lemonde.fr/international/article/2026/10/13/openai-annonce-l-arrestation-d-un-employe-soupconne-d-avoir-pose-un-micro-dans-l-entreprise_6793179_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Incident de cybersécurité chez Ahold Delhaize",
+      "url": "https://www.levif.be/economie/mon-argent/consommation/que-sest-il-passe-chez-delhaize-et-albert-heijn-le-groupe-rassure-apres-un-incident-de-cybersecurite/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Réforme des provinces en Wallonie",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/10/13/le-ps-veut-un-debat-public-sur-la-reforme-des-provinces-mais-se-rendra-comme-ecolo-a-la-reunion-organisee-par-le-gouvernement-wallon-NWTATFKPVJAQ5FJQD3O2U74QJI/",
+      "source": "La Libre",
+      "importance": 3
+    }
+  ]
+}
