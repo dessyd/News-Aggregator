@@ -1,0 +1,243 @@
+{
+  "sujets": [
+    {
+      "titre": "Restructuration chez GSK : 1.217 emplois menacés en Belgique",
+      "ids": [
+        "a90b500ef",
+        "ac5aa8179",
+        "a48783804",
+        "a90d204d3",
+        "ae74ccd13",
+        "ab2d9e25e",
+        "afe7689bb",
+        "a0563620b",
+        "a6a895f74",
+        "aeb4f592d",
+        "a64ddd5fb",
+        "a20f7ef64",
+        "a9174930b",
+        "a95c50c90",
+        "ac364ddbe",
+        "ad5de2e1d",
+        "aee6a1b71"
+      ],
+      "importance": 5,
+      "score": 55
+    },
+    {
+      "titre": "Accord Trump-Poutine sur le diesel russe et réactions de l'Ukraine",
+      "ids": [
+        "a26eecb89",
+        "a2bc09567",
+        "a3cbb1024",
+        "a104e1005"
+      ],
+      "importance": 5,
+      "score": 54
+    },
+    {
+      "titre": "Budget fédéral : nouvelle proposition de Bart De Wever",
+      "ids": [
+        "a30967732",
+        "a132f10bd",
+        "a62ae5daa",
+        "a0799876e",
+        "a996b9914",
+        "a3bb9b543"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Opération et cancer du poumon du pape Léon XIV",
+      "ids": [
+        "a221c6cb3",
+        "a7d7cdd1a",
+        "a088a9061",
+        "ad3bd697c",
+        "ab40b0bb5",
+        "a5d8ecfd9"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Étude de l'ULB sur les différences de peau entre sexes",
+      "ids": [
+        "a889f7ab4",
+        "a4ce3d052",
+        "a567ce01c",
+        "afb3412ed"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Budget wallon et mesures d'économies",
+      "ids": [
+        "a723b0260",
+        "ac663433d",
+        "ab19014ef",
+        "a041b9c67",
+        "a12b4194f",
+        "a7089c565",
+        "ac5c6160d"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Yvan Verougstraete n'exclut pas de nouvelles élections fédérales",
+      "ids": [
+        "a4b319a50",
+        "a58adbd01",
+        "ad82d55dc"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Netflix supprime environ 1.000 emplois",
+      "ids": [
+        "afad77414",
+        "a95bfff5f",
+        "aab72fcdb"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Starlink et les restrictions pour l'armée ukrainienne",
+      "ids": [
+        "a714d1f0b",
+        "a1938d0f5",
+        "a4943eb85",
+        "aeb6012de"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Tirs dans un collège d'Aubagne : un collégien de 14 ans en détention provisoire",
+      "ids": [
+        "a124cbb13",
+        "aa7236fdc",
+        "a19bb6bd6"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Mort du policier Nordine El Talbi à Jette",
+      "ids": [
+        "a34c5db4f",
+        "a95b11a64",
+        "a9b6c6f3f",
+        "a9636c9d1"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Le roi Philippe reçoit Volodymyr Zelensky à Bruxelles",
+      "ids": [
+        "a6f30c164",
+        "a1fbb5a11"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Inflation américaine de septembre et réaction des marchés",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Incendies et brouillard toxique en Indonésie",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Perquisitions en Belgique chez la famille de Félix Tshisekedi",
+      "url": "https://www.lesoir.be/776844/article/2026-10-14/les-quartiers-du-clan-tshisekedi-perquisitionnes-par-la-justice-belge",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Visées américaines sur le pétrole du Groenland",
+      "url": "https://www.lemonde.fr/international/article/2026/10/14/au-groenland-donald-trump-n-a-pas-abandonne-ses-visees-sur-le-petrole_6793780_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Endettement de la Belgique jugé insoutenable",
+      "url": "https://www.lalibre.be/economie/conjoncture/2026/10/14/comme-une-grenouille-dans-une-casserole-la-belgique-vers-un-endettement-insoutenable-Y7VJXSBJKFH3BD6OTEFAZNNTDA/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Hausse du nombre de bénéficiaires du RIS et services de CPAS fermés",
+      "url": "https://www.levif.be/belgique/social/plus-de-ris-que-de-chomeurs-les-cpas-contraints-de-fermer-des-services-pour-pallier-laugmentation-de-leurs-depenses/",
+      "source": "Le Vif",
+      "importance": 4
+    },
+    {
+      "titre": "Frappe de drone russe dans l'ouest de l'Ukraine",
+      "url": "https://www.lesoir.be/776809/article/2026-10-14/guerre-en-ukraine-une-frappe-de-drone-russe-fait-six-morts-dans-louest-du-pays",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Frappes russes sur Kyiv",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Procès en Allemagne d'un Ukrainien accusé dans l'affaire Nord Stream",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Corée du Nord : tests de missiles de croisière depuis des sous-marins",
+      "url": "https://www.lemonde.fr/international/article/2026/10/15/la-coree-du-nord-annonce-proceder-a-des-tests-de-missiles-de-croisiere-strategiques-depuis-des-sous-marins_6793897_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Grève dans le secteur public en République d'Irlande",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Deuxième cas d'Ebola confirmé au Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Navi Pillay critique les sanctions de Trump contre la CPI",
+      "url": "https://www.lalibre.be/international/amerique/2026/10/14/le-tacle-du-nouveau-prix-nobel-de-la-paix-a-donald-trump-appelez-vos-conseillers-quils-vous-expliquent-ce-quest-le-droit-international-XOADLE2EMJD7HNLLZBLTNX2PTU/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Mobilisation des lycéens en France",
+      "url": "https://www.levif.be/international/europe/france/eux-aussi-on-leur-disait-de-retourner-etudier-pourquoi-la-revolte-des-lyceens-francais-rappelle-mai-68/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Incidents maritimes et gaz qatari dans le golfe d'Oman et le détroit d'Ormuz",
+      "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-l-armee-americaine-confirme-avoir-detruit-un-navire-lie-a-l-iran-dans-le-golfe-d-oman-11800455",
+      "source": "RTBF Info",
+      "importance": 3
+    }
+  ]
+}
