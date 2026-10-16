@@ -1,0 +1,236 @@
+{
+  "sujets": [
+    {
+      "titre": "Visite de Zelensky à Bruxelles : roi, OTAN, sommet européen et soutien à l'Ukraine",
+      "ids": [
+        "aa164e286",
+        "a127c08da",
+        "aac485718",
+        "a8ec6cf2d",
+        "a4349b7a4",
+        "a7e2d3ace",
+        "a5ab3f294",
+        "a3d909adc"
+      ],
+      "importance": 5,
+      "score": 54
+    },
+    {
+      "titre": "Effondrement du toit d'une école au Pakistan",
+      "ids": [
+        "a702027aa",
+        "a4dfeead0",
+        "a1edc7aee"
+      ],
+      "importance": 5,
+      "score": 52
+    },
+    {
+      "titre": "Trump menace l'Iran de « la mère de toutes les bombes »",
+      "ids": [
+        "a37bcaaf9"
+      ],
+      "importance": 5,
+      "score": 51
+    },
+    {
+      "titre": "Budget fédéral belge 2027 : négociations et propositions de Bart De Wever",
+      "ids": [
+        "a545ad977",
+        "ac2d2dfb7",
+        "a80f9fb6d",
+        "a4b65fb54",
+        "aa46dab9d",
+        "a30967732",
+        "a10c64f69",
+        "a086accf2",
+        "a03cd0ffe",
+        "a80a5a06b"
+      ],
+      "importance": 4,
+      "score": 45
+    },
+    {
+      "titre": "Fusillade dans une école primaire de Bend (Oregon)",
+      "ids": [
+        "ab6fd4048",
+        "aec13367c",
+        "a8e8aea70",
+        "ac980c41f",
+        "a67038d42"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "GSK : suppressions d'emplois en Belgique et mobilisation syndicale",
+      "ids": [
+        "a6760549c",
+        "a708c8255",
+        "a7c0ae2d2",
+        "a8c007c12",
+        "aabda9bca",
+        "acc081e63",
+        "a67ddedf7",
+        "a752a4749",
+        "a47da54a2",
+        "a9f95340b",
+        "af3385645"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Virus du Nil occidental : deux décès en Belgique",
+      "ids": [
+        "a696f24f4",
+        "aae3fe71a",
+        "a49d86516",
+        "a26fcea31",
+        "a5e78d140"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Tensions entre Trump et Zelensky, reprise des frappes ukrainiennes sur les raffineries russes",
+      "ids": [
+        "a5bb480d4",
+        "a6944b733",
+        "a98fb856f"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Fusillade dans un collège d'Aubagne et mouvance « True Crime Community »",
+      "ids": [
+        "a1bfaed32",
+        "a9b0fe7f4"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Starlink et son usage militaire en Ukraine",
+      "ids": [
+        "ac6fa1133",
+        "addaaf34e",
+        "a1938d0f5"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Attaques russes en mer Noire : pétrolier et chimiquier touchés",
+      "ids": [
+        "a5d7c44b6",
+        "a2bc3b4bb"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Budget européen 2028-2034 : divergences entre les Vingt-Sept",
+      "ids": [
+        "a461e1959",
+        "ae870476c",
+        "a85d6fe6a"
+      ],
+      "importance": 4,
+      "score": 42
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Arrêt de la CJUE sur le remboursement des victimes de phishing",
+      "url": "https://www.lalibre.be/economie/mes-finances/2026/10/15/la-banque-doit-rembourser-immediatement-la-victime-de-phishing-meme-en-cas-de-negligence-cest-une-bombe-MOXXUIFHW5FJ7EAWDECHXZZVLQ/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Covestro supprime des emplois à Anvers",
+      "url": "https://www.lesoir.be/777042/article/2026-10-15/une-entreprise-prevoit-de-supprimer-260-emplois-en-belgique",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Prix de l'énergie : les Vingt-Sept divisés",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Accord franco-allemand sur les moteurs thermiques après 2035",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/15/made-in-europe-contre-moteurs-thermiques-le-marchandage-franco-allemand-pour-proteger-l-industrie-automobile-europeenne_6794795_3234.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Le Hezbollah et les explosifs saisis au Liban",
+      "url": "https://www.lemonde.fr/international/article/2026/10/15/liban-le-hezbollah-reconnait-qu-une-demi-tonne-d-explosifs-saisis-la-semaine-derniere-etaient-destines-a-la-resistance-contre-israel_6794798_3210.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Pologne : affrontements autour de la restauration de l'État de droit",
+      "url": "https://www.lesoir.be/777066/article/2026-10-15/en-pologne-la-restauration-de-letat-de-droit-tourne-laffrontement",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Menace américaine de sanctions contre la CPI",
+      "url": "https://www.lalibre.be/international/2026/10/15/face-aux-menaces-des-etats-unis-a-lencontre-de-la-cpi-lunion-europeenne-hesite-a-appliquer-le-statut-de-blocage-77EFXBXO35BIREHB3WUW5AOGEA/",
+      "source": "La Libre",
+      "importance": 4
+    },
+    {
+      "titre": "Logiciels espions diffusés via des publicités en ligne",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/15/comment-des-publicites-d-apparence-anodine-permettent-de-diffuser-des-logiciels-d-espion_6794574_4408996.html",
+      "source": "Le Monde",
+      "importance": 4
+    },
+    {
+      "titre": "Plus de personnes au CPAS qu'au chômage en Belgique",
+      "url": "https://www.rtbf.be/article/il-y-a-desormais-plus-de-personnes-au-cpas-qu-au-chomage-en-belgique-je-vis-ca-comme-une-humiliation-une-injustice-11800770",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Collision entre un bus et un train au tunnel sous la Manche",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Exécution de Nidal Hasan : Trump renonce à la retransmission en direct",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 3
+    },
+    {
+      "titre": "Mobilisation des lycéens en France",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/16/mouvement-lyceen-un-mois-de-mobilisation-et-le-pari-de-la-convergence-jeunes-et-jaunes_6795111_3224.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Maduro plaide non coupable dans l'affaire de torture à New York",
+      "url": "https://www.lalibre.be/international/amerique/2026/10/15/accuses-de-torture-nicolas-maduro-et-cilia-flores-plaident-non-coupable-EO2N6PLGDZCRRGGPFCPCPH76JY/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Affaire Balogun : la FIFA va modifier son code disciplinaire",
+      "url": "https://www.lalibre.be/sports/football/coupe-du-monde/2026/10/15/apres-la-polemique-balogun-au-mondial-2026-la-fifa-va-modifier-son-code-disciplinaire-SKY5O6NPV5BHXAD546VJP7WEZA/",
+      "source": "La Libre",
+      "importance": 3
+    },
+    {
+      "titre": "Attaques des Houthis au Yémen et contre l'Arabie saoudite",
+      "url": "https://www.lalibre.be/international/moyen-orient/2026/10/16/le-deluge-de-feu-des-houthis-affaiblit-le-royaume-saoudien-cest-un-revers-strategique-consequent-pour-larabie-saoudite-en-particulier-pour-mbs-5EJXRRBBO5CLBCC74LWZMYGZ4M/",
+      "source": "La Libre",
+      "importance": 3
+    }
+  ]
+}
