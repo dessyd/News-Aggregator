@@ -1,0 +1,469 @@
+{
+  "date": "2026-10-17",
+  "date_fr": "samedi 17 octobre 2026",
+  "generated_at": "2026-10-17T04:49:01+00:00",
+  "chapeau": "Au sommet européen de Bruxelles, Volodymyr Zelensky a réclamé 70 milliards d'euros supplémentaires pour 2027, tandis que Donald Trump est en tension avec Kiev sur le soutien militaire et a renoncé à appliquer plusieurs sanctions contre la Russie. En Belgique, le jury de la cour d'assises de Gand a reconnu Dave De Kock coupable de la mort du petit Dean, et le gouvernement fédéral reprend ses discussions budgétaires autour d'une proposition de Bart De Wever visant un effort de quatre milliards d'euros en 2027. Par ailleurs, trois enfants et une enseignante ont été tués dans une école primaire de l'Oregon, et aucun des sept candidats à la succession d'António Guterres à l'ONU ne fait consensus.",
+  "topics": [
+    {
+      "titre": "Procès de la mort du petit Dean : verdict",
+      "texte": "Le jury de la cour d'assises de Gand a reconnu Dave De Kock coupable de la mort du petit Dean, 4 ans, selon Le Soir, la RTBF et La Libre. Les termes diffèrent : Le Soir évoque un homicide dans son extrait et un meurtre dans son titre, tandis que la RTBF et La Libre parlent de meurtre. Romy Wuytack, ex-compagne de l'accusé selon La Libre, a été acquittée du chef d'enlèvement. D'après la RTBF, le corps de l'enfant a été retrouvé le 17 janvier 2022 aux Pays-Bas, après un séjour chez le couple. La Libre rappelle que Dean avait été confié à un récidiviste.",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "aa05037e2",
+        "ab13f2f0d",
+        "ad34958f9",
+        "a8a1ee3e9"
+      ],
+      "sources": [
+        {
+          "source": "Le Soir",
+          "titre": "Mort du petit Dean : Dave De Kock coupable du meurtre",
+          "url": "https://www.lesoir.be/777379/article/2026-10-16/mort-du-petit-dean-dave-de-kock-coupable-du-meurtre"
+        },
+        {
+          "source": "RTBF Info",
+          "titre": "Mort de Dean (4 ans) : Dave De Kock coupable de meurtre, Romy Wuytack acquittée du chef d’enlèvement",
+          "url": "https://www.rtbf.be/article/mort-de-dean-4-ans-dave-de-kock-coupable-de-meurtre-romy-wuytack-acquittee-du-chef-d-enlevement-11801633"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Mort du petit Dean: Dave De Kock est reconnu coupable, son ex-compagne acquittée de l'enlèvement",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/16/mort-du-petit-dean-dave-de-kock-est-reconnu-coupable-son-ex-compagne-acquittee-de-lenlevement-BZH2ADIOGVBGRMVH6XQKSGAQXU/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Mort du petit Dean : le jury est parti en délibération",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/16/mort-du-petit-dean-le-jury-est-parti-en-deliberation-YDLTGNJWZZCTRGZZFXHGQ3DIB4/"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 4
+    },
+    {
+      "titre": "Négociations sur le budget fédéral belge",
+      "texte": "Le gouvernement fédéral reprend samedi matin ses discussions budgétaires en comité restreint (kern), pour examiner une nouvelle proposition du Premier ministre Bart De Wever (N-VA). Selon Le Soir, celle-ci vise un effort de quatre milliards d'euros en 2027 et repose sur une nouvelle formule de « bouton d'urgence ». Le Vif indique que le conseil des ministres « remettra l'ouvrage sur le métier » et publie le menu des discussions. Par ailleurs, d'après Le Soir, la suppression des écochèques, prévue dans la déclaration politique fédérale, circule dans les débats budgétaires, mais les interlocuteurs sociaux ont pointé plusieurs obstacles à toute alternative.",
+      "rubrique": "Politique",
+      "ids_sources": [
+        "ad0eb70fd",
+        "a90d11310",
+        "a15076923"
+      ],
+      "sources": [
+        {
+          "source": "Le Vif",
+          "titre": "Le gouvernement reprendra ses travaux sur le budget samedi matin: voici le menu des discussions",
+          "url": "https://www.levif.be/belgique/politique/le-gouvernement-reprendra-ses-travaux-sur-le-budget-samedi-matin-voici-le-menu-des-discussions/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Budget fédéral : les négociations reprennent samedi avec une nouvelle formule de « bouton d’urgence »",
+          "url": "https://www.lesoir.be/777332/article/2026-10-16/budget-federal-les-negociations-reprennent-samedi-avec-une-nouvelle-formule-de"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Budget fédéral : existe-t-il une alternative aux écochèques ?",
+          "url": "https://www.lesoir.be/777344/article/2026-10-16/budget-federal-existe-t-il-une-alternative-aux-ecocheques"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Procédure judiciaire après la mort du policier Nordine El Talbi",
+      "texte": "Un inculpé dans l'enquête sur le meurtre du policier Nordine El Talbi a clamé son innocence lors d'une audience publique, ce vendredi. Selon Le Soir, S.E. était cité devant le tribunal correctionnel parce que le parquet souhaite révoquer le sursis probatoire dont il bénéficiait, à la suite de précédentes condamnations. Il a affirmé avoir lui-même été séquestré dans le véhicule volé à Tubize et retrouvé à Jette, où le meurtre a eu lieu. La Libre indique qu'il est l'un des deux suspects dans cette affaire et rapporte son appel : « Que la justice prenne ses responsabilités ».",
+      "rubrique": "Belgique",
+      "ids_sources": [
+        "a89b80e66",
+        "a3260f820"
+      ],
+      "sources": [
+        {
+          "source": "Le Soir",
+          "titre": "Meurtre du policier Nordine El Talbi : un inculpé comparaît en audience publique et clame son innocence",
+          "url": "https://www.lesoir.be/777316/article/2026-10-16/meurtre-du-policier-nordine-el-talbi-un-inculpe-comparait-en-audience-publique"
+        },
+        {
+          "source": "La Libre",
+          "titre": "L'un des suspects dans la mort d'un policier en intervention à Jette clame son innocence : \"Que la justice prenne ses responsabilités\"",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/16/lun-des-suspects-dans-la-mort-dun-policier-en-intervention-a-jette-clame-son-innocence-que-la-justice-prenne-ses-responsabilites-D2K5FPIJRJGIXCB47UDDRNZGZQ/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Zelensky demande 70 milliards d'euros à l'UE à Bruxelles",
+      "texte": "Volodymyr Zelensky a réclamé vendredi 70 milliards d'euros supplémentaires aux Européens pour 2027, lors d'un sommet des Vingt-Sept à Bruxelles, selon La Libre et Le Vif. Selon La Libre, cette somme doit permettre à l'Ukraine de passer l'hiver et de se défendre face à la Russie, les dirigeants européens voulant afficher leur soutien après le revirement américain. Le Soir indique que Zelensky repart avec la promesse de F-16 belges, mais sans accord sur les avoirs russes gelés, et que ces 70 milliards restent « à dénicher ». Toujours selon Le Soir, l'UE prépare un 22e paquet de sanctions contre Moscou et affirme ne lever aucune sanction.",
+      "rubrique": "Europe",
+      "ids_sources": [
+        "ae916d99c",
+        "ad83ff497",
+        "a419845f2",
+        "a8e15970a",
+        "ad5b9e608"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "L’Ukraine “a besoin de 70 milliards d’euros de plus” de la part de ses alliés européens",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/16/lukraine-a-besoin-de-70-milliards-deuros-de-plus-de-la-part-de-ses-allies-europeens-LV2N667UXRBF3DAQHDG4U3NHAU/"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "A Bruxelles, Zelensky réclame 70 milliards d’euros supplémentaires à l’UE: «C’est un montant réaliste»",
+          "url": "https://www.levif.be/international/ukraine/live/guerre_en_ukraine/a-bruxelles-zelensky-reclame-70-milliards-deuros-supplementaires-a-lue-cest-un-montant-realiste-546137/"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Guerre en Ukraine : Zelensky réclame à l'UE 70 milliards d'euros en plus en 2027",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/16/guerre-en-ukraine-zelensky-reclame-a-lue-70-milliards-deuros-en-plus-en-2027-F2Q5TBNJHNC6RGZT3XHCBUIC54/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Guerre en Ukraine : Zelensky réclame à l’UE 70 milliards d’euros en plus en 2027",
+          "url": "https://www.lesoir.be/777292/article/2026-10-16/guerre-en-ukraine-zelensky-reclame-lue-70-milliards-deuros-en-plus-en-2027"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "Zelensky quitte Bruxelles avec la promesse de F-16 belges, mais rien sur les avoirs russes « gelés »",
+          "url": "https://www.lesoir.be/777361/article/2026-10-16/zelensky-quitte-bruxelles-avec-la-promesse-de-f-16-belges-mais-rien-sur-les"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "« Nous ne lèverons aucune sanction » : l’UE maintient la pression sur la Russie avec Zelensky à Bruxelles",
+          "url": "https://www.lesoir.be/777284/article/2026-10-16/nous-ne-leverons-aucune-sanction-lue-maintient-la-pression-sur-la-russie-avec"
+        }
+      ],
+      "importance": 4,
+      "score": 43,
+      "nb_articles": 5
+    },
+    {
+      "titre": "Prix de l'énergie au Conseil européen",
+      "texte": "Les Vingt-Sept ont appelé à des mesures contre les prix élevés de l'énergie lors du Conseil européen, mais ne se sont pas accordés sur un éventuel nouveau report de l'ETS2, selon Le Soir. Ce dispositif correspond à la future taxe carbone sur le transport routier et le chauffage des bâtiments. Le quotidien indique que la crise énergétique ravive les tensions entre sécurité d'approvisionnement et objectifs climatiques. Dans son titre, Le Soir évoque par ailleurs un assouplissement du calendrier relatif au méthane, sans que l'extrait fourni en détaille les modalités. Le calendrier de l'ETS2, lui, n'a pas été desserré.",
+      "rubrique": "Europe",
+      "ids_sources": [
+        "a9b362a80"
+      ],
+      "sources": [
+        {
+          "source": "Le Soir",
+          "titre": "Prix de l’énergie : l’UE desserre le calendrier du méthane, mais pas celui de la taxe carbone",
+          "url": "https://www.lesoir.be/777263/article/2026-10-16/prix-de-lenergie-lue-desserre-le-calendrier-du-methane-mais-pas-celui-de-la-taxe"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Tensions entre Trump et l'Ukraine sur le soutien militaire",
+      "texte": "Donald Trump est au cœur de tensions croissantes avec Kiev sur le soutien militaire américain. Selon Le Vif, il menace de suspendre le partage de renseignements, ce qui fragiliserait la défense antiaérienne ukrainienne. La BBC rapporte qu'il dément avoir limité l'accès de l'Ukraine à Starlink, alors que des réductions de débit auraient entravé les défenses lors d'attaques russes. Le Soir indique qu'il a critiqué Volodymyr Zelensky après des frappes sur des raffineries russes, qu'il estime hausser le prix du pétrole. Le ministre italien de la Défense, Guido Crosetto, juge auprès de la BBC que Washington a « complètement tort ». Selon La Libre, Zelensky évoque un « contact permanent » avec les États-Unis et une rencontre possible « dans les prochains jours ».",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a5bb480d4",
+        "a0e2aa49c",
+        "a754384fd",
+        "a277e5050",
+        "ad5e70ab1"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Trump denies limiting Ukraine access to Starlink network",
+          "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Vif",
+          "titre": "Renseignement américain: Trump joue-t-il avec la sécurité des Ukrainiens pour faire plier Zelensky? «Il a du sang sur les mains»",
+          "url": "https://www.levif.be/international/renseignement-americain-trump-joue-t-il-avec-la-securite-des-ukrainiens-pour-faire-plier-zelensky-il-a-du-sang-sur-les-mains/"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "La Libre",
+          "titre": "L'Ukraine est en \"contact permanent\" avec les Etats-Unis, une rencontre possible \"dans les prochains jours\"",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/16/lukraine-est-en-contact-permanent-avec-les-etats-unis-une-rencontre-possible-dans-les-prochains-jours-6P43YVIETNGKRAE5DGPCVV57MQ/"
+        },
+        {
+          "source": "Le Soir",
+          "titre": "« Une honte » : Donald Trump agacé par la reprise des frappes ukrainiennes sur les raffineries russes",
+          "url": "https://www.lesoir.be/777171/article/2026-10-16/une-honte-donald-trump-agace-par-la-reprise-des-frappes-ukrainiennes-sur-les"
+        }
+      ],
+      "importance": 4,
+      "score": 44,
+      "nb_articles": 7
+    },
+    {
+      "titre": "Levée de sanctions américaines contre la Russie",
+      "texte": "Donald Trump a renoncé à appliquer plusieurs sanctions contre la Russie alors qu'entre en vigueur une nouvelle loi américaine visant à punir Moscou pour sa guerre en Ukraine, selon la BBC. Le président américain estime que certaines dispositions de ce texte vont à l'encontre des intérêts nationaux des États-Unis. Par ailleurs, d'après Le Monde, Emmanuel Macron a critiqué un accord conclu entre Moscou et Washington sur le diesel russe, qu'il juge « inapproprié, inefficace ». Le président français a aussi affirmé que les Européens « ne lâcheront pas l'Ukraine ». Selon le quotidien, Ursula von der Leyen a confirmé le besoin de 70 milliards d'euros en 2027 réclamé par Volodymyr Zelensky.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ab6bb1637",
+        "a06c3fe0e"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Trump waives several Russia sanctions as new US law takes effect",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Le Monde",
+          "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
+          "url": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Appel du pape à Poutine pour un cessez-le-feu à Olechky",
+      "texte": "Le pape Léon XIV a demandé au président russe Vladimir Poutine un cessez-le-feu à Olechky, lors d'un entretien téléphonique, a indiqué vendredi le Vatican, selon La Libre. Olechky est une ville ukrainienne située sur les rives du Dniepr, prise en étau entre les deux armées et située sur la ligne de front. Les éléments disponibles proviennent uniquement de la communication du Vatican, rapportée par La Libre. L'article ne précise ni la réponse de Vladimir Poutine à cette demande, ni la date exacte de l'échange, ni la position des autorités ukrainiennes.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a7bff0f9b"
+      ],
+      "sources": [
+        {
+          "source": "La Libre",
+          "titre": "Guerre en Ukraine : le pape a demandé à Poutine un cessez-le-feu à Olechky",
+          "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/10/16/guerre-en-ukraine-le-pape-a-demande-a-poutine-un-cessez-le-feu-a-olechky-OYSPLFDP5VC3HFJ5EW6J6CLBPM/"
+        }
+      ],
+      "importance": 4,
+      "score": 41,
+      "nb_articles": 1
+    },
+    {
+      "titre": "Fusillade dans une école primaire de l'Oregon",
+      "texte": "Trois enfants et une enseignante ont été tués jeudi à l'école primaire Silver Rail, à Bend, dans l'Oregon, par un adolescent de 16 ans soupçonné d'être l'auteur des tirs, selon Le Monde et la BBC. D'après la police locale citée par la BBC, les victimes sont âgées de 5, 8 et 11 ans. Le suspect, ancien élève de l'établissement, aurait visé une classe d'enseignement spécialisé, précise la BBC, tandis que Le Monde indique qu'il y avait été scolarisé dans une classe spécialisée. Il a été abattu par le père de deux élèves. Selon la BBC, un professeur avait auparavant tenté de s'opposer à l'agresseur, qui a reçu plusieurs tirs. Les articles ne donnent pas d'information sur les motivations du suspect.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "ab00d92b1",
+        "a8d691fdb",
+        "a8e8aea70"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
+          "url": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html"
+        },
+        {
+          "source": "BBC World",
+          "titre": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "titre": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 3
+    },
+    {
+      "titre": "Succession d'António Guterres à l'ONU",
+      "texte": "Aucun des sept candidats déclarés à la succession d'António Guterres à la tête de l'ONU ne fait consensus après un vote indicatif au Conseil de sécurité. Selon Le Monde, chacun a reçu au moins un vote négatif de la Chine, des États-Unis, de la France, du Royaume-Uni ou de la Russie. La Libre indique de même qu'aucun n'a échappé à un avis négatif d'une grande puissance et que la succession reste ouverte. D'après Le Monde, la Costaricaine Rebeca Grynspan demeure en tête de ce scrutin, qui n'est encore qu'indicatif.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a38741d71",
+        "a0dcbf51b"
+      ],
+      "sources": [
+        {
+          "source": "Le Monde",
+          "titre": "Succession d’Antonio Guterres à l’ONU : aucun candidat ne fait consensus",
+          "url": "https://www.lemonde.fr/international/article/2026/10/17/prochain-secretaire-general-de-l-onu-aucun-candidat-ne-fait-consensus-pour-succeder-a-antonio-guterres_6795742_3210.html"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Nouveau secrétaire général de l’ONU : aucun candidat ne convainc les cinq grandes puissances pour succéder à António Guterres",
+          "url": "https://www.lalibre.be/international/2026/10/16/nouveau-secretaire-general-de-lonu-aucun-candidat-ne-convainc-les-cinq-grandes-puissances-pour-succeder-a-antonio-guterres-6NVEEYLBB5GR3P3DUGCOWMGHEM/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Santé du pape Léon XIV après son opération",
+      "texte": "Le Vatican a diffusé vendredi les premières photos officielles du pape Léon XIV depuis son opération de mardi, accompagnées de nouvelles rassurantes sur sa santé. Selon La Libre, le souverain pontife poursuit sa convalescence après l'ablation d'un nodule cancéreux au poumon, et ses médecins font état d'une amélioration constante de son état. La BBC précise que l'intervention a eu lieu à l'hôpital Gemelli de Rome et qu'un cancer du poumon a été diagnostiqué après l'opération. Les deux médias présentent ces images comme les premières du pape depuis son intervention chirurgicale.",
+      "rubrique": "Monde",
+      "ids_sources": [
+        "a89cb380f",
+        "a22641762"
+      ],
+      "sources": [
+        {
+          "source": "BBC World",
+          "titre": "Pope pictured for first time since surgery and cancer diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "La Libre",
+          "titre": "Le Vatican donne des nouvelles rassurantes du pape et dévoile les premières photos du souverain pontife depuis son opération (PHOTOS)",
+          "url": "https://www.lalibre.be/international/europe/2026/10/16/le-vatican-donne-des-nouvelles-rassurantes-du-pape-et-devoile-les-premieres-photos-du-souverain-pontife-depuis-son-operation-photos-NHWQ3ISKZZBB5ADOJKI3PM2G2U/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    },
+    {
+      "titre": "Retraite de David Goffin",
+      "texte": "David Goffin mettra un terme à sa carrière la semaine prochaine, lors de l'European Open de Bruxelles, devant son public, selon L'Echo. Le quotidien présente le joueur comme le meilleur Belge de l'histoire du tennis et rappelle qu'il est le seul de ses compatriotes à avoir battu Roger Federer, Rafael Nadal et Novak Djokovic. Dans La Libre, Kristoff Puelinckx, cofondateur et CEO de Tennium, société à l'origine du tournoi, qualifie d'« honneur » le fait d'organiser la sortie de Goffin. Il évoque aussi la bonne santé du tennis mondial et l'avenir de l'épreuve bruxelloise.",
+      "rubrique": "Sport",
+      "ids_sources": [
+        "aacb4cf95",
+        "abe5e5a8f"
+      ],
+      "sources": [
+        {
+          "source": "L'Echo",
+          "titre": "Portrait. Jeu, set et match: David Goffin raccroche sa raquette",
+          "url": "https://www.lecho.be/r/t/1/id/10695990"
+        },
+        {
+          "source": "La Libre",
+          "titre": "“Un honneur d’organiser la sortie de David Goffin”",
+          "url": "https://www.lalibre.be/sports/tennis/2026/10/16/un-honneur-dorganiser-la-sortie-de-david-goffin-NCSMWOTBFNBETM4AMB2I2T473U/"
+        }
+      ],
+      "importance": 4,
+      "score": 42,
+      "nb_articles": 2
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Prise de contrôle russe de filiales européennes",
+      "url": "https://www.rtbf.be/article/friedrich-merz-et-maxime-prevot-reagissent-apres-la-prise-de-controle-russe-de-filiales-europeennes-11801563",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Attaques de navires près du détroit d'Ormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Militants russes expulsés de l'UE et des États-Unis",
+      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Fonte du glacier Thwaites",
+      "url": "https://www.lesoir.be/777231/article/2026-10-16/le-glacier-de-lapocalypse-fond-plus-rapidement-que-prevu",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Remboursement des victimes d'arnaques en ligne par les banques",
+      "url": "https://www.lesoir.be/777356/article/2026-10-16/union-europeenne-quest-ce-qui-va-changer-pour-les-victimes-darnaques-en-ligne",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Peter Praet met en garde contre un accident économique",
+      "url": "https://www.lecho.be/r/t/1/id/10696043",
+      "source": "L'Echo",
+      "importance": 4
+    },
+    {
+      "titre": "Départ de la porte-parole de la Maison-Blanche Katie Zacharia",
+      "url": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Restructuration de GSK en Wallonie",
+      "url": "https://www.lecho.be/r/t/1/id/10696026",
+      "source": "L'Echo",
+      "importance": 3
+    },
+    {
+      "titre": "Mobilisation du 17 octobre en France",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Calendrier du prochain rapport du Giec",
+      "url": "https://www.rtbf.be/article/climat-le-giec-en-crise-la-publication-de-son-prochain-rapport-devra-attendre-11801662",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Hommage au policier Nordine El Talbi",
+      "url": "https://www.levif.be/belgique/politique/regions/bruxelles/cette-ceremonie-naurait-jamais-du-avoir-lieu-un-millier-de-personnes-rendent-un-hommage-emouvant-au-policier-decede-a-jette/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Hausse des prix du diesel et du gaz en Belgique",
+      "url": "https://www.rtbf.be/article/le-diesel-et-le-gaz-repartent-a-la-hausse-les-prix-sont-en-train-de-flamber-a-l-approche-de-l-hiver-11801208",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Restauration des Hautes Fagnes après l'incendie",
+      "url": "https://www.lesoir.be/777352/article/2026-10-16/apres-lincendie-les-hautes-fagnes-entrent-dans-un-long-chantier-de-restauration",
+      "source": "Le Soir",
+      "importance": 3
+    },
+    {
+      "titre": "Problèmes informatiques chez Delhaize",
+      "url": "https://www.rtbf.be/article/des-rayons-clairsemes-chez-delhaize-en-raison-de-problemes-informatiques-les-magasins-peuvent-de-nouveau-s-approvisionner-11801358",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Panne du contrôle aérien italien et perturbations aériennes",
+      "url": "https://www.lalibre.be/belgique/mobilite/2026/10/16/les-controleurs-aeriens-italiens-touches-par-une-panne-des-repercussions-a-laeroport-de-bruxelles-XTMJ6ARAFNDORHWMWENTOAAXQI/",
+      "source": "La Libre",
+      "importance": 3
+    }
+  ],
+  "stats": {
+    "articles": 185,
+    "sujets": 12,
+    "sources": 7,
+    "flux_en_echec": 0
+  },
+  "meta": {
+    "models": {
+      "stage1": "claude-haiku-4-5",
+      "stage2": "claude-sonnet-5-5",
+      "stage3": "claude-sonnet-5-5",
+      "stage4": "claude-sonnet-5-5"
+    },
+    "prompts": "d40c9b52",
+    "usage": {
+      "claude-haiku-4-5": {
+        "calls": 8,
+        "input_tokens": 30217,
+        "output_tokens": 16657
+      },
+      "claude-sonnet-5-5": {
+        "calls": 14,
+        "input_tokens": 46999,
+        "output_tokens": 9368
+      }
+    }
+  },
+  "warnings": []
+}

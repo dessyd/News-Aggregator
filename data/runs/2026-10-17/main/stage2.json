@@ -1,0 +1,214 @@
+{
+  "sujets": [
+    {
+      "titre": "Tensions entre Trump et l'Ukraine sur le soutien militaire",
+      "ids": [
+        "a0e2aa49c",
+        "a5bb480d4",
+        "a277e5050",
+        "aacc3dc26",
+        "ade00db75",
+        "ad5e70ab1",
+        "a754384fd"
+      ],
+      "importance": 4,
+      "score": 44
+    },
+    {
+      "titre": "Procès de la mort du petit Dean : verdict",
+      "ids": [
+        "aa05037e2",
+        "ab13f2f0d",
+        "ad34958f9",
+        "a8a1ee3e9"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Zelensky demande 70 milliards d'euros à l'UE à Bruxelles",
+      "ids": [
+        "ae916d99c",
+        "ad83ff497",
+        "a419845f2",
+        "a8e15970a",
+        "ad5b9e608"
+      ],
+      "importance": 4,
+      "score": 43
+    },
+    {
+      "titre": "Succession d'António Guterres à l'ONU",
+      "ids": [
+        "a38741d71",
+        "a0dcbf51b"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Levée de sanctions américaines contre la Russie",
+      "ids": [
+        "ab6bb1637",
+        "a06c3fe0e"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Fusillade dans une école primaire de l'Oregon",
+      "ids": [
+        "ab00d92b1",
+        "a8d691fdb",
+        "a8e8aea70"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Santé du pape Léon XIV après son opération",
+      "ids": [
+        "a89cb380f",
+        "a22641762"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Procédure judiciaire après la mort du policier Nordine El Talbi",
+      "ids": [
+        "a89b80e66",
+        "a3260f820"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Négociations sur le budget fédéral belge",
+      "ids": [
+        "ad0eb70fd",
+        "a90d11310",
+        "a15076923"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Retraite de David Goffin",
+      "ids": [
+        "aacb4cf95",
+        "abe5e5a8f"
+      ],
+      "importance": 4,
+      "score": 42
+    },
+    {
+      "titre": "Appel du pape à Poutine pour un cessez-le-feu à Olechky",
+      "ids": [
+        "a7bff0f9b"
+      ],
+      "importance": 4,
+      "score": 41
+    },
+    {
+      "titre": "Prix de l'énergie au Conseil européen",
+      "ids": [
+        "a9b362a80"
+      ],
+      "importance": 4,
+      "score": 41
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Prise de contrôle russe de filiales européennes",
+      "url": "https://www.rtbf.be/article/friedrich-merz-et-maxime-prevot-reagissent-apres-la-prise-de-controle-russe-de-filiales-europeennes-11801563",
+      "source": "RTBF Info",
+      "importance": 4
+    },
+    {
+      "titre": "Attaques de navires près du détroit d'Ormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Militants russes expulsés de l'UE et des États-Unis",
+      "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "importance": 4
+    },
+    {
+      "titre": "Fonte du glacier Thwaites",
+      "url": "https://www.lesoir.be/777231/article/2026-10-16/le-glacier-de-lapocalypse-fond-plus-rapidement-que-prevu",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Remboursement des victimes d'arnaques en ligne par les banques",
+      "url": "https://www.lesoir.be/777356/article/2026-10-16/union-europeenne-quest-ce-qui-va-changer-pour-les-victimes-darnaques-en-ligne",
+      "source": "Le Soir",
+      "importance": 4
+    },
+    {
+      "titre": "Peter Praet met en garde contre un accident économique",
+      "url": "https://www.lecho.be/r/t/1/id/10696043",
+      "source": "L'Echo",
+      "importance": 4
+    },
+    {
+      "titre": "Départ de la porte-parole de la Maison-Blanche Katie Zacharia",
+      "url": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Restructuration de GSK en Wallonie",
+      "url": "https://www.lecho.be/r/t/1/id/10696026",
+      "source": "L'Echo",
+      "importance": 3
+    },
+    {
+      "titre": "Mobilisation du 17 octobre en France",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
+      "source": "Le Monde",
+      "importance": 3
+    },
+    {
+      "titre": "Calendrier du prochain rapport du Giec",
+      "url": "https://www.rtbf.be/article/climat-le-giec-en-crise-la-publication-de-son-prochain-rapport-devra-attendre-11801662",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Hommage au policier Nordine El Talbi",
+      "url": "https://www.levif.be/belgique/politique/regions/bruxelles/cette-ceremonie-naurait-jamais-du-avoir-lieu-un-millier-de-personnes-rendent-un-hommage-emouvant-au-policier-decede-a-jette/",
+      "source": "Le Vif",
+      "importance": 3
+    },
+    {
+      "titre": "Hausse des prix du diesel et du gaz en Belgique",
+      "url": "https://www.rtbf.be/article/le-diesel-et-le-gaz-repartent-a-la-hausse-les-prix-sont-en-train-de-flamber-a-l-approche-de-l-hiver-11801208",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Restauration des Hautes Fagnes après l'incendie",
+      "url": "https://www.lesoir.be/777352/article/2026-10-16/apres-lincendie-les-hautes-fagnes-entrent-dans-un-long-chantier-de-restauration",
+      "source": "Le Soir",
+      "importance": 3
+    },
+    {
+      "titre": "Problèmes informatiques chez Delhaize",
+      "url": "https://www.rtbf.be/article/des-rayons-clairsemes-chez-delhaize-en-raison-de-problemes-informatiques-les-magasins-peuvent-de-nouveau-s-approvisionner-11801358",
+      "source": "RTBF Info",
+      "importance": 3
+    },
+    {
+      "titre": "Panne du contrôle aérien italien et perturbations aériennes",
+      "url": "https://www.lalibre.be/belgique/mobilite/2026/10/16/les-controleurs-aeriens-italiens-touches-par-une-panne-des-repercussions-a-laeroport-de-bruxelles-XTMJ6ARAFNDORHWMWENTOAAXQI/",
+      "source": "La Libre",
+      "importance": 3
+    }
+  ]
+}
